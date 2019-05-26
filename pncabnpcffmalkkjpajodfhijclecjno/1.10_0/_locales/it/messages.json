@@ -1,0 +1,77 @@
+{
+   "close_button": {
+      "message": "Chiudi"
+   },
+   "extension_description": {
+      "message": "Password Checkup ti aiuta a rendere nuovamente sicuri gli account che hanno subito violazioni di dati."
+   },
+   "extension_detailed_description": {
+      "message": "Indipendentemente da dove accedi, se inserisci nome utente e password non più sicuri perché oggetto di una violazione dei dati nota a Google, riceverai un avviso. Reimposta la password. Se utilizzi lo stesso nome utente e la medesima password per altri account, reimpostali anche per quegli account.\n\nLa funzionalità Password Checkup è stata sviluppata tenendo conto della privacy. Non segnala mai informazioni personali relative ad account, password o dispositivi. Segnaliamo informazioni anonime sul numero di ricerche che portano ad individuare credenziali non sicure, indipendentemente dalla presenza di un avviso che chiede la modifica della password e dalla richiesta di migliore copertura del sito da parte del dominio. Puoi conoscere ulteriori informazioni sul funzionamento di Password Checkup alla pagina https://support.google.com/accounts?p=password-checkup.\n\nL'installazione di questo elemento comporta l'accettazione dei Termini di servizio e delle Norme sulla privacy di Google, reperibili alla pagina www.google.com/policies/."
+   },
+   "extension_name": {
+      "message": "Password Checkup"
+   },
+   "ignore_button": {
+      "message": "Ignora per questo sito"
+   },
+   "learn_more": {
+      "message": "Ulteriori informazioni"
+   },
+   "popup_advanced_settings_action": {
+      "message": "Impostazioni avanzate"
+   },
+   "popup_default_status_message": {
+      "message": "Non è stata rilevata alcuna password usata di recente interessata da una violazione dei dati."
+   },
+   "popup_ignore_button": {
+      "message": "Ignora"
+   },
+   "popup_ignored_status_message": {
+      "message": "Non è stata rilevata alcuna password usata di recente interessata da una violazione dei dati. Non sono incluse le password non sicure che hai deciso di non reimpostare."
+   },
+   "popup_learn_more": {
+      "message": "Ulteriori informazioni"
+   },
+   "popup_multiple_accounts_warning_status_message": {
+      "message": "Password Checkup ha rilevato che \u003Cb>$1 account\u003C/b> indicati di seguito hanno password non più sicure a causa di una violazione dei dati.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "popup_number_unsafe_accounts": {
+      "message": "$1 account non sicuri",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "popup_one_account_warning_status_message": {
+      "message": "Password Checkup ha rilevato che l'\u003Cb>account\u003C/b> indicato di seguito ha una password non più sicura a causa di una violazione dei dati."
+   },
+   "popup_reset_extension_button": {
+      "message": "Cancella i dati delle estensioni"
+   },
+   "popup_reset_extension_text": {
+      "message": "Cancella tutti i dati delle estensioni. Verranno rimosse tutte le informazioni memorizzate relative alle password non sicure e ai siti ignorati in precedenza."
+   },
+   "popup_warning_action": {
+      "message": "Dovresti cambiare subito le password."
+   },
+   "reset_text": {
+      "message": "Dovresti cambiare subito la password."
+   },
+   "warning_banner_header": {
+      "message": "Cambia la password"
+   },
+   "warning_text": {
+      "message": "Password Checkup ha rilevato che la tua password di \u003Cb>$1\u003C/b> non è più sicura, a causa di una violazione dei dati.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   }
+}

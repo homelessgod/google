@@ -1,0 +1,126 @@
+{
+   "before_trying_again": {
+      "description": "Error resolution tip in error pages.",
+      "message": "Преди да опитате отново:"
+   },
+   "browser_action_title": {
+      "description": "Browser action title that shows up on hover.",
+      "message": "Излъчване на този URL адрес"
+   },
+   "context_menu_disable": {
+      "description": "Label of the context menu item that disables Tone.",
+      "message": "Деактивиране на Tone"
+   },
+   "context_menu_enable": {
+      "description": "Label of the context menu item that enables Tone.",
+      "message": "Активиране на Tone"
+   },
+   "description": {
+      "description": "Extension description.",
+      "message": "Излъчвайте URL адреси към разположени наблизо компютри."
+   },
+   "ensure_online": {
+      "description": "Network workaround.",
+      "message": "Уверете се, че компютърът ви е онлайн."
+   },
+   "error_audio_title": {
+      "description": "Title of the error_audio.html page.",
+      "message": "Google Tone не можа да чуе това."
+   },
+   "error_network_title": {
+      "description": "Title of error_network.html page.",
+      "message": "За съжаление, това не помогна."
+   },
+   "increase_volume": {
+      "description": "Audio workaround #1",
+      "message": "Увеличете силата на звука."
+   },
+   "invite_others": {
+      "description": "Press the button to try it.",
+      "message": "Поканете други хора да използват Google Tone: {{shortlink}}"
+   },
+   "name": {
+      "description": "Extension name.",
+      "message": "Google Tone"
+   },
+   "notification_receive_message_format": {
+      "description": "Notification message when you receive a Tone.",
+      "message": "Кликнете, за да отворите „{{title}}“ от {{domain}}"
+   },
+   "notification_receive_test_page_message": {
+      "description": "Notification message sent from Tone test page.",
+      "message": "Кликнете, за да изпробвате Tone!"
+   },
+   "notification_receive_title_format": {
+      "description": "Notification title when you receive a Tone.",
+      "message": "URL адрес от {{username}}!"
+   },
+   "notification_send_fail_audio_message": {
+      "description": "Notification title shown when audio verification fails.",
+      "message": "Проверете силата на звука и опитайте отново.\nКликнете за повече информация."
+   },
+   "notification_send_fail_audio_title": {
+      "description": "Notification title shown when audio verification fails.",
+      "message": "Tone не можа да чуе звука си"
+   },
+   "notification_send_fail_network_message": {
+      "description": "Notification message shown when a Tone was attempted but the network was offline.",
+      "message": "Изглежда, че сте офлайн.\nКликнете за повече информация."
+   },
+   "notification_send_fail_network_title": {
+      "description": "Notification title shown when a Tone was attempted but the network was offline.",
+      "message": "URL адресът не бе изпратен"
+   },
+   "press_button": {
+      "description": "Press the button to try it.",
+      "message": "Натиснете бутона {{action_image}}, за да излъчите URL адрес към разположени наблизо компютри."
+   },
+   "report_bug": {
+      "description": "Report a bug",
+      "message": "Подаване на сигнал за програмна грешка"
+   },
+   "settings_off": {
+      "description": "Indicator showing that Tone is disabled.",
+      "message": "ИЗКЛЮЧЕНО"
+   },
+   "settings_off_subtitle": {
+      "description": "Subtitle showing that Tone is disabled.",
+      "message": "Не можете да изпращате или получавате URL адреси."
+   },
+   "settings_off_title": {
+      "description": "Title showing that Tone is disabled.",
+      "message": "Разширението Google Tone е изключено"
+   },
+   "settings_on": {
+      "description": "Indicator showing that Tone is enabled.",
+      "message": "ВКЛЮЧЕНО"
+   },
+   "settings_on_subtitle": {
+      "description": "Subtitle showing that Tone is enabled.",
+      "message": "Можете да изпращате и получавате URL адреси."
+   },
+   "settings_on_title": {
+      "description": "Title showing that Tone is enabled.",
+      "message": "Разширението Google Tone е включено"
+   },
+   "settings_title": {
+      "description": "Title of settings.html",
+      "message": "Настройки"
+   },
+   "success_call": {
+      "description": "Call to action of success.html.",
+      "message": "Отворете друга страница и кликнете върху бутона {{action_image}}, за да я излъчите."
+   },
+   "success_title": {
+      "description": "Title of success.html.",
+      "message": "Google Tone работи!"
+   },
+   "try_now": {
+      "description": "Call to action to try the extension.",
+      "message": "Изпробвайте Google Tone още сега!"
+   },
+   "unplug_headphones": {
+      "description": "Audio workaround #2",
+      "message": "Изключете слушалките си."
+   }
+}

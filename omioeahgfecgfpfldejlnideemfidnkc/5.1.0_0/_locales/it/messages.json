@@ -1,0 +1,69 @@
+{
+   "app_description": {
+      "message": "Visualizza i dati relativi ai tuoi annunci e account AdSense, Ad Exchange e DFP e blocca gli annunci non idonei sul tuo sito."
+   },
+   "cs_overlay_date_7day": {
+      "message": "7 giorni"
+   },
+   "cs_overlay_date_today": {
+      "message": "Oggi"
+   },
+   "cs_overlay_date_yesterday": {
+      "message": "Ieri"
+   },
+   "cs_overlay_size_name": {
+      "message": "Dimensione"
+   },
+   "cs_overlay_type_name": {
+      "message": "Tipo"
+   },
+   "dfp_creative_id": {
+      "message": "Creatività: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "dfp_no_creative": {
+      "message": "Nessuna creatività DFP"
+   },
+   "dfp_unknown_creative": {
+      "message": "Creatività sconosciuta"
+   },
+   "domains_whitelist_saved": {
+      "message": "L'elenco dei siti autorizzati è stato aggiornato."
+   },
+   "expired_creative": {
+      "message": "Non è stato possibile recuperare le informazioni su questa creatività. Attendi qualche secondo, poi prova a ricaricare la pagina."
+   },
+   "expired_line_item": {
+      "message": "Non è stato possibile recuperare le informazioni su questo elemento pubblicitario. Attendi qualche secondo, poi prova a ricaricare la pagina."
+   },
+   "line_item_adsense_or_adx": {
+      "message": "AdSense o Ad Exchange"
+   },
+   "line_item_id": {
+      "message": "Elemento pubblicitario: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "line_item_no_ad": {
+      "message": "Nessun annuncio DFP"
+   },
+   "misconfigured_ad_notification_text": {
+      "message": "Questa pagina contiene \u003Ca href=\"ovnfc\">0\u003C/span> unità pubblicitarie con errori di configurazione. Le tue entrate ne saranno influenzate in maniera negativa. \u003Ca target=\"_new\" href=\"http://support.google.com/adsense/bin/answer.py?answer=2694805\" class=\"ovnfs\">Ulteriori informazioni\u003C/a>"
+   },
+   "no_results_creative": {
+      "message": "Non è stato possibile trovare le informazioni su questa creatività. Probabilmente non puoi accedervi."
+   },
+   "no_results_line_item": {
+      "message": "Non è stato possibile trovare le informazioni su questo elemento pubblicitario. Probabilmente non puoi accedervi."
+   },
+   "settings_saved_title": {
+      "message": "Impostazioni salvate"
+   }
+}

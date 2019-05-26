@@ -1,0 +1,59 @@
+{
+   "app_description": {
+      "message": "عرض بيانات عن إعلاناتك وحساباتك في AdSense وAd Exchange وDoubleClick for Publishers، ومنع الإعلانات غير المناسبة على موقعك."
+   },
+   "cs_overlay_date_7day": {
+      "message": "7 أيام"
+   },
+   "cs_overlay_date_today": {
+      "message": "اليوم"
+   },
+   "cs_overlay_date_yesterday": {
+      "message": "الأمس"
+   },
+   "cs_overlay_size_name": {
+      "message": "الحجم"
+   },
+   "cs_overlay_type_name": {
+      "message": "النوع"
+   },
+   "dfp_creative_id": {
+      "message": "تصميم الإعلان: 1$"
+   },
+   "dfp_no_creative": {
+      "message": "بلا تصميم إعلان DFP"
+   },
+   "dfp_unknown_creative": {
+      "message": "تصميم إعلان غير معروف"
+   },
+   "domains_whitelist_saved": {
+      "message": "تم تحديث قائمة المواقع المعتمدة."
+   },
+   "expired_creative": {
+      "message": "تعذّر استرجاع معلومات تصميم الإعلان هذا. يُرجى الانتظار بضع ثوانٍ ثم تجربة إعادة تحميل الصفحة."
+   },
+   "expired_line_item": {
+      "message": "تعذّر استرجاع معلومات هذا العنصر. يُرجى الانتظار بضع ثوانٍ ثم تجربة إعادة تحميل الصفحة."
+   },
+   "line_item_adsense_or_adx": {
+      "message": "AdSense أو Ad Exchange"
+   },
+   "line_item_id": {
+      "message": "العنصر: 1$"
+   },
+   "line_item_no_ad": {
+      "message": "بلا إعلان DFP"
+   },
+   "misconfigured_ad_notification_text": {
+      "message": "تحتوي هذه الصفحة على \u003Ca href=\"ovnfc\">0\u003C/span> من الوحدات الإعلانية التي تمت تهيئتها بشكلٍ غير صحيح. قد يؤثر هذا الأمر سلبًا في أرباحك. \u003Ca target=\"_new\" href=\"http://support.google.com/adsense/bin/answer.py?answer=2694805\" class=\"ovnfs\">مزيد من المعلومات\u003C/a>"
+   },
+   "no_results_creative": {
+      "message": "تعذّر العثور على معلومات تصميم الإعلان هذا. ربما لا تمتلك حق الوصول إليه."
+   },
+   "no_results_line_item": {
+      "message": "تعذّر العثور على معلومات هذا العنصر. ربما لا تمتلك حق الوصول إليه."
+   },
+   "settings_saved_title": {
+      "message": "تم حفظ الإعدادات"
+   }
+}

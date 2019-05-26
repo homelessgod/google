@@ -1,0 +1,69 @@
+{
+   "app_description": {
+      "message": "View data on your AdSense, Ad Exchange and DoubleClick for Publishers ads and accounts, and block unsuitable ads on your site."
+   },
+   "cs_overlay_date_7day": {
+      "message": "7-Day"
+   },
+   "cs_overlay_date_today": {
+      "message": "Today"
+   },
+   "cs_overlay_date_yesterday": {
+      "message": "Yesterday"
+   },
+   "cs_overlay_size_name": {
+      "message": "Size"
+   },
+   "cs_overlay_type_name": {
+      "message": "Type"
+   },
+   "dfp_creative_id": {
+      "message": "Creative: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "dfp_no_creative": {
+      "message": "No DFP creative"
+   },
+   "dfp_unknown_creative": {
+      "message": "Unknown creative"
+   },
+   "domains_whitelist_saved": {
+      "message": "The list of authorised sites has been updated."
+   },
+   "expired_creative": {
+      "message": "We were unable to retrieve the information for this creative. Please wait a few seconds then try reloading the page."
+   },
+   "expired_line_item": {
+      "message": "We were unable to retrieve the information for this line item. Please wait a few seconds then try reloading the page."
+   },
+   "line_item_adsense_or_adx": {
+      "message": "AdSense or Ad Exchange"
+   },
+   "line_item_id": {
+      "message": "Line item: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "line_item_no_ad": {
+      "message": "No DFP ad"
+   },
+   "misconfigured_ad_notification_text": {
+      "message": "This page contains \u003Ca href=\"ovnfc\">0\u003C/span> misconfigured ad units. This may negatively affect your revenue. \u003Ca target=\"_new\" href=\"http://support.google.com/adsense/bin/answer.py?answer=2694805\" class=\"ovnfs\">Learn more\u003C/a>"
+   },
+   "no_results_creative": {
+      "message": "We couldn't find the information for this creative. You might not have access to it."
+   },
+   "no_results_line_item": {
+      "message": "We couldn't find the information for this line item. You might not have access to it."
+   },
+   "settings_saved_title": {
+      "message": "Settings saved"
+   }
+}

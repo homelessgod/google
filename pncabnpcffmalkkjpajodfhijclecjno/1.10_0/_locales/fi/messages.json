@@ -1,0 +1,77 @@
+{
+   "close_button": {
+      "message": "Sulje"
+   },
+   "extension_description": {
+      "message": "Password Checkup auttaa suojaamaan uudelleen tietosuojaloukkauksen alaiset tilit."
+   },
+   "extension_detailed_description": {
+      "message": "Saat aina ilmoituksen, jos käytät kirjautuessasi käyttäjänimeä ja salasanaa, jotka ovat vaarantuneet Googlen tiedossa olevan tietosuojaloukkauksen takia. Pyydä uutta salasanaa. Jos käytät samaa salasanaa muilla tileillä, lähetä myös niitä koskevat vaihtopyynnöt.\n\nSalasanatarkistus rakennettiin tietosuoja etusijalla. Se ei koskaan anna eteenpäin tunnistettavia tietoja tileistäsi, salasanoistasi tai laitteestasi. Raportoimme nimettömiä tietoja seuraavista asioista: turvattomia kirjautumistietoja tuottavien hakujen määrä, johtaako ilmoitus salasanan muutokseen ja sivuston kattavuuden parantamiseen liittyvä verkkotunnus. Voit lukea lisää salasanatarkistuksen toiminnasta osoitteesta https://support.google.com/accounts?p=password-checkup.\n\nAsentamalla tämän hyväksyt Googlen käyttöehdot ja tietosuojakäytännön (www.google.com/policies/)."
+   },
+   "extension_name": {
+      "message": "Password Checkup"
+   },
+   "ignore_button": {
+      "message": "Ohita tällä sivustolla"
+   },
+   "learn_more": {
+      "message": "Lue lisää"
+   },
+   "popup_advanced_settings_action": {
+      "message": "Lisäasetukset"
+   },
+   "popup_default_status_message": {
+      "message": "Äskettäin käytettyjä salasanojasi ei havaittu tietosuojaloukkauksen yhteydessä."
+   },
+   "popup_ignore_button": {
+      "message": "Ohita"
+   },
+   "popup_ignored_status_message": {
+      "message": "Äskettäin käytettyjä salasanojasi ei havaittu tietosuojaloukkauksen yhteydessä. Tämä ei koske vaarantuneita salasanoja, jotka olet jättänyt vaihtamatta."
+   },
+   "popup_learn_more": {
+      "message": "Lue lisää"
+   },
+   "popup_multiple_accounts_warning_status_message": {
+      "message": "Password Checkup havaitsi, että seuraavien \u003Cb>$1 tilin\u003C/b> salasanat ovat vaarantuneet tietosuojaloukkauksen vuoksi.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "popup_number_unsafe_accounts": {
+      "message": "$1 vaarantunutta tiliä",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "popup_one_account_warning_status_message": {
+      "message": "Password Checkup havaitsi, että seuraavan \u003Cb>tilin\u003C/b> salasana on vaarantunut tietosuojaloukkauksen vuoksi."
+   },
+   "popup_reset_extension_button": {
+      "message": "Tyhjennä laajennusdata"
+   },
+   "popup_reset_extension_text": {
+      "message": "Tyhjennä kaikki laajennusdata. Tämän seurauksena poistetaan kaikki vaarantuneisiin salasanoihin ja aiemmin ohitettuihin sivustoihin liittyvät tallennetut tiedot."
+   },
+   "popup_warning_action": {
+      "message": "Sinun kannattaa vaihtaa salasanat heti."
+   },
+   "reset_text": {
+      "message": "Sinun kannattaa vaihtaa salasana heti."
+   },
+   "warning_banner_header": {
+      "message": "Vaihda salasana"
+   },
+   "warning_text": {
+      "message": "Password Checkup havaitsi, että salasanasi (\u003Cb>$1\u003C/b>) on vaarantunut tietosuojaloukkauksen vuoksi.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   }
+}

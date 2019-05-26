@@ -1,0 +1,440 @@
+{
+   "101206989909763677": {
+      "message": "Élèves inscrits au cours $CLASS_NAME$",
+      "placeholders": {
+         "CLASS_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "1258929983314547244": {
+      "message": "URL ENVOYÉE À UN ENSEIGNANT"
+   },
+   "1301730406464354688": {
+      "message": "Ouvrir Classroom"
+   },
+   "1462156539679968804": {
+      "message": "Documents reçus des élèves"
+   },
+   "1472332582476021124": {
+      "message": "Les élèves peuvent afficher le fichier"
+   },
+   "1510105121221276016": {
+      "message": "Verrouiller sur l'écran"
+   },
+   "1550690544509024009": {
+      "message": "{numFlings,plural, =1{# nouveau message}one{# nouveau message}other{# nouveaux messages}}"
+   },
+   "1663150675851578875": {
+      "message": "Problème de connexion à $PRODUCT_NAME$. Veuillez vous assurer que vous disposez d'une connexion réseau, puis réessayez de vous connecter.",
+      "placeholders": {
+         "PRODUCT_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "1758804700969198023": {
+      "message": "Menu Partager"
+   },
+   "1790549872641667595": {
+      "message": "Partager avec Classroom (usage interne)"
+   },
+   "1951089763019042037": {
+      "message": "Élève"
+   },
+   "2050089326602918210": {
+      "message": "Partager avec Classroom"
+   },
+   "2062938386395101624": {
+      "message": "Documents envoyés aux élèves"
+   },
+   "2070581630224025695": {
+      "message": "Faire une annonce"
+   },
+   "2090147790320018555": {
+      "message": "Vous n'avez envoyé aucune page récemment."
+   },
+   "2213990758451550370": {
+      "message": "Les élèves peuvent ajouter des commentaires au fichier"
+   },
+   "2266749875018591275": {
+      "message": "Votre extension \"$PRODUCT_NAME$\" n'est plus à jour. Pour continuer, cliquez sur $START_LINK$désinstaller cette extension$END_LINK$. Cela ouvrira également la page Chrome Web Store à partir de laquelle vous pourrez réinstaller l'extension.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "PRODUCT_NAME": {
+            "content": "$2"
+         },
+         "START_LINK": {
+            "content": "$3"
+         }
+      }
+   },
+   "2315140680766681153": {
+      "message": "Aucun nom d'élève à afficher"
+   },
+   "2409870568039115310": {
+      "message": "ENVOYER UNE URL À UN ENSEIGNANT"
+   },
+   "2416435327104074837": {
+      "message": "Documents envoyés aux enseignants"
+   },
+   "265018083235803821": {
+      "message": "Menu des autorisations"
+   },
+   "272253201636921624": {
+      "message": "Envoi de l'URL en cours"
+   },
+   "3208531239543188174": {
+      "message": "Ouverture dans {numSeconds,plural, =1{1 seconde}one{# seconde}other{# secondes}}..."
+   },
+   "3727581148109420602": {
+      "message": "Ouvrir dans un autre onglet"
+   },
+   "3852289441366561594": {
+      "message": "Connexion"
+   },
+   "3853169172456108967": {
+      "message": "CRÉER UN COURS OU SE CONNECTER"
+   },
+   "3894950702316166331": {
+      "message": "Chargement en cours…"
+   },
+   "4012779869104225222": {
+      "message": "Liste des cours"
+   },
+   "4048890404505834885": {
+      "message": "Poser une question"
+   },
+   "4101941266124151376": {
+      "message": "activé"
+   },
+   "4221250166827447984": {
+      "message": "Consultation de $TITLE$",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "4269658859113770197": {
+      "message": "Chargement de vos cours..."
+   },
+   "436489073937327740": {
+      "message": "Envoyez à Google d'autres journaux contenant les pages partagées et les adresses e-mail des membres de votre cours."
+   },
+   "4481147463445876932": {
+      "message": "Élaborer un devoir"
+   },
+   "4491595920888170943": {
+      "message": "La page actuelle ne peut pas être partagée."
+   },
+   "4622108781632885640": {
+      "message": "Documents reçus des enseignants"
+   },
+   "4742705439416933924": {
+      "message": "Connectez-vous à un cours pour pouvoir ouvrir des pages ensemble."
+   },
+   "4748990655911819545": {
+      "message": "Cours enseignés"
+   },
+   "4811423455816775324": {
+      "message": "Vous devez être connecté à Chrome pour pouvoir utiliser $PRODUCT$\nCliquez ici pour vous connecter",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "4849976898594713883": {
+      "message": "$PRODUCT$ n'arrive pas à se connecter à ses serveurs, apparemment à cause de la configuration d'une passerelle ou d'un pare-feu. Veuillez vérifier les paramètres de votre pare-feu et vous assurer que le trafic avec $SERVER$ est autorisé.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         },
+         "SERVER": {
+            "content": "$2"
+         }
+      }
+   },
+   "48585068921907804": {
+      "message": "Un problème est survenu lors de la connexion à $PRODUCT_NAME$. Déconnectez-vous de votre compte, puis essayez de vous reconnecter. Si le problème se reproduit, cliquez sur l'icône ci-dessous pour envoyer un commentaire.",
+      "placeholders": {
+         "PRODUCT_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "4930506384627295710": {
+      "message": "Paramètres"
+   },
+   "533692309512814645": {
+      "message": "ENVOYER UNE URL"
+   },
+   "5354810546510399127": {
+      "message": "Ouvre la page d'aide"
+   },
+   "5560440246965579819": {
+      "message": "Les enseignants peuvent afficher le fichier"
+   },
+   "566090020805595985": {
+      "message": "CRÉER UN COURS"
+   },
+   "5851560788527570644": {
+      "message": "Notifications"
+   },
+   "5936353814217802658": {
+      "message": "ENVOYER UNE URL À UN ENSEIGNANT"
+   },
+   "6031597996865914480": {
+      "message": "ENVOYER UNE URL"
+   },
+   "6042567254866620046": {
+      "message": "Ce système n'est pas connecté à $PRODUCT$. Veuillez appuyer sur le bouton de connexion pour essayer de vous connecter.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "6084304183859355623": {
+      "message": "Vous êtes connecté avec l'adresse $EMAIL$. Pour continuer, $START_LINK$connectez-vous à Chrome$END_LINK$ via un compte scolaire Google ayant accès à Google Classroom.",
+      "placeholders": {
+         "EMAIL": {
+            "content": "$1"
+         },
+         "END_LINK": {
+            "content": "$2"
+         },
+         "START_LINK": {
+            "content": "$3"
+         }
+      }
+   },
+   "6110089012347909146": {
+      "message": "désactivé"
+   },
+   "6229272560153199861": {
+      "message": "Créez un cours pour pouvoir ouvrir des pages ensemble."
+   },
+   "6422956386741575643": {
+      "message": "Saisissez une brève description"
+   },
+   "6576961868476783976": {
+      "message": "$PRODUCT$ a rencontré une erreur lors du partage du document. Veuillez réessayer ultérieurement.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "6666246860368909334": {
+      "message": " - "
+   },
+   "6731720160639032735": {
+      "message": "Connecté avec l'adresse $EMAIL$",
+      "placeholders": {
+         "EMAIL": {
+            "content": "$1"
+         }
+      }
+   },
+   "6802974388288119584": {
+      "message": "Google Feedback vous permet de nous envoyer des suggestions sur les produits Google. N'hésitez pas à signaler des problèmes, à proposer de nouvelles fonctionnalités et à transmettre des commentaires d'ordre général."
+   },
+   "6921620009241719815": {
+      "message": "Revenir à la page précédente"
+   },
+   "7002955679222677443": {
+      "message": "En savoir plus"
+   },
+   "7014972904425258116": {
+      "message": "Les enseignants peuvent ajouter des commentaires au fichier"
+   },
+   "7187802960307973851": {
+      "message": "Vous n'avez reçu aucune page récemment."
+   },
+   "7419648588978430202": {
+      "message": "Chargement de l'historique…"
+   },
+   "7467129818830892099": {
+      "message": "Élèves en plein écran"
+   },
+   "7520798696482451948": {
+      "message": "SE CONNECTER À UN COURS"
+   },
+   "7582805180132294390": {
+      "message": "$PRODUCT$ n'arrive pas à se connecter à ses serveurs. Si le problème persiste, vérifiez votre connexion Internet et les paramètres du pare-feu. Envoyez également un commentaire en cliquant sur l'icône correspondante ci-dessous.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "7604563725603697690": {
+      "message": "Capture d'écran de votre page actuelle."
+   },
+   "7613121200569555025": {
+      "message": "$NAME$ a envoyé une page",
+      "placeholders": {
+         "NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "7646520484997880732": {
+      "message": "Ouvre la page des paramètres."
+   },
+   "7733702880641460982": {
+      "message": "Google Feedback"
+   },
+   "77478328938908900": {
+      "message": "Fermer le message d'avertissement"
+   },
+   "7798244153502527716": {
+      "message": "Vous devez être connecté à Chrome pour pouvoir utiliser $PRODUCT$.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "7819314041543176992": {
+      "message": "Fermer"
+   },
+   "7826444313570725162": {
+      "message": "URL ENVOYÉE"
+   },
+   "784919827997620253": {
+      "message": "Envoyer des commentaires"
+   },
+   "7869782771655761788": {
+      "message": "URL envoyée"
+   },
+   "787828271820052473": {
+      "message": "Créez un cours ou connectez-vous à un cours pour pouvoir ouvrir des pages ensemble."
+   },
+   "7914587618073030772": {
+      "message": "Partager avec Classroom (version d'essai)"
+   },
+   "7924019946919704377": {
+      "message": "$START_LINK$Cliquez ici$END_LINK$ pour vous connecter à Chrome, puis réessayez d'accéder à $PRODUCT_NAME$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "PRODUCT_NAME": {
+            "content": "$2"
+         },
+         "START_LINK": {
+            "content": "$3"
+         }
+      }
+   },
+   "8071009096908772636": {
+      "message": "Afficher les notifications du navigateur lorsque les élèves me transmettent des adresses de pages Web"
+   },
+   "8083611296479050044": {
+      "message": "Accéder à la page des commentaires"
+   },
+   "8107264734060843365": {
+      "message": "If this problem doesn't go away, try restarting your computer. If this problem persists, click the feedback icon below to submit feedback."
+   },
+   "813263746069473514": {
+      "message": "Connexion"
+   },
+   "819996403327805209": {
+      "message": "En savoir plus"
+   },
+   "8250116767525441148": {
+      "message": "$PRODUCT$ n'a pas pu se connecter à $SITE$. Veuillez vérifier votre connexion Internet, puis réessayez.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         },
+         "SITE": {
+            "content": "$2"
+         }
+      }
+   },
+   "826991190228103925": {
+      "message": "Paramètres"
+   },
+   "8410291800785136487": {
+      "message": "Envoyer une URL aux élèves"
+   },
+   "8427578009205621398": {
+      "message": "$PARTICIPATING$/$TOTAL$ élèves",
+      "placeholders": {
+         "PARTICIPATING": {
+            "content": "$1"
+         },
+         "TOTAL": {
+            "content": "$2"
+         }
+      }
+   },
+   "8510084535053903986": {
+      "message": "Les enseignants peuvent modifier le fichier"
+   },
+   "8584185541337081736": {
+      "message": "Partagez cette extension avec vos élèves pour qu'ils puissent recevoir vos liens.&nbsp;"
+   },
+   "8636360788868898667": {
+      "message": "Partagez instantanément votre cours sur la même page Web."
+   },
+   "8657495129257769609": {
+      "message": "Il semblerait que votre ordinateur ne soit pas connecté à internet. Veuillez vérifier votre connexion, puis réessayez."
+   },
+   "8757637959955680925": {
+      "message": "$PRODUCT_NAME$ nécessite d'être connecté à Chrome. Ce n'est pas votre cas.",
+      "placeholders": {
+         "PRODUCT_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "8812061458772284085": {
+      "message": "La description, les informations relatives au produit, les informations système complémentaires et votre adresse e-mail seront envoyées à Google. Reportez-vous aux $START_LINK_1$Règles de confidentialité$END_LINK$ et aux $START_LINK_2$Conditions d'utilisation$END_LINK$ de Google.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK_1": {
+            "content": "$2"
+         },
+         "START_LINK_2": {
+            "content": "$3"
+         }
+      }
+   },
+   "8876711157282412092": {
+      "message": "{numLinks,plural, =1{# lien}one{# lien}other{# liens}}"
+   },
+   "8934950226874423147": {
+      "message": "Les élèves peuvent modifier le fichier"
+   },
+   "9057609174906387434": {
+      "message": "Icône de $PAGE_TITLE$",
+      "placeholders": {
+         "PAGE_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "9200475522066047621": {
+      "message": "Inscrit"
+   },
+   "9217362152767454370": {
+      "message": "$PRODUCT$ doit avoir une autorisation pour accéder à votre profil.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "99413348305232894": {
+      "message": "Partager avec Classroom"
+   }
+}

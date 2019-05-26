@@ -1,0 +1,77 @@
+{
+   "close_button": {
+      "message": "Lukk"
+   },
+   "extension_description": {
+      "message": "Med Password Checkup er det enklere å berge kontoer som blir berørt av databrudd."
+   },
+   "extension_detailed_description": {
+      "message": "Du får et varsel når du logger på, hvis du skriver inn et brukernavn og passord som ikke er sikkert lenger på grunn av et databrudd som Google kjenner til. Tilbakestill passordet ditt. Hvis du bruker samme brukernavn og passord for andre kontoer, bør du også tilbakestille passordet ditt der.\n\nPassordsjekken ble utviklet med fokus på sikkerhet. Den rapporterer aldri identifiserende informasjon om kontoene dine, passordene dine eller enheten din. Vi rapporterer imidlertid anonym informasjon om antall oppslag som oppgir usikker legitimasjon – uavhengig av om et varsel fører til endring av passord – og domenet som er involvert, for å forbedre dekning av nettsteder. Du kan finne ut mer om hvordan passordsjekken fungerer, på https://support.google.com/accounts?p=password-checkup.\n\nVed å installere dette elementet godtar du Googles vilkår for bruk og personvernregler på www.google.com/policies/."
+   },
+   "extension_name": {
+      "message": "Password Checkup"
+   },
+   "ignore_button": {
+      "message": "Ignorer for dette nettstedet"
+   },
+   "learn_more": {
+      "message": "Finn ut mer"
+   },
+   "popup_advanced_settings_action": {
+      "message": "Avanserte innstillinger"
+   },
+   "popup_default_status_message": {
+      "message": "Ingen av passordene du har brukt nylig, har blitt oppdaget i et databrudd."
+   },
+   "popup_ignore_button": {
+      "message": "Ignorer"
+   },
+   "popup_ignored_status_message": {
+      "message": "Ingen av passordene du har brukt nylig, har blitt oppdaget i et databrudd. Dette inkluderer ikke usikre passord som du har valgt å ikke tilbakestille."
+   },
+   "popup_learn_more": {
+      "message": "Finn ut mer"
+   },
+   "popup_multiple_accounts_warning_status_message": {
+      "message": "Password Checkup oppdaget at de følgende \u003Cb>$1 kontoene\u003C/b> har passord som ikke lenger er trygge på grunn av et databrudd.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "popup_number_unsafe_accounts": {
+      "message": "$1 usikre kontoer",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "popup_one_account_warning_status_message": {
+      "message": "Password Checkup oppdaget at den følgende \u003Cb>kontoen\u003C/b> har et passord som ikke lenger er trygt på grunn av et databrudd."
+   },
+   "popup_reset_extension_button": {
+      "message": "Slett utvidelsesdataene"
+   },
+   "popup_reset_extension_text": {
+      "message": "Slett alle utvidelsesdataene. Dette fjerner all lagret informasjon om usikre passord og nettsteder du har ignorert tidligere."
+   },
+   "popup_warning_action": {
+      "message": "Du bør endre passordene dine nå."
+   },
+   "reset_text": {
+      "message": "Du bør endre passordet ditt nå."
+   },
+   "warning_banner_header": {
+      "message": "Endre passordet ditt"
+   },
+   "warning_text": {
+      "message": "Password Checkup oppdaget at passordet ditt for \u003Cb>$1\u003C/b> ikke lenger er trygt på grunn av et databrudd.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   }
+}

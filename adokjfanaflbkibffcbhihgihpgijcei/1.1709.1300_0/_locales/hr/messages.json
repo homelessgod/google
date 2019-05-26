@@ -1,0 +1,440 @@
+{
+   "101206989909763677": {
+      "message": "Učenici u predmetu $CLASS_NAME$",
+      "placeholders": {
+         "CLASS_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "1258929983314547244": {
+      "message": "URL JE POSLAN NASTAVNIKU"
+   },
+   "1301730406464354688": {
+      "message": "Otvaranje Učionice"
+   },
+   "1462156539679968804": {
+      "message": "Primljeno od učenika"
+   },
+   "1472332582476021124": {
+      "message": "Učenici mogu pregledati datoteku"
+   },
+   "1510105121221276016": {
+      "message": "Zaključaj na zaslon"
+   },
+   "1550690544509024009": {
+      "message": "{numFlings,plural, =1{# nova}one{# nova}few{# nove}other{# novih}}"
+   },
+   "1663150675851578875": {
+      "message": "Imamo poteškoća s povezivanjem s uslugom $PRODUCT_NAME$. Provjerite je li dostupna mrežna veza, a zatim se ponovno pokušajte povezati.",
+      "placeholders": {
+         "PRODUCT_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "1758804700969198023": {
+      "message": "Izbornik dijeljenja"
+   },
+   "1790549872641667595": {
+      "message": "Dijeljenje s uslugom Classroom (za internu upotrebu)"
+   },
+   "1951089763019042037": {
+      "message": "Učenik"
+   },
+   "2050089326602918210": {
+      "message": "Dijeljenje s Učionicom"
+   },
+   "2062938386395101624": {
+      "message": "Proslijeđeno učenicima"
+   },
+   "2070581630224025695": {
+      "message": "Objavi"
+   },
+   "2090147790320018555": {
+      "message": "U zadnje vrijeme niste ništa proslijedili."
+   },
+   "2213990758451550370": {
+      "message": "Učenici mogu komentirati datoteku"
+   },
+   "2266749875018591275": {
+      "message": "Vaše proširenje za \"$PRODUCT_NAME$\" zastarjelo je. Da biste nastavili s radom, klikom $START_LINK$deinstalirajte to proširenje$END_LINK$. Time ćete također otvoriti stranicu Chrome web-trgovine gdje proširenje možete ponovno instalirati.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "PRODUCT_NAME": {
+            "content": "$2"
+         },
+         "START_LINK": {
+            "content": "$3"
+         }
+      }
+   },
+   "2315140680766681153": {
+      "message": "Nema učenika za prikazivanje."
+   },
+   "2409870568039115310": {
+      "message": "POŠALJI URL UČITELJU"
+   },
+   "2416435327104074837": {
+      "message": "Proslijeđeno nastavniku"
+   },
+   "265018083235803821": {
+      "message": "Izbornik za dopuštenja"
+   },
+   "272253201636921624": {
+      "message": "Slanje"
+   },
+   "3208531239543188174": {
+      "message": "Otvaranje za {numSeconds,plural, =1{1 s}one{# s}few{# s}other{# s}}..."
+   },
+   "3727581148109420602": {
+      "message": "Otvori na novoj kartici"
+   },
+   "3852289441366561594": {
+      "message": "Povezivanje..."
+   },
+   "3853169172456108967": {
+      "message": "IZRADI PREDMET ILI MU SE PRIDRUŽI"
+   },
+   "3894950702316166331": {
+      "message": "Učitavanje..."
+   },
+   "4012779869104225222": {
+      "message": "Popis predmeta"
+   },
+   "4048890404505834885": {
+      "message": "Postavite pitanje"
+   },
+   "4101941266124151376": {
+      "message": "uključeno"
+   },
+   "4221250166827447984": {
+      "message": "Prikazuje se $TITLE$",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "4269658859113770197": {
+      "message": "Učitavanje predmeta..."
+   },
+   "436489073937327740": {
+      "message": "Pošaljite Googleu dodatne zapisnike koji sadrže podijeljene stranice i e-adrese članova vašeg predmeta."
+   },
+   "4481147463445876932": {
+      "message": "Izradi zadatak"
+   },
+   "4491595920888170943": {
+      "message": "Trenutnu stranicu nije moguće podijeliti."
+   },
+   "4622108781632885640": {
+      "message": "Primljeno od nastavnika"
+   },
+   "4742705439416933924": {
+      "message": "Pridružite se predmetu da biste zajednički otvarali stranice"
+   },
+   "4748990655911819545": {
+      "message": "Predmeti koje predaje"
+   },
+   "4811423455816775324": {
+      "message": "Da biste koristili $PRODUCT$, morate biti prijavljeni u Chrome.\nKliknite ovdje da biste se prijavili.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "4849976898594713883": {
+      "message": "$PRODUCT$ ima poteškoća s povezivanjem sa svojim poslužiteljima, i to zbog konfiguracije pristupnika ili vatrozida. Provjerite svoje postavke vatrozida i provjerite jesu li konfigurirane da dopuštaju promet s poslužiteljem $SERVER$.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         },
+         "SERVER": {
+            "content": "$2"
+         }
+      }
+   },
+   "48585068921907804": {
+      "message": "Imamo poteškoća s povezivanjem s uslugom $PRODUCT_NAME$. Pokušajte se odjaviti s računa pa ponovno prijaviti. Ako se problem nastavi pojavljivati, kliknite ikonu za povratne informacije i pošaljite ih.",
+      "placeholders": {
+         "PRODUCT_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "4930506384627295710": {
+      "message": "Postavke"
+   },
+   "533692309512814645": {
+      "message": "POŠALJI URL"
+   },
+   "5354810546510399127": {
+      "message": "Otvara stranicu za pomoć"
+   },
+   "5560440246965579819": {
+      "message": "Nastavnici mogu pregledati datoteku"
+   },
+   "566090020805595985": {
+      "message": "IZRADI PREDMET"
+   },
+   "5851560788527570644": {
+      "message": "Obavijesti"
+   },
+   "5936353814217802658": {
+      "message": "POŠALJI URL NASTAVNIKU"
+   },
+   "6031597996865914480": {
+      "message": "POŠALJI URL"
+   },
+   "6042567254866620046": {
+      "message": "Sustav nije povezan s uslugom $PRODUCT$. Pritisnite gumb za povezivanje da biste se pokušali povezati.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "6084304183859355623": {
+      "message": "Prijavljeni ste kao $EMAIL$ Da biste nastavili, $START_LINK$Kprijavite se u Chrome$END_LINK$ pomoću Google školskog računa koji ima pristup Google učionici.",
+      "placeholders": {
+         "EMAIL": {
+            "content": "$1"
+         },
+         "END_LINK": {
+            "content": "$2"
+         },
+         "START_LINK": {
+            "content": "$3"
+         }
+      }
+   },
+   "6110089012347909146": {
+      "message": "isključeno"
+   },
+   "6229272560153199861": {
+      "message": "Izradite predmet da biste zajednički otvarali stranice"
+   },
+   "6422956386741575643": {
+      "message": "Unesite kratak opis"
+   },
+   "6576961868476783976": {
+      "message": "Proizvod $PRODUCT$ naišao je na pogrešku pri pokušaju dijeljenja dokumenta. Pokušajte ponovno kasnije.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "6666246860368909334": {
+      "message": " – "
+   },
+   "6731720160639032735": {
+      "message": "Prijavljeni ste kao $EMAIL$",
+      "placeholders": {
+         "EMAIL": {
+            "content": "$1"
+         }
+      }
+   },
+   "6802974388288119584": {
+      "message": "Google povratne informacije omogućuju slanje prijedloga o našim proizvodima Googleu. Zahvaljujemo na prijavama problema, .prijedlozima i općenitim komentarima."
+   },
+   "6921620009241719815": {
+      "message": "Idi na prethodnu stranicu"
+   },
+   "7002955679222677443": {
+      "message": "Saznajte više"
+   },
+   "7014972904425258116": {
+      "message": "Nastavnici mogu komentirati datoteku"
+   },
+   "7187802960307973851": {
+      "message": "U zadnje vrijeme niste ništa primili."
+   },
+   "7419648588978430202": {
+      "message": "Učitavanje vaše povijesti..."
+   },
+   "7467129818830892099": {
+      "message": "Učenici na stranici preko cijelog zaslona"
+   },
+   "7520798696482451948": {
+      "message": "PRIDRUŽI SE PREDMETU"
+   },
+   "7582805180132294390": {
+      "message": "$PRODUCT$ ima poteškoća s povezivanjem sa svojim poslužiteljima. Ako se problem nastavi pojavljivati, provjerite internetsku vezu i postavke vatrozida te nam pošaljite povratne informacije pomoću ikone za povratne informacije u nastavku.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "7604563725603697690": {
+      "message": "Snimka zaslona trenutne stranice."
+   },
+   "7613121200569555025": {
+      "message": "Korisnik $NAME$ poslao je stranicu",
+      "placeholders": {
+         "NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "7646520484997880732": {
+      "message": "Otvara stranicu s postavkama"
+   },
+   "7733702880641460982": {
+      "message": "Google povratne informacije"
+   },
+   "77478328938908900": {
+      "message": "Zatvori poruku s upozorenjem"
+   },
+   "7798244153502527716": {
+      "message": "Da biste koristili $PRODUCT$, morate biti prijavljeni u Ghrome.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "7819314041543176992": {
+      "message": "Zatvori"
+   },
+   "7826444313570725162": {
+      "message": "URL JE POSLAN"
+   },
+   "784919827997620253": {
+      "message": "Pošalji povratnu informaciju"
+   },
+   "7869782771655761788": {
+      "message": "Poslano"
+   },
+   "787828271820052473": {
+      "message": "Izradite predmet ili mu se pridružite da biste zajednički otvarali stranice"
+   },
+   "7914587618073030772": {
+      "message": "Dijeljenje s uslugom Classroom (za testiranje)"
+   },
+   "7924019946919704377": {
+      "message": "$START_LINK$Kliknite ovdje$END_LINK$ da biste se prijavili u Chrome, a zatim ponovno isprobajte $PRODUCT_NAME$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "PRODUCT_NAME": {
+            "content": "$2"
+         },
+         "START_LINK": {
+            "content": "$3"
+         }
+      }
+   },
+   "8071009096908772636": {
+      "message": "Prikaži obavijesti preglednika kada mi učenici pošalju web-stranice"
+   },
+   "8083611296479050044": {
+      "message": "Idi na stranicu s povratnim informacijama"
+   },
+   "8107264734060843365": {
+      "message": "If this problem doesn't go away, try restarting your computer. If this problem persists, click the feedback icon below to submit feedback."
+   },
+   "813263746069473514": {
+      "message": "Poveži se"
+   },
+   "819996403327805209": {
+      "message": "Saznajte više"
+   },
+   "8250116767525441148": {
+      "message": "Usluga $PRODUCT$ nije se uspjela povezati povezati s web-mjestom $SITE$. Provjerite internetsku vezu pa pokušajte ponovno.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         },
+         "SITE": {
+            "content": "$2"
+         }
+      }
+   },
+   "826991190228103925": {
+      "message": "Postavke"
+   },
+   "8410291800785136487": {
+      "message": "Pošalji URL učenicima"
+   },
+   "8427578009205621398": {
+      "message": "$PARTICIPATING$/$TOTAL$ učenika",
+      "placeholders": {
+         "PARTICIPATING": {
+            "content": "$1"
+         },
+         "TOTAL": {
+            "content": "$2"
+         }
+      }
+   },
+   "8510084535053903986": {
+      "message": "Nastavnici mogu uređivati datoteku"
+   },
+   "8584185541337081736": {
+      "message": "Podijelite ovo proširenje sa svojim učenicima kako bi i oni primali veze.&nbsp;"
+   },
+   "8636360788868898667": {
+      "message": "Brzo dodajte svoj predmet na istu (web-)stranicu."
+   },
+   "8657495129257769609": {
+      "message": "Čini se da računalo nije povezano s internetom. Provjerite vezu pa pokušajte ponovno."
+   },
+   "8757637959955680925": {
+      "message": "Da biste mogli upotrebljavati $PRODUCT_NAME$, morate biti prijavljeni u Chrome, a čini se da niste.",
+      "placeholders": {
+         "PRODUCT_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "8812061458772284085": {
+      "message": "Googleu će biti poslani opis, podaci o proizvodu, dodatni podaci o sustavu i vaša e-adresa. Pročitajte Googleova $START_LINK_1$pravila o privatnosti$END_LINK$ i $START_LINK_2$uvjete pružanja usluge$END_LINK$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK_1": {
+            "content": "$2"
+         },
+         "START_LINK_2": {
+            "content": "$3"
+         }
+      }
+   },
+   "8876711157282412092": {
+      "message": "{numLinks,plural, =1{# veza}one{# veza}few{# veze}other{# veza}}"
+   },
+   "8934950226874423147": {
+      "message": "Učenici mogu uređivati datoteku"
+   },
+   "9057609174906387434": {
+      "message": "Ikona stranice $PAGE_TITLE$.",
+      "placeholders": {
+         "PAGE_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "9200475522066047621": {
+      "message": "Predmeti koje pohađa"
+   },
+   "9217362152767454370": {
+      "message": "$PRODUCT$ traži dozvolu za pristup vašem profilu.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "99413348305232894": {
+      "message": "Dijeljenje s Učionicom"
+   }
+}

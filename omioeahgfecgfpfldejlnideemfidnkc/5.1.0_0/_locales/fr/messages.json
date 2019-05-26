@@ -1,0 +1,69 @@
+{
+   "app_description": {
+      "message": "Consultez des données sur vos annonces/comptes AdSense, Ad Exchange et DFP, et bloquez les annonces indésirables sur votre site."
+   },
+   "cs_overlay_date_7day": {
+      "message": "7 jours"
+   },
+   "cs_overlay_date_today": {
+      "message": "Aujourd'hui"
+   },
+   "cs_overlay_date_yesterday": {
+      "message": "Hier"
+   },
+   "cs_overlay_size_name": {
+      "message": "Taille"
+   },
+   "cs_overlay_type_name": {
+      "message": "Type"
+   },
+   "dfp_creative_id": {
+      "message": "Création : $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "dfp_no_creative": {
+      "message": "Aucune création DFP"
+   },
+   "dfp_unknown_creative": {
+      "message": "Création inconnue"
+   },
+   "domains_whitelist_saved": {
+      "message": "La liste des sites autorisés a été mise à jour."
+   },
+   "expired_creative": {
+      "message": "Impossible de récupérer les informations associées à cette annonce. Veuillez patienter quelques secondes, puis actualiser la page."
+   },
+   "expired_line_item": {
+      "message": "Impossible de récupérer les informations associées à cet élément de l'annonce. Veuillez patienter quelques secondes, puis actualiser la page."
+   },
+   "line_item_adsense_or_adx": {
+      "message": "AdSense ou Ad Exchange"
+   },
+   "line_item_id": {
+      "message": "Élément de campagne : $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "line_item_no_ad": {
+      "message": "Aucune annonce DFP"
+   },
+   "misconfigured_ad_notification_text": {
+      "message": "Cette page contient \u003Ca href=\"ovnfc\">0\u003C/span> blocs d'annonces mal configurés. Cela pourrait pénaliser vos revenus. \u003Ca target=\"_new\" href=\"http://support.google.com/adsense/bin/answer.py?answer=2694805\" class=\"ovnfs\">En savoir plus\u003C/a>"
+   },
+   "no_results_creative": {
+      "message": "Impossible de trouver les informations associées à cette annonce. Vous n'êtes peut-être pas autorisé à y accéder."
+   },
+   "no_results_line_item": {
+      "message": "Impossible de trouver les informations associées à cet élément de l'annonce. Vous n'êtes peut-être pas autorisé à y accéder."
+   },
+   "settings_saved_title": {
+      "message": "Paramètres enregistrés"
+   }
+}

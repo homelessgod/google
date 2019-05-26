@@ -1,0 +1,77 @@
+{
+   "close_button": {
+      "message": "סגירה"
+   },
+   "extension_description": {
+      "message": "Password Checkup מסייע לך לאבטח מחדש חשבונות שנפגעו מפרצות באבטחת מידע."
+   },
+   "extension_detailed_description": {
+      "message": "מכל מקום שבו תתבצע כניסה לחשבון, תתקבל התראה אם יוזנו שם משתמש וסיסמה שכבר אינם בטוחים כי הופיעו בפרצה באבטחת מידע שמוכרת ל-Google. יש לאפס את הסיסמה. אם בחרת להשתמש באותו שם המשתמש ובאותה הסיסמה בחשבונות אחרים, יש לאפס את הסיסמה גם בהם.\n\nשירות בדיקת הסיסמאות פותח לצורך שמירה על פרטיות. השירות אף פעם לא מדווח על מידע מזהה לגבי החשבונות, הסיסמאות או המכשיר שלך. אנחנו מעבירים דיווח אנונימי לגבי מספר חיפושי המידע שבגינם עולים פרטי כניסה שאינם בטוחים, במקרה שהתראה מובילה לשינוי סיסמה, ולגבי הדומיין המעורב, במטרה לשפר את כיסוי האתר. אפשר לקבל מידע נוסף על אופן הפעולה של שירות בדיקת הסיסמאות בכתובת https://support.google.com/accounts?p=password-checkup.\n\nהתקנת פריט זה מבטאת את הסכמתך לתנאים וההגבלות ולמדיניות הפרטיות של Google, שמפורטים בדף /www.google.com/policies."
+   },
+   "extension_name": {
+      "message": "Password Checkup"
+   },
+   "ignore_button": {
+      "message": "יש להתעלם באתר זה"
+   },
+   "learn_more": {
+      "message": "מידע נוסף"
+   },
+   "popup_advanced_settings_action": {
+      "message": "הגדרות מתקדמות"
+   },
+   "popup_default_status_message": {
+      "message": "באף אחת מהסיסמאות שלך שבהן נעשה שימוש לאחרונה לא זוהתה פרצה באבטחת מידע."
+   },
+   "popup_ignore_button": {
+      "message": "הבנתי"
+   },
+   "popup_ignored_status_message": {
+      "message": "באף אחת מהסיסמאות שלך שבהן נעשה שימוש לאחרונה לא זוהתה פרצה באבטחת מידע. זה לא כולל סיסמאות שאינן בטוחות שבחרת להתעלם מהבקשה לאפס אותן."
+   },
+   "popup_learn_more": {
+      "message": "מידע נוסף"
+   },
+   "popup_multiple_accounts_warning_status_message": {
+      "message": "Password Checkup זיהה של-\u003Cb>$1 החשבונות\u003C/b> הבאים יש סיסמאות שאינן בטוחות עוד, עקב פרצה באבטחת מידע.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "popup_number_unsafe_accounts": {
+      "message": "$1 חשבונות לא בטוחים",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "popup_one_account_warning_status_message": {
+      "message": "Password Checkup זיהה של\u003Cb>חשבון הבא\u003C/b> יש סיסמה שאינה בטוחה עוד, עקב פרצה באבטחת מידע."
+   },
+   "popup_reset_extension_button": {
+      "message": "ניקוי נתוני התוסף"
+   },
+   "popup_reset_extension_text": {
+      "message": "ניקוי כל נתוני התוסף. הפעולה הזו תסיר את כל המידע השמור בנוגע לסיסמאות שאינן בטוחות ואתרים שהתעלמת מהם בעבר."
+   },
+   "popup_warning_action": {
+      "message": "עליך לשנות את הסיסמאות שלך עכשיו."
+   },
+   "reset_text": {
+      "message": "עליך לשנות את הסיסמה שלך עכשיו."
+   },
+   "warning_banner_header": {
+      "message": "שינוי הסיסמה שלך"
+   },
+   "warning_text": {
+      "message": "Password Checkup זיהה שהסיסמה שלך עבור \u003Cb>$1\u003C/b> כבר לא בטוחה, עקב פרצה באבטחת מידע.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   }
+}

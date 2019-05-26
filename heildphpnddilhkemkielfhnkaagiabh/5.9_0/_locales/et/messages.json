@@ -1,0 +1,46 @@
+{
+   "browser_error": {
+      "description": "Error mesage shown if the redirection has failed.",
+      "message": "Võtke ühendust oma süsteemiülemaga."
+   },
+   "error_title": {
+      "description": "The title of the redirection page if an error has happened while trying to load the alternative browser.",
+      "message": "Alternatiivset brauserit ei õnnestunud avada"
+   },
+   "extension_description": {
+      "description": "Description of the extension.",
+      "message": "Juurutage Chrome oma organisatsiooni, toetades pärandbrausereid."
+   },
+   "extension_name": {
+      "description": "Name of the extension.",
+      "message": "Pärandbrauseri tugi"
+   },
+   "learn_more_message": {
+      "description": "Message shown on the bottom with a link to a (potentially) internationalized 'learn more' article",
+      "message": "\u003Ca href='https://www.google.ee/intl/et/chrome/business/'>Lisateave\u003C/a> pärandbrauseri toe kohta."
+   },
+   "redirect_message": {
+      "description": "Text shown on the redirection page while the alternative browser is started.",
+      "message": "Teie süsteemiülem on konfigureerinud Chrome'i avama alternatiivset brauserit, et saada juurdepääs lehele \u003Cstrong>$url$\u003C/strong>.",
+      "placeholders": {
+         "url": {
+            "content": "$1",
+            "example": "http://google.com/"
+         }
+      }
+   },
+   "redirect_title": {
+      "description": "The title of the redirection page. Also shown in the Chrome title bar.",
+      "message": "Alternatiivses brauseris avamine ..."
+   },
+   "wrong_protocol_error": {
+      "description": "This error is whown when the action page is invoke with a hash tag specifying an address that is not in the http/https protocols.",
+      "message": "Lehte \u003Cstrong>$url$\u003C/strong> ei saa avada protokolli konfigureerimisvea tõttu. Võtke ühendust oma süsteemiülemaga.",
+      "placeholders": {
+         "url": {
+            "content": "$1",
+            "example": "http://google.com/"
+         }
+      }
+   }
+}

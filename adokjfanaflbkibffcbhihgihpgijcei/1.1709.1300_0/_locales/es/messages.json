@@ -1,0 +1,440 @@
+{
+   "101206989909763677": {
+      "message": "Alumnos en $CLASS_NAME$",
+      "placeholders": {
+         "CLASS_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "1258929983314547244": {
+      "message": "ENVIADA AL PROFESOR"
+   },
+   "1301730406464354688": {
+      "message": "Abrir Classroom"
+   },
+   "1462156539679968804": {
+      "message": "Recibidas de los alumnos"
+   },
+   "1472332582476021124": {
+      "message": "Los alumnos pueden ver el archivo"
+   },
+   "1510105121221276016": {
+      "message": "Bloquear en la pantalla"
+   },
+   "1550690544509024009": {
+      "message": "{numFlings,plural, =1{# nuevo}other{# nuevos}}"
+   },
+   "1663150675851578875": {
+      "message": "Tenemos problemas para conectar a $PRODUCT_NAME$. Comprueba que la conexión de red esté disponible e inténtalo de nuevo.",
+      "placeholders": {
+         "PRODUCT_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "1758804700969198023": {
+      "message": "Menú Compartir"
+   },
+   "1790549872641667595": {
+      "message": "Compartir en Classroom (uso interno)"
+   },
+   "1951089763019042037": {
+      "message": "Alumno"
+   },
+   "2050089326602918210": {
+      "message": "Compartir en Classroom"
+   },
+   "2062938386395101624": {
+      "message": "Enviadas a los alumnos"
+   },
+   "2070581630224025695": {
+      "message": "Publicar un anuncio"
+   },
+   "2090147790320018555": {
+      "message": "No has enviado ninguna página recientemente."
+   },
+   "2213990758451550370": {
+      "message": "Los alumnos pueden comentar el archivo"
+   },
+   "2266749875018591275": {
+      "message": "Tu extensión de $PRODUCT_NAME$ está obsoleta. Para continuar, haz clic para $START_LINK$desinstalarla$END_LINK$. Con esta acción, también se abrirá la página de Chrome Web Store, donde podrás volver a instalar la extensión.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "PRODUCT_NAME": {
+            "content": "$2"
+         },
+         "START_LINK": {
+            "content": "$3"
+         }
+      }
+   },
+   "2315140680766681153": {
+      "message": "No hay ningún alumno para mostrar."
+   },
+   "2409870568039115310": {
+      "message": "ENVIAR AL PROFESOR"
+   },
+   "2416435327104074837": {
+      "message": "Enviadas al profesor"
+   },
+   "265018083235803821": {
+      "message": "Menú Permisos"
+   },
+   "272253201636921624": {
+      "message": "Enviando"
+   },
+   "3208531239543188174": {
+      "message": "Se abrirá dentro de {numSeconds,plural, =1{1 segundo}other{# segundos}}..."
+   },
+   "3727581148109420602": {
+      "message": "Abrir en una pestaña nueva"
+   },
+   "3852289441366561594": {
+      "message": "Conectando..."
+   },
+   "3853169172456108967": {
+      "message": "CREAR O APUNTARSE A UNA CLASE"
+   },
+   "3894950702316166331": {
+      "message": "Cargando..."
+   },
+   "4012779869104225222": {
+      "message": "Lista de clases"
+   },
+   "4048890404505834885": {
+      "message": "Hacer una pregunta"
+   },
+   "4101941266124151376": {
+      "message": "activado"
+   },
+   "4221250166827447984": {
+      "message": "Viendo $TITLE$",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "4269658859113770197": {
+      "message": "Cargando tus clases..."
+   },
+   "436489073937327740": {
+      "message": "Envía a Google registros adicionales con las páginas compartidas y las direcciones de correo electrónico de los miembros de tu clase."
+   },
+   "4481147463445876932": {
+      "message": "Crear tarea"
+   },
+   "4491595920888170943": {
+      "message": "La página actual no se puede compartir."
+   },
+   "4622108781632885640": {
+      "message": "Recibidas del profesor"
+   },
+   "4742705439416933924": {
+      "message": "Apúntate a una clase para abrir páginas juntos"
+   },
+   "4748990655911819545": {
+      "message": "Cursos impartidos"
+   },
+   "4811423455816775324": {
+      "message": "Debes haber iniciado sesión en Chrome para usar $PRODUCT$.\nHaz clic aquí para iniciar sesión.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "4849976898594713883": {
+      "message": "$PRODUCT$ tiene problemas para conectar con los servidores, posiblemente debido a la configuración de una pasarela o un cortafuegos. Comprueba la configuración del cortafuegos y asegúrate de que permite el tráfico con $SERVER$.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         },
+         "SERVER": {
+            "content": "$2"
+         }
+      }
+   },
+   "48585068921907804": {
+      "message": "Tenemos problemas para conectarnos a $PRODUCT_NAME$. Prueba a salir de la cuenta e inicia sesión de nuevo. Si el problema continúa, haz clic en el icono de comentario siguiente para enviar tus comentarios.",
+      "placeholders": {
+         "PRODUCT_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "4930506384627295710": {
+      "message": "Configuración"
+   },
+   "533692309512814645": {
+      "message": "ENVIAR"
+   },
+   "5354810546510399127": {
+      "message": "Abrir la página de ayuda"
+   },
+   "5560440246965579819": {
+      "message": "Los profesores pueden ver el archivo"
+   },
+   "566090020805595985": {
+      "message": "CREAR CLASE"
+   },
+   "5851560788527570644": {
+      "message": "Notificaciones"
+   },
+   "5936353814217802658": {
+      "message": "ENVIAR AL PROFESOR"
+   },
+   "6031597996865914480": {
+      "message": "ENVIAR"
+   },
+   "6042567254866620046": {
+      "message": "Este sistema no está conectado a $PRODUCT$. Pulsa el botón de conexión para intentar conectarte.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "6084304183859355623": {
+      "message": "Has iniciado sesión como $EMAIL$. Para continuar, $START_LINK$inicia sesión en Chrome$END_LINK$ con una cuenta de Google del centro educativo que tenga acceso a Google Classroom.",
+      "placeholders": {
+         "EMAIL": {
+            "content": "$1"
+         },
+         "END_LINK": {
+            "content": "$2"
+         },
+         "START_LINK": {
+            "content": "$3"
+         }
+      }
+   },
+   "6110089012347909146": {
+      "message": "desactivado"
+   },
+   "6229272560153199861": {
+      "message": "Crea una clase para abrir páginas juntos"
+   },
+   "6422956386741575643": {
+      "message": "Escribe una breve descripción"
+   },
+   "6576961868476783976": {
+      "message": "$PRODUCT$ ha detectado un error al intentar compartir el documento. Vuelve a intentarlo más tarde.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "6666246860368909334": {
+      "message": " – "
+   },
+   "6731720160639032735": {
+      "message": "Has iniciado sesión como $EMAIL$",
+      "placeholders": {
+         "EMAIL": {
+            "content": "$1"
+         }
+      }
+   },
+   "6802974388288119584": {
+      "message": "Google Feedback te permite enviar sugerencias a Google sobre nuestros productos. Agradecemos informes sobre problemas, ideas de nuevas funciones y comentarios generales."
+   },
+   "6921620009241719815": {
+      "message": "Ir a la página anterior"
+   },
+   "7002955679222677443": {
+      "message": "Más información"
+   },
+   "7014972904425258116": {
+      "message": "Los profesores pueden comentar el archivo"
+   },
+   "7187802960307973851": {
+      "message": "No has recibido ninguna página recientemente."
+   },
+   "7419648588978430202": {
+      "message": "Cargando tu historial..."
+   },
+   "7467129818830892099": {
+      "message": "Los alumnos se muestran en la página de pantalla completa"
+   },
+   "7520798696482451948": {
+      "message": "APUNTARSE A CLASE"
+   },
+   "7582805180132294390": {
+      "message": "$PRODUCT$ tiene problemas para conectar con los servidores. Si el problema continúa, comprueba la conexión a Internet y la configuración del cortafuegos, y haz clic en el icono de comentarios siguiente para enviarnos tus comentarios.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "7604563725603697690": {
+      "message": "Captura de pantalla de la página actual."
+   },
+   "7613121200569555025": {
+      "message": "$NAME$ ha enviado una página",
+      "placeholders": {
+         "NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "7646520484997880732": {
+      "message": "Abre la página Configuración"
+   },
+   "7733702880641460982": {
+      "message": "Google Feedback"
+   },
+   "77478328938908900": {
+      "message": "Cerrar mensaje de advertencia"
+   },
+   "7798244153502527716": {
+      "message": "Debes haber iniciado sesión en Chrome para usar $PRODUCT$.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "7819314041543176992": {
+      "message": "Cerrar"
+   },
+   "7826444313570725162": {
+      "message": "ENVIADA"
+   },
+   "784919827997620253": {
+      "message": "Enviar sugerencias"
+   },
+   "7869782771655761788": {
+      "message": "ENVIADA"
+   },
+   "787828271820052473": {
+      "message": "Crea o apúntate a una clase para abrir páginas juntos"
+   },
+   "7914587618073030772": {
+      "message": "Compartir en Classroom (prueba)"
+   },
+   "7924019946919704377": {
+      "message": "$START_LINK$Haz clic aquí$END_LINK$ para iniciar sesión en Chrome y, a continuación, prueba $PRODUCT_NAME$ de nuevo.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "PRODUCT_NAME": {
+            "content": "$2"
+         },
+         "START_LINK": {
+            "content": "$3"
+         }
+      }
+   },
+   "8071009096908772636": {
+      "message": "Mostrar notificaciones del navegador cuando los alumnos me envíen páginas web"
+   },
+   "8083611296479050044": {
+      "message": "Ir a la página de sugerencias"
+   },
+   "8107264734060843365": {
+      "message": "If this problem doesn't go away, try restarting your computer. If this problem persists, click the feedback icon below to submit feedback."
+   },
+   "813263746069473514": {
+      "message": "Conectar"
+   },
+   "819996403327805209": {
+      "message": "Más información"
+   },
+   "8250116767525441148": {
+      "message": "$PRODUCT$ no se ha podido conectar a $SITE$. Comprueba tu conexión a Internet e inténtalo de nuevo.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         },
+         "SITE": {
+            "content": "$2"
+         }
+      }
+   },
+   "826991190228103925": {
+      "message": "Configuración"
+   },
+   "8410291800785136487": {
+      "message": "Enviar a los alumnos"
+   },
+   "8427578009205621398": {
+      "message": "$PARTICIPATING$/$TOTAL$ alumnos",
+      "placeholders": {
+         "PARTICIPATING": {
+            "content": "$1"
+         },
+         "TOTAL": {
+            "content": "$2"
+         }
+      }
+   },
+   "8510084535053903986": {
+      "message": "Los profesores pueden editar el archivo"
+   },
+   "8584185541337081736": {
+      "message": "Comparte esta extensión con tus alumnos para que reciban tus enlaces.&nbsp;"
+   },
+   "8636360788868898667": {
+      "message": "Ayuda a tus alumnos a acceder a la misma página web al instante."
+   },
+   "8657495129257769609": {
+      "message": "Parece que tu equipo no está conectado a Internet. Comprueba la conexión e inténtalo de nuevo."
+   },
+   "8757637959955680925": {
+      "message": "$PRODUCT_NAME$ requiere que inicies sesión en Chrome y parece que no lo estás haciendo.",
+      "placeholders": {
+         "PRODUCT_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "8812061458772284085": {
+      "message": "Se enviará a Google una descripción, información del producto, información adicional del sistema y tu dirección de correo electrónico. Consulta la $START_LINK_1$Política de Privacidad$END_LINK$ y las $START_LINK_2$Condiciones de Servicio$END_LINK$ de Google.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK_1": {
+            "content": "$2"
+         },
+         "START_LINK_2": {
+            "content": "$3"
+         }
+      }
+   },
+   "8876711157282412092": {
+      "message": "{numLinks,plural, =1{# enlace}other{# enlaces}}"
+   },
+   "8934950226874423147": {
+      "message": "Los alumnos pueden editar el archivo"
+   },
+   "9057609174906387434": {
+      "message": "Icono de $PAGE_TITLE$.",
+      "placeholders": {
+         "PAGE_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "9200475522066047621": {
+      "message": "Cursos en los que estás inscrito"
+   },
+   "9217362152767454370": {
+      "message": "$PRODUCT$ requiere permiso para acceder a tu perfil.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "99413348305232894": {
+      "message": "Compartir en Classroom"
+   }
+}

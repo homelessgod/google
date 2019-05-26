@@ -1,0 +1,69 @@
+{
+   "app_description": {
+      "message": "Sprawdzanie danych reklam i kont AdSense, Ad Exchange i DoubleClick for Publishers, blokowanie nieodpowiednich reklam w witrynie."
+   },
+   "cs_overlay_date_7day": {
+      "message": "7 dni"
+   },
+   "cs_overlay_date_today": {
+      "message": "Dzisiaj"
+   },
+   "cs_overlay_date_yesterday": {
+      "message": "Wczoraj"
+   },
+   "cs_overlay_size_name": {
+      "message": "Rozmiar"
+   },
+   "cs_overlay_type_name": {
+      "message": "Typ"
+   },
+   "dfp_creative_id": {
+      "message": "Kreacja: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "dfp_no_creative": {
+      "message": "Brak reklamy DFP"
+   },
+   "dfp_unknown_creative": {
+      "message": "Nieznana reklama"
+   },
+   "domains_whitelist_saved": {
+      "message": "Lista autoryzowanych witryn została zaktualizowana."
+   },
+   "expired_creative": {
+      "message": "Nie mogliśmy pobrać informacji o tej reklamie. Poczekaj kilka sekund, a następnie załaduj ponownie stronę."
+   },
+   "expired_line_item": {
+      "message": "Nie mogliśmy pobrać informacji o tej pozycji. Poczekaj kilka sekund, a następnie załaduj ponownie stronę."
+   },
+   "line_item_adsense_or_adx": {
+      "message": "AdSense lub Ad Exchange"
+   },
+   "line_item_id": {
+      "message": "Element zamówienia: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "line_item_no_ad": {
+      "message": "Brak reklamy DFP"
+   },
+   "misconfigured_ad_notification_text": {
+      "message": "Ta strona zawiera źle skonfigurowane jednostki reklamowe (\u003Ca href=\"ovnfc\">0\u003C/span>). Może to negatywnie wpłynąć na przychody. \u003Ca target=\"_new\" href=\"http://support.google.com/adsense/bin/answer.py?answer=2694805\" class=\"ovnfs\">Dowiedz się więcej\u003C/a>"
+   },
+   "no_results_creative": {
+      "message": "Nie mogliśmy znaleźć informacji o tej reklamie. Być może nie masz do niej dostępu."
+   },
+   "no_results_line_item": {
+      "message": "Nie mogliśmy znaleźć informacji o tej pozycji. Być może nie masz do niej dostępu."
+   },
+   "settings_saved_title": {
+      "message": "Zapisano ustawienia"
+   }
+}

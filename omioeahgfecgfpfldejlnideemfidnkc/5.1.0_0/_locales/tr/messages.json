@@ -1,0 +1,69 @@
+{
+   "app_description": {
+      "message": "AdSense, Ad Exchange ve DFP reklamlarınızın/hesaplarınızın verilerini görüntüleyin, uygun olmayan reklamları sitenizde engelleyin."
+   },
+   "cs_overlay_date_7day": {
+      "message": "7 Gün"
+   },
+   "cs_overlay_date_today": {
+      "message": "Bugün"
+   },
+   "cs_overlay_date_yesterday": {
+      "message": "Dün"
+   },
+   "cs_overlay_size_name": {
+      "message": "Boyut"
+   },
+   "cs_overlay_type_name": {
+      "message": "Tür"
+   },
+   "dfp_creative_id": {
+      "message": "Reklam öğesi: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "dfp_no_creative": {
+      "message": "DFP reklam öğesi yok"
+   },
+   "dfp_unknown_creative": {
+      "message": "Bilinmeyen reklam öğesi"
+   },
+   "domains_whitelist_saved": {
+      "message": "Yetki verilen siteler listesi güncellendi."
+   },
+   "expired_creative": {
+      "message": "Bu reklam öğesine ait bilgilere ulaşamadık. Lütfen birkaç saniye bekledikten sonra sayfayı tekrar yüklemeyi deneyin."
+   },
+   "expired_line_item": {
+      "message": "Bu satır öğesine ait bilgilere ulaşamadık. Lütfen birkaç saniye bekledikten sonra sayfayı tekrar yüklemeyi deneyin."
+   },
+   "line_item_adsense_or_adx": {
+      "message": "AdSense veya Ad Exchange"
+   },
+   "line_item_id": {
+      "message": "Satır öğesi: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "line_item_no_ad": {
+      "message": "DFP reklamı yok"
+   },
+   "misconfigured_ad_notification_text": {
+      "message": "Bu sayfa \u003Ca href=\"ovnfc\">0\u003C/span> yanlış yapılandırılmış reklam birimi içeriyor. Bu, gelirinizi olumsuz etkileyebilir. \u003Ca target=\"_new\" href=\"http://support.google.com/adsense/bin/answer.py?answer=2694805\" class=\"ovnfs\">Daha fazla bilgi edinin\u003C/a>"
+   },
+   "no_results_creative": {
+      "message": "Bu reklam öğesine ait bilgileri bulamadık. Söz konusu öğeye erişiminiz olmayabilir."
+   },
+   "no_results_line_item": {
+      "message": "Bu satır öğesine ait bilgileri bulamadık. Söz konusu öğeye erişiminiz olmayabilir."
+   },
+   "settings_saved_title": {
+      "message": "Ayarlar kaydedildi"
+   }
+}

@@ -1,0 +1,46 @@
+{
+   "browser_error": {
+      "description": "Error mesage shown if the redirection has failed.",
+      "message": "ನಿಮ್ಮ ಸಿಸ್ಟಂ ನಿರ್ವಾಹಕರನ್ನು ಸಂಪರ್ಕಿಸಿ."
+   },
+   "error_title": {
+      "description": "The title of the redirection page if an error has happened while trying to load the alternative browser.",
+      "message": "ಪರ್ಯಾಯ ಬ್ರೌಸರ್‌‌ ಅನ್ನು ತೆರೆಯಲು ಸಾಧ್ಯವಿಲ್ಲ"
+   },
+   "extension_description": {
+      "description": "Description of the extension.",
+      "message": "ಪಾರಂಪರಿಕ ಬ್ರೌಸರ್‌ಗಳನ್ನು ಬೆಂಬಲಿಸುತ್ತಿರುವಾಗ ನಿಮ್ಮ ಸಂಸ್ಥೆಗಾಗಿ Chrome ಅನ್ನು ನಿಯುಕ್ತಿಗೊಳಿಸಿ."
+   },
+   "extension_name": {
+      "description": "Name of the extension.",
+      "message": "ಪಾರಂಪರಿಕ ಬ್ರೌಸರ್ ಬೆಂಬಲ"
+   },
+   "learn_more_message": {
+      "description": "Message shown on the bottom with a link to a (potentially) internationalized 'learn more' article",
+      "message": "ಪಾರಂಪರಿಕ ಬ್ರೌಸರ್‌ ಬೆಂಬಲವನ್ನು ಕುರಿತು \u003Ca href='https://www.google.com/intl/en/chrome/business/'>ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ\u003C/a>."
+   },
+   "redirect_message": {
+      "description": "Text shown on the redirection page while the alternative browser is started.",
+      "message": "ಪ್ರವೇಶಿಸಲು ಪರ್ಯಾಯ ಬ್ರೌಸರ್‌ ತೆರೆಯುವಂತೆ ನಿಮ್ಮ ಸಿಸ್ಟಂ ನಿರ್ವಾಹಕರು Chrome ಅನ್ನು ಕಾನ್ಫಿಗರ್ ಮಾಡಿದ್ದಾರೆ \u003Cstrong>$url$\u003C/strong>.",
+      "placeholders": {
+         "url": {
+            "content": "$1",
+            "example": "http://google.com/"
+         }
+      }
+   },
+   "redirect_title": {
+      "description": "The title of the redirection page. Also shown in the Chrome title bar.",
+      "message": "ಪರ್ಯಾಯ ಬ್ರೌಸರ್‌‌ನಲ್ಲಿ ತೆರೆಯಲಾಗುತ್ತಿದೆ..."
+   },
+   "wrong_protocol_error": {
+      "description": "This error is whown when the action page is invoke with a hash tag specifying an address that is not in the http/https protocols.",
+      "message": "ಪ್ರೊಟೋಕಾಲ್ ಕಾನ್ಫಿಗರೇಶನ್ ದೋಷವಿರುವ ಕಾರಣ \u003Cstrong>$url$\u003C/strong> ಅನ್ನು ತೆರೆಯಲಾಗುವುದಿಲ್ಲ. ದಯವಿಟ್ಟು ನಿಮ್ಮ ಸಿಸ್ಟಂ ನಿರ್ವಾಹಕರನ್ನು ಸಂಪರ್ಕಿಸಿ.",
+      "placeholders": {
+         "url": {
+            "content": "$1",
+            "example": "http://google.com/"
+         }
+      }
+   }
+}

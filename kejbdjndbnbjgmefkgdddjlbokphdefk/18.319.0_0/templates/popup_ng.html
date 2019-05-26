@@ -1,0 +1,28 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <link rel="stylesheet" href="/css/angular_material.css" rel="stylesheet" type="text/css" />
+
+    <link rel="stylesheet" href="/css/ngpopup_min.css" type="text/css" />
+    <link rel="stylesheet" href="/css/components_min.css" type="text/css" />
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500" >
+
+    <script src="/js/angular.min.js" ng-csp></script>
+    <script src="/js/angular_material.min.js" ng-csp></script>
+    <script src="/js/third_party.min.js"></script>
+
+    <script src="/js/ngpopup_compiled.js"></script>
+  </head>
+  <body class="md-body-1">
+    <md-content id="popup-wrapper">
+      <ui-view data-state="{{state.current.name}}"></ui-view>
+    </md-content>
+
+    <!-- Enable Megadash tracking on internal version of extension. -->
+    <img ng-if="isInternal"
+         src="https://megadash.googleplex.com/tracking/2796016"
+         alt="Megadash Usage Tracking Pixel, see https://goto/megadash-tracking"
+         height="1" width="1" style="position:fixed" />
+  </body>
+</html>

@@ -1,0 +1,77 @@
+{
+   "close_button": {
+      "message": "Schließen"
+   },
+   "extension_description": {
+      "message": "Password Checkup hilft Ihnen dabei, Ihre Konten, die von Datenpannen betroffen sind, wieder zu sichern."
+   },
+   "extension_detailed_description": {
+      "message": "Wenn Sie bei einer Anmeldung einen Nutzernamen und ein Passwort eingeben, das aufgrund einer Google bekannten Datenpanne nicht mehr sicher ist, erhalten Sie eine Benachrichtigung. Bitte setzen Sie Ihr Passwort dann zurück. Wenn Sie denselben Nutzernamen und dasselbe Passwort für andere Konten verwenden, setzen Sie das Passwort dort ebenfalls zurück.\n\nDer Datenschutz war bei der Erstellung der Passwortüberprüfung äußerst wichtig. Sie meldet nie Informationen über Ihre Konten, Passwörter oder Geräte, mit denen Sie identifizierbar sind. Wir melden anonyme Informationen zur Anzahl der Abrufe von unsicheren Anmeldedaten, zur betreffenden Domain, um die Website-Abdeckung zu verbessern, sowie dazu, ob eine Benachrichtigung zu einer Passwortänderung führt. Weitere Informationen zur Funktionsweise der Passwortüberprüfung finden Sie unter https://support.google.com/accounts?p=password-checkup.\n\nWenn Sie diesen Artikel installieren, stimmen Sie dadurch den Nutzungsbedingungen und der Datenschutzerklärung von Google unter www.google.com/policies/ zu."
+   },
+   "extension_name": {
+      "message": "Password Checkup"
+   },
+   "ignore_button": {
+      "message": "Für diese Website ignorieren"
+   },
+   "learn_more": {
+      "message": "Weitere Informationen"
+   },
+   "popup_advanced_settings_action": {
+      "message": "Erweiterte Einstellungen"
+   },
+   "popup_default_status_message": {
+      "message": "Keines Ihrer kürzlich verwendeten Passwörter wurde durch eine Datenpanne aufgedeckt."
+   },
+   "popup_ignore_button": {
+      "message": "Ignorieren"
+   },
+   "popup_ignored_status_message": {
+      "message": "Keines Ihrer kürzlich verwendeten Passwörter wurde durch eine Datenpanne aufgedeckt. Unsichere Passwörter, für die Sie die Aufforderung zum Zurücksetzen ignoriert haben, sind darin nicht eingeschlossen."
+   },
+   "popup_learn_more": {
+      "message": "Weitere Informationen"
+   },
+   "popup_multiple_accounts_warning_status_message": {
+      "message": "Password Checkup hat erkannt, dass die Passwörter der folgenden \u003Cb>$1 Konten\u003C/b> aufgrund einer Datenpanne nicht mehr sicher sind.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "popup_number_unsafe_accounts": {
+      "message": "$1 unsichere Konten",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "popup_one_account_warning_status_message": {
+      "message": "Password Checkup hat erkannt, dass das Passwort des folgenden \u003Cb>Kontos\u003C/b> aufgrund einer Datenpanne nicht mehr sicher ist."
+   },
+   "popup_reset_extension_button": {
+      "message": "Erweiterungsdaten löschen"
+   },
+   "popup_reset_extension_text": {
+      "message": "Löschen Sie alle Erweiterungsdaten. Dadurch werden alle Ihre gespeicherten Informationen über unsichere Passwörter und vorher ignorierte Websites entfernt."
+   },
+   "popup_warning_action": {
+      "message": "Bitte ändern Sie sofort Ihre Passwörter."
+   },
+   "reset_text": {
+      "message": "Bitte ändern Sie sofort Ihr Passwort."
+   },
+   "warning_banner_header": {
+      "message": "Passwort ändern"
+   },
+   "warning_text": {
+      "message": "Password Checkup hat erkannt, dass Ihr Passwort für \u003Cb>$1\u003C/b> aufgrund einer Datenpanne nicht mehr sicher ist.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   }
+}

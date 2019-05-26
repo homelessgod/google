@@ -1,0 +1,126 @@
+{
+   "before_trying_again": {
+      "description": "Error resolution tip in error pages.",
+      "message": "Kabla hujajaribu tena:"
+   },
+   "browser_action_title": {
+      "description": "Browser action title that shows up on hover.",
+      "message": "Tangaza URL hii"
+   },
+   "context_menu_disable": {
+      "description": "Label of the context menu item that disables Tone.",
+      "message": "Zima Tone"
+   },
+   "context_menu_enable": {
+      "description": "Label of the context menu item that enables Tone.",
+      "message": "Washa Tone"
+   },
+   "description": {
+      "description": "Extension description.",
+      "message": "Tuma URL yoyote kwenye kompyuta zilizo karibu kwa kuitangaza."
+   },
+   "ensure_online": {
+      "description": "Network workaround.",
+      "message": "Hakikisha kuwa kompyuta yako iko mtandaoni."
+   },
+   "error_audio_title": {
+      "description": "Title of the error_audio.html page.",
+      "message": "Google Tone haikusikia lililosemwa."
+   },
+   "error_network_title": {
+      "description": "Title of error_network.html page.",
+      "message": "Kwa bahati mbaya, hilo halikufaulu."
+   },
+   "increase_volume": {
+      "description": "Audio workaround #1",
+      "message": "Ongeza sauti kwenye kompyuta yako."
+   },
+   "invite_others": {
+      "description": "Press the button to try it.",
+      "message": "Waalike wengine ili watumie Google Tone: {{shortlink}}"
+   },
+   "name": {
+      "description": "Extension name.",
+      "message": "Google Tone"
+   },
+   "notification_receive_message_format": {
+      "description": "Notification message when you receive a Tone.",
+      "message": "Bofya ili ufungue '{{title}}' kutoka {{domain}}"
+   },
+   "notification_receive_test_page_message": {
+      "description": "Notification message sent from Tone test page.",
+      "message": "Bofya ili ujaribu Tone!"
+   },
+   "notification_receive_title_format": {
+      "description": "Notification title when you receive a Tone.",
+      "message": "URL kutoka {{username}}!"
+   },
+   "notification_send_fail_audio_message": {
+      "description": "Notification title shown when audio verification fails.",
+      "message": "Angalia sauti ya kompyuta yako na ujaribu tena.\nBofya kwa maelezo zaidi."
+   },
+   "notification_send_fail_audio_title": {
+      "description": "Notification title shown when audio verification fails.",
+      "message": "Google Tone haikuweza kujisikia"
+   },
+   "notification_send_fail_network_message": {
+      "description": "Notification message shown when a Tone was attempted but the network was offline.",
+      "message": "Inaonekana uko nje ya mtandao.\nBofya kwa maelezo zaidi."
+   },
+   "notification_send_fail_network_title": {
+      "description": "Notification title shown when a Tone was attempted but the network was offline.",
+      "message": "URL haijatumwa"
+   },
+   "press_button": {
+      "description": "Press the button to try it.",
+      "message": "Bonyeza kitufe cha {{action_image}} ili utangaze URL kwenye kompyuta zilizo karibu."
+   },
+   "report_bug": {
+      "description": "Report a bug",
+      "message": "Ripoti hitilafu"
+   },
+   "settings_off": {
+      "description": "Indicator showing that Tone is disabled.",
+      "message": "ZIMA"
+   },
+   "settings_off_subtitle": {
+      "description": "Subtitle showing that Tone is disabled.",
+      "message": "Huwezi kutuma au kupokea URL."
+   },
+   "settings_off_title": {
+      "description": "Title showing that Tone is disabled.",
+      "message": "Google Tone imezimwa"
+   },
+   "settings_on": {
+      "description": "Indicator showing that Tone is enabled.",
+      "message": "WASHA"
+   },
+   "settings_on_subtitle": {
+      "description": "Subtitle showing that Tone is enabled.",
+      "message": "Unaweza kutuma na kupokea URL."
+   },
+   "settings_on_title": {
+      "description": "Title showing that Tone is enabled.",
+      "message": "Google Tone imewashwa"
+   },
+   "settings_title": {
+      "description": "Title of settings.html",
+      "message": "Mipangilio"
+   },
+   "success_call": {
+      "description": "Call to action of success.html.",
+      "message": "Nenda kwenye ukurasa mwingine na ubofye kitufe cha {{action_image}} ili kuitangaza."
+   },
+   "success_title": {
+      "description": "Title of success.html.",
+      "message": "Google Tone imefaulu!"
+   },
+   "try_now": {
+      "description": "Call to action to try the extension.",
+      "message": "Jaribu Google Tone sasa!"
+   },
+   "unplug_headphones": {
+      "description": "Audio workaround #2",
+      "message": "Ondoa spika zako za masikioni kwenye kompyuta."
+   }
+}

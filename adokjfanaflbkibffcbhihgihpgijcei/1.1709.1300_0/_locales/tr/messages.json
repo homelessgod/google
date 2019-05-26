@@ -1,0 +1,440 @@
+{
+   "101206989909763677": {
+      "message": "$CLASS_NAME$ dersindeki öğrenciler",
+      "placeholders": {
+         "CLASS_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "1258929983314547244": {
+      "message": "ÖĞRETMENE GÖNDERİLDİ"
+   },
+   "1301730406464354688": {
+      "message": "Classroom'u aç"
+   },
+   "1462156539679968804": {
+      "message": "Öğrencilerden alınanlar"
+   },
+   "1472332582476021124": {
+      "message": "Öğrenciler dosyayı görüntüleyebilir"
+   },
+   "1510105121221276016": {
+      "message": "Ekrana Kilitle"
+   },
+   "1550690544509024009": {
+      "message": "{numFlings,plural, =1{# yeni}other{# yeni}}"
+   },
+   "1663150675851578875": {
+      "message": "$PRODUCT_NAME$ ürününe bağlanmakta sorun yaşıyoruz. Lütfen ağ bağlantınızın çalıştığından emin olun, ardından da tekrar bağlanmayı deneyin.",
+      "placeholders": {
+         "PRODUCT_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "1758804700969198023": {
+      "message": "Paylaş Menüsü"
+   },
+   "1790549872641667595": {
+      "message": "Classroom'da Paylaş (Hazırlık)"
+   },
+   "1951089763019042037": {
+      "message": "Öğrenci"
+   },
+   "2050089326602918210": {
+      "message": "Classroom'da Paylaş"
+   },
+   "2062938386395101624": {
+      "message": "Öğrencilere gönderilenler"
+   },
+   "2070581630224025695": {
+      "message": "Duyuru yap"
+   },
+   "2090147790320018555": {
+      "message": "Yakın zamanda herhangi bir sayfa göndermediniz."
+   },
+   "2213990758451550370": {
+      "message": "Öğrenciler dosyaya yorum ekleyebilir"
+   },
+   "2266749875018591275": {
+      "message": "\"$PRODUCT_NAME$\" uzantınız eski. Devam etmek için $START_LINK$uzantıyı kaldırmak üzere$END_LINK$ bu bağlantıyı tıklayın. Bu işlemle, uzantının yeniden yüklenebileceği Chrome Web Mağazası sayfası da açılır.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "PRODUCT_NAME": {
+            "content": "$2"
+         },
+         "START_LINK": {
+            "content": "$3"
+         }
+      }
+   },
+   "2315140680766681153": {
+      "message": "Gösterilecek öğrenci yok."
+   },
+   "2409870568039115310": {
+      "message": "ÖĞRETMENE GÖNDER"
+   },
+   "2416435327104074837": {
+      "message": "Öğretmene gönderilenler"
+   },
+   "265018083235803821": {
+      "message": "İzinler Menüsü"
+   },
+   "272253201636921624": {
+      "message": "Gönderiliyor"
+   },
+   "3208531239543188174": {
+      "message": "İçerik {numSeconds,plural, =1{1 saniye}other{# saniye}}içinde açılacak..."
+   },
+   "3727581148109420602": {
+      "message": "Yeni bir sekmede aç"
+   },
+   "3852289441366561594": {
+      "message": "Bağlanıyor..."
+   },
+   "3853169172456108967": {
+      "message": "SINIF OLUŞTUR VEYA SINIFA KATIL"
+   },
+   "3894950702316166331": {
+      "message": "Yükleniyor..."
+   },
+   "4012779869104225222": {
+      "message": "Sınıfların Listesi"
+   },
+   "4048890404505834885": {
+      "message": "Soru sor"
+   },
+   "4101941266124151376": {
+      "message": "açık"
+   },
+   "4221250166827447984": {
+      "message": "$TITLE$ görüntüleniyor",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "4269658859113770197": {
+      "message": "Dersleriniz yükleniyor..."
+   },
+   "436489073937327740": {
+      "message": "Google'a, paylaşılan sayfaları ve sınıfınızın üyelerinin e-posta adreslerini içeren ek günlükler gönderin."
+   },
+   "4481147463445876932": {
+      "message": "Ödev oluştur"
+   },
+   "4491595920888170943": {
+      "message": "Geçerli sayfa paylaşılamaz."
+   },
+   "4622108781632885640": {
+      "message": "Öğretmenden alınanlar"
+   },
+   "4742705439416933924": {
+      "message": "Sayfaları hep birlikte açmak için bir sınıfa katılın"
+   },
+   "4748990655911819545": {
+      "message": "Öğretilen dersler"
+   },
+   "4811423455816775324": {
+      "message": "$PRODUCT$ ürününü kullanmak için Chrome'da oturum açmalısınız.\nOturum açmak için burayı tıklayın.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "4849976898594713883": {
+      "message": "$PRODUCT$, kendi sunucularına bağlanmakta güçlük çekiyor. Buna bir ağ geçidi veya güvenlik duvarı yapılandırmasının neden olduğu anlaşılıyor. Lütfen güvenlik duvarı ayarlarınızı kontrol edin ve $SERVER$ ile trafiğe izin verecek şekilde yapılandırıldıklarından emin olun.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         },
+         "SERVER": {
+            "content": "$2"
+         }
+      }
+   },
+   "48585068921907804": {
+      "message": "$PRODUCT_NAME$ ürününe bağlanmada sorun yaşıyoruz. Lütfen hesabınızda oturumu kapatıp tekrar oturum açmayı deneyin. Bu sorun devam ederse geri bildirim göndermek için aşağıdaki geri bildirim simgesini tıklayın.",
+      "placeholders": {
+         "PRODUCT_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "4930506384627295710": {
+      "message": "Ayarlar"
+   },
+   "533692309512814645": {
+      "message": "GÖNDER"
+   },
+   "5354810546510399127": {
+      "message": "Yardım Sayfasını Açar"
+   },
+   "5560440246965579819": {
+      "message": "Öğretmenler dosyayı görüntüleyebilir"
+   },
+   "566090020805595985": {
+      "message": "SINIF OLUŞTUR"
+   },
+   "5851560788527570644": {
+      "message": "Bildirimler"
+   },
+   "5936353814217802658": {
+      "message": "ÖĞRETMENE GÖNDER"
+   },
+   "6031597996865914480": {
+      "message": "GÖNDER"
+   },
+   "6042567254866620046": {
+      "message": "Bu sistem $PRODUCT$ ürününe bağlı değil. Bağlanmaya çalışmak için lütfen Bağlan düğmesine basın.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "6084304183859355623": {
+      "message": "$EMAIL$ olarak oturum açtınız. Devam etmek için, Google Classroom'a erişimi olan bir Google okul hesabı kullanarak $START_LINK$Chrome'da oturum açın$END_LINK$.",
+      "placeholders": {
+         "EMAIL": {
+            "content": "$1"
+         },
+         "END_LINK": {
+            "content": "$2"
+         },
+         "START_LINK": {
+            "content": "$3"
+         }
+      }
+   },
+   "6110089012347909146": {
+      "message": "kapalı"
+   },
+   "6229272560153199861": {
+      "message": "Sayfaları hep birlikte açmak için bir sınıf oluşturun"
+   },
+   "6422956386741575643": {
+      "message": "Kısa bir açıklama girin"
+   },
+   "6576961868476783976": {
+      "message": "$PRODUCT$, dokümanı paylaşmaya çalışırken bir hatayla karşılaştı. Lütfen daha sonra tekrar deneyin.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "6666246860368909334": {
+      "message": " - "
+   },
+   "6731720160639032735": {
+      "message": "$EMAIL$ olarak oturum açıldı",
+      "placeholders": {
+         "EMAIL": {
+            "content": "$1"
+         }
+      }
+   },
+   "6802974388288119584": {
+      "message": "Google Geri Bildirim Aracı, Google'a ürünlerimiz hakkında öneriler göndermenize olanak tanır. Bize sorun raporları, özellik fikirleri ve genel yorumlar gönderebilirsiniz."
+   },
+   "6921620009241719815": {
+      "message": "Önceki Sayfaya Git"
+   },
+   "7002955679222677443": {
+      "message": "Daha Fazla Bilgi Edinin"
+   },
+   "7014972904425258116": {
+      "message": "Öğretmenler dosyaya yorum ekleyebilir"
+   },
+   "7187802960307973851": {
+      "message": "Yakın zamanda herhangi bir sayfa almadınız."
+   },
+   "7419648588978430202": {
+      "message": "Geçmişiniz yükleniyor..."
+   },
+   "7467129818830892099": {
+      "message": "Öğrencileri tam ekran sayfada göster"
+   },
+   "7520798696482451948": {
+      "message": "SINIFA KATIL"
+   },
+   "7582805180132294390": {
+      "message": "$PRODUCT$, sunucularına bağlanmada sorun yaşıyor. Bu sorun devam ederse İnternet bağlantınızı ve güvenlik duvarı ayarlarınızı kontrol edip aşağıdaki geri bildirim simgesini kullanarak geri bildirim gönderin.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "7604563725603697690": {
+      "message": "Bulunduğunuz sayfanın ekran görüntüsü."
+   },
+   "7613121200569555025": {
+      "message": "$NAME$ bir sayfa gönderdi",
+      "placeholders": {
+         "NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "7646520484997880732": {
+      "message": "Ayarlar Sayfasını Açar"
+   },
+   "7733702880641460982": {
+      "message": "Google Geri Bildirim Aracı"
+   },
+   "77478328938908900": {
+      "message": "Uyarı İletisini Kapat"
+   },
+   "7798244153502527716": {
+      "message": "$PRODUCT$ ürününü kullanmak için Chrome'da oturum açmalısınız.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "7819314041543176992": {
+      "message": "Kapat"
+   },
+   "7826444313570725162": {
+      "message": "GÖNDERİLDİ"
+   },
+   "784919827997620253": {
+      "message": "Geri Bildirim Gönder"
+   },
+   "7869782771655761788": {
+      "message": "Gönderildi"
+   },
+   "787828271820052473": {
+      "message": "Sayfaları hep birlikte açmak için bir sınıf oluşturun veya sınıfa katılın"
+   },
+   "7914587618073030772": {
+      "message": "Classroom'da Paylaş (Test)"
+   },
+   "7924019946919704377": {
+      "message": "Chrome'da oturum açmak için $START_LINK$burayı tıklayın$END_LINK$, ardından $PRODUCT_NAME$ ürününü tekrar deneyin.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "PRODUCT_NAME": {
+            "content": "$2"
+         },
+         "START_LINK": {
+            "content": "$3"
+         }
+      }
+   },
+   "8071009096908772636": {
+      "message": "Öğrenciler bana web sayfası gönderdiğinde tarayıcı bildirimleri göster"
+   },
+   "8083611296479050044": {
+      "message": "Geri Bildirim Sayfasına Git"
+   },
+   "8107264734060843365": {
+      "message": "If this problem doesn't go away, try restarting your computer. If this problem persists, click the feedback icon below to submit feedback."
+   },
+   "813263746069473514": {
+      "message": "Bağlan"
+   },
+   "819996403327805209": {
+      "message": "Daha fazla bilgi edinin"
+   },
+   "8250116767525441148": {
+      "message": "$PRODUCT$, $SITE$ sitesine bağlanamadı. Lütfen İnternet'e bağlı olduğunuzdan emin olun ve tekrar deneyin.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         },
+         "SITE": {
+            "content": "$2"
+         }
+      }
+   },
+   "826991190228103925": {
+      "message": "Ayarlar"
+   },
+   "8410291800785136487": {
+      "message": "Öğrencilere gönder"
+   },
+   "8427578009205621398": {
+      "message": "$PARTICIPATING$/$TOTAL$ öğrenci",
+      "placeholders": {
+         "PARTICIPATING": {
+            "content": "$1"
+         },
+         "TOTAL": {
+            "content": "$2"
+         }
+      }
+   },
+   "8510084535053903986": {
+      "message": "Öğretmenler dosyayı düzenleyebilir"
+   },
+   "8584185541337081736": {
+      "message": "Gönderdiğiniz bağlantıları alabilmeleri için bu uzantıyı öğrencilerinizle de paylaşın.&nbsp;"
+   },
+   "8636360788868898667": {
+      "message": "Dersiniz anında aynı web sayfasında görünsün."
+   },
+   "8657495129257769609": {
+      "message": "Makinenizin İnternet'e bağlı olmadığı anlaşılıyor. Lütfen bağlantınızı kontrol edin ve tekrar deneyin."
+   },
+   "8757637959955680925": {
+      "message": "$PRODUCT_NAME$ ürününü kullanmak için Chrome'da oturum açmalısınız. Şu an oturum açmamış olduğunuz anlaşılıyor.",
+      "placeholders": {
+         "PRODUCT_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "8812061458772284085": {
+      "message": "Açıklama, ürün bilgileri, ek sistem bilgileri ve e-posta adresiniz Google'a gönderilir. Google'ın $START_LINK_1$Gizlilik Politikası$END_LINK$'nı ve $START_LINK_2$Hizmet Şartları$END_LINK$'nı inceleyin.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK_1": {
+            "content": "$2"
+         },
+         "START_LINK_2": {
+            "content": "$3"
+         }
+      }
+   },
+   "8876711157282412092": {
+      "message": "{numLinks,plural, =1{# bağlantı}other{# bağlantı}}"
+   },
+   "8934950226874423147": {
+      "message": "Öğrenciler dosyayı düzenleyebilir"
+   },
+   "9057609174906387434": {
+      "message": "$PAGE_TITLE$ simgesi.",
+      "placeholders": {
+         "PAGE_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "9200475522066047621": {
+      "message": "Kayıtlı olunan dersler"
+   },
+   "9217362152767454370": {
+      "message": "Profilinize erişmek için $PRODUCT$ ürününün izninize ihtiyacı var.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "99413348305232894": {
+      "message": "Classroom'da Paylaş"
+   }
+}

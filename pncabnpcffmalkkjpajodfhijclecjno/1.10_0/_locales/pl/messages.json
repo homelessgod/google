@@ -1,0 +1,77 @@
+{
+   "close_button": {
+      "message": "Zamknij"
+   },
+   "extension_description": {
+      "message": "Password Checkup pomaga ponownie zabezpieczyć konta, których bezpieczeństwo zostało naruszone."
+   },
+   "extension_detailed_description": {
+      "message": "Zobaczysz alert zawsze wtedy, gdy zechcesz się zalogować przy użyciu nazwy użytkownika i hasła, o których wiemy, że ich bezpieczeństwo zostało naruszone. Zresetuj swoje hasło. Jeśli używasz tej nazwy użytkownika i tego hasła także na innych kontach, tam także zresetuj hasło.\n\nFunkcja Password Checkup została opracowana z myślą o ochronie prywatności. Nie przekazuje żadnych informacji umożliwiających identyfikację Twojego konta, urządzenia czy też odczytanie Twoich haseł. Zgłaszamy anonimowe informacje na temat liczby wyszukiwań, które doprowadziły do wyświetlenia niezabezpieczonych danych logowania bez względu na to, czy po wysłaniu alertu doszło do zmiany hasła czy nie. Zgłaszamy też nazwę domeny, by zwiększyć zasięg wyszukiwania. Więcej informacji o zasadach działania funkcji Password Checkup znajdziesz na https://support.google.com/accounts?p=password-checkup\n\nInstalując ten element, wyrażasz zgodę na Politykę prywatności i Warunki korzystania z usług Google na www.google.com/policies/"
+   },
+   "extension_name": {
+      "message": "Password Checkup"
+   },
+   "ignore_button": {
+      "message": "Ignoruj na tej stronie"
+   },
+   "learn_more": {
+      "message": "Więcej informacji"
+   },
+   "popup_advanced_settings_action": {
+      "message": "Ustawienia zaawansowane"
+   },
+   "popup_default_status_message": {
+      "message": "Żadne z Twoich ostatnio używanych haseł nie zostało wykryte w wyniku naruszenia bezpieczeństwa danych."
+   },
+   "popup_ignore_button": {
+      "message": "Ignoruj"
+   },
+   "popup_ignored_status_message": {
+      "message": "Żadne z Twoich ostatnio używanych haseł nie zostało wykryte w wyniku naruszenia bezpieczeństwa danych. Nie obejmuje to niebezpiecznych haseł, które nie zostały zresetowane przy wcześniejszych ostrzeżeniach (wybrano opcję Ignoruj)."
+   },
+   "popup_learn_more": {
+      "message": "Więcej informacji"
+   },
+   "popup_multiple_accounts_warning_status_message": {
+      "message": "Rozszerzenie Password Checkup wykryło, że Twoje hasła do \u003Cb>$1 kont\u003C/b> nie są już bezpieczne ze względu na naruszenie bezpieczeństwa danych.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "popup_number_unsafe_accounts": {
+      "message": "Liczba zagrożonych kont: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "popup_one_account_warning_status_message": {
+      "message": "Rozszerzenie Password Checkup wykryło, że hasło do \u003Cb>1 konta\u003C/b> nie jest już bezpieczne ze względu na naruszenie bezpieczeństwa danych."
+   },
+   "popup_reset_extension_button": {
+      "message": "Wyczyść dane rozszerzenia"
+   },
+   "popup_reset_extension_text": {
+      "message": "Wyczyść wszystkie dane rozszerzenia. Spowoduje to usunięcie wszystkich zapisanych informacji o niebezpiecznych hasłach i ignorowanych stronach."
+   },
+   "popup_warning_action": {
+      "message": "Jak najszybciej zmień hasło."
+   },
+   "reset_text": {
+      "message": "Zmień hasło teraz."
+   },
+   "warning_banner_header": {
+      "message": "Zmień swoje hasło"
+   },
+   "warning_text": {
+      "message": "Rozszerzenie Password Checkup wykryło, że Twoje hasło do domeny \u003Cb>$1\u003C/b> nie jest już bezpieczne ze względu na naruszenie bezpieczeństwa danych.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   }
+}

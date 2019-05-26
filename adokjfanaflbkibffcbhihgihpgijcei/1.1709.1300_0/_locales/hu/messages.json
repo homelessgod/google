@@ -1,0 +1,440 @@
+{
+   "101206989909763677": {
+      "message": "A következőhöz tartozó tanulók: $CLASS_NAME$",
+      "placeholders": {
+         "CLASS_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "1258929983314547244": {
+      "message": "ELKÜLDVE A TANÁRNAK"
+   },
+   "1301730406464354688": {
+      "message": "A Tanterem megnyitása"
+   },
+   "1462156539679968804": {
+      "message": "A tanulóktól kapott elemek"
+   },
+   "1472332582476021124": {
+      "message": "A tanulók megtekinthetik a fájlt"
+   },
+   "1510105121221276016": {
+      "message": "Zárolás a képernyőn"
+   },
+   "1550690544509024009": {
+      "message": "{numFlings,plural, =1{# új}other{# új}}"
+   },
+   "1663150675851578875": {
+      "message": "Probléma adódott a(z) $PRODUCT_NAME$ szolgáltatáshoz történő kapcsolódáskor. Ellenőrizze, hogy elérhető-e a hálózati kapcsolat, majd próbáljon újra kapcsolódni.",
+      "placeholders": {
+         "PRODUCT_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "1758804700969198023": {
+      "message": "Megosztás menü"
+   },
+   "1790549872641667595": {
+      "message": "Megosztás a Tanteremmel (béta)"
+   },
+   "1951089763019042037": {
+      "message": "Tanuló"
+   },
+   "2050089326602918210": {
+      "message": "Megosztás a Tanteremmel"
+   },
+   "2062938386395101624": {
+      "message": "A tanulóknak küldött elemek"
+   },
+   "2070581630224025695": {
+      "message": "Közlemény közzététele"
+   },
+   "2090147790320018555": {
+      "message": "Mostanában nem küldött másoknak elemeket."
+   },
+   "2213990758451550370": {
+      "message": "A tanulók megjegyzést fűzhetnek a fájlhoz"
+   },
+   "2266749875018591275": {
+      "message": "$PRODUCT_NAME$-bővítménye elavult. A folytatáshoz kattintson $START_LINK$ide a bővítmény eltávolításához$END_LINK$. Ezzel megnyitja a Chrome Internetes áruházat, ahol a bővítményt újra feltelepítheti.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "PRODUCT_NAME": {
+            "content": "$2"
+         },
+         "START_LINK": {
+            "content": "$3"
+         }
+      }
+   },
+   "2315140680766681153": {
+      "message": "Nincs megjeleníthető tanuló."
+   },
+   "2409870568039115310": {
+      "message": "URL KÜLDÉSE A TANÁRNAK"
+   },
+   "2416435327104074837": {
+      "message": "A tanárnak küldött elemek"
+   },
+   "265018083235803821": {
+      "message": "Engedélyek menü"
+   },
+   "272253201636921624": {
+      "message": "Küldés"
+   },
+   "3208531239543188174": {
+      "message": "Megnyitás {numSeconds,plural, =1{1 másodpercen belül}other{# másodpercen belül}}..."
+   },
+   "3727581148109420602": {
+      "message": "Megnyitás új lapon"
+   },
+   "3852289441366561594": {
+      "message": "Kapcsolódás folyamatban…"
+   },
+   "3853169172456108967": {
+      "message": "KURZUS LÉTREHOZÁSA VAGY CSATLAKOZÁS"
+   },
+   "3894950702316166331": {
+      "message": "Betöltés..."
+   },
+   "4012779869104225222": {
+      "message": "Kurzuslista"
+   },
+   "4048890404505834885": {
+      "message": "Kérdés közzététele"
+   },
+   "4101941266124151376": {
+      "message": "be"
+   },
+   "4221250166827447984": {
+      "message": "$TITLE$ megtekintő",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "4269658859113770197": {
+      "message": "Kurzusok betöltése..."
+   },
+   "436489073937327740": {
+      "message": "További naplók küldése a Google-nak, amely tartalmazza a megosztott oldalakat és a kurzus tagjainak e-mail címeit."
+   },
+   "4481147463445876932": {
+      "message": "Feladat létrehozása"
+   },
+   "4491595920888170943": {
+      "message": "A jelenlegi oldalt nem lehet megosztani."
+   },
+   "4622108781632885640": {
+      "message": "A tanártól kapott elemek"
+   },
+   "4742705439416933924": {
+      "message": "Csatlakozzon egy kurzushoz az oldalak közös megnyitásához"
+   },
+   "4748990655911819545": {
+      "message": "Tanítás"
+   },
+   "4811423455816775324": {
+      "message": "A(z) $PRODUCT$ használatához be kell jelentkeznie a Chrome-ba.\nA bejelentkezéshez kattintson ide.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "4849976898594713883": {
+      "message": "A(z) $PRODUCT$ nem tud csatlakozni a szerverekhez, és úgy tűnik, hogy ezt a hibát az átjáró vagy tűzfal konfigurációja okozhatja. Ellenőrizze a tűzfal beállításait, és győződjön meg arról, hogy a konfigurációja engedi a(z) $SERVER$ szerverrel folytatott forgalmat.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         },
+         "SERVER": {
+            "content": "$2"
+         }
+      }
+   },
+   "48585068921907804": {
+      "message": "Hiba történt a következőhöz való csatlakozáskor: $PRODUCT_NAME$. Jelentkezzen ki a fiókjából, majd jelentkezzen be újra. Ha a hiba továbbra is fennáll, kattintson a lenti Visszajelzés ikonra visszajelzés küldéséhez.",
+      "placeholders": {
+         "PRODUCT_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "4930506384627295710": {
+      "message": "Beállítások"
+   },
+   "533692309512814645": {
+      "message": "KÜLDÉS"
+   },
+   "5354810546510399127": {
+      "message": "Megnyitja a súgóoldalt"
+   },
+   "5560440246965579819": {
+      "message": "A tanárok megtekinthetik a fájlt"
+   },
+   "566090020805595985": {
+      "message": "KURZUS LÉTREHOZÁSA"
+   },
+   "5851560788527570644": {
+      "message": "Értesítések"
+   },
+   "5936353814217802658": {
+      "message": "KÜLDÉS A TANÁRNAK"
+   },
+   "6031597996865914480": {
+      "message": "URL KÜLDÉSE"
+   },
+   "6042567254866620046": {
+      "message": "A rendszer nem kapcsolódik a(z) $PRODUCT$ szolgáltatáshoz. A kapcsolódáshoz nyomja meg a Csatlakozás gombot.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "6084304183859355623": {
+      "message": "A következőként van bejelentkezve: $EMAIL$. A folytatáshoz olyan iskolai Google-fiókkal $START_LINK$jelentkezzen be a Chrome-ba$END_LINK$, amely rendelkezik hozzáféréssel a Google Tanteremhez.",
+      "placeholders": {
+         "EMAIL": {
+            "content": "$1"
+         },
+         "END_LINK": {
+            "content": "$2"
+         },
+         "START_LINK": {
+            "content": "$3"
+         }
+      }
+   },
+   "6110089012347909146": {
+      "message": "ki"
+   },
+   "6229272560153199861": {
+      "message": "Hozzon létre egy kurzust az oldalak közös megnyitásához"
+   },
+   "6422956386741575643": {
+      "message": "Írja be a rövid leírást"
+   },
+   "6576961868476783976": {
+      "message": "A(z) $PRODUCT$ nem tudta megosztani a dokumentumot. Próbálkozzon újra később.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "6666246860368909334": {
+      "message": " – "
+   },
+   "6731720160639032735": {
+      "message": "Bejelentkezve mint $EMAIL$",
+      "placeholders": {
+         "EMAIL": {
+            "content": "$1"
+         }
+      }
+   },
+   "6802974388288119584": {
+      "message": "A Google Visszajelzés funkciójával elküldheti nekünk a Google-termékekre vonatkozó javaslatait. Örömmel vesszük, ha megosztja velünk a hibajelentéseket, a funkciókkal kapcsolatos ötleteit és általános megjegyzéseit."
+   },
+   "6921620009241719815": {
+      "message": "Ugrás az előző oldalra"
+   },
+   "7002955679222677443": {
+      "message": "További információ"
+   },
+   "7014972904425258116": {
+      "message": "A tanárok megjegyzést fűzhetnek a fájlhoz"
+   },
+   "7187802960307973851": {
+      "message": "Mostanában nem kapott elemet."
+   },
+   "7419648588978430202": {
+      "message": "Előzmények betöltése..."
+   },
+   "7467129818830892099": {
+      "message": "Tanulók a teljes képernyős oldalon"
+   },
+   "7520798696482451948": {
+      "message": "CSATLAKOZÁS KURZUSHOZ"
+   },
+   "7582805180132294390": {
+      "message": "A(z) $PRODUCT$ szolgáltatás nem tud csatlakozni szervereinkhez. Ha a hiba továbbra is fennáll, ellenőrizze az internetkapcsolatot és a tűzfal beállításait, és küldjön visszajelzést a lenti Visszajelzés ikonra kattintva.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "7604563725603697690": {
+      "message": "Az aktuális oldalról készült képernyőkép."
+   },
+   "7613121200569555025": {
+      "message": "$NAME$ egy oldalt küldött",
+      "placeholders": {
+         "NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "7646520484997880732": {
+      "message": "A Beállítások oldal megnyitása"
+   },
+   "7733702880641460982": {
+      "message": "Google Visszajelzés"
+   },
+   "77478328938908900": {
+      "message": "Figyelmeztető üzenet bezárása"
+   },
+   "7798244153502527716": {
+      "message": "A(z) $PRODUCT$ használatához be kell jelentkeznie a Chrome-ba.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "7819314041543176992": {
+      "message": "Bezárás"
+   },
+   "7826444313570725162": {
+      "message": "ELKÜLDVE"
+   },
+   "784919827997620253": {
+      "message": "Visszajelzés elküldése"
+   },
+   "7869782771655761788": {
+      "message": "Elküldve"
+   },
+   "787828271820052473": {
+      "message": "Hozzon létre egy kurzust, vagy csatlakozzon egyhez az oldalak közös megnyitásához"
+   },
+   "7914587618073030772": {
+      "message": "Megosztás a Tanteremmel (teszt)"
+   },
+   "7924019946919704377": {
+      "message": "$START_LINK$Kattintson ide$END_LINK$ a Chrome-ba való bejelentkezéshez, majd próbáljon újra csatlakozni a következőhöz: $PRODUCT_NAME$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "PRODUCT_NAME": {
+            "content": "$2"
+         },
+         "START_LINK": {
+            "content": "$3"
+         }
+      }
+   },
+   "8071009096908772636": {
+      "message": "Böngészőértesítés megjelenítése a tanulók által küldött weboldallinkekről"
+   },
+   "8083611296479050044": {
+      "message": "Ugrás a visszajelzési oldalra"
+   },
+   "8107264734060843365": {
+      "message": "If this problem doesn't go away, try restarting your computer. If this problem persists, click the feedback icon below to submit feedback."
+   },
+   "813263746069473514": {
+      "message": "Csatlakozás"
+   },
+   "819996403327805209": {
+      "message": "További információ"
+   },
+   "8250116767525441148": {
+      "message": "A(z) $PRODUCT$ nem tudott kapcsolódni a(z) $SITE$ webhelyhez. Ellenőrizze internetkapcsolatát, és próbálkozzon újra.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         },
+         "SITE": {
+            "content": "$2"
+         }
+      }
+   },
+   "826991190228103925": {
+      "message": "Beállítások"
+   },
+   "8410291800785136487": {
+      "message": "URL küldése a tanulóknak"
+   },
+   "8427578009205621398": {
+      "message": "$TOTAL$/$PARTICIPATING$ tanuló",
+      "placeholders": {
+         "PARTICIPATING": {
+            "content": "$1"
+         },
+         "TOTAL": {
+            "content": "$2"
+         }
+      }
+   },
+   "8510084535053903986": {
+      "message": "A tanárok szerkeszthetik a fájlt"
+   },
+   "8584185541337081736": {
+      "message": "Ossza meg ezt a bővítményt a tanulóival, hogy megkapják a linkjeit.&nbsp;"
+   },
+   "8636360788868898667": {
+      "message": "Egy szempillantás alatt egy (web)oldalra hozhatja osztályát."
+   },
+   "8657495129257769609": {
+      "message": "Úgy tűnik, hogy a számítógép nem csatlakozik az internethez. Kérjük, ellenőrizze a kapcsolatot, és próbálja meg újra."
+   },
+   "8757637959955680925": {
+      "message": "A(z) $PRODUCT_NAME$ szolgáltatás használatához be kell jelentkeznie a Chrome-ba. Úgy tűnik, hogy nincs bejelentkezve.",
+      "placeholders": {
+         "PRODUCT_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "8812061458772284085": {
+      "message": "A leírás, a termékadatok, a további rendszeradatok és az Ön e-mail-címe el lesz küldve a Google-nak. Olvassa le a Google $START_LINK_1$Adatvédelmi irányelveit$END_LINK$ és $START_LINK_2$Általános Szerződési Feltételeit$END_LINK$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK_1": {
+            "content": "$2"
+         },
+         "START_LINK_2": {
+            "content": "$3"
+         }
+      }
+   },
+   "8876711157282412092": {
+      "message": "{numLinks,plural, =1{# link}other{# link}}"
+   },
+   "8934950226874423147": {
+      "message": "A tanulók szerkeszthetik a fájlt"
+   },
+   "9057609174906387434": {
+      "message": "A(z) $PAGE_TITLE$ ikonja.",
+      "placeholders": {
+         "PAGE_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "9200475522066047621": {
+      "message": "Jelentkezett"
+   },
+   "9217362152767454370": {
+      "message": "$PRODUCT$ engedélyt kér a profilja eléréséhez.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "99413348305232894": {
+      "message": "Megosztás a Tanteremmel"
+   }
+}

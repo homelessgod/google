@@ -1,0 +1,77 @@
+{
+   "close_button": {
+      "message": "बंद करा"
+   },
+   "extension_description": {
+      "message": "डेटा भंग झाल्यामुळे प्रभावित झालेल्या खात्यांचे रक्षण करण्यासाठी Password Checkup तुम्हाला मदत करते."
+   },
+   "extension_detailed_description": {
+      "message": "तुम्ही साइन इन करता तेव्हा, तुम्ही Google च्या माहितीतील डेटा भंगामध्ये दिसत असल्यामुळे सुरक्षित नसलेले वापरकर्तानाव आणि पासवर्ड एंटर केल्यास, तुम्हाला सूचना मिळेल. कृपया तुमचा पासवर्ड रीसेट करा. तुम्ही इतर कोणत्याही खात्यांसाठी समान वापरकर्तानाव आणि पासवर्ड वापरल्यास, कृपया तेथे देखील तुमचा पासवर्ड रीसेट करा.\n\nगोपनीयता लक्षात घेऊन Password Checkup तयार केले आहे. ते कधीही तुमची खाती, पासवर्ड किंवा डिव्हाइसबदद्ल ओळख पटवून देणारी कोणतीही माहिती उघड करत नाही. आम्ही सुरक्षित नसलेले क्रेडेंशियल दाखवणाऱ्या शोध परिणामांसंबिधत, अलर्टमुळे पासवर्ड बदलण्यासंबंधित आणि साइट कव्हरेजमध्ये सुधारणा करणाऱ्या डोमेनसंबंधित\nअनामित माहितीची तक्रार नोंदवतो. Password Checkup कसे काम करते याविषयी तुम्ही\nhttps://support.google.com/accounts?p=password-checkup येथे अधिक जाणून घेऊ शकता.\n\nहा आयटम इंस्टॉल करून, तुम्ही www.google.com/policies/ वरील Google सेवा अटी आणि गोपनीयता धोरणाला सहमती दर्शवता."
+   },
+   "extension_name": {
+      "message": "Password Checkup"
+   },
+   "ignore_button": {
+      "message": "या साइटसाठी दुलर्क्षित करा"
+   },
+   "learn_more": {
+      "message": "अधिक जाणून घ्या"
+   },
+   "popup_advanced_settings_action": {
+      "message": "प्रगत सेटिंग्ज"
+   },
+   "popup_default_status_message": {
+      "message": "डेटा भंगामध्ये तुमचे अलीकडे वापरलेले कोणतेही पासवर्ड आढळले नाहीत."
+   },
+   "popup_ignore_button": {
+      "message": "दुर्लक्ष करा"
+   },
+   "popup_ignored_status_message": {
+      "message": "डेटा भंगामध्ये तुमचे अलीकडे वापरलेले कोणतेही पासवर्ड आढळले नाहीत. यामध्ये तुम्ही रीसेट करणे दुर्लक्षित केलेल्या असुरक्षित पासवर्डचा समावेश नाही."
+   },
+   "popup_learn_more": {
+      "message": "अधिक जाणून घ्या"
+   },
+   "popup_multiple_accounts_warning_status_message": {
+      "message": "डेटा भंग झाल्यामुळे \u003Cb>$1खाते\u003C/b> याचा पासवर्ड यापुढे सुरक्षित नसल्याचे Password Checkup ला आढळले आहे.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "popup_number_unsafe_accounts": {
+      "message": "$1 असुरक्षित खाते",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "popup_one_account_warning_status_message": {
+      "message": "डेटा भंग झाल्यामुळे \u003Cb> एक खाते\u003C/b> याचा पासवर्ड यापुढे सुरक्षित नसल्याचे Password Checkup ला आढळले आहे."
+   },
+   "popup_reset_extension_button": {
+      "message": "एक्स्टेंशन डेटा साफ करा"
+   },
+   "popup_reset_extension_text": {
+      "message": "सर्व एक्स्टेंशन डेटा साफ करा. हे असुरक्षित पासवर्ड आणि यापूर्वी दुर्लक्षित केलेल्या साइटबद्दल सर्व स्टोअर केलेली माहिती काढून टाकेल."
+   },
+   "popup_warning_action": {
+      "message": "तुम्ही तुमचे पासवर्ड आता बदलले पाहिजेत."
+   },
+   "reset_text": {
+      "message": "तुम्ही तुमचा पासवर्ड आता बदलला पाहिजे."
+   },
+   "warning_banner_header": {
+      "message": "तुमचा पासवर्ड बदला"
+   },
+   "warning_text": {
+      "message": "डेटा भंग झाल्यामुळे तुमचा \u003Cb>$1\u003C/b> साठीचा पासवर्ड यापुढे सुरक्षित नसल्याचे Password Checkup ला आढळले आहे.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   }
+}

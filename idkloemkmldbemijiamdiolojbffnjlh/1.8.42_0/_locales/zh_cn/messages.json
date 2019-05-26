@@ -1,0 +1,482 @@
+{
+  "extension_description": {
+    "message": "直接在 G Suite 中获取互动式培训并观看演示",
+    "description": "Description that appears in Chrome Web Store and Chrome extensions page"
+  },
+  "dialog_content_video_training": {
+    "message": "系统现在会将您转到一个视频培训门户网站，您可以在其中查看 G Suite 培训课程。视频课程是非互动式的，如果您想在自己的 G Suite 服务中学习互动式课程，请切换到受支持的语言。",
+    "description": "Dialog text promoting video training web portal that appears when a user tries to access training in an unsupported language"
+  },
+  "title_bar_app_sites": {
+    "message": "Google 协作平台培训",
+    "description": "Title for Google Sites (G Suite app) training"
+  },
+  "dialog_content_start_new_lesson": {
+    "message": "有课程正在进行。如果开始新的课程，将会结束正在进行的课程。要开始新课程吗？",
+    "description": "Dialog text that appears when a user tries to start a new training lessons while an existing training lesson is in progress"
+  },
+  "dialog_title_play_video_lesson": {
+    "message": "播放视频课程",
+    "description": "Dialog title for playing a video training lesson"
+  },
+  "menu_play_all_recommended": {
+    "message": "播放所有推荐课程",
+    "description": "Button text for playing all recommended training lessons"
+  },
+  "dialog_start_welcome": {
+    "message": "开始",
+    "description": "Dialog text for starting training"
+  },
+  "related_links": {
+    "message": "相关链接",
+    "description": "Button text for list of related web links for current training lesson"
+  },
+  "whatsnew_section_title_without_app_name": {
+    "message": "新课程",
+    "description": "Section title for new training lessons"
+  },
+  "menu_settings": {
+    "message": "设置",
+    "description": "Button text for training settings link"
+  },
+  "tooltip_known": {
+    "message": "被标记为已学习的课程",
+    "description": "Tooltip for training lesson that was marked as known by user"
+  },
+  "menu_warning_no_lessons_available": {
+    "message": "关于此应用的培训课程即将推出。",
+    "description": "Text that appears in training menu when no training lessons are available for current G Suite app"
+  },
+  "dialog_close_autoplay_fail": {
+    "message": "关闭",
+    "description": "Button text for closing dialog"
+  },
+  "tooltip_recommended": {
+    "message": "推荐课程",
+    "description": "Tooltip for recommended training lessons"
+  },
+  "menu_training": {
+    "message": "培训",
+    "description": "Text for title of training menu"
+  },
+  "dialog_content_end_lesson": {
+    "message": "这会结束课程。确定要继续吗？",
+    "description": "Dialog text that appears when a user exits a training lesson in progress"
+  },
+  "menu_version": {
+    "message": "版本",
+    "description": "Menu text for current version of training software"
+  },
+  "dialog_title_end_lesson": {
+    "message": "结束课程",
+    "description": "Dialog title that appears when a user exits a training lesson in progress"
+  },
+  "dialog_yes_end_lesson": {
+    "message": "是",
+    "description": "Button text for choosing Yes to end a training lesson"
+  },
+  "dialog_title_welcome": {
+    "message": "欢迎使用“G Suite 培训”",
+    "description": "Dialog title that appears when you first start using training software"
+  },
+  "dialog_title_play_next_lesson": {
+    "message": "播放下一课程",
+    "description": "Button text for playing the next training lesson"
+  },
+  "player_next": {
+    "message": "下一课程",
+    "description": "Button text for moving to the next training lesson"
+  },
+  "title_bar_app_hangouts": {
+    "message": "环聊培训",
+    "description": "Title text for Google Hangouts (G Suite app) Training"
+  },
+  "connection_problem": {
+    "message": "无法连接到服务器。",
+    "description": "Text that appears in training menu when there is a problem connecting to the training server"
+  },
+  "tooltip_adjust_volume": {
+    "message": "调整音量",
+    "description": "Tooltip for adjusting audio volume of training"
+  },
+  "material_warmwelcome_icon_tooltip_proceed_button": {
+    "message": "立即查看",
+    "description": "Button text for finding out what is the newest training lesson in the current G Suite app"
+  },
+  "dialog_end_lesson": {
+    "message": "结束课程",
+    "description": "Button text for ending current training lesson"
+  },
+  "reload": {
+    "message": "重新加载",
+    "description": "Button text for reloading training menu content"
+  },
+  "dialog_content_autoplay_fail": {
+    "message": "您尝试访问的课程不可用。您可以使用“培训”菜单中的“反馈”链接报告错误。",
+    "description": "Dialog text that appears when a training lesson is unavailable"
+  },
+  "material_warmwelcome_menu_tooltip_button": {
+    "message": "太棒了",
+    "description": "Button text that appears in training warm welcome process to acknowledge understanding of training menu"
+  },
+  "menu_multilogin_change_account": {
+    "message": "更改帐号并重新加载",
+    "description": "Link text for changing to another Google account from training menu"
+  },
+  "tooltip_progress_75": {
+    "message": "已完成 70%",
+    "description": "Tooltip text for a training lesson that is 70% complete"
+  },
+  "dialog_content_autoplay_login_fail": {
+    "message": "如要播放共享课程，请先登录。",
+    "description": "Dialog text that appears when user tries to play a training lesson from a shared link, and they are not logged in to their Google account"
+  },
+  "tooltip_next_lesson": {
+    "message": "下一课程",
+    "description": "Tooltip for playing next training lesson button"
+  },
+  "dialog_title_video_training": {
+    "message": "转到视频培训",
+    "description": "Button text for going to video training web portal"
+  },
+  "try_now": {
+    "message": "立即尝试",
+    "description": "Button text for trying to connect to training server manually when connection fails"
+  },
+  "player_playing": {
+    "message": "正在播放",
+    "description": "Text that appears in training player when a training lesson is playing"
+  },
+  "title_bar_missing_app_default": {
+    "message": "G Suite 培训",
+    "description": "Title text for default training menu title, more info on G Suite at https://gsuite.google.com"
+  },
+  "tooltip_progress": {
+    "message": "已完成 70%",
+    "description": "Tooltip text for a training lesson that is at least 70% complete"
+  },
+  "title_bar_app_groups": {
+    "message": "网上论坛培训",
+    "description": "Title text for Google Groups (G Suite app) Training"
+  },
+  "language_name_en": {
+    "message": "英语",
+    "description": "Text label for English locale"
+  },
+  "whatsnew_section_title_with_app_name": {
+    "message": "%APP%中的新课程",
+    "description": "Title for training menu new training lessons section, %APP% should not be translated"
+  },
+  "dialog_content_restart_lesson": {
+    "message": "我们发现您中断了课程，要重新开始吗？如果您选择“否”，课程将会结束。",
+    "description": "Dialog text that appears when a user interrupts a training lesson and causes the current UI target of the lesson to no longer be visibile (e.g closing a menu). The dialog offers the user to restart the training lesson."
+  },
+  "language_name_es": {
+    "message": "西班牙语 (Español)",
+    "description": "Text label for Spanish locale, only English text should be translated"
+  },
+  "language_name_ja": {
+    "message": "日语（日本語）",
+    "description": "Text label for Japanese locale, only English text should be translated"
+  },
+  "dialog_cancel_video_training": {
+    "message": "取消",
+    "description": "Button text for cancelling the dialog that takes the user to the video training web portal"
+  },
+  "title_bar_app_inbox": {
+    "message": "Inbox 培训",
+    "description": "Title text for Google Inbox (G Suite app) Training"
+  },
+  "dialog_title_start_new_lesson": {
+    "message": "开始新课程",
+    "description": "String for translation"
+  },
+  "menu_view_all": {
+    "message": "查看全部",
+    "description": "String for translation"
+  },
+  "dialog_content_play_next_lesson": {
+    "message": "我们无法播放此课程的互动式版本，并已向培训团队报告这一问题。请继续学习下一课程。",
+    "description": "String for translation"
+  },
+  "material_warmwelcome_icon_tooltip_cancel_button": {
+    "message": "不用了",
+    "description": "String for translation"
+  },
+  "dialog_content_play_video_lesson": {
+    "message": "我们无法播放此课程的互动式版本，您可以加载视频版本以完成课程。",
+    "description": "String for translation"
+  },
+  "title_bar_app_calendar": {
+    "message": "日历培训",
+    "description": "String for translation"
+  },
+  "menu_training_tooltip": {
+    "message": "G Suite 培训",
+    "description": "String for translation"
+  },
+  "wait_for_reconnect": {
+    "message": "正在加载，请稍候。",
+    "description": "String for translation"
+  },
+  "menu_search": {
+    "message": "搜索",
+    "description": "String for translation"
+  },
+  "player_next_lesson": {
+    "message": "下一课程",
+    "description": "String for translation"
+  },
+  "tooltip_progress_50": {
+    "message": "已完成 50%",
+    "description": "String for translation"
+  },
+  "title_bar_app_classroom": {
+    "message": "“课堂”培训",
+    "description": "String for translation"
+  },
+  "language_name_zh_cn": {
+    "message": "简体中文",
+    "description": "String for translation"
+  },
+  "dialog_no_restart_lesson": {
+    "message": "否",
+    "description": "String for translation"
+  },
+  "title_bar_app_presentation": {
+    "message": "幻灯片培训",
+    "description": "String for translation"
+  },
+  "dialog_yes_start_new_lesson": {
+    "message": "是",
+    "description": "String for translation"
+  },
+  "menu_login": {
+    "message": "登录“G Suite 培训”",
+    "description": "String for translation"
+  },
+  "menu_search_empty": {
+    "message": "找不到任何结果。请试试搜索其他关键字。",
+    "description": "String for translation"
+  },
+  "dialog_yes_restart_lesson": {
+    "message": "是",
+    "description": "String for translation"
+  },
+  "tooltip_share": {
+    "message": "分享",
+    "description": "String for translation"
+  },
+  "dialog_close_copy_link": {
+    "message": "关闭",
+    "description": "String for translation"
+  },
+  "title_bar_app_plus": {
+    "message": "Google+ 培训",
+    "description": "String for translation"
+  },
+  "dialog_ok_video_training": {
+    "message": "确定",
+    "description": "String for translation"
+  },
+  "player_previous_lesson": {
+    "message": "上一课程",
+    "description": "String for translation"
+  },
+  "button_video_training": {
+    "message": "转到视频培训",
+    "description": "String for translation"
+  },
+  "menu_recommended": {
+    "message": "仅显示推荐课程",
+    "description": "String for translation"
+  },
+  "dialog_content_welcome": {
+    "message": "想了解如何使用“G Suite 培训”吗？系统即将播放音频，请调整好音量。",
+    "description": "String for translation"
+  },
+  "tooltip_progress_25": {
+    "message": "已完成 25%",
+    "description": "String for translation"
+  },
+  "tooltip_previous_lesson": {
+    "message": "上一课程",
+    "description": "String for translation"
+  },
+  "retrying_connection": {
+    "message": "正在重试…",
+    "description": "String for translation"
+  },
+  "title_bar_app_document": {
+    "message": "文档培训",
+    "description": "String for translation"
+  },
+  "dialog_no_start_new_lesson": {
+    "message": "否",
+    "description": "String for translation"
+  },
+  "dialog_load_video_lesson": {
+    "message": "加载视频",
+    "description": "String for translation"
+  },
+  "dialog_content_copy_link": {
+    "message": "链接已复制到剪贴板",
+    "description": "String for translation"
+  },
+  "menu_multilogin_warning": {
+    "message": "您目前是使用其他帐号登录的“G Suite 培训”：",
+    "description": "String for translation"
+  },
+  "dialog_skip_welcome": {
+    "message": "跳过",
+    "description": "String for translation"
+  },
+  "language_name_de": {
+    "message": "德语 (Deutsch)",
+    "description": "String for translation"
+  },
+  "title_bar_app_forms": {
+    "message": "表单培训",
+    "description": "String for translation"
+  },
+  "dialog_play_next_lesson": {
+    "message": "下一课程",
+    "description": "String for translation"
+  },
+  "dialog_title_copy_link": {
+    "message": "复制链接",
+    "description": "String for translation"
+  },
+  "player_completed_title": {
+    "message": "课程已完成。",
+    "description": "String for translation"
+  },
+  "dialog_no_end_lesson": {
+    "message": "否",
+    "description": "String for translation"
+  },
+  "menu_multilogin_change": {
+    "message": "更改",
+    "description": "String for translation"
+  },
+  "tooltip_play": {
+    "message": "播放",
+    "description": "String for translation"
+  },
+  "title_bar_app_drive": {
+    "message": "云端硬盘培训",
+    "description": "String for translation"
+  },
+  "title_bar_app_spreadsheets": {
+    "message": "表格培训",
+    "description": "String for translation"
+  },
+  "menu_play_all": {
+    "message": "全部播放",
+    "description": "String for translation"
+  },
+  "tooltip_not_started": {
+    "message": "我已学习此课程",
+    "description": "String for translation"
+  },
+  "tooltip_pause": {
+    "message": "暂停",
+    "description": "String for translation"
+  },
+  "dialog_title_restart_lesson": {
+    "message": "要重新开始此课程吗？",
+    "description": "String for translation"
+  },
+  "material_warmwelcome_menu_tooltip_title": {
+    "message": "试试看！",
+    "description": "String for translation"
+  },
+  "language_name_zh_tw": {
+    "message": "繁体中文（繁體中文）",
+    "description": "String for translation"
+  },
+  "button_skip_to_next": {
+    "message": "跳到下一课程",
+    "description": "String for translation"
+  },
+  "menu_new_lesson": {
+    "message": "新课程",
+    "description": "String for translation"
+  },
+  "retry_connection": {
+    "message": "将于 %SEC%后重试…",
+    "description": "String for translation"
+  },
+  "menu_search_results_section": {
+    "message": "搜索结果",
+    "description": "String for translation"
+  },
+  "module_data_empty": {
+    "message": "抱歉，在目前的语言设置下，我们不提供关于此应用的课程。如要查看可用的课程，请将语言设置改为：",
+    "description": "String for translation"
+  },
+  "language_name_fr": {
+    "message": "法语 (Français)",
+    "description": "String for translation"
+  },
+  "dialog_title_autoplay_fail": {
+    "message": "无法播放此课程",
+    "description": "String for translation"
+  },
+  "title_bar_app_mail": {
+    "message": "Gmail 培训",
+    "description": "String for translation"
+  },
+  "tooltip_completed": {
+    "message": "已完成",
+    "description": "String for translation"
+  },
+  "generic_problem": {
+    "message": "发生意外问题，我们正在调查。您可以刷新页面进行重试。",
+    "description": "String for translation"
+  },
+  "material_warmwelcome_icon_tooltip_title": {
+    "message": "G Suite 有哪些%HIGHLIGHT_START%新课程%HIGHLIGHT_END%？",
+    "description": "String for translation"
+  },
+  "menu_copy_lesson_link": {
+    "message": "复制课程的直接链接",
+    "description": "String for translation"
+  },
+  "tooltip_player_completed": {
+    "message": "已完成",
+    "description": "String for translation"
+  },
+  "player_completed_content": {
+    "message": "您可以按“播放”重新学习此课程，也可以点击“下一课程”按钮以继续学习下一课程。",
+    "description": "String for translation"
+  },
+  "title_bar_app_admin": {
+    "message": "管理控制台培训",
+    "description": "String for translation"
+  },
+  "menu_start_here": {
+    "message": "从这里开始",
+    "description": "String for translation"
+  },
+  "menu_warning_updated": {
+    "message": "“G Suite 培训”Chrome 扩展程序已成功更新。请重新加载此页面。",
+    "description": "String for translation"
+  },
+  "menu_new_lesson_with_count": {
+    "message": "%NUM% 个新课程",
+    "description": "String for translation"
+  },
+  "autoplay_up_next": {
+    "message": "接下来",
+    "description": "Up next message in autoplay"
+  },
+  "autoplay_lesson_will_start": {
+    "message": "课程将于15年代开始",
+    "description": "Message when the lesson will start."
+  },
+  "autoplay_cancel": {
+    "message": "取消",
+    "description": "Message to cancel autoplay."
+  }
+}

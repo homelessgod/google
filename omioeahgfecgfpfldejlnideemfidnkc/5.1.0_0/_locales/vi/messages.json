@@ -1,0 +1,69 @@
+{
+   "app_description": {
+      "message": "Xem dữ liệu về quảng cáo và tài khoản AdSense, Ad Exchange và DFP, đồng thời chặn quảng cáo không phù hợp trên trang web của bạn."
+   },
+   "cs_overlay_date_7day": {
+      "message": "7 ngày"
+   },
+   "cs_overlay_date_today": {
+      "message": "Hôm nay"
+   },
+   "cs_overlay_date_yesterday": {
+      "message": "Hôm qua"
+   },
+   "cs_overlay_size_name": {
+      "message": "K.thước"
+   },
+   "cs_overlay_type_name": {
+      "message": "Loại"
+   },
+   "dfp_creative_id": {
+      "message": "Quảng cáo: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "dfp_no_creative": {
+      "message": "Không có quảng cáo DFP"
+   },
+   "dfp_unknown_creative": {
+      "message": "Quảng cáo không xác định"
+   },
+   "domains_whitelist_saved": {
+      "message": "Đã cập nhật danh sách các trang web được ủy quyền."
+   },
+   "expired_creative": {
+      "message": "Chúng tôi đã không thể truy lục thông tin cho quảng cáo này. Vui lòng đợi vài giây, sau đó thử tải lại trang."
+   },
+   "expired_line_item": {
+      "message": "Chúng tôi đã không thể truy lục thông tin cho mục hàng này. Vui lòng đợi vài giây, sau đó thử tải lại trang."
+   },
+   "line_item_adsense_or_adx": {
+      "message": "AdSense hoặc Ad Exchange"
+   },
+   "line_item_id": {
+      "message": "Mục hàng: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "line_item_no_ad": {
+      "message": "Không có quảng cáo DFP"
+   },
+   "misconfigured_ad_notification_text": {
+      "message": "Trang này chứa \u003Ca href=\"ovnfc\">0\u003C/span> đơn vị quảng cáo được định cấu hình sai. Điều này có thể ảnh hưởng tiêu cực đến doanh thu của bạn. \u003Ca target=\"_new\" href=\"http://support.google.com/adsense/bin/answer.py?answer=2694805\" class=\"ovnfs\">Tìm hiểu thêm\u003C/a>"
+   },
+   "no_results_creative": {
+      "message": "Chúng tôi không thể tìm thấy thông tin cho quảng cáo này. Bạn có thể không có quyền truy cập vào quảng cáo."
+   },
+   "no_results_line_item": {
+      "message": "Chúng tôi không thể tìm thấy thông tin cho mục hàng này. Bạn có thể không có quyền truy cập vào mục hàng."
+   },
+   "settings_saved_title": {
+      "message": "Đã lưu cài đặt"
+   }
+}

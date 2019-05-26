@@ -1,0 +1,440 @@
+{
+   "101206989909763677": {
+      "message": "Študenti na predavanju $CLASS_NAME$",
+      "placeholders": {
+         "CLASS_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "1258929983314547244": {
+      "message": "POSLANO UČITELJU"
+   },
+   "1301730406464354688": {
+      "message": "Odpri Učilnico"
+   },
+   "1462156539679968804": {
+      "message": "Prejeto od študentov"
+   },
+   "1472332582476021124": {
+      "message": "Študenti si lahko ogledajo datoteko"
+   },
+   "1510105121221276016": {
+      "message": "Prikaži določeno spletno stran na zaslonu"
+   },
+   "1550690544509024009": {
+      "message": "{numFlings,plural, =1{# nov}one{# nov}two{# nova}few{# novi}other{# novih}}"
+   },
+   "1663150675851578875": {
+      "message": "Pri vzpostavljanju povezave z aplikacijo $PRODUCT_NAME$ prihaja do težav. Preverite, ali je vaša omrežna povezava na voljo, in nato poskusite ponovno vzpostaviti povezavo.",
+      "placeholders": {
+         "PRODUCT_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "1758804700969198023": {
+      "message": "Meni »Skupna raba«"
+   },
+   "1790549872641667595": {
+      "message": "Skupna raba z aplikacijo Classroom (interna uporaba)"
+   },
+   "1951089763019042037": {
+      "message": "Študent"
+   },
+   "2050089326602918210": {
+      "message": "Skupna raba z Učilnico"
+   },
+   "2062938386395101624": {
+      "message": "Objavljeno za študente"
+   },
+   "2070581630224025695": {
+      "message": "Ustvari obvestilo"
+   },
+   "2090147790320018555": {
+      "message": "V zadnjem času niste ničesar objavili."
+   },
+   "2213990758451550370": {
+      "message": "Študenti lahko komentirajo datoteko"
+   },
+   "2266749875018591275": {
+      "message": "Vaša razširitev za »$PRODUCT_NAME$« je zastarela. Če želite nadaljevati, kliknite, da $START_LINK$odstranite to razširitev$END_LINK$. S tem boste odprli tudi stran Spletne trgovine Chrome, na kateri boste lahko ponovno namestili razširitev.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "PRODUCT_NAME": {
+            "content": "$2"
+         },
+         "START_LINK": {
+            "content": "$3"
+         }
+      }
+   },
+   "2315140680766681153": {
+      "message": "Ni študentov za prikaz."
+   },
+   "2409870568039115310": {
+      "message": "POŠLJI UČITELJU"
+   },
+   "2416435327104074837": {
+      "message": "Objavljeno za učitelja"
+   },
+   "265018083235803821": {
+      "message": "Meni z dovoljenji"
+   },
+   "272253201636921624": {
+      "message": "Pošiljanje"
+   },
+   "3208531239543188174": {
+      "message": "Vsebina se bo odprla čez {numSeconds,plural, =1{1 sekundo}one{# sekundo}two{# sekundi}few{# sekunde}other{# sekund}} ..."
+   },
+   "3727581148109420602": {
+      "message": "Odpri na novem zavihku"
+   },
+   "3852289441366561594": {
+      "message": "Vzpostavljanje povezave ..."
+   },
+   "3853169172456108967": {
+      "message": "USTVARI PREDAVANJE ALI SE MU PRIDRUŽI"
+   },
+   "3894950702316166331": {
+      "message": "Nalaganje ..."
+   },
+   "4012779869104225222": {
+      "message": "Seznam predavanj"
+   },
+   "4048890404505834885": {
+      "message": "Zastavite vprašanje"
+   },
+   "4101941266124151376": {
+      "message": "vklopljeno"
+   },
+   "4221250166827447984": {
+      "message": "Si ogleduje stran $TITLE$",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "4269658859113770197": {
+      "message": "Nalaganje vaših predavanj ..."
+   },
+   "436489073937327740": {
+      "message": "Pošljite dodatne dnevnike Googlu, v katere so vključene strani, ki ste jih dali v skupno rabo, in e-poštni naslovi članov vašega predavanja."
+   },
+   "4481147463445876932": {
+      "message": "Ustvari nalogo"
+   },
+   "4491595920888170943": {
+      "message": "Trenutne strani ni mogoče dati v skupno rabo."
+   },
+   "4622108781632885640": {
+      "message": "Prejeto od učitelja"
+   },
+   "4742705439416933924": {
+      "message": "Pridružite se predavanju, če želite skupaj odpreti strani"
+   },
+   "4748990655911819545": {
+      "message": "Poučuje"
+   },
+   "4811423455816775324": {
+      "message": "Če želite uporabljati $PRODUCT$, morate biti prijavljeni v Chrome.\nKliknite tukaj, da se prijavite.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "4849976898594713883": {
+      "message": "Pri vzpostavljanju povezave s strežniki storitve $PRODUCT$ je prišlo do težave in videti je, da je vzrok konfiguracija prehoda ali požarnega zidu. Preverite nastavitve požarnega zidu in se prepričajte, da so konfigurirane tako, da omogočajo promet s strežnikom $SERVER$.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         },
+         "SERVER": {
+            "content": "$2"
+         }
+      }
+   },
+   "48585068921907804": {
+      "message": "Imamo težave z vzpostavljanjem povezave z izdelkom $PRODUCT_NAME$. Poskusite se izpisati iz računa in se nato znova vpisati. Če težave ne boste mogli odpraviti, kliknite ikono za povratne informacije spodaj in pošljite povratne informacije.",
+      "placeholders": {
+         "PRODUCT_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "4930506384627295710": {
+      "message": "Nastavitve"
+   },
+   "533692309512814645": {
+      "message": "POŠLJI"
+   },
+   "5354810546510399127": {
+      "message": "Odpre stran s pomočjo"
+   },
+   "5560440246965579819": {
+      "message": "Učitelji si lahko ogledajo datoteko"
+   },
+   "566090020805595985": {
+      "message": "USTVARI PREDAVANJE"
+   },
+   "5851560788527570644": {
+      "message": "Obvestila"
+   },
+   "5936353814217802658": {
+      "message": "POŠLJI UČITELJU"
+   },
+   "6031597996865914480": {
+      "message": "POŠLJI"
+   },
+   "6042567254866620046": {
+      "message": "Ta sistem še nima vzpostavljene povezave z aplikacijo $PRODUCT$. Poskusite vzpostaviti povezavo tako, da pritisnete gumb za vzpostavitev povezave.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "6084304183859355623": {
+      "message": "Prijavljeni ste kot $EMAIL$. Če želite nadaljevati, $START_LINK$se prijavite v Chrome$END_LINK$ z Googlovim šolskim računom, ki ima dovoljenje za dostop do Google Učilnice.",
+      "placeholders": {
+         "EMAIL": {
+            "content": "$1"
+         },
+         "END_LINK": {
+            "content": "$2"
+         },
+         "START_LINK": {
+            "content": "$3"
+         }
+      }
+   },
+   "6110089012347909146": {
+      "message": "izklopljeno"
+   },
+   "6229272560153199861": {
+      "message": "Ustvarite predavanje, če želite skupaj odpreti strani"
+   },
+   "6422956386741575643": {
+      "message": "Vnesite kratek opis"
+   },
+   "6576961868476783976": {
+      "message": "$PRODUCT$ je pri poskusu skupne rabe tega dokumenta naletel na napako. Poskusite ponovno pozneje.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "6666246860368909334": {
+      "message": " – "
+   },
+   "6731720160639032735": {
+      "message": "Prijavljeni ste kot $EMAIL$",
+      "placeholders": {
+         "EMAIL": {
+            "content": "$1"
+         }
+      }
+   },
+   "6802974388288119584": {
+      "message": "Google Povratne informacije vam omogoča pošiljanje predlogov o naših izdelkih v Google. Dobrodošla so poročila o težavah, ideje za funkcije in splošne pripombe."
+   },
+   "6921620009241719815": {
+      "message": "Pojdi na prejšnjo stran"
+   },
+   "7002955679222677443": {
+      "message": "Več o tem"
+   },
+   "7014972904425258116": {
+      "message": "Učitelji lahko komentirajo datoteko"
+   },
+   "7187802960307973851": {
+      "message": "V zadnjem času niste ničesar prejeli."
+   },
+   "7419648588978430202": {
+      "message": "Nalaganje vaše zgodovine ..."
+   },
+   "7467129818830892099": {
+      "message": "Študenti na celozaslonski strani"
+   },
+   "7520798696482451948": {
+      "message": "PRIDRUŽI SE PREDAVANJU"
+   },
+   "7582805180132294390": {
+      "message": "Pri vzpostavljanju povezave s strežniki storitve $PRODUCT$ je prišlo do težave. Če se težava ponavlja, preverite internetno povezavo in nastavitve požarnega zidu ter pošljite povratne informacije prek spodnje ikone za povratne informacije.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "7604563725603697690": {
+      "message": "Posnetek zaslona vaše trenutne strani."
+   },
+   "7613121200569555025": {
+      "message": "Oseba $NAME$ je poslala stran",
+      "placeholders": {
+         "NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "7646520484997880732": {
+      "message": "Odpre stran z nastavitvami"
+   },
+   "7733702880641460982": {
+      "message": "Google Povratne informacije"
+   },
+   "77478328938908900": {
+      "message": "Zapri opozorilo"
+   },
+   "7798244153502527716": {
+      "message": "Če želite uporabljati $PRODUCT$, morate biti prijavljeni v Chrome.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "7819314041543176992": {
+      "message": "Zapri"
+   },
+   "7826444313570725162": {
+      "message": "POSLANO"
+   },
+   "784919827997620253": {
+      "message": "Pošlji povratne informacije"
+   },
+   "7869782771655761788": {
+      "message": "Poslano"
+   },
+   "787828271820052473": {
+      "message": "Ustvarite predavanje ali se mu pridružite, če želite skupaj odpreti strani"
+   },
+   "7914587618073030772": {
+      "message": "Skupna raba z Učilnico (interna uporaba)"
+   },
+   "7924019946919704377": {
+      "message": "Če se želite vpisati v Chrome, $START_LINK$kliknite tukaj$END_LINK$, nato pa znova poskusite $PRODUCT_NAME$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "PRODUCT_NAME": {
+            "content": "$2"
+         },
+         "START_LINK": {
+            "content": "$3"
+         }
+      }
+   },
+   "8071009096908772636": {
+      "message": "Pokaži obvestila brskalnika, ko mi študentje pošljejo spletne strani"
+   },
+   "8083611296479050044": {
+      "message": "Pojdi na stran za povratne informacije"
+   },
+   "8107264734060843365": {
+      "message": "If this problem doesn't go away, try restarting your computer. If this problem persists, click the feedback icon below to submit feedback."
+   },
+   "813263746069473514": {
+      "message": "Vzpostavi povezavo"
+   },
+   "819996403327805209": {
+      "message": "Več o tem"
+   },
+   "8250116767525441148": {
+      "message": "$PRODUCT$ ni mogel vzpostaviti povezave z mestom $SITE$. Preverite internetno povezavo in poskusite ponovno.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         },
+         "SITE": {
+            "content": "$2"
+         }
+      }
+   },
+   "826991190228103925": {
+      "message": "Nastavitve"
+   },
+   "8410291800785136487": {
+      "message": "Pošlji študentom"
+   },
+   "8427578009205621398": {
+      "message": "Študenti: $PARTICIPATING$/$TOTAL$",
+      "placeholders": {
+         "PARTICIPATING": {
+            "content": "$1"
+         },
+         "TOTAL": {
+            "content": "$2"
+         }
+      }
+   },
+   "8510084535053903986": {
+      "message": "Učitelji lahko urejajo datoteko"
+   },
+   "8584185541337081736": {
+      "message": "Posredujte to razširitev svojim študentom, da bodo lahko prejemali vaše povezave.&nbsp;"
+   },
+   "8636360788868898667": {
+      "message": "Takoj prikažite predavanje na isti (spletni) strani."
+   },
+   "8657495129257769609": {
+      "message": "Vaš računalnik nima vzpostavljene povezave z internetom. Preverite povezavo in poskusite ponovno."
+   },
+   "8757637959955680925": {
+      "message": "$PRODUCT_NAME$ zahteva, da ste vpisani v Chrome. Videti je, da niste vpisani.",
+      "placeholders": {
+         "PRODUCT_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "8812061458772284085": {
+      "message": "Googlu bodo poslani opis, podatki o izdelku, dodatni podatki o sistemu in vaš e-poštni naslov. Oglejte si Googlov $START_LINK_1$pravilnik o zasebnosti$END_LINK$ in $START_LINK_2$pogoje storitve$END_LINK$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK_1": {
+            "content": "$2"
+         },
+         "START_LINK_2": {
+            "content": "$3"
+         }
+      }
+   },
+   "8876711157282412092": {
+      "message": "{numLinks,plural, =1{# povezava}one{# povezava}two{# povezavi}few{# povezave}other{# povezav}}"
+   },
+   "8934950226874423147": {
+      "message": "Študenti lahko urejajo datoteko"
+   },
+   "9057609174906387434": {
+      "message": "Ikona strani $PAGE_TITLE$.",
+      "placeholders": {
+         "PAGE_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "9200475522066047621": {
+      "message": "Vpisan"
+   },
+   "9217362152767454370": {
+      "message": "$PRODUCT$ zahteva dovoljenje za dostop do vašega profila.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "99413348305232894": {
+      "message": "Skupna raba z Učilnico"
+   }
+}

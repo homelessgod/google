@@ -1,0 +1,46 @@
+{
+   "browser_error": {
+      "description": "Error mesage shown if the redirection has failed.",
+      "message": "Skontaktuj się z administratorem systemu."
+   },
+   "error_title": {
+      "description": "The title of the redirection page if an error has happened while trying to load the alternative browser.",
+      "message": "Nie udało się otworzyć alternatywnej przeglądarki"
+   },
+   "extension_description": {
+      "description": "Description of the extension.",
+      "message": "Zainstaluj Chrome w całej swojej organizacji, nie rezygnując przy tym z obsługi starszych przeglądarek."
+   },
+   "extension_name": {
+      "description": "Name of the extension.",
+      "message": "Obsługa starszych przeglądarek"
+   },
+   "learn_more_message": {
+      "description": "Message shown on the bottom with a link to a (potentially) internationalized 'learn more' article",
+      "message": "\u003Ca href='https://www.google.com/intl/pl/chrome/business/'>Więcej informacji\u003C/a> o obsłudze starszych przeglądarek."
+   },
+   "redirect_message": {
+      "description": "Text shown on the redirection page while the alternative browser is started.",
+      "message": "Administrator systemu skonfigurował Chrome w taki sposób, by strona \u003Cstrong>$url$\u003C/strong> otwierała się w alternatywnej przeglądarce.",
+      "placeholders": {
+         "url": {
+            "content": "$1",
+            "example": "http://google.com/"
+         }
+      }
+   },
+   "redirect_title": {
+      "description": "The title of the redirection page. Also shown in the Chrome title bar.",
+      "message": "Otwieram w alternatywnej przeglądarce..."
+   },
+   "wrong_protocol_error": {
+      "description": "This error is whown when the action page is invoke with a hash tag specifying an address that is not in the http/https protocols.",
+      "message": "Nie można otworzyć strony \u003Cstrong>$url$\u003C/strong> z powodu błędnej konfiguracji protokołu. Skontaktuj się z administratorem systemu.",
+      "placeholders": {
+         "url": {
+            "content": "$1",
+            "example": "http://google.com/"
+         }
+      }
+   }
+}

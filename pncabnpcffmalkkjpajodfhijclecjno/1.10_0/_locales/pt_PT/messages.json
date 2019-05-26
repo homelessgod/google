@@ -1,0 +1,77 @@
+{
+   "close_button": {
+      "message": "Fechar"
+   },
+   "extension_description": {
+      "message": "O Password Checkup ajuda a voltar a proteger as contas que foram afetadas por violações de dados."
+   },
+   "extension_detailed_description": {
+      "message": "Onde quer que inicie sessão, se introduzir um nome de utilizador e uma palavra-passe que já não sejam seguros por aparecerem numa violação de dados conhecida do Google, irá receber um alerta. Reponha a palavra-passe. Se utilizar o mesmo nome de utilizador e palavra-passe para outras contas, reponha a palavra-passe também nessas contas.\n\nA Verificação da palavra-passe foi concebida a pensar na privacidade. Nunca comunica informações de identificação relacionadas com as suas contas, palavras-passe ou dispositivos. Comunicamos, efetivamente, informações anónimas relativas ao número de pesquisas que apresentam uma credencial insegura, se um alerta origina a alteração de uma palavra-passe e o domínio envolvido para melhorar a cobertura do site. Pode saber mais sobre o funcionamento da Verificação da palavra-passe em https://support.google.com/accounts?p=password-checkup.\n\nAo instalar este item, aceita os Termos de Utilização do Google e a Política de Privacidade da Google, disponíveis em www.google.com/policies/."
+   },
+   "extension_name": {
+      "message": "Password Checkup"
+   },
+   "ignore_button": {
+      "message": "Ignorar para este site"
+   },
+   "learn_more": {
+      "message": "Saiba mais"
+   },
+   "popup_advanced_settings_action": {
+      "message": "Definições avançadas"
+   },
+   "popup_default_status_message": {
+      "message": "Nenhum das suas palavras-passe utilizadas recentemente foi detetada numa violação de dados."
+   },
+   "popup_ignore_button": {
+      "message": "Ignorar"
+   },
+   "popup_ignored_status_message": {
+      "message": "Nenhum das suas palavras-passe utilizadas recentemente foi detetada numa violação de dados. Isto não inclui palavras-passe inseguras cuja reposição optou por ignorar."
+   },
+   "popup_learn_more": {
+      "message": "Saiba mais"
+   },
+   "popup_multiple_accounts_warning_status_message": {
+      "message": "O Password Checkup detetou que as seguintes \u003Cb>$1 contas\u003C/b> têm palavras-passe que já não seguras devido a uma violação de dados.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "popup_number_unsafe_accounts": {
+      "message": "$1 contas desprotegidas",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "popup_one_account_warning_status_message": {
+      "message": "O Password Checkup detetou que a seguinte \u003Cb>conta\u003C/b> tem uma palavra-passe que já não é segura devido a uma violação de dados."
+   },
+   "popup_reset_extension_button": {
+      "message": "Limpar dados de extensões"
+   },
+   "popup_reset_extension_text": {
+      "message": "Limpe todos os dados de extensões. Esta ação remove todas as informações armazenadas acerca de palavras-passe inseguras e sites ignorados anteriormente."
+   },
+   "popup_warning_action": {
+      "message": "Deve alterar as suas palavras-passe agora."
+   },
+   "reset_text": {
+      "message": "Deve alterar a sua palavra-passe agora."
+   },
+   "warning_banner_header": {
+      "message": "Alterar a palavra-passe"
+   },
+   "warning_text": {
+      "message": "O Password Checkup detetou que a sua palavra-passe para \u003Cb>$1\u003C/b> já não é segura devido a uma violação de dados.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   }
+}

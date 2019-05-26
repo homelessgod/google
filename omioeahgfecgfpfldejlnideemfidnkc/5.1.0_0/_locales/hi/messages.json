@@ -1,0 +1,69 @@
+{
+   "app_description": {
+      "message": "अपने AdSense, Ad Exchange व DoubleClick for Publishers विज्ञापनों व खातों का डेटा देखें और अपनी साइट पर अनुपयुक्त विज्ञापन रोकें."
+   },
+   "cs_overlay_date_7day": {
+      "message": "7-दिन"
+   },
+   "cs_overlay_date_today": {
+      "message": "आज"
+   },
+   "cs_overlay_date_yesterday": {
+      "message": "बीता हुआ कल"
+   },
+   "cs_overlay_size_name": {
+      "message": "आकार"
+   },
+   "cs_overlay_type_name": {
+      "message": "प्रकार"
+   },
+   "dfp_creative_id": {
+      "message": "क्रिएटिव: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "dfp_no_creative": {
+      "message": "कोई DFP क्रिएटिव नहीं"
+   },
+   "dfp_unknown_creative": {
+      "message": "अज्ञात क्रिएटिव"
+   },
+   "domains_whitelist_saved": {
+      "message": "अधिकृत साइटों की सूची अपडेट कर दी गई है."
+   },
+   "expired_creative": {
+      "message": "हम इस क्रिएटिव की जानकारी प्राप्त नहीं कर सके. कृपया कुछ सेकंड प्रतीक्षा करके पेज को पुनः लोड करने का प्रयास करें."
+   },
+   "expired_line_item": {
+      "message": "हम इस लाइन आइटम की जानकारी प्राप्त नहीं कर सके. कृपया कुछ सेकंड प्रतीक्षा करके पेज को पुनः लोड करने का प्रयास करें."
+   },
+   "line_item_adsense_or_adx": {
+      "message": "AdSense या Ad Exchange"
+   },
+   "line_item_id": {
+      "message": "लाइन आइटम: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "line_item_no_ad": {
+      "message": "कोई DFP विज्ञापन नहीं"
+   },
+   "misconfigured_ad_notification_text": {
+      "message": "इस पेज में गलत ढंग से कॉन्फ़िगर की गई \u003Ca href=\"ovnfc\">0\u003C/span> विज्ञापन इकाइयां हैं. इससे आपकी आय नकारात्मक रूप से प्रभावित हो सकती है. \u003Ca target=\"_new\" href=\"http://support.google.com/adsense/bin/answer.py?answer=2694805\" class=\"ovnfs\">अधिक जानें\u003C/a>"
+   },
+   "no_results_creative": {
+      "message": "हमें इस क्रिएटिव की जानकारी नहीं मिली. हो सकता है आपके पास इसका एक्सेस न हो."
+   },
+   "no_results_line_item": {
+      "message": "हमें इस लाइन आइटम की जानकारी नहीं मिली. हो सकता है आपके पास इसका एक्सेस न हो."
+   },
+   "settings_saved_title": {
+      "message": "सेटिंग सहेजी गईं"
+   }
+}

@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>G Suite Training Options</title>
+<link rel="stylesheet" type="text/css" href="app/cached.css" />
+</head>
+<body class="options-page">
+
+<div class="syn-dialog-material" id="synergyse-dialog">
+
+  <div class="syn-dialog-header">
+    <span class="syn-dialog-title">
+      G Suite Training Options
+      <span id="status"></span>
+    </span>
+  </div>
+
+  <div class="syn-dialog-content">
+    <div class="syn-dialog-text">
+      <p>
+        The current build version is: <span id="build-version">...</span>
+      </p>
+      <p>
+        Disable G Suite Training menu:
+        <select name="disable-menu" id="disable-menu">
+          <option value="0">No</option>
+          <option value="1">Yes</option>
+        </select>
+        <span id="disable-menu-warning" class="synergyse-logo-warning synergyse-hidden"></span>
+      </p>
+      <p id="disable-menu-tip" class="synergyse-hidden">
+        Once you save, the Training menu will no longer appear in your G Suite.
+        You can always get it back by changing this option to 'No' in the future.
+      </p>
+
+      <div id="hidden-options" class="synergyse-hidden">
+        <p>
+          <strong>Advanced Options</strong> - <a href="javascript:void(0);" id="hide-options">Hide</a>
+        </p>
+        <p>
+          Server address:
+          <input name="server-address" autocomplete="server-address"
+              id="server-address" value="" size="50" />
+        </p>
+        <p>
+          Run Mode:
+          <select name="run-mode" id="run-mode">
+              <option value="prod">Prod</option>
+              <option value="dev">Dev</option>
+              <option value="simple">Simple</option>
+          </select>
+        </p>
+        <p>
+          Record Mode:
+          <select name="record-mode" id="record-mode">
+            <option value="0">Off</option>
+            <option value="1">On</option>
+          </select>
+        </p>
+        <p>
+          Autopilot:
+          <select name="autopilot" id="autopilot">
+            <option value="0">Off</option>
+            <option value="1">On</option>
+          </select>
+        </p>
+        <p>
+          Enable menu hover:
+          <select name="menu-hover" id="menu-hover">
+            <option value="0">Off</option>
+            <option value="1">On</option>
+          </select>
+        </p>
+        <p>
+          Force user to be like new:
+          <select name="force-new" id="force-new">
+            <option value="0">Off</option>
+            <option value="1">On</option>
+          </select>
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="syn-dialog-footer syn-buttons-material">
+    <button id="save" name="primary">Save</button>
+    <button id="cancel" name="secondary">Cancel</button>
+  </div>
+
+</div>
+
+<div class="options-footer">
+  <a href="https://www.google.com/intl/en/policies/privacy/" target="_blank">Privacy Policy</a> -
+  <a href="https://www.google.com/intl/en/policies/terms/" target="_blank">Terms of Service</a> -
+  <a href="https://synergyse.com/licenses.html" target="_blank">Licenses</a>
+</div>
+
+<script src="options.js"></script>
+</body>
+</html>

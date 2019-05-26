@@ -1,0 +1,77 @@
+{
+   "close_button": {
+      "message": "Sule"
+   },
+   "extension_description": {
+      "message": "Password Checkup aitab teil uuesti kaitsta kontosid, mida mõjutasid andmetega seotud rikkumised."
+   },
+   "extension_detailed_description": {
+      "message": "Alati kui sisestate sisselogimisel kasutajanime ja parooli, mis pole enam Google'ile teadaoleva andmetega seotud rikkumise tõttu turvaline, saadetakse teile hoiatus. Lähtestage oma parool. Kui kasutate sama kasutajanime ja parooli muude kontode puhul, lähtestage parool ka nendel kontodel.\n\nPassword Checkup on loodud privaatsust silmas pidades. See ei anna kunagi tuvastavat teavet teie kontode, paroolide ega seadme kohta. Siiski anname anonüümset teavet nende otsingute arvu kohta, mis tõstavad esile ebaturvalised mandaadid (nt hoiatuse, mis viib parooli vahetuseni) ja saidi katvuse täiustamisega seotud domeeni. Lisateavet Password Checkupi tööpõhimõtete kohta leiate saidilt https://support.google.com/accounts?p=password-checkup.\n\nSelle üksuse installimisel nõustute Google'i teenusetingimuste ja privaatsuseeskirjadega aadressil www.google.com/policies/."
+   },
+   "extension_name": {
+      "message": "Password Checkup"
+   },
+   "ignore_button": {
+      "message": "Eira selle saidi puhul"
+   },
+   "learn_more": {
+      "message": "Lisateave"
+   },
+   "popup_advanced_settings_action": {
+      "message": "Täpsemad seaded"
+   },
+   "popup_default_status_message": {
+      "message": "Ühtegi teie hiljuti kasutatud parooli ei tuvastatud andmetega seotud rikkumises."
+   },
+   "popup_ignore_button": {
+      "message": "Eira"
+   },
+   "popup_ignored_status_message": {
+      "message": "Ühtegi teie hiljuti kasutatud parooli ei tuvastatud andmetega seotud rikkumises. See ei hõlma ebaturvalisi paroole, mille lähtestamist olete lubanud ignoreerida."
+   },
+   "popup_learn_more": {
+      "message": "Lisateave"
+   },
+   "popup_multiple_accounts_warning_status_message": {
+      "message": "Password Checkup tuvastas, et järgmise \u003Cb>$1 konto\u003C/b> paroolid ei ole enam andmetega seotud rikkumise tõttu turvalised.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "popup_number_unsafe_accounts": {
+      "message": "$1 ebaturvalist kontot",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "popup_one_account_warning_status_message": {
+      "message": "Password Checkup tuvastas, et selle \u003Cb>1 konto\u003C/b> parool ei ole enam andmetega seotud rikkumise tõttu turvaline."
+   },
+   "popup_reset_extension_button": {
+      "message": "Kustuta laienduse andmed"
+   },
+   "popup_reset_extension_text": {
+      "message": "Kustuta kõik laienduste andmed. See eemaldab kogu salvestatud teabe ebaturvaliste paroolide ja varem ignoreeritud saitide kohta."
+   },
+   "popup_warning_action": {
+      "message": "Peaksite kohe oma paroole muutma."
+   },
+   "reset_text": {
+      "message": "Peaksite kohe parooli muutma."
+   },
+   "warning_banner_header": {
+      "message": "Parooli muutmine"
+   },
+   "warning_text": {
+      "message": "Password Checkup tuvastas, et teie parool teenuses \u003Cb>$1\u003C/b> ei ole enam andmetega seotud rikkumise tõttu turvaline.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   }
+}

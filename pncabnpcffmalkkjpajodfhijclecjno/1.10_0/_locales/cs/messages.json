@@ -1,0 +1,77 @@
+{
+   "close_button": {
+      "message": "Zavřít"
+   },
+   "extension_description": {
+      "message": "Rozšíření Password Checkup pomáhá obnovit zabezpečení účtů, které jsou ohroženy únikem dat."
+   },
+   "extension_detailed_description": {
+      "message": "Když se budete chtít přihlásit pomocí uživatelského jména a hesla, které už není bezpečné kvůli porušení zabezpečení údajů (o němž byl Google informován), zobrazíme vám upozornění. Heslo si resetujte. Pokud stejnou kombinaci uživatelského jména a hesla používáte i v jiných účtech, resetujte heslo i v nich.\n\nRozšíření Password Checkup bylo vytvořeno s ohledem na zabezpečení. Nesdílí žádné informace, pomocí kterých by bylo možné identifikovat vaše účty, hesla nebo zařízení. Za účelem vylepšení pokrytí webu zaznamenáváme anonymní údaje o počtu vyhledávání nezabezpečených identifikačních údajů, o odeslaných upozorněních, na základě kterých si uživatelé změnili heslo, a o dotčených doménách. Další informace o rozšíření Password Checkup naleznete na adrese https://support.google.com/accounts?p=password-checkup.\n\nInstalací této položky vyjadřujete souhlas se smluvními podmínkami a zásadami ochrany soukromí společnosti Google, které jsou uvedeny na stránkách www.google.com/policies/."
+   },
+   "extension_name": {
+      "message": "Password Checkup"
+   },
+   "ignore_button": {
+      "message": "Na tomto webu ignorovat"
+   },
+   "learn_more": {
+      "message": "Další informace"
+   },
+   "popup_advanced_settings_action": {
+      "message": "Rozšířená nastavení"
+   },
+   "popup_default_status_message": {
+      "message": "Žádné z nedávno použitých hesel není ohroženo únikem dat."
+   },
+   "popup_ignore_button": {
+      "message": "Ignorovat"
+   },
+   "popup_ignored_status_message": {
+      "message": "Žádné z nedávno použitých hesel není ohroženo únikem dat. Nejsou zahrnuta nezabezpečená hesla, u kterých jste se rozhodli ignorovat výzvu k resetování."
+   },
+   "popup_learn_more": {
+      "message": "Další informace"
+   },
+   "popup_multiple_accounts_warning_status_message": {
+      "message": "Rozšíření Password Checkup zjistilo, že následující účty (\u003Cb>$1\u003C/b>) obsahují hesla, která už nejsou bezpečná z důvodu úniku dat.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "popup_number_unsafe_accounts": {
+      "message": "Nezabezpečené účty: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "popup_one_account_warning_status_message": {
+      "message": "Rozšíření Password Checkup zjistilo, že následující \u003Cb>1 /b> účet obsahuje heslo, které už není bezpečné z důvodu úniku dat."
+   },
+   "popup_reset_extension_button": {
+      "message": "Vymazat data rozšíření"
+   },
+   "popup_reset_extension_text": {
+      "message": "Vymazat všechna data rozšíření. Budou odstraněny všechny informace o nezabezpečených heslech a dříve ignorovaných webech."
+   },
+   "popup_warning_action": {
+      "message": "Ihned si změňte hesla."
+   },
+   "reset_text": {
+      "message": "Ihned si změňte heslo."
+   },
+   "warning_banner_header": {
+      "message": "Změňte si heslo"
+   },
+   "warning_text": {
+      "message": "Rozšíření Password Checkup zjistilo, že vaše heslo ve službě \u003Cb>$1\u003C/b> už není bezpečné z důvodu úniku dat.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   }
+}

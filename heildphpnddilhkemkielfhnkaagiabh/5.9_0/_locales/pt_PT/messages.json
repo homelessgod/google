@@ -1,0 +1,46 @@
+{
+   "browser_error": {
+      "description": "Error mesage shown if the redirection has failed.",
+      "message": "Contacte o administrador do seu sistema."
+   },
+   "error_title": {
+      "description": "The title of the redirection page if an error has happened while trying to load the alternative browser.",
+      "message": "Não foi possível abrir o navegador alternativo"
+   },
+   "extension_description": {
+      "description": "Description of the extension.",
+      "message": "Implemente o Chrome na sua entidade enquanto continua a suportar navegadores antigos."
+   },
+   "extension_name": {
+      "description": "Name of the extension.",
+      "message": "Suporte do Navegador Antigo"
+   },
+   "learn_more_message": {
+      "description": "Message shown on the bottom with a link to a (potentially) internationalized 'learn more' article",
+      "message": "\u003Ca href='https://www.google.com/intl/pt-pt/chrome/business/'>Saiba mais\u003C/a> sobre o suporte do navegador antigo."
+   },
+   "redirect_message": {
+      "description": "Text shown on the redirection page while the alternative browser is started.",
+      "message": "O administrador do seu sistema configurou o Chrome para abrir um navegador alternativo, de modo a aceder a \u003Cstrong>$url$\u003C/strong>.",
+      "placeholders": {
+         "url": {
+            "content": "$1",
+            "example": "http://google.com/"
+         }
+      }
+   },
+   "redirect_title": {
+      "description": "The title of the redirection page. Also shown in the Chrome title bar.",
+      "message": "A abrir num navegador alternativo..."
+   },
+   "wrong_protocol_error": {
+      "description": "This error is whown when the action page is invoke with a hash tag specifying an address that is not in the http/https protocols.",
+      "message": "\u003Cstrong>$url$\u003C/strong> não pode ser aberto devido a um erro de configuração do protocolo. Contacte o administrador do seu sistema.",
+      "placeholders": {
+         "url": {
+            "content": "$1",
+            "example": "http://google.com/"
+         }
+      }
+   }
+}

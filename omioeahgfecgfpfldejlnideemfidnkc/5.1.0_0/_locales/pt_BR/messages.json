@@ -1,0 +1,69 @@
+{
+   "app_description": {
+      "message": "Visualize os dados dos anúncios e contas do AdSense, Ad Exchange e DFP e bloqueie anúncios inadequados no site."
+   },
+   "cs_overlay_date_7day": {
+      "message": "Sete dias"
+   },
+   "cs_overlay_date_today": {
+      "message": "Hoje"
+   },
+   "cs_overlay_date_yesterday": {
+      "message": "Ontem"
+   },
+   "cs_overlay_size_name": {
+      "message": "Tamanho"
+   },
+   "cs_overlay_type_name": {
+      "message": "Tipo"
+   },
+   "dfp_creative_id": {
+      "message": "Peça criativa: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "dfp_no_creative": {
+      "message": "Nenhuma peça criativa do DFP"
+   },
+   "dfp_unknown_creative": {
+      "message": "Anúncio desconhecido"
+   },
+   "domains_whitelist_saved": {
+      "message": "A lista de sites autorizados foi atualizada."
+   },
+   "expired_creative": {
+      "message": "Não foi possível recuperar as informações sobre esse anúncio. Aguarde alguns segundos e tente recarregar a página."
+   },
+   "expired_line_item": {
+      "message": "Não foi possível recuperar as informações sobre esse item de linha. Aguarde alguns segundos e tente recarregar a página."
+   },
+   "line_item_adsense_or_adx": {
+      "message": "Google AdSense ou Ad Exchange"
+   },
+   "line_item_id": {
+      "message": "Item de linha: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "line_item_no_ad": {
+      "message": "Nenhum anúncio do DFP"
+   },
+   "misconfigured_ad_notification_text": {
+      "message": "Esta página contém \u003Ca href=\"ovnfc\">0\u003C/span> blocos de anúncios configurados de forma incorreta. Isso pode afetar negativamente sua receita. \u003Ca target=\"_new\" href=\"http://support.google.com/adsense/bin/answer.py?answer=2694805\" class=\"ovnfs\">Saiba mais\u003C/a>"
+   },
+   "no_results_creative": {
+      "message": "Não foi possível encontrar as informações sobre esse anúncio. Talvez você não tenha acesso a ele."
+   },
+   "no_results_line_item": {
+      "message": "Não foi possível encontrar as informações para esse item de linha. Talvez você não tenha acesso a ele."
+   },
+   "settings_saved_title": {
+      "message": "Configurações salvas"
+   }
+}

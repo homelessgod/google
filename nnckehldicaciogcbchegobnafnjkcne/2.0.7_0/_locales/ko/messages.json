@@ -1,0 +1,126 @@
+{
+   "before_trying_again": {
+      "description": "Error resolution tip in error pages.",
+      "message": "다시 시도하기 전에 다음을 따르세요."
+   },
+   "browser_action_title": {
+      "description": "Browser action title that shows up on hover.",
+      "message": "이 URL 브로드캐스트"
+   },
+   "context_menu_disable": {
+      "description": "Label of the context menu item that disables Tone.",
+      "message": "Tone 사용 중지"
+   },
+   "context_menu_enable": {
+      "description": "Label of the context menu item that enables Tone.",
+      "message": "Tone 사용"
+   },
+   "description": {
+      "description": "Extension description.",
+      "message": "소리를 인식할 수 있을 만한 거리에 있는 컴퓨터에 URL을 브로드캐스트합니다."
+   },
+   "ensure_online": {
+      "description": "Network workaround.",
+      "message": "컴퓨터가 온라인 상태인지 확인하세요."
+   },
+   "error_audio_title": {
+      "description": "Title of the error_audio.html page.",
+      "message": "Google Tone이 소리를 인식하지 못했습니다."
+   },
+   "error_network_title": {
+      "description": "Title of error_network.html page.",
+      "message": "오류가 발생했습니다."
+   },
+   "increase_volume": {
+      "description": "Audio workaround #1",
+      "message": "볼륨을 높입니다."
+   },
+   "invite_others": {
+      "description": "Press the button to try it.",
+      "message": "다른 사용자를 Google Tone으로 초대하기: {{짧은 링크}}"
+   },
+   "name": {
+      "description": "Extension name.",
+      "message": "Google Tone"
+   },
+   "notification_receive_message_format": {
+      "description": "Notification message when you receive a Tone.",
+      "message": "클릭하여 {{도메인}}에서 '{{제목}}'을(를) 열기"
+   },
+   "notification_receive_test_page_message": {
+      "description": "Notification message sent from Tone test page.",
+      "message": "Tone을 사용해 보려면 클릭하세요."
+   },
+   "notification_receive_title_format": {
+      "description": "Notification title when you receive a Tone.",
+      "message": "{{사용자 이름}}님이 보낸 URL"
+   },
+   "notification_send_fail_audio_message": {
+      "description": "Notification title shown when audio verification fails.",
+      "message": "볼륨을 확인하고 다시 시도해 주세요.\n자세히 알아보려면 클릭하세요."
+   },
+   "notification_send_fail_audio_title": {
+      "description": "Notification title shown when audio verification fails.",
+      "message": "Tone에서 소리를 인식할 수 없음"
+   },
+   "notification_send_fail_network_message": {
+      "description": "Notification message shown when a Tone was attempted but the network was offline.",
+      "message": "오프라인 상태인 것 같습니다.\n자세히 알아보려면 클릭하세요."
+   },
+   "notification_send_fail_network_title": {
+      "description": "Notification title shown when a Tone was attempted but the network was offline.",
+      "message": "URL이 전송되지 않음"
+   },
+   "press_button": {
+      "description": "Press the button to try it.",
+      "message": "소리를 인식할 수 있을 만한 거리에 있는 컴퓨터에 URL을 브로드캐스트하려면 {{action_image}} 버튼을 누릅니다."
+   },
+   "report_bug": {
+      "description": "Report a bug",
+      "message": "버그 신고"
+   },
+   "settings_off": {
+      "description": "Indicator showing that Tone is disabled.",
+      "message": "꺼짐"
+   },
+   "settings_off_subtitle": {
+      "description": "Subtitle showing that Tone is disabled.",
+      "message": "URL을 전송하거나 수신할 수 없습니다."
+   },
+   "settings_off_title": {
+      "description": "Title showing that Tone is disabled.",
+      "message": "Google Tone 꺼짐"
+   },
+   "settings_on": {
+      "description": "Indicator showing that Tone is enabled.",
+      "message": "켜짐"
+   },
+   "settings_on_subtitle": {
+      "description": "Subtitle showing that Tone is enabled.",
+      "message": "URL을 전송하고 수신할 수 있습니다."
+   },
+   "settings_on_title": {
+      "description": "Title showing that Tone is enabled.",
+      "message": "Google Tone 켜짐"
+   },
+   "settings_title": {
+      "description": "Title of settings.html",
+      "message": "설정"
+   },
+   "success_call": {
+      "description": "Call to action of success.html.",
+      "message": "다른 페이지로 이동한 다음 {{action_image}} 버튼을 클릭하여 브로드캐스트합니다.\n"
+   },
+   "success_title": {
+      "description": "Title of success.html.",
+      "message": "Google Tone 작동 성공"
+   },
+   "try_now": {
+      "description": "Call to action to try the extension.",
+      "message": "지금 Google Tone을 사용해 보세요."
+   },
+   "unplug_headphones": {
+      "description": "Audio workaround #2",
+      "message": "헤드폰이 꽂혀 있는 경우 뽑습니다."
+   }
+}

@@ -1,0 +1,69 @@
+{
+   "app_description": {
+      "message": "Se info om dina annonser och konton i AdSense, Ad Exchange och DoubleClick for Publishers och blockera olämpliga annonser."
+   },
+   "cs_overlay_date_7day": {
+      "message": "7 dagar"
+   },
+   "cs_overlay_date_today": {
+      "message": "Idag"
+   },
+   "cs_overlay_date_yesterday": {
+      "message": "Igår"
+   },
+   "cs_overlay_size_name": {
+      "message": "Storlek"
+   },
+   "cs_overlay_type_name": {
+      "message": "Typ"
+   },
+   "dfp_creative_id": {
+      "message": "Annonsmaterial: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "dfp_no_creative": {
+      "message": "Tomt DFP-annonsmaterial"
+   },
+   "dfp_unknown_creative": {
+      "message": "Okänd annons"
+   },
+   "domains_whitelist_saved": {
+      "message": "Listan med behöriga webbplatser har uppdaterats."
+   },
+   "expired_creative": {
+      "message": "Vi kunde inte hämta informationen till det här annonsmaterialet. Vänta några sekunder och pröva sedan att läsa in sidan igen."
+   },
+   "expired_line_item": {
+      "message": "Vi kunde inte hämta informationen till den här raden. Vänta några sekunder och pröva sedan att läsa in sidan igen."
+   },
+   "line_item_adsense_or_adx": {
+      "message": "AdSense eller Ad Exchange"
+   },
+   "line_item_id": {
+      "message": "Rad: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "line_item_no_ad": {
+      "message": "Tom DFP-annons"
+   },
+   "misconfigured_ad_notification_text": {
+      "message": "Den här sidan innehåller \u003Ca href=\"ovnfc\">0\u003C/span> felkonfigurerade annonsenheter. Detta kan påverka dina intäkter negativt. \u003Ca target=\"_new\" href=\"http://support.google.com/adsense/bin/answer.py?answer=2694805\" class=\"ovnfs\">Läs mer\u003C/a>"
+   },
+   "no_results_creative": {
+      "message": "Vi hittade inte informationen till det här annonsmaterialet. Du kanske inte har åtkomst till det."
+   },
+   "no_results_line_item": {
+      "message": "Vi hittade inte informationen till den här raden. Du kanske inte har åtkomst till den."
+   },
+   "settings_saved_title": {
+      "message": "Inställningarna har sparats"
+   }
+}

@@ -1,0 +1,126 @@
+{
+   "before_trying_again": {
+      "description": "Error resolution tip in error pages.",
+      "message": "Prije nego što pokušate ponovo:"
+   },
+   "browser_action_title": {
+      "description": "Browser action title that shows up on hover.",
+      "message": "Emitiranje ovog URL-a"
+   },
+   "context_menu_disable": {
+      "description": "Label of the context menu item that disables Tone.",
+      "message": "Onemogući Zvuk"
+   },
+   "context_menu_enable": {
+      "description": "Label of the context menu item that enables Tone.",
+      "message": "Omogući Zvuk"
+   },
+   "description": {
+      "description": "Extension description.",
+      "message": "Emitiranje bilo kojeg URL-a na računala u dometu čujnosti."
+   },
+   "ensure_online": {
+      "description": "Network workaround.",
+      "message": "Provjerite je li računalo povezano s internetom."
+   },
+   "error_audio_title": {
+      "description": "Title of the error_audio.html page.",
+      "message": "Google zvuk nije to čuo."
+   },
+   "error_network_title": {
+      "description": "Title of error_network.html page.",
+      "message": "Nije uspjelo."
+   },
+   "increase_volume": {
+      "description": "Audio workaround #1",
+      "message": "Pojačajte glasnoću."
+   },
+   "invite_others": {
+      "description": "Press the button to try it.",
+      "message": "Preporučite Google zvuk drugima: {{shortlink}}"
+   },
+   "name": {
+      "description": "Extension name.",
+      "message": "Google zvuk"
+   },
+   "notification_receive_message_format": {
+      "description": "Notification message when you receive a Tone.",
+      "message": "Kliknite da biste otvorili stranicu \"{{title}}\" s domene {{domain}}"
+   },
+   "notification_receive_test_page_message": {
+      "description": "Notification message sent from Tone test page.",
+      "message": "Kliknite da biste isprobali Zvuk!"
+   },
+   "notification_receive_title_format": {
+      "description": "Notification title when you receive a Tone.",
+      "message": "{{username}} šalje URL!"
+   },
+   "notification_send_fail_audio_message": {
+      "description": "Notification title shown when audio verification fails.",
+      "message": "Provjerite glasnoću i pokušajte ponovo.\nKliknite da biste vidjeli više informacija."
+   },
+   "notification_send_fail_audio_title": {
+      "description": "Notification title shown when audio verification fails.",
+      "message": "Google zvuk nije čuo sam sebe"
+   },
+   "notification_send_fail_network_message": {
+      "description": "Notification message shown when a Tone was attempted but the network was offline.",
+      "message": "Čini se da niste povezani s mrežom.\nKliknite da biste vidjeli više informacija."
+   },
+   "notification_send_fail_network_title": {
+      "description": "Notification title shown when a Tone was attempted but the network was offline.",
+      "message": "URL nije poslan"
+   },
+   "press_button": {
+      "description": "Press the button to try it.",
+      "message": "Pritisnite gumb {{action_image}} da biste emitirali URL na računala u dometu čujnosti."
+   },
+   "report_bug": {
+      "description": "Report a bug",
+      "message": "Prijava programske pogreške"
+   },
+   "settings_off": {
+      "description": "Indicator showing that Tone is disabled.",
+      "message": "ISKLJUČENO"
+   },
+   "settings_off_subtitle": {
+      "description": "Subtitle showing that Tone is disabled.",
+      "message": "Ne možete slati i primati URL-ove."
+   },
+   "settings_off_title": {
+      "description": "Title showing that Tone is disabled.",
+      "message": "Google zvuk je isključen"
+   },
+   "settings_on": {
+      "description": "Indicator showing that Tone is enabled.",
+      "message": "UKLJUČENO"
+   },
+   "settings_on_subtitle": {
+      "description": "Subtitle showing that Tone is enabled.",
+      "message": "Možete slati i primati URL-ove."
+   },
+   "settings_on_title": {
+      "description": "Title showing that Tone is enabled.",
+      "message": "Google zvuk je uključen"
+   },
+   "settings_title": {
+      "description": "Title of settings.html",
+      "message": "Postavke"
+   },
+   "success_call": {
+      "description": "Call to action of success.html.",
+      "message": "Idite na neku drugu stranicu i kliknite gumb {{action_image}} da biste je emitirali."
+   },
+   "success_title": {
+      "description": "Title of success.html.",
+      "message": "Google zvuk funkcionira!"
+   },
+   "try_now": {
+      "description": "Call to action to try the extension.",
+      "message": "Isprobajte Google zvuk odmah!"
+   },
+   "unplug_headphones": {
+      "description": "Audio workaround #2",
+      "message": "Isključite slušalice."
+   }
+}

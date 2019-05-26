@@ -1,0 +1,77 @@
+{
+   "close_button": {
+      "message": "Luk"
+   },
+   "extension_description": {
+      "message": "Password Checkup hjælper dig med at genoprette sikkerheden for konti, der er berørt af brud på datasikkerheden."
+   },
+   "extension_detailed_description": {
+      "message": "Uanset hvor du logger ind, modtager du en underretning, hvis du angiver loginoplysninger, der ikke længere er sikre, fordi de er dukket op i forbindelse med brud på datasikkerheden, som Google er bekendt med. Nulstil din adgangskode. Hvis du bruger det samme brugernavn og den samme adgangskode på andre konti, skal du også nulstille adgangskoden på de pågældende konti.\n\nPassword Checkup er udviklet med fokus på privatliv. Password Checkup rapporterer aldrig nogen oplysninger om dine konti, dine adgangskoder eller din enhed, som kan bruges til at identificere dig. Vi rapporterer dog anonyme oplysninger om antallet af opslag, der viser usikre loginoplysninger, hvorvidt en underretning fører til en ændring af adgangskoden og oplysninger om det pågældende domæne, så dækningen af websitet forbedres. Du kan få flere oplysninger om, hvordan Password Checkup fungerer, ved at gå til https://support.google.com/accounts?p=password-checkup.\n\nVed at installere accepterer du Googles servicevilkår og privatlivspolitik, som du kan se på www.google.com/policies/."
+   },
+   "extension_name": {
+      "message": "Password Checkup"
+   },
+   "ignore_button": {
+      "message": "Ignorer for dette website"
+   },
+   "learn_more": {
+      "message": "Få flere oplysninger"
+   },
+   "popup_advanced_settings_action": {
+      "message": "Avancerede indstillinger"
+   },
+   "popup_default_status_message": {
+      "message": "Ingen af de adgangskoder, du har brugt for nylig, blev registreret i et brud på datasikkerheden."
+   },
+   "popup_ignore_button": {
+      "message": "Ignorer"
+   },
+   "popup_ignored_status_message": {
+      "message": "Ingen af de adgangskoder, du har brugt for nylig, blev registreret i et brud på datasikkerheden. Dette omfatter ikke usikre adgangskoder, som du har valgt ikke at nulstille."
+   },
+   "popup_learn_more": {
+      "message": "Få flere oplysninger"
+   },
+   "popup_multiple_accounts_warning_status_message": {
+      "message": "Password Checkup har registreret, at adgangskoderne til følgende \u003Cb>$1 konti\u003C/b> ikke længere er sikre på grund af et brud på datasikkerheden.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "popup_number_unsafe_accounts": {
+      "message": "$1 usikre konti",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "popup_one_account_warning_status_message": {
+      "message": "Password Checkup har registreret, at adgangskoden til \u003Cb>1 konto\u003C/b> ikke længere er sikker på grund af et brud på datasikkerheden."
+   },
+   "popup_reset_extension_button": {
+      "message": "Ryd udvidelsesdata"
+   },
+   "popup_reset_extension_text": {
+      "message": "Ryd alle udvidelsesdata. Dette fjerner alle gemte oplysninger om usikre adgangskoder og websites, som du tidligere har ignoreret."
+   },
+   "popup_warning_action": {
+      "message": "Du bør ændre dine adgangskoder nu."
+   },
+   "reset_text": {
+      "message": "Du bør ændre din adgangskode nu."
+   },
+   "warning_banner_header": {
+      "message": "Skift din adgangskode"
+   },
+   "warning_text": {
+      "message": "Password Checkup har registreret, at din adgangskode til \u003Cb>$1\u003C/b> ikke længere er sikker på grund af et brud på datasikkerheden.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   }
+}

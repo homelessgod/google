@@ -1,0 +1,19 @@
+{
+   "browser_action": {
+      "default_icon": "browser_action_icon.png",
+      "default_popup": "popup.html",
+      "default_title": "Chrome Web Store Launcher"
+   },
+   "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'",
+   "description": "The Chrome Web Store Launcher provides quick, easy access to all your Chrome apps.",
+   "icons": {
+      "48": "cwsbadge.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC749x9qdkjtkxfNnPf8Dmsw2caJ90tXnfdD2tYJZQOx4b6egyK/uXt6aEtDtNknKPzMyumhfC9BnEbMUF4UB6qNnnLnoQi1DfoIsUl5a8lEddDTBG70cCK/7eSYNYm974PnInV3DbsrO6rw8FperS09RkFi+hoBkwVp6JFBZT3ZwIDAQAB",
+   "manifest_version": 2,
+   "name": "Chrome Web Store Launcher (by Google)",
+   "options_page": "options_page.html",
+   "permissions": [ "management" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.2.4"
+}

@@ -1,0 +1,69 @@
+{
+   "app_description": {
+      "message": "查看有关AdSense、Ad Exchange和DFP广告管理系统广告和帐号的数据，以及在您的网站上屏蔽不恰当的广告。"
+   },
+   "cs_overlay_date_7day": {
+      "message": "7 天"
+   },
+   "cs_overlay_date_today": {
+      "message": "今天"
+   },
+   "cs_overlay_date_yesterday": {
+      "message": "昨天"
+   },
+   "cs_overlay_size_name": {
+      "message": "尺寸"
+   },
+   "cs_overlay_type_name": {
+      "message": "类型"
+   },
+   "dfp_creative_id": {
+      "message": "广告素材：$1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "dfp_no_creative": {
+      "message": "没有DFP广告素材"
+   },
+   "dfp_unknown_creative": {
+      "message": "未知的广告素材"
+   },
+   "domains_whitelist_saved": {
+      "message": "授权网站列表已更新。"
+   },
+   "expired_creative": {
+      "message": "我们无法检索与此广告有关的信息。请稍等片刻，然后尝试重新加载页面。"
+   },
+   "expired_line_item": {
+      "message": "我们无法检索与此订单项有关的信息。请稍等片刻，然后尝试重新加载页面。"
+   },
+   "line_item_adsense_or_adx": {
+      "message": "AdSense 或 Ad Exchange"
+   },
+   "line_item_id": {
+      "message": "订单项：$1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "line_item_no_ad": {
+      "message": "没有DFP广告"
+   },
+   "misconfigured_ad_notification_text": {
+      "message": "此页面包含 \u003Ca href=\"ovnfc\">0\u003C/span> 个配置有误的广告单元。这可能会对您的收入造成不利影响。\u003Ca target=\"_new\" href=\"http://support.google.com/adsense/bin/answer.py?answer=2694805\" class=\"ovnfs\">了解详情\u003C/a>"
+   },
+   "no_results_creative": {
+      "message": "我们无法找到与此广告有关的信息。您可能没有该广告的访问权。"
+   },
+   "no_results_line_item": {
+      "message": "我们无法找到与此订单项有关的信息。您可能没有该订单项的访问权。"
+   },
+   "settings_saved_title": {
+      "message": "设置已保存"
+   }
+}

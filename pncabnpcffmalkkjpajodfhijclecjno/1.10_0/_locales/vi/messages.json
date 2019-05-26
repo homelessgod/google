@@ -1,0 +1,77 @@
+{
+   "close_button": {
+      "message": "Đóng"
+   },
+   "extension_description": {
+      "message": "Tiện ích Kiểm tra mật khẩu giúp bạn bảo mật lại các tài khoản bị ảnh hưởng bởi vấn đề rò rỉ dữ liệu."
+   },
+   "extension_detailed_description": {
+      "message": "Bất cứ khi nào bạn đăng nhập bằng tên người dùng và mật khẩu không còn an toàn do một vấn đề rò rỉ dữ liệu mà Google đã phát hiện, bạn sẽ nhận được cảnh báo. Vui lòng đặt lại mật khẩu của bạn. Nếu bạn sử dụng tên người dùng và mật khẩu giống nhau cho mọi tài khoản khác, hãy đặt lại mật khẩu cho cả những tài khoản đó.\n\nTiện ích Password Checkup coi trọng việc bảo vệ quyền riêng tư. Tiện ích này không bao giờ báo cáo thông tin nhận dạng nào về tài khoản, mật khẩu hay thiết bị của bạn. Chúng tôi không báo cáo thông tin ẩn danh về số lần tìm kiếm mà kết quả trả về thông tin đăng nhập không an toàn, việc người dùng có đổi mật khẩu khi nhận được cảnh báo hay không, và miền liên quan để tăng phạm vi hoạt động của tiện ích. Bạn có thể tìm hiểu thêm về cách hoạt động của tiện ích Password Checkup tại https://support.google.com/accounts?p=password-checkup.\n\nBằng cách cài đặt mục này, bạn đồng ý với Điều khoản dịch vụ và Chính sách quyền riêng tư của Google tại www.google.com/policies/."
+   },
+   "extension_name": {
+      "message": "Password Checkup"
+   },
+   "ignore_button": {
+      "message": "Bỏ qua trên trang web này"
+   },
+   "learn_more": {
+      "message": "Tìm hiểu thêm"
+   },
+   "popup_advanced_settings_action": {
+      "message": "Cài đặt nâng cao"
+   },
+   "popup_default_status_message": {
+      "message": "Tiện ích Kiểm tra mật khẩu không phát hiện thấy vấn đề rò rỉ dữ liệu với bất kỳ mật khẩu nào mà bạn sử dụng gần đây."
+   },
+   "popup_ignore_button": {
+      "message": "Bỏ qua"
+   },
+   "popup_ignored_status_message": {
+      "message": "Tiện ích Kiểm tra mật khẩu không phát hiện thấy vấn đề rò rỉ dữ liệu với bất kỳ mật khẩu nào mà bạn sử dụng gần đây. Điều này không áp dụng với các mật khẩu không an toàn mà bạn đã chọn bỏ qua việc đặt lại."
+   },
+   "popup_learn_more": {
+      "message": "Tìm hiểu thêm"
+   },
+   "popup_multiple_accounts_warning_status_message": {
+      "message": "Tiện ích Password Checkup đã phát hiện rằng mật khẩu cho \u003Cb>$1 tài khoản\u003C/b> sau không còn an toàn do vấn đề rò rỉ dữ liệu.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "popup_number_unsafe_accounts": {
+      "message": "$1 tài khoản không an toàn",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "popup_one_account_warning_status_message": {
+      "message": "Tiện ích Password Checkup đã phát hiện rằng mật khẩu cho \u003Cb>1 tài khoản\u003C/b> sau không còn an toàn do vấn đề rò rỉ dữ liệu."
+   },
+   "popup_reset_extension_button": {
+      "message": "Xóa dữ liệu tiện ích"
+   },
+   "popup_reset_extension_text": {
+      "message": "Xóa tất cả dữ liệu tiện ích. Hành động này sẽ xóa tất cả thông tin đã lưu về các mật khẩu không an toàn và trang web đã bỏ qua trước đó."
+   },
+   "popup_warning_action": {
+      "message": "Bạn nên đổi mật khẩu ngay bây giờ."
+   },
+   "reset_text": {
+      "message": "Bạn nên đổi mật khẩu ngay bây giờ."
+   },
+   "warning_banner_header": {
+      "message": "Đổi mật khẩu"
+   },
+   "warning_text": {
+      "message": "Tiện ích Password Checkup đã phát hiện rằng mật khẩu của bạn cho \u003Cb>$1\u003C/b> không còn an toàn do vấn đề rò rỉ dữ liệu.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   }
+}

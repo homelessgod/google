@@ -1,0 +1,31 @@
+{
+   "background": {
+      "persistent": true,
+      "scripts": [ "js/deps/nearby.js", "js/deps/google-analytics-bundle.js", "build/all.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "19": "images/actions/action_19_ready.png",
+         "38": "images/actions/action_38_ready.png"
+      },
+      "default_title": "__MSG_browser_action_title__"
+   },
+   "default_locale": "en",
+   "description": "__MSG_description__",
+   "icons": {
+      "128": "images/shoutout_appicon_128.png",
+      "16": "images/shoutout_appicon_16.png",
+      "256": "images/shoutout_appicon_256.png",
+      "48": "images/shoutout_appicon_48.png",
+      "512": "images/shoutout_appicon_512.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlm98fF0CN2cMmjNjFFdm8vFXxUHGb0cewVmspAVUAXKY1fUnUAVGHBnGcRlEVNtrkQrbqwZbNdVTG79L4EALRWsOOoxLqN6qtJX5UlQY9gv4cKqP4uA9ghZfSX8Itb56j+OtXH4gAkJWIb/onEblX+4cRkVfUJ/BrkXFwrNot9HhMs+p7NtS8Dc3ctaL3Cn9PUsHZFdVJnz2WfI6spvtUdJnh1JsG4d8Bcw/93QvNmfa1qYb8JSHnqgkL8nTjQMPM7Mg6L28LghklRkUV+e+ZFV4mjNIc28GTwQCKA0owoUJjkc8/8Tor70VyXlZdZf0bxMAC/kKukUZ+IsUzawsAwIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "50",
+   "name": "__MSG_name__",
+   "options_page": "pages/settings.html",
+   "permissions": [ "activeTab", "audioCapture", "cookies", "contextMenus", "idle", "notifications", "storage", "tabs", "https://accounts.google.com/*", "https://clients1.google.com/*", "http://*.googleusercontent.com/*", "https://www.google-analytics.com/", "https://www.googleapis.com/*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.0.7",
+   "web_accessible_resources": [ "images/arrow.png", "images/shoutout_actionicon_19.png", "images/shoutout_actionicon_38.png", "images/shoutout_actionicon_disabled_38.png", "images/shoutout_notif_anon_256.png", "images/shoutout_notif_app_256.png", "images/shoutout_notif_alert_256.png" ]
+}

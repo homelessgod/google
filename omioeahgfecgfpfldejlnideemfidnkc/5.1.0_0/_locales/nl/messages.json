@@ -1,0 +1,69 @@
+{
+   "app_description": {
+      "message": "Bekijk gegevens van uw advertenties en accounts voor AdSense, Ad Exchange en DFP en blokkeer ongepaste advertenties op uw site."
+   },
+   "cs_overlay_date_7day": {
+      "message": "7 dagen"
+   },
+   "cs_overlay_date_today": {
+      "message": "Vandaag"
+   },
+   "cs_overlay_date_yesterday": {
+      "message": "Gisteren"
+   },
+   "cs_overlay_size_name": {
+      "message": "Formaat"
+   },
+   "cs_overlay_type_name": {
+      "message": "Type"
+   },
+   "dfp_creative_id": {
+      "message": "Advertentie: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "dfp_no_creative": {
+      "message": "Geen DFP-advertentie"
+   },
+   "dfp_unknown_creative": {
+      "message": "Onbekende advertentie"
+   },
+   "domains_whitelist_saved": {
+      "message": "De lijst met geautoriseerde sites is bijgewerkt."
+   },
+   "expired_creative": {
+      "message": "We kunnen de informatie voor deze advertentie niet ophalen. Wacht een moment en probeer de pagina dan opnieuw te laden."
+   },
+   "expired_line_item": {
+      "message": "We kunnen de informatie voor dit regelitem niet ophalen. Wacht een moment en probeer de pagina dan opnieuw te laden."
+   },
+   "line_item_adsense_or_adx": {
+      "message": "AdSense of Ad Exchange"
+   },
+   "line_item_id": {
+      "message": "Regelitem: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "line_item_no_ad": {
+      "message": "Geen DFP-advertentie"
+   },
+   "misconfigured_ad_notification_text": {
+      "message": "Deze pagina bevat \u003Ca href=\"ovnfc\">0\u003C/span> onjuist geconfigureerde advertentieblokken. Dit kan een negatief effect op uw inkomsten hebben. \u003Ca target=\"_new\" href=\"http://support.google.com/adsense/bin/answer.py?answer=2694805\" class=\"ovnfs\">Meer informatie\u003C/a>"
+   },
+   "no_results_creative": {
+      "message": "We kunnen de informatie voor deze advertentie niet vinden. U heeft mogelijk geen toegang tot de advertentie."
+   },
+   "no_results_line_item": {
+      "message": "We kunnen de informatie voor dit regelitem niet vinden. U heeft mogelijk geen toegang tot het regelitem."
+   },
+   "settings_saved_title": {
+      "message": "Instellingen opgeslagen"
+   }
+}

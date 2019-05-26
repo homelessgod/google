@@ -1,0 +1,440 @@
+{
+   "101206989909763677": {
+      "message": "Elever i $CLASS_NAME$",
+      "placeholders": {
+         "CLASS_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "1258929983314547244": {
+      "message": "SKICKAT TILL LÄRARE"
+   },
+   "1301730406464354688": {
+      "message": "Öppna Classroom"
+   },
+   "1462156539679968804": {
+      "message": "Mottaget från elever"
+   },
+   "1472332582476021124": {
+      "message": "Eleverna kan visa filen"
+   },
+   "1510105121221276016": {
+      "message": "Lås på skärmen"
+   },
+   "1550690544509024009": {
+      "message": "{numFlings,plural, =1{# ny}other{# nya}}"
+   },
+   "1663150675851578875": {
+      "message": "Det går inte att ansluta till $PRODUCT_NAME$. Kontrollera att nätverksanslutningen är tillgänglig och försök sedan ansluta igen.",
+      "placeholders": {
+         "PRODUCT_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "1758804700969198023": {
+      "message": "Dela-menyn"
+   },
+   "1790549872641667595": {
+      "message": "Dela med Classroom (Staging)"
+   },
+   "1951089763019042037": {
+      "message": "Elev"
+   },
+   "2050089326602918210": {
+      "message": "Dela med Classroom"
+   },
+   "2062938386395101624": {
+      "message": "Skickat till elever"
+   },
+   "2070581630224025695": {
+      "message": "Skapa meddelande"
+   },
+   "2090147790320018555": {
+      "message": "Du har inte skickat något nyligen."
+   },
+   "2213990758451550370": {
+      "message": "Eleverna kan kommentera filen"
+   },
+   "2266749875018591275": {
+      "message": "Ditt tillägg för $PRODUCT_NAME$ är inaktuellt. Om du vill fortsätta klickar du för att $START_LINK$avinstallera det här tillägget$END_LINK$. Detta öppnar också sidan i Chrome Web Store där tillägget kan installeras om.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "PRODUCT_NAME": {
+            "content": "$2"
+         },
+         "START_LINK": {
+            "content": "$3"
+         }
+      }
+   },
+   "2315140680766681153": {
+      "message": "Det finns inga elever att visa."
+   },
+   "2409870568039115310": {
+      "message": "SKICKA TILL LÄRARE"
+   },
+   "2416435327104074837": {
+      "message": "Skickat till lärare"
+   },
+   "265018083235803821": {
+      "message": "Behörighetsmeny"
+   },
+   "272253201636921624": {
+      "message": "Skickar"
+   },
+   "3208531239543188174": {
+      "message": "Öppnar om {numSeconds,plural, =1{1 sekund}other{# sekunder}}..."
+   },
+   "3727581148109420602": {
+      "message": "Öppna på en ny flik"
+   },
+   "3852289441366561594": {
+      "message": "Ansluter ..."
+   },
+   "3853169172456108967": {
+      "message": "SKAPA ELLER GÅ MED I KURS"
+   },
+   "3894950702316166331": {
+      "message": "Läser in ..."
+   },
+   "4012779869104225222": {
+      "message": "Klasslista"
+   },
+   "4048890404505834885": {
+      "message": "Ställ en fråga"
+   },
+   "4101941266124151376": {
+      "message": "på"
+   },
+   "4221250166827447984": {
+      "message": "Visar $TITLE$",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "4269658859113770197": {
+      "message": "Läser in dina klasser ..."
+   },
+   "436489073937327740": {
+      "message": "Skicka ytterligare loggar till Google som innehåller de sidor som delas samt e-postadresser till medlemmar i din kurs."
+   },
+   "4481147463445876932": {
+      "message": "Skapa uppgift"
+   },
+   "4491595920888170943": {
+      "message": "Det går inte att dela den aktuella sidan."
+   },
+   "4622108781632885640": {
+      "message": "Mottaget från lärare"
+   },
+   "4742705439416933924": {
+      "message": "Gå med i en kurs så att ni kan öppna sidor tillsammans"
+   },
+   "4748990655911819545": {
+      "message": "Undervisning"
+   },
+   "4811423455816775324": {
+      "message": "Du måste vara inloggad på Chrome om du ska kunna använda $PRODUCT$. Klicka här för att logga in.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "4849976898594713883": {
+      "message": "$PRODUCT$ kan inte ansluta till servrarna. Det verkar bero på konfigureringen av en gateway eller brandvägg. Kontrollera brandväggsinställningarna och se till att de har konfigurerats att tillåta trafik med $SERVER$.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         },
+         "SERVER": {
+            "content": "$2"
+         }
+      }
+   },
+   "48585068921907804": {
+      "message": "Det går inte att ansluta till $PRODUCT_NAME$. Testa att logga ut från kontot och sedan logga in igen. Om problemet kvarstår klickar du på feedbackikonen nedan och skickar feedback.",
+      "placeholders": {
+         "PRODUCT_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "4930506384627295710": {
+      "message": "Inställningar"
+   },
+   "533692309512814645": {
+      "message": "SKICKA"
+   },
+   "5354810546510399127": {
+      "message": "Öppnar hjälpsidan"
+   },
+   "5560440246965579819": {
+      "message": "Lärarna kan visa filen"
+   },
+   "566090020805595985": {
+      "message": "SKAPA KURS"
+   },
+   "5851560788527570644": {
+      "message": "Aviseringar"
+   },
+   "5936353814217802658": {
+      "message": "SKICKA TILL LÄRARE"
+   },
+   "6031597996865914480": {
+      "message": "SKICKA"
+   },
+   "6042567254866620046": {
+      "message": "Det här systemet är inte anslutet till $PRODUCT$. Tryck på anslutningsknappen för att försöka ansluta.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "6084304183859355623": {
+      "message": "Du är inloggad som $EMAIL$. Om du vill fortsätta, $START_LINK$loggar du in på Chrome$END_LINK$ med ett Google-skolkonto som har tillgång till Google Classroom.",
+      "placeholders": {
+         "EMAIL": {
+            "content": "$1"
+         },
+         "END_LINK": {
+            "content": "$2"
+         },
+         "START_LINK": {
+            "content": "$3"
+         }
+      }
+   },
+   "6110089012347909146": {
+      "message": "av"
+   },
+   "6229272560153199861": {
+      "message": "Skapa en kurs så att ni kan öppna sidor tillsammans"
+   },
+   "6422956386741575643": {
+      "message": "Skriv en kort beskrivning"
+   },
+   "6576961868476783976": {
+      "message": "Ett fel uppstod i $PRODUCT$ när dokumentet skulle delas. Försök igen senare.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "6666246860368909334": {
+      "message": " - "
+   },
+   "6731720160639032735": {
+      "message": "Inloggad som $EMAIL$",
+      "placeholders": {
+         "EMAIL": {
+            "content": "$1"
+         }
+      }
+   },
+   "6802974388288119584": {
+      "message": "Med funktionen Google Feedback kan du skicka förslag om våra produkter till oss. Vi tar gärna emot problemanmälningar, funktionsidéer och allmänna kommentarer."
+   },
+   "6921620009241719815": {
+      "message": "Återvänd till föregående sida"
+   },
+   "7002955679222677443": {
+      "message": "Läs mer"
+   },
+   "7014972904425258116": {
+      "message": "Lärarna kan kommentera filen"
+   },
+   "7187802960307973851": {
+      "message": "Du har inte fått någonting nyligen."
+   },
+   "7419648588978430202": {
+      "message": "Läser in din historik ..."
+   },
+   "7467129818830892099": {
+      "message": "Elever på helskärmssidan"
+   },
+   "7520798696482451948": {
+      "message": "GÅ MED I KURS"
+   },
+   "7582805180132294390": {
+      "message": "$PRODUCT$ kan inte ansluta till servrarna. Om problemet kvarstår kontrollerar du internetanslutningen och brandväggsinställningarna och skickar feedback via feedbackikonen nedan.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "7604563725603697690": {
+      "message": "Skärmdump av den aktuella sidan."
+   },
+   "7613121200569555025": {
+      "message": "$NAME$ har skickat en sida",
+      "placeholders": {
+         "NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "7646520484997880732": {
+      "message": "Öppnar sidan Inställningar"
+   },
+   "7733702880641460982": {
+      "message": "Google Feedback"
+   },
+   "77478328938908900": {
+      "message": "Stäng varningsmeddelande"
+   },
+   "7798244153502527716": {
+      "message": "Du måste vara inloggad på Chrome om du ska kunna använda $PRODUCT$.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "7819314041543176992": {
+      "message": "Stäng"
+   },
+   "7826444313570725162": {
+      "message": "SKICKADE"
+   },
+   "784919827997620253": {
+      "message": "Skicka kommentarer"
+   },
+   "7869782771655761788": {
+      "message": "SKICKADE"
+   },
+   "787828271820052473": {
+      "message": "Skapa eller gå med i en kurs så att ni kan öppna sidor tillsammans"
+   },
+   "7914587618073030772": {
+      "message": "Dela med Classroom (Test)"
+   },
+   "7924019946919704377": {
+      "message": "$START_LINK$Klicka här$END_LINK$ och logga in på Chrome och testa sedan $PRODUCT_NAME$ igen.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "PRODUCT_NAME": {
+            "content": "$2"
+         },
+         "START_LINK": {
+            "content": "$3"
+         }
+      }
+   },
+   "8071009096908772636": {
+      "message": "Visa webbläsaraviseringar när eleverna skickar webbsidor till mig"
+   },
+   "8083611296479050044": {
+      "message": "Öppna feedbacksidan"
+   },
+   "8107264734060843365": {
+      "message": "If this problem doesn't go away, try restarting your computer. If this problem persists, click the feedback icon below to submit feedback."
+   },
+   "813263746069473514": {
+      "message": "Ansluta"
+   },
+   "819996403327805209": {
+      "message": "Läs mer"
+   },
+   "8250116767525441148": {
+      "message": "$PRODUCT$ kunde inte ansluta till $SITE$. Kontrollera din internetanslutning och försök igen.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         },
+         "SITE": {
+            "content": "$2"
+         }
+      }
+   },
+   "826991190228103925": {
+      "message": "Inställningar"
+   },
+   "8410291800785136487": {
+      "message": "Skicka till elever"
+   },
+   "8427578009205621398": {
+      "message": "$PARTICIPATING$/$TOTAL$ elever",
+      "placeholders": {
+         "PARTICIPATING": {
+            "content": "$1"
+         },
+         "TOTAL": {
+            "content": "$2"
+         }
+      }
+   },
+   "8510084535053903986": {
+      "message": "Lärarna kan redigera filen"
+   },
+   "8584185541337081736": {
+      "message": "Dela det här tillägget med dina elever så att de får dina länkar.&nbsp;"
+   },
+   "8636360788868898667": {
+      "message": "Samla kursen på samma (webb)sida direkt."
+   },
+   "8657495129257769609": {
+      "message": "Datorn verkar inte vara ansluten till internet. Kontrollera din anslutning och försök igen."
+   },
+   "8757637959955680925": {
+      "message": "Du måste vara inloggad på Chrome om du ska kunna använda $PRODUCT_NAME$, men du verkar inte vara det.",
+      "placeholders": {
+         "PRODUCT_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "8812061458772284085": {
+      "message": "Beskrivningen, produktinformationen, ytterligare systeminformation och din e-postadress skickas till Google. Mer information finns i Googles $START_LINK_1$sekretesspolicy$END_LINK$ och $START_LINK_2$användarvillkor$END_LINK$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK_1": {
+            "content": "$2"
+         },
+         "START_LINK_2": {
+            "content": "$3"
+         }
+      }
+   },
+   "8876711157282412092": {
+      "message": "{numLinks,plural, =1{# länk}other{# länkar}}"
+   },
+   "8934950226874423147": {
+      "message": "Eleverna kan redigera filen"
+   },
+   "9057609174906387434": {
+      "message": "Ikon till $PAGE_TITLE$.",
+      "placeholders": {
+         "PAGE_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "9200475522066047621": {
+      "message": "Registrerade"
+   },
+   "9217362152767454370": {
+      "message": "$PRODUCT$ kräver tillstånd för att få tillgång till din profil.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "99413348305232894": {
+      "message": "Dela med Classroom"
+   }
+}

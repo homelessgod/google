@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 128 128"
+   version="1.1"
+   id="svg6084"
+   sodipodi:docname="red_shield_icon.svg"
+   inkscape:version="0.92.2pre0 (973e216, 2017-07-25)">
+  <metadata
+     id="metadata6088">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Red-Checkmark</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1165"
+     id="namedview6086"
+     showgrid="false"
+     inkscape:zoom="1.84375"
+     inkscape:cx="-30.372881"
+     inkscape:cy="64"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6084" />
+  <defs
+     id="defs6054">
+    <style
+       id="style6042">.cls-1{fill:none;}.cls-2{fill:#fad2cf;}.cls-3{isolation:isolate;}.cls-4{fill:#ea4335;}.cls-5{clip-path:url(#clip-path);}.cls-6{clip-path:url(#clip-path-2);}.cls-7{opacity:0.27;mix-blend-mode:multiply;fill:url(#linear-gradient);}.cls-8{fill:#c5221f;}.cls-9{fill:#fff;}</style>
+    <clipPath
+       id="clip-path">
+      <path
+         id="Shield_Shape_96dp"
+         data-name="Shield Shape 96dp"
+         class="cls-1"
+         d="M59.24,111.19C84.39,99.37,107.7,93.46,110,78c.49-3.26,0-25.92,0-28,0-1-13.52-23.24-13.52-23.24l-37.24-10L22,26.76V53.05a93.6,93.6,0,0,0,.8,10.45C25.1,79,34.08,99.37,59.24,111.19Z" />
+    </clipPath>
+    <clipPath
+       id="clip-path-2">
+      <path
+         class="cls-2"
+         d="M84,87H13V42H84a23.3,23.3,0,0,1,23,23h0C107,77.47,96.47,87,84,87Z"
+         id="path6046" />
+    </clipPath>
+    <linearGradient
+       id="linear-gradient"
+       x1="16"
+       y1="68.41"
+       x2="52.7"
+       y2="68.41"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0.41"
+         stop-color="#ea4335"
+         id="stop6049" />
+      <stop
+         offset="1"
+         stop-color="#fff"
+         id="stop6051" />
+    </linearGradient>
+    <clipPath
+       id="clip-path-20">
+      <path
+         inkscape:connector-curvature="0"
+         id="Shield_Shape_96dp-23"
+         data-name="Shield Shape 96dp"
+         class="cls-1"
+         d="M 59.24,111.19 C 84.39,99.37 107.7,93.46 110,78 c 0.49,-3.26 0,-25.92 0,-28 0,-1 -13.52,-23.24 -13.52,-23.24 l -37.24,-10 -37.24,10 v 26.29 a 93.6,93.6 0 0 0 0.8,10.45 c 2.3,15.5 11.28,35.87 36.44,47.69 z" />
+    </clipPath>
+    <clipPath
+       id="clip-path-2-7">
+      <path
+         inkscape:connector-curvature="0"
+         class="cls-2"
+         d="M 84,87 H 13 V 42 h 71 a 23.3,23.3 0 0 1 23,23 v 0 c 0,12.47 -10.53,22 -23,22 z"
+         id="path1688" />
+    </clipPath>
+    <linearGradient
+       id="linear-gradient-5"
+       x1="16"
+       y1="68.410004"
+       x2="52.700001"
+       y2="68.410004"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0.49"
+         stop-color="#34a853"
+         id="stop6724" />
+      <stop
+         offset="1"
+         stop-color="#fff"
+         id="stop6726" />
+    </linearGradient>
+  </defs>
+  <title
+     id="title6056">Red-Checkmark</title>
+  <path
+     sodipodi:nodetypes="ccccccccc"
+     id="Shield_Shape_96dp-2"
+     data-name="Shield Shape 96dp"
+     class="cls-4"
+     d="m 51.07497,124.25678 c 33.861649,-15.9143 45.952211,-43.340218 49.0489,-64.209226 0.63195,-4.665239 0.99607,-9.362854 1.09058,-14.069751 0,-1.346388 -0.64627,-35.00608 -0.64627,-35.00608 L 51.07497,0.98132394 0.93549358,10.581271 V 45.977803 C 1.0314728,50.684156 1.391073,55.381435 2.0126037,60.047554 5.1092954,80.916562 17.199857,108.34248 51.07497,124.25678 Z"
+     inkscape:connector-curvature="0"
+     style="isolation:isolate;fill:#ea4335;stroke-width:1.34638762" />
+  <g
+     style="isolation:isolate"
+     class="cls-5"
+     clip-path="url(#clip-path)"
+     id="g6069"
+     transform="matrix(1.3463877,0,0,1.3463877,-28.685035,-25.448063)">
+    <path
+       class="cls-2"
+       d="M 84,87 H 13 V 42 h 71 a 23.3,23.3 0 0 1 23,23 v 0 c 0,12.47 -10.53,22 -23,22 z"
+       id="path6059"
+       inkscape:connector-curvature="0"
+       style="fill:#fad2cf" />
+    <g
+       class="cls-6"
+       clip-path="url(#clip-path-2)"
+       id="g6063">
+      <path
+         class="cls-7"
+         d="m 29,32 c 0,0 -0.6,21 -0.3,26 0.3,5 3.3,35 10.3,44 5,6.36 -23,0 -23,0 V 32 Z"
+         id="path6061"
+         style="opacity:0.27000002;mix-blend-mode:multiply;fill:url(#linear-gradient)"
+         inkscape:connector-curvature="0" />
+    </g>
+    <path
+       class="cls-8"
+       d="m 20.31,73.05 5.69,-7.76 -0.15,-0.6 -8.44,-2.87 1.73,-5 8.29,2.94 0.45,-0.15 v -9 h 5.35 v 9 l 0.38,0.15 8.39,-2.99 1.73,5 -8.44,2.87 -0.23,0.6 5.81,7.76 -4.38,3.17 -5.65,-7.76 h -0.53 l -5.65,7.76 z"
+       id="path6065"
+       inkscape:connector-curvature="0"
+       style="fill:#c5221f" />
+    <path
+       class="cls-8"
+       d="m 54.56,73.05 5.73,-7.76 -0.15,-0.6 -8.44,-2.87 1.73,-5 8.29,2.94 0.45,-0.15 v -9 h 5.35 v 9 l 0.38,0.15 8.37,-2.94 1.73,5 -8.44,2.87 -0.23,0.6 5.81,7.76 -4.38,3.17 -5.65,-7.76 h -0.53 l -5.65,7.76 z"
+       id="path6067"
+       inkscape:connector-curvature="0"
+       style="fill:#c5221f" />
+  </g>
+  <rect
+     class="cls-4"
+     x="85.757912"
+     y="36.485771"
+     width="8.0783262"
+     height="47.123566"
+     id="rect6071"
+     style="isolation:isolate;fill:#ea4335;stroke-width:1.34638762" />
+  <g
+     id="g14068"
+     transform="translate(85.237288,-21.067797)">
+    <path
+       style="isolation:isolate;fill:#ffffff;stroke-width:1.16553116"
+       inkscape:connector-curvature="0"
+       id="path6750"
+       d="M 7.59416,87.276933 A 26.22445,26.22445 0 1 1 -18.630293,113.50138 26.22445,26.22445 0 0 1 7.59416,87.276933 m 0,-8.56665 A 34.791103,34.791103 0 1 0 42.38526,113.50138 34.826069,34.826069 0 0 0 7.59416,78.710283 Z"
+       class="cls-9" />
+    <circle
+       style="opacity:1;isolation:isolate;vector-effect:none;fill:#ea4335;fill-opacity:1;stroke-width:1.34638762;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle6748"
+       r="28.87483"
+       cy="113.50139"
+       cx="7.594173"
+       class="cls-4" />
+    <rect
+       style="isolation:isolate;fill:#ffffff;stroke-width:1.34638762"
+       id="rect6077"
+       height="10.771101"
+       width="9.4247131"
+       y="122.99259"
+       x="3.6333449"
+       class="cls-9" />
+    <rect
+       style="isolation:isolate;fill:#ffffff;stroke-width:1.34638762"
+       id="rect6079"
+       height="22.888592"
+       width="9.4247131"
+       y="92.69886"
+       x="3.6333449"
+       class="cls-9" />
+  </g>
+</svg>

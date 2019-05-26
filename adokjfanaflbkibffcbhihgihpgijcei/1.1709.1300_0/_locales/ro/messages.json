@@ -1,0 +1,440 @@
+{
+   "101206989909763677": {
+      "message": "Studenții înscriși la $CLASS_NAME$",
+      "placeholders": {
+         "CLASS_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "1258929983314547244": {
+      "message": "TRIMISĂ CĂTRE PROFESOR"
+   },
+   "1301730406464354688": {
+      "message": "Deschideți Classroom"
+   },
+   "1462156539679968804": {
+      "message": "Primite de la studenți"
+   },
+   "1472332582476021124": {
+      "message": "Elevii pot vedea fișierul"
+   },
+   "1510105121221276016": {
+      "message": "Blocați pe ecran"
+   },
+   "1550690544509024009": {
+      "message": "{numFlings,plural, =1{# nouă}few{# noi}other{# noi}}"
+   },
+   "1663150675851578875": {
+      "message": "Au apărut probleme la conectarea la $PRODUCT_NAME$. Verificați dacă este disponibilă conexiunea la rețea și încercați să vă conectați din nou.",
+      "placeholders": {
+         "PRODUCT_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "1758804700969198023": {
+      "message": "Meniu cu opțiuni de trimitere"
+   },
+   "1790549872641667595": {
+      "message": "Trimiteți în Classroom (Simulare)"
+   },
+   "1951089763019042037": {
+      "message": "Elev"
+   },
+   "2050089326602918210": {
+      "message": "Trimiteți în Classroom"
+   },
+   "2062938386395101624": {
+      "message": "Trimise către studenți"
+   },
+   "2070581630224025695": {
+      "message": "Creați un anunț"
+   },
+   "2090147790320018555": {
+      "message": "Nu ați trimis nimic recent."
+   },
+   "2213990758451550370": {
+      "message": "Elevii pot comenta fișierul"
+   },
+   "2266749875018591275": {
+      "message": "Extensia dvs. „$PRODUCT_NAME$” este neactualizată. Pentru a continua, dați clic pentru a $START_LINK$dezinstala această extensie$END_LINK$. De asemenea, se va deschide pagina Magazin web Chrome de unde puteți să instalați din nou extensia.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "PRODUCT_NAME": {
+            "content": "$2"
+         },
+         "START_LINK": {
+            "content": "$3"
+         }
+      }
+   },
+   "2315140680766681153": {
+      "message": "Nu există niciun elev de afișat."
+   },
+   "2409870568039115310": {
+      "message": "TRIMITEȚI CĂTRE PROFESOR"
+   },
+   "2416435327104074837": {
+      "message": "Trimise către profesor"
+   },
+   "265018083235803821": {
+      "message": "Meniul Permisiuni"
+   },
+   "272253201636921624": {
+      "message": "Se trimite"
+   },
+   "3208531239543188174": {
+      "message": "Se deschide în {numSeconds,plural, =1{o secundă}few{# secunde}other{# de secunde}}..."
+   },
+   "3727581148109420602": {
+      "message": "Deschideți într-o filă nouă"
+   },
+   "3852289441366561594": {
+      "message": "Se conectează..."
+   },
+   "3853169172456108967": {
+      "message": "CREAȚI SAU ÎNSCRIEȚI-VĂ LA UN CURS"
+   },
+   "3894950702316166331": {
+      "message": "Se încarcă..."
+   },
+   "4012779869104225222": {
+      "message": "Lista cursurilor"
+   },
+   "4048890404505834885": {
+      "message": "Puneți o întrebare"
+   },
+   "4101941266124151376": {
+      "message": "activ"
+   },
+   "4221250166827447984": {
+      "message": "Se afișează $TITLE$",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "4269658859113770197": {
+      "message": "Se încarcă cursurile dvs..."
+   },
+   "436489073937327740": {
+      "message": "Trimiteți la Google jurnale suplimentare, care conțin paginile trimise și adresele de e-mail ale membrilor înscriși la curs."
+   },
+   "4481147463445876932": {
+      "message": "Creați o temă"
+   },
+   "4491595920888170943": {
+      "message": "Pagina actuală nu poate fi trimisă."
+   },
+   "4622108781632885640": {
+      "message": "Primite de la profesor"
+   },
+   "4742705439416933924": {
+      "message": "Înscrieți-vă la un curs pentru a deschide pagini împreună"
+   },
+   "4748990655911819545": {
+      "message": "Cursuri la care predați"
+   },
+   "4811423455816775324": {
+      "message": "Trebuie să fiți conectat(ă) la Chrome pentru a folosi $PRODUCT$.\nDați clic aici pentru a vă conecta.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "4849976898594713883": {
+      "message": "$PRODUCT$ nu reușește să se conecteze la servere și motivul pare a fi configurația unui gateway sau a unui firewall. Verificați setările firewallului și asigurați-vă că acestea permit traficul cu „$SERVER$”.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         },
+         "SERVER": {
+            "content": "$2"
+         }
+      }
+   },
+   "48585068921907804": {
+      "message": "Au apărut probleme la conectarea la $PRODUCT_NAME$. Încercați să vă deconectați din cont și apoi să vă conectați din nou. Dacă aveți în continuare probleme, dați clic pe pictograma de feedback de mai jos pentru a trimite feedback.",
+      "placeholders": {
+         "PRODUCT_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "4930506384627295710": {
+      "message": "Setări"
+   },
+   "533692309512814645": {
+      "message": "TRIMITEȚI"
+   },
+   "5354810546510399127": {
+      "message": "Deschide pagina de ajutor"
+   },
+   "5560440246965579819": {
+      "message": "Profesorii pot vedea fișierul"
+   },
+   "566090020805595985": {
+      "message": "CREAȚI UN CURS"
+   },
+   "5851560788527570644": {
+      "message": "Notificări"
+   },
+   "5936353814217802658": {
+      "message": "TRIMITEȚI CĂTRE PROFESOR"
+   },
+   "6031597996865914480": {
+      "message": "TRIMITEȚI"
+   },
+   "6042567254866620046": {
+      "message": "Acest sistem nu este conectat la $PRODUCT$. Apăsați pe butonul de conectare pentru a vă conecta.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "6084304183859355623": {
+      "message": "Sunteți conectat(ă) ca $EMAIL$. Pentru a continua, $START_LINK$conectați-vă la Chrome$END_LINK$ cu un cont Google de la școală care are acces la Google Classroom.",
+      "placeholders": {
+         "EMAIL": {
+            "content": "$1"
+         },
+         "END_LINK": {
+            "content": "$2"
+         },
+         "START_LINK": {
+            "content": "$3"
+         }
+      }
+   },
+   "6110089012347909146": {
+      "message": "dezactivat"
+   },
+   "6229272560153199861": {
+      "message": "Creați un curs pentru a deschide pagini împreună"
+   },
+   "6422956386741575643": {
+      "message": "Introduceți o scurtă descriere"
+   },
+   "6576961868476783976": {
+      "message": "$PRODUCT$ a întâmpinat o eroare când a încercat să trimită documentul. Încercați din nou mai târziu.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "6666246860368909334": {
+      "message": " – "
+   },
+   "6731720160639032735": {
+      "message": "V-ați conectat ca $EMAIL$",
+      "placeholders": {
+         "EMAIL": {
+            "content": "$1"
+         }
+      }
+   },
+   "6802974388288119584": {
+      "message": "Puteți să trimiteți la Google sugestii despre produsele noastre prin Google Feedback. Rapoartele privind eventuale probleme, ideile de funcții și comentariile generale sunt binevenite."
+   },
+   "6921620009241719815": {
+      "message": "Accesați pagina anterioară"
+   },
+   "7002955679222677443": {
+      "message": "Aflați mai multe"
+   },
+   "7014972904425258116": {
+      "message": "Profesorii pot comenta fișierul"
+   },
+   "7187802960307973851": {
+      "message": "Nu ați primit nimic recent."
+   },
+   "7419648588978430202": {
+      "message": "Se încarcă istoricul..."
+   },
+   "7467129818830892099": {
+      "message": "Afișați pagina cu elevi pe tot ecranul"
+   },
+   "7520798696482451948": {
+      "message": "ÎNSCRIEȚI-VĂ LA CURS"
+   },
+   "7582805180132294390": {
+      "message": "$PRODUCT$ are probleme cu conectarea la servere. Dacă această problemă persistă, verificați conexiunea la internet și setările de firewall, apoi trimiteți feedback folosind pictograma de feedback de mai jos.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "7604563725603697690": {
+      "message": "Captură de ecran a paginii actuale."
+   },
+   "7613121200569555025": {
+      "message": "$NAME$ a trimis o pagină",
+      "placeholders": {
+         "NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "7646520484997880732": {
+      "message": "Deschide pagina Setări"
+   },
+   "7733702880641460982": {
+      "message": "Google Feedback"
+   },
+   "77478328938908900": {
+      "message": "Închideți mesajul de avertisment"
+   },
+   "7798244153502527716": {
+      "message": "Trebuie să fiți conectat(ă) la Chrome pentru a folosi $PRODUCT$.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "7819314041543176992": {
+      "message": "Închideți"
+   },
+   "7826444313570725162": {
+      "message": "TRIMISĂ"
+   },
+   "784919827997620253": {
+      "message": "Trimiteți feedback"
+   },
+   "7869782771655761788": {
+      "message": "Trimisă"
+   },
+   "787828271820052473": {
+      "message": "Creați un curs sau înscrieți-vă la unul existent pentru a deschide pagini împreună"
+   },
+   "7914587618073030772": {
+      "message": "Trimiteți în Classroom (Testare)"
+   },
+   "7924019946919704377": {
+      "message": "$START_LINK$Dați clic aici$END_LINK$ pentru a vă conecta la Chrome, apoi încercați din nou $PRODUCT_NAME$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "PRODUCT_NAME": {
+            "content": "$2"
+         },
+         "START_LINK": {
+            "content": "$3"
+         }
+      }
+   },
+   "8071009096908772636": {
+      "message": "Afișați notificările în browser când elevii vă trimit pagini web"
+   },
+   "8083611296479050044": {
+      "message": "Accesați pagina de feedback"
+   },
+   "8107264734060843365": {
+      "message": "If this problem doesn't go away, try restarting your computer. If this problem persists, click the feedback icon below to submit feedback."
+   },
+   "813263746069473514": {
+      "message": "Conectați-vă"
+   },
+   "819996403327805209": {
+      "message": "Aflați mai multe"
+   },
+   "8250116767525441148": {
+      "message": "$PRODUCT$ nu s-a putut conecta la $SITE$. Verificați conexiunea la internet și încercați din nou.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         },
+         "SITE": {
+            "content": "$2"
+         }
+      }
+   },
+   "826991190228103925": {
+      "message": "Setări"
+   },
+   "8410291800785136487": {
+      "message": "Trimiteți către studenți"
+   },
+   "8427578009205621398": {
+      "message": "Studenți: $PARTICIPATING$/$TOTAL$",
+      "placeholders": {
+         "PARTICIPATING": {
+            "content": "$1"
+         },
+         "TOTAL": {
+            "content": "$2"
+         }
+      }
+   },
+   "8510084535053903986": {
+      "message": "Profesorii pot edita fișierul"
+   },
+   "8584185541337081736": {
+      "message": "Trimiteți această extensie studenților pentru ca aceștia să primească linkurile dvs.&nbsp;"
+   },
+   "8636360788868898667": {
+      "message": "Centralizați instantaneu orele de curs în aceeași pagină (web)."
+   },
+   "8657495129257769609": {
+      "message": "Se pare că dispozitivul dvs. nu e conectat la internet. Verificați conexiunea și încercați din nou."
+   },
+   "8757637959955680925": {
+      "message": "Trebuie să fiți conectat(ă) la Chrome pentru a folosi $PRODUCT_NAME$. Se pare că nu sunteți conectat(ă) în acest moment.",
+      "placeholders": {
+         "PRODUCT_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "8812061458772284085": {
+      "message": "Se vor trimite la Google descrierea, informațiile produsului, informații suplimentare despre sistem și adresa dvs. de e-mail. Consultați $START_LINK_1$Politica de confidențialitate$END_LINK$ și $START_LINK_2$Termenii și condițiile$END_LINK$ Google.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK_1": {
+            "content": "$2"
+         },
+         "START_LINK_2": {
+            "content": "$3"
+         }
+      }
+   },
+   "8876711157282412092": {
+      "message": "{numLinks,plural, =1{# link}few{# linkuri}other{# de linkuri}}"
+   },
+   "8934950226874423147": {
+      "message": "Elevii pot edita fișierul"
+   },
+   "9057609174906387434": {
+      "message": "Pictograma paginii $PAGE_TITLE$.",
+      "placeholders": {
+         "PAGE_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "9200475522066047621": {
+      "message": "Cursuri la care sunteți înscris(ă)"
+   },
+   "9217362152767454370": {
+      "message": "$PRODUCT$ necesită permisiune pentru a vă accesa profilul.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "99413348305232894": {
+      "message": "Trimiteți în Classroom"
+   }
+}

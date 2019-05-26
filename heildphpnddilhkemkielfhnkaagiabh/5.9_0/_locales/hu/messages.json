@@ -1,0 +1,46 @@
+{
+   "browser_error": {
+      "description": "Error mesage shown if the redirection has failed.",
+      "message": "Forduljon a rendszergazdájához."
+   },
+   "error_title": {
+      "description": "The title of the redirection page if an error has happened while trying to load the alternative browser.",
+      "message": "A másik böngészőt nem sikerült megnyitni"
+   },
+   "extension_description": {
+      "description": "Description of the extension.",
+      "message": "Telepítse a Chrome-ot szervezeténél, miközben megmarad a régi böngészők támogatása."
+   },
+   "extension_name": {
+      "description": "Name of the extension.",
+      "message": "Régi böngészők támogatása"
+   },
+   "learn_more_message": {
+      "description": "Message shown on the bottom with a link to a (potentially) internationalized 'learn more' article",
+      "message": "\u003Ca href='https://www.google.com/intl/hu/chrome/business/'>További információ\u003C/a> a régi böngészők támogatásáról."
+   },
+   "redirect_message": {
+      "description": "Text shown on the redirection page while the alternative browser is started.",
+      "message": "Rendszergazdája úgy állította be a Chrome-ot, hogy a következő URL eléréséhez másik böngészőt nyisson meg: \u003Cstrong>$url$\u003C/strong>.",
+      "placeholders": {
+         "url": {
+            "content": "$1",
+            "example": "http://google.com/"
+         }
+      }
+   },
+   "redirect_title": {
+      "description": "The title of the redirection page. Also shown in the Chrome title bar.",
+      "message": "Megnyitás másik böngészőben..."
+   },
+   "wrong_protocol_error": {
+      "description": "This error is whown when the action page is invoke with a hash tag specifying an address that is not in the http/https protocols.",
+      "message": "Protokollbeállítási hiba miatt nem lehet megnyitni a következő webhelyet: \u003Cstrong>$url$\u003C/strong>. Kérjük, forduljon a rendszergazdájához.",
+      "placeholders": {
+         "url": {
+            "content": "$1",
+            "example": "http://google.com/"
+         }
+      }
+   }
+}

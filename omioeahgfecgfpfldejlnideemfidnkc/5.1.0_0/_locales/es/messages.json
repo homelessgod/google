@@ -1,0 +1,69 @@
+{
+   "app_description": {
+      "message": "Muestra datos en cuentas y anuncios de AdSense, Ad Exchange y DoubleClick for Publishers, y bloquea anuncios inapropiados del sitio."
+   },
+   "cs_overlay_date_7day": {
+      "message": "7 días"
+   },
+   "cs_overlay_date_today": {
+      "message": "Hoy"
+   },
+   "cs_overlay_date_yesterday": {
+      "message": "Ayer"
+   },
+   "cs_overlay_size_name": {
+      "message": "Tamaño"
+   },
+   "cs_overlay_type_name": {
+      "message": "Tipo"
+   },
+   "dfp_creative_id": {
+      "message": "Creatividad: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "dfp_no_creative": {
+      "message": "No hay ninguna creatividad de DFP"
+   },
+   "dfp_unknown_creative": {
+      "message": "Creatividad desconocida"
+   },
+   "domains_whitelist_saved": {
+      "message": "La lista de sitios autorizados se ha actualizado."
+   },
+   "expired_creative": {
+      "message": "No se ha podido recuperar la información de esta creatividad. Espere unos segundos y, a continuación, vuelva a cargar la página."
+   },
+   "expired_line_item": {
+      "message": "No se ha podido recuperar la información de esta línea de pedido. Espere unos segundos y, a continuación, vuelva a cargar la página."
+   },
+   "line_item_adsense_or_adx": {
+      "message": "AdSense o Ad Exchange"
+   },
+   "line_item_id": {
+      "message": "Línea de pedido: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "line_item_no_ad": {
+      "message": "No hay ningún anuncio de DFP"
+   },
+   "misconfigured_ad_notification_text": {
+      "message": "Esta página contiene \u003Ca href=\"ovnfc\">0\u003C/span> bloques de anuncios mal configurados. Esto puede afectar negativamente a sus ingresos. \u003Ca target=\"_new\" href=\"http://support.google.com/adsense/bin/answer.py?answer=2694805\" class=\"ovnfs\">Más información\u003C/a>"
+   },
+   "no_results_creative": {
+      "message": "No se ha encontrado la información de esta creatividad. Puede que no tenga acceso a ella."
+   },
+   "no_results_line_item": {
+      "message": "No se ha encontrado la información de esta línea de pedido. Puede que no tenga acceso a ella."
+   },
+   "settings_saved_title": {
+      "message": "Se ha guardado la configuración"
+   }
+}

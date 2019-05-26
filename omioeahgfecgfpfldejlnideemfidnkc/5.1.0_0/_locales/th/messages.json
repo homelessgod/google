@@ -1,0 +1,69 @@
+{
+   "app_description": {
+      "message": "ดูข้อมูลในโฆษณาและบัญชี AdSense, Ad Exchange และ DoubleClick for Publishers และบล็อกโฆษณาที่ไม่เหมาะสมบนไซต์ของคุณ"
+   },
+   "cs_overlay_date_7day": {
+      "message": "7 วัน"
+   },
+   "cs_overlay_date_today": {
+      "message": "วันนี้"
+   },
+   "cs_overlay_date_yesterday": {
+      "message": "เมื่อวานนี้"
+   },
+   "cs_overlay_size_name": {
+      "message": "ขนาด"
+   },
+   "cs_overlay_type_name": {
+      "message": "ประเภท"
+   },
+   "dfp_creative_id": {
+      "message": "โฆษณา: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "dfp_no_creative": {
+      "message": "ไม่มีโฆษณา DFP"
+   },
+   "dfp_unknown_creative": {
+      "message": "โฆษณาที่ไม่รู้จัก"
+   },
+   "domains_whitelist_saved": {
+      "message": "อัปเดตรายการไซต์ที่ได้รับอนุญาตแล้ว"
+   },
+   "expired_creative": {
+      "message": "เราไม่สามารถดึงข้อมูลสำหรับโฆษณานี้ โปรดรอสักครู่แล้วลองโหลดหน้าเว็บซ้ำ"
+   },
+   "expired_line_item": {
+      "message": "เราไม่สามารถดึงข้อมูลสำหรับรายการโฆษณานี้ โปรดรอสักครู่แล้วลองโหลดหน้าเว็บซ้ำ"
+   },
+   "line_item_adsense_or_adx": {
+      "message": "AdSense หรือ Ad Exchange"
+   },
+   "line_item_id": {
+      "message": "รายการโฆษณา: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "line_item_no_ad": {
+      "message": "ไม่มีโฆษณา DFP"
+   },
+   "misconfigured_ad_notification_text": {
+      "message": "หน้านี้มีหน่วยโฆษณา \u003Ca href=\"ovnfc\">0\u003C/span> รายการที่ตั้งค่าไม่ถูกต้อง ซึ่งอาจส่งผลกระทบทางลบต่อรายได้ของคุณ \u003Ca target=\"_new\" href=\"http://support.google.com/adsense/bin/answer.py?answer=2694805\" class=\"ovnfs\">เรียนรู้เพิ่มเติม\u003C/a>"
+   },
+   "no_results_creative": {
+      "message": "เราไม่พบข้อมูลสำหรับโฆษณานี้ คุณอาจไม่มีสิทธิ์เข้าถึง"
+   },
+   "no_results_line_item": {
+      "message": "เราไม่พบข้อมูลสำหรับรายการโฆษณานี้ คุณอาจไม่มีสิทธิ์เข้าถึง"
+   },
+   "settings_saved_title": {
+      "message": "บันทึกการตั้งค่าแล้ว"
+   }
+}

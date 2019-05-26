@@ -1,0 +1,69 @@
+{
+   "app_description": {
+      "message": "Прикажите податке о AdSense, Ad Exchange и DoubleClick for Publishers огласима и налозима и блокирајте неприкладне огласе на сајту."
+   },
+   "cs_overlay_date_7day": {
+      "message": "7 дана"
+   },
+   "cs_overlay_date_today": {
+      "message": "Данас"
+   },
+   "cs_overlay_date_yesterday": {
+      "message": "Јуче"
+   },
+   "cs_overlay_size_name": {
+      "message": "Величина"
+   },
+   "cs_overlay_type_name": {
+      "message": "Тип"
+   },
+   "dfp_creative_id": {
+      "message": "Оглас: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "dfp_no_creative": {
+      "message": "Нема DFP огласа"
+   },
+   "dfp_unknown_creative": {
+      "message": "Непознат оглас"
+   },
+   "domains_whitelist_saved": {
+      "message": "Листа овлашћених сајтова је ажурирана."
+   },
+   "expired_creative": {
+      "message": "Нисмо могли да преузмемо информације о овом огласу. Сачекајте неколико секунди, па покушајте да поново учитате страницу."
+   },
+   "expired_line_item": {
+      "message": "Нисмо могли да преузмемо информације о овој ставки поруџбине. Сачекајте неколико секунди, па покушајте да поново учитате страницу."
+   },
+   "line_item_adsense_or_adx": {
+      "message": "AdSense или Ad Exchange"
+   },
+   "line_item_id": {
+      "message": "Ставка поруџбине: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "line_item_no_ad": {
+      "message": "Нема DFP огласа"
+   },
+   "misconfigured_ad_notification_text": {
+      "message": "Ова страница садржи \u003Ca href=\"ovnfc\">0\u003C/span> погрешно конфигурисаних огласних јединица. То може негативно да утиче на ваш приход. \u003Ca target=\"_new\" href=\"http://support.google.com/adsense/bin/answer.py?answer=2694805\" class=\"ovnfs\">Сазнајте више\u003C/a>"
+   },
+   "no_results_creative": {
+      "message": "Нисмо могли да пронађемо информације о овом огласу. Можда немате приступ."
+   },
+   "no_results_line_item": {
+      "message": "Нисмо могли да пронађемо информације о овој ставки поруџбине. Можда немате приступ."
+   },
+   "settings_saved_title": {
+      "message": "Подешавања су сачувана"
+   }
+}

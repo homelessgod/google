@@ -1,0 +1,440 @@
+{
+   "101206989909763677": {
+      "message": "Elever på $CLASS_NAME$",
+      "placeholders": {
+         "CLASS_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "1258929983314547244": {
+      "message": "SENDT TIL UNDERVISER"
+   },
+   "1301730406464354688": {
+      "message": "Åbn Classroom"
+   },
+   "1462156539679968804": {
+      "message": "Modtaget fra elever"
+   },
+   "1472332582476021124": {
+      "message": "Elever kan se filen"
+   },
+   "1510105121221276016": {
+      "message": "Lås til skærm"
+   },
+   "1550690544509024009": {
+      "message": "{numFlings,plural, =1{# ny}one{# ny}other{# nye}}"
+   },
+   "1663150675851578875": {
+      "message": "Vi har problemer med at oprette forbindelse $PRODUCT_NAME$. Kontrollér, at din netværksforbindelse er tilgængelig, og prøv derefter at oprette forbindelse igen.",
+      "placeholders": {
+         "PRODUCT_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "1758804700969198023": {
+      "message": "Menuen Del"
+   },
+   "1790549872641667595": {
+      "message": "Del i Classroom (midlertidig)"
+   },
+   "1951089763019042037": {
+      "message": "Elev"
+   },
+   "2050089326602918210": {
+      "message": "Del i Classroom"
+   },
+   "2062938386395101624": {
+      "message": "Sendt til elever"
+   },
+   "2070581630224025695": {
+      "message": "Opret meddelelse"
+   },
+   "2090147790320018555": {
+      "message": "Du har ikke sendt noget for nylig."
+   },
+   "2213990758451550370": {
+      "message": "Elever kan kommentere filen"
+   },
+   "2266749875018591275": {
+      "message": "Din udvidelse \"$PRODUCT_NAME$\" er forældet. Klik på $START_LINK$afinstaller denne udvidelse$END_LINK$ for at fortsætte. Dette åbner samtidig den side i Chrome Webshop, hvorfra udvidelsen kan geninstalleres.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "PRODUCT_NAME": {
+            "content": "$2"
+         },
+         "START_LINK": {
+            "content": "$3"
+         }
+      }
+   },
+   "2315140680766681153": {
+      "message": "Der er ingen elever at vise."
+   },
+   "2409870568039115310": {
+      "message": "SEND TIL UNDERVISER"
+   },
+   "2416435327104074837": {
+      "message": "Sendt til underviser"
+   },
+   "265018083235803821": {
+      "message": "Menuen Tilladelser"
+   },
+   "272253201636921624": {
+      "message": "Sender"
+   },
+   "3208531239543188174": {
+      "message": "Åbner om {numSeconds,plural, =1{1 sekund}one{# sekunder}other{# sekunder}}..."
+   },
+   "3727581148109420602": {
+      "message": "Åbn på en ny fane"
+   },
+   "3852289441366561594": {
+      "message": "Opretter forbindelse..."
+   },
+   "3853169172456108967": {
+      "message": "OPRET ELLER TILMELD DIG ET HOLD"
+   },
+   "3894950702316166331": {
+      "message": "Indlæser..."
+   },
+   "4012779869104225222": {
+      "message": "Holdliste"
+   },
+   "4048890404505834885": {
+      "message": "Stil et spørgsmål"
+   },
+   "4101941266124151376": {
+      "message": "til"
+   },
+   "4221250166827447984": {
+      "message": "$TITLE$ vises",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "4269658859113770197": {
+      "message": "Indlæser dine hold..."
+   },
+   "436489073937327740": {
+      "message": "Send flere logfiler til Google, som indeholder de delte sider og mailadresserne for medlemmerne på dit hold."
+   },
+   "4481147463445876932": {
+      "message": "Opret opgave"
+   },
+   "4491595920888170943": {
+      "message": "Den aktuelle side kan ikke deles."
+   },
+   "4622108781632885640": {
+      "message": "Modtaget fra underviser"
+   },
+   "4742705439416933924": {
+      "message": "Tilmeld dig et hold for at åbne sider sammen"
+   },
+   "4748990655911819545": {
+      "message": "Underviser"
+   },
+   "4811423455816775324": {
+      "message": "Du skal være logget ind i Chrome for at bruge $PRODUCT$.\nKlik her for at logge ind.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "4849976898594713883": {
+      "message": "$PRODUCT$ har problemer med at oprette forbindelse til sine servere, og det ser ud til, at det skyldes konfigurationen af en gateway eller firewall. Tjek dine firewallindstillinger, og sørg for, at de er konfigureret til at tillade trafik med $SERVER$.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         },
+         "SERVER": {
+            "content": "$2"
+         }
+      }
+   },
+   "48585068921907804": {
+      "message": "Vi har problemer med at oprette forbindelse til $PRODUCT_NAME$. Log ud af din konto, og log derefter ind igen. Klik på feedbackikonet nedenfor, hvis problemet ikke forsvinder.",
+      "placeholders": {
+         "PRODUCT_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "4930506384627295710": {
+      "message": "Indstillinger"
+   },
+   "533692309512814645": {
+      "message": "SEND"
+   },
+   "5354810546510399127": {
+      "message": "Åbner siden Hjælp"
+   },
+   "5560440246965579819": {
+      "message": "Undervisere kan se filen"
+   },
+   "566090020805595985": {
+      "message": "OPRET HOLD"
+   },
+   "5851560788527570644": {
+      "message": "Underretninger"
+   },
+   "5936353814217802658": {
+      "message": "SEND TIL UNDERVISER"
+   },
+   "6031597996865914480": {
+      "message": "SEND"
+   },
+   "6042567254866620046": {
+      "message": "Dette system har ikke forbindelse til $PRODUCT$. Tryk på knappen Opret forbindelse for at oprette forbindelse.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "6084304183859355623": {
+      "message": "Du er logget ind som $EMAIL$. For at fortsætte skal du $START_LINK$logge ind i Chrome$END_LINK$ med en Google-skolekonto, der har adgang til Google Classroom.",
+      "placeholders": {
+         "EMAIL": {
+            "content": "$1"
+         },
+         "END_LINK": {
+            "content": "$2"
+         },
+         "START_LINK": {
+            "content": "$3"
+         }
+      }
+   },
+   "6110089012347909146": {
+      "message": "fra"
+   },
+   "6229272560153199861": {
+      "message": "Opret et hold for at åbne sider sammen"
+   },
+   "6422956386741575643": {
+      "message": "Skriv en kort beskrivelse"
+   },
+   "6576961868476783976": {
+      "message": "Der opstod en fejl i $PRODUCT$, da dokumentet skulle deles. Prøv igen senere.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "6666246860368909334": {
+      "message": " – "
+   },
+   "6731720160639032735": {
+      "message": "Logget ind som $EMAIL$",
+      "placeholders": {
+         "EMAIL": {
+            "content": "$1"
+         }
+      }
+   },
+   "6802974388288119584": {
+      "message": "Med Google Feedback kan du sende Google forslag til vores produkter. Du er velkommen til at sende rapporter om problemer, idéer til funktioner og generelle kommentarer."
+   },
+   "6921620009241719815": {
+      "message": "Gå til forrige side"
+   },
+   "7002955679222677443": {
+      "message": "Få flere oplysninger"
+   },
+   "7014972904425258116": {
+      "message": "Undervisere kan kommentere filen"
+   },
+   "7187802960307973851": {
+      "message": "Du har ikke modtaget noget for nylig."
+   },
+   "7419648588978430202": {
+      "message": "Indlæser din historik..."
+   },
+   "7467129818830892099": {
+      "message": "Elever på side med fuldskærm"
+   },
+   "7520798696482451948": {
+      "message": "TILMELD DIG HOLDET"
+   },
+   "7582805180132294390": {
+      "message": "$PRODUCT$ har problemer med at oprette forbindelse til sine servere. Tjek dine internet- og firewallindstillinger, og indsend feedback via nedenstående feedbackikon, hvis problemet varer ved.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "7604563725603697690": {
+      "message": "Screenshot af din aktuelle side."
+   },
+   "7613121200569555025": {
+      "message": "$NAME$ har sendt en side",
+      "placeholders": {
+         "NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "7646520484997880732": {
+      "message": "Åbner siden Indstillinger"
+   },
+   "7733702880641460982": {
+      "message": "Google Feedback"
+   },
+   "77478328938908900": {
+      "message": "Luk advarslen"
+   },
+   "7798244153502527716": {
+      "message": "Du skal være logget ind på Chrome for at bruge $PRODUCT$.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "7819314041543176992": {
+      "message": "Luk"
+   },
+   "7826444313570725162": {
+      "message": "SENDT"
+   },
+   "784919827997620253": {
+      "message": "Send feedback"
+   },
+   "7869782771655761788": {
+      "message": "Sendt"
+   },
+   "787828271820052473": {
+      "message": "Opret eller tilmeld dig et hold for at åbne sider sammen"
+   },
+   "7914587618073030772": {
+      "message": "Del i Classroom (test)"
+   },
+   "7924019946919704377": {
+      "message": "$START_LINK$Klik her$END_LINK$ for at logge ind på Chrome, og prøv derefter $PRODUCT_NAME$ igen.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "PRODUCT_NAME": {
+            "content": "$2"
+         },
+         "START_LINK": {
+            "content": "$3"
+         }
+      }
+   },
+   "8071009096908772636": {
+      "message": "Vis browserunderretninger, når elever sender mig websider"
+   },
+   "8083611296479050044": {
+      "message": "Gå til feedbacksiden"
+   },
+   "8107264734060843365": {
+      "message": "If this problem doesn't go away, try restarting your computer. If this problem persists, click the feedback icon below to submit feedback."
+   },
+   "813263746069473514": {
+      "message": "Opret forbindelse"
+   },
+   "819996403327805209": {
+      "message": "Få flere oplysninger"
+   },
+   "8250116767525441148": {
+      "message": "$PRODUCT$ kunne ikke oprette forbindelse $SITE$. Kontrollér din internetforbindelse, og prøv igen.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         },
+         "SITE": {
+            "content": "$2"
+         }
+      }
+   },
+   "826991190228103925": {
+      "message": "Indstillinger"
+   },
+   "8410291800785136487": {
+      "message": "Send til elever"
+   },
+   "8427578009205621398": {
+      "message": "$PARTICIPATING$/$TOTAL$ studerende",
+      "placeholders": {
+         "PARTICIPATING": {
+            "content": "$1"
+         },
+         "TOTAL": {
+            "content": "$2"
+         }
+      }
+   },
+   "8510084535053903986": {
+      "message": "Undervisere kan redigere filen"
+   },
+   "8584185541337081736": {
+      "message": "Del denne udvidelse med dine elever, så de får dine links.&nbsp;"
+   },
+   "8636360788868898667": {
+      "message": "Få dit hold på den samme (web)side, øjeblikkeligt."
+   },
+   "8657495129257769609": {
+      "message": "Det ser ud til, at din computer ikke har forbindelse til internettet. Kontrollér din forbindelse, og prøv igen."
+   },
+   "8757637959955680925": {
+      "message": "$PRODUCT_NAME$ har brug for, at du er logget ind på Chrome, og det er du vist ikke.",
+      "placeholders": {
+         "PRODUCT_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "8812061458772284085": {
+      "message": "Beskrivelsen sendes sammen med produktoplysninger, yderligere systemoplysninger og din mailadresse til Google. Se Googles $START_LINK_1$privatlivspolitik$END_LINK$ og $START_LINK_2$servicevilkår$END_LINK$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK_1": {
+            "content": "$2"
+         },
+         "START_LINK_2": {
+            "content": "$3"
+         }
+      }
+   },
+   "8876711157282412092": {
+      "message": "{numLinks,plural, =1{# link}one{# link}other{# links}}"
+   },
+   "8934950226874423147": {
+      "message": "Elever kan redigere filen"
+   },
+   "9057609174906387434": {
+      "message": "Ikon for $PAGE_TITLE$.",
+      "placeholders": {
+         "PAGE_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "9200475522066047621": {
+      "message": "Tilmeldt"
+   },
+   "9217362152767454370": {
+      "message": "$PRODUCT$ skal have adgang til din profil.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "99413348305232894": {
+      "message": "Del i Classroom"
+   }
+}

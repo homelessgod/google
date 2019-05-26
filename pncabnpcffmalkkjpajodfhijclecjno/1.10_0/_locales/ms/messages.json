@@ -1,0 +1,77 @@
+{
+   "close_button": {
+      "message": "Tutup"
+   },
+   "extension_description": {
+      "message": "Password Checkup membantu anda melindungi semula akaun yang telah terjejas oleh pelanggaran data."
+   },
+   "extension_detailed_description": {
+      "message": "Di mana-mana sahaja anda log masuk, anda akan menerima makluman jika anda memasukkan nama pengguna dan kata laluan yang sudah tidak selamat kerana terlibat dalam pelanggaran data yang diketahui oleh Google. Sila tetapkan semula kata laluan anda. Jika anda menggunakan nama pengguna dan kata laluan yang sama untuk mana-mana akaun lain, sila tetapkan semula kata laluan anda untuk akaun tersebut juga.\n\nSemakan Kata Laluan dibina dengan mengutamakan privasi. Apl ini tidak akan melaporkan sebarang maklumat yang mengenal pasti akaun, kata laluan atau peranti anda. Kami melaporkan maklumat awanama tentang bilangan carian yang memaparkan bukti kelayakan tidak selamat, sama ada makluman membawa kepada penukaran kata laluan, dan domain yang terbabit untuk meningkatkan perlindungan tapak. Anda boleh mengetahui lebih lanjut tentang cara Semakan Kata Laluan berfungsi di https://support.google.com/accounts?p=password-checkup.\n\nDengan memasang item ini, anda bersetuju menerima Syarat Perkhidmatan dan Dasar Privasi Google di www.google.com/policies/."
+   },
+   "extension_name": {
+      "message": "Password Checkup"
+   },
+   "ignore_button": {
+      "message": "Abaikan untuk tapak ini"
+   },
+   "learn_more": {
+      "message": "Ketahui Lagi"
+   },
+   "popup_advanced_settings_action": {
+      "message": "Tetapan terperinci"
+   },
+   "popup_default_status_message": {
+      "message": "Tiada satu pun daripada kata laluan anda yang digunakan baru-baru ini dikesan dalam pelanggaran data."
+   },
+   "popup_ignore_button": {
+      "message": "Abaikan"
+   },
+   "popup_ignored_status_message": {
+      "message": "Tiada satu pun daripada kata laluan anda yang digunakan baru-baru ini dikesan dalam pelanggaran data. Ini tidak termasuk kata laluan tidak selamat yang anda pilih untuk tidak menetapkannya semula."
+   },
+   "popup_learn_more": {
+      "message": "Ketahui lebih lanjut"
+   },
+   "popup_multiple_accounts_warning_status_message": {
+      "message": "Password Checkup mengesan bahawa \u003Cb>$1 akaun\u003C/b> berikut mempunyai kata laluan yang sudah tidak selamat disebabkan oleh pelanggaran data.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "popup_number_unsafe_accounts": {
+      "message": "$1 akaun tidak selamat",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "popup_one_account_warning_status_message": {
+      "message": "Password Checkup mengesan bahawa \u003Cb>1 akaun\u003C/b> berikut mempunyai kata laluan yang sudah tidak selamat disebabkan oleh pelanggaran data."
+   },
+   "popup_reset_extension_button": {
+      "message": "Kosongkan data sambungan"
+   },
+   "popup_reset_extension_text": {
+      "message": "Kosongkan semua data sambungan. Tindakan ini akan mengalih keluar semua maklumat yang disimpan tentang kata laluan tidak selamat dan tapak yang diabaikan sebelum ini."
+   },
+   "popup_warning_action": {
+      "message": "Anda harus menukar kata laluan anda sekarang."
+   },
+   "reset_text": {
+      "message": "Anda harus menukar kata laluan anda sekarang."
+   },
+   "warning_banner_header": {
+      "message": "Tukar kata laluan anda"
+   },
+   "warning_text": {
+      "message": "Password Checkup mengesan bahawa kata laluan anda untuk \u003Cb>$1\u003C/b> sudah tidak selamat disebabkan oleh pelanggaran data.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   }
+}

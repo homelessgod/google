@@ -1,0 +1,84 @@
+html {
+  background: #F5F5F5;
+}
+
+body {
+  font-family: 'Segoe UI', 'Lucida Grande', Tahoma, sans-serif;
+  font-size: 100%;
+  direction: __MSG_@@bidi_dir__;
+}
+
+div.option {
+  border-top: 1px solid #DDDDDD;
+  padding: 10px;
+  position: relative;
+  cursor: pointer;
+}
+
+div.on {
+  background-color: #FFFFFF;
+}
+
+div.off {
+  background-color: #F9F9F9;
+}
+
+p.explanation {
+  font-size: 70%;
+}
+
+form {
+  margin: 0 0 0 0;
+}
+
+form input {
+  cursor: pointer;
+  position: relative;
+  vertical-align: middle;
+}
+
+form label {
+  cursor: pointer;
+  display: inline;
+  margin: 0;
+  margin-__MSG_@@bidi_start_edge__: 3px;
+}
+
+form p {
+  font-size: 92%;
+  margin: 0;
+  margin-__MSG_@@bidi_start_edge__: 25px;
+  padding: 0 0 0 0;
+}
+
+form select {
+  font-size: 92%;
+  margin: 0;
+  margin-__MSG_@@bidi_start_edge__: 19px;
+  padding: 0 0 0 0;
+  width: 200px;
+}
+
+#log-container span.recommendation {
+  color: #1CAD96;
+  font-weight: normal;
+  font-size: 11px;
+  padding: 0;
+  padding-__MSG_@@bidi_start_edge__: 5px;
+  float: __MSG_@@bidi_end_edge__;
+  text-transform: uppercase;
+}
+
+#mode-selector {
+  min-width: 350px;
+}
+
+#title {
+  background: #6F6F6F;
+  display: block;
+  padding-top: 15px;
+  padding-__MSG_@@bidi_start_edge__: 18px;
+  padding-bottom: 10px;
+  padding-__MSG_@@bidi_end_edge__: 20px;
+
+}

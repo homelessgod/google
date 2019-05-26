@@ -1,0 +1,126 @@
+{
+   "before_trying_again": {
+      "description": "Error resolution tip in error pages.",
+      "message": "Než to zkusíte znovu:"
+   },
+   "browser_action_title": {
+      "description": "Browser action title that shows up on hover.",
+      "message": "Vysílat tuto adresu URL"
+   },
+   "context_menu_disable": {
+      "description": "Label of the context menu item that disables Tone.",
+      "message": "Deaktivovat rozšíření Tone"
+   },
+   "context_menu_enable": {
+      "description": "Label of the context menu item that enables Tone.",
+      "message": "Aktivovat rozšíření Tone"
+   },
+   "description": {
+      "description": "Extension description.",
+      "message": "Vysílejte libovolnou adresu URL do počítačů v doslechu."
+   },
+   "ensure_online": {
+      "description": "Network workaround.",
+      "message": "Zkontrolujte, zda je počítač online."
+   },
+   "error_audio_title": {
+      "description": "Title of the error_audio.html page.",
+      "message": "Rozšíření Google Tone nic neslyšelo."
+   },
+   "error_network_title": {
+      "description": "Title of error_network.html page.",
+      "message": "Vysílání se bohužel nezdařilo."
+   },
+   "increase_volume": {
+      "description": "Audio workaround #1",
+      "message": "Zvyšte hlasitost."
+   },
+   "invite_others": {
+      "description": "Press the button to try it.",
+      "message": "Pozvěte ostatní, aby rozšíření Google Tone vyzkoušeli: {{shortlink}}"
+   },
+   "name": {
+      "description": "Extension name.",
+      "message": "Google Tone"
+   },
+   "notification_receive_message_format": {
+      "description": "Notification message when you receive a Tone.",
+      "message": "Kliknutím otevřete adresu {{title}} z domény {{domain}}"
+   },
+   "notification_receive_test_page_message": {
+      "description": "Notification message sent from Tone test page.",
+      "message": "Vyzkoušejte rozšíření Tone. Stačí kliknout."
+   },
+   "notification_receive_title_format": {
+      "description": "Notification title when you receive a Tone.",
+      "message": "Adresa URL od uživatele {{username}}!"
+   },
+   "notification_send_fail_audio_message": {
+      "description": "Notification title shown when audio verification fails.",
+      "message": "Zkontrolujte hlasitost a zkuste to znovu.\nDalší informace zobrazíte kliknutím."
+   },
+   "notification_send_fail_audio_title": {
+      "description": "Notification title shown when audio verification fails.",
+      "message": "Rozšíření Tone se neslyší"
+   },
+   "notification_send_fail_network_message": {
+      "description": "Notification message shown when a Tone was attempted but the network was offline.",
+      "message": "Zřejmě jste offline.\nDalší informace zobrazíte kliknutím."
+   },
+   "notification_send_fail_network_title": {
+      "description": "Notification title shown when a Tone was attempted but the network was offline.",
+      "message": "Adresa URL nebyla odeslána"
+   },
+   "press_button": {
+      "description": "Press the button to try it.",
+      "message": "Pomocí tlačítka {{action_image}} můžete do počítačů v doslechu vysílat adresu URL."
+   },
+   "report_bug": {
+      "description": "Report a bug",
+      "message": "Nahlásit chybu"
+   },
+   "settings_off": {
+      "description": "Indicator showing that Tone is disabled.",
+      "message": "Vypnuto"
+   },
+   "settings_off_subtitle": {
+      "description": "Subtitle showing that Tone is disabled.",
+      "message": "Nemůžete odesílat ani přijímat adresy URL."
+   },
+   "settings_off_title": {
+      "description": "Title showing that Tone is disabled.",
+      "message": "Rozšíření Google Tone je vypnuto"
+   },
+   "settings_on": {
+      "description": "Indicator showing that Tone is enabled.",
+      "message": "Zapnuto"
+   },
+   "settings_on_subtitle": {
+      "description": "Subtitle showing that Tone is enabled.",
+      "message": "Můžete odesílat a přijímat adresy URL."
+   },
+   "settings_on_title": {
+      "description": "Title showing that Tone is enabled.",
+      "message": "Rozšíření Google Tone je zapnuto"
+   },
+   "settings_title": {
+      "description": "Title of settings.html",
+      "message": "Nastavení"
+   },
+   "success_call": {
+      "description": "Call to action of success.html.",
+      "message": "Přejděte na jinou stránku a kliknutím na tlačítko {{action_image}} ji vysílejte."
+   },
+   "success_title": {
+      "description": "Title of success.html.",
+      "message": "Vysílání Google Tone bylo úspěšné."
+   },
+   "try_now": {
+      "description": "Call to action to try the extension.",
+      "message": "Vyzkoušejte rozšíření Google Tone"
+   },
+   "unplug_headphones": {
+      "description": "Audio workaround #2",
+      "message": "Odpojte sluchátka."
+   }
+}

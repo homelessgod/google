@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&amp;lang=en">
+  <link rel="stylesheet" href="material_design_lite.css">
+  <link rel="stylesheet" href="popup.css">
+  <script src="mdl_all_js_compiled.js"></script>
+  <script src="external_popup_script.js"></script>
+  <meta charset="utf-8">
+</head>
+<body>
+  <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header mdl-layout--no-drawer-button">
+    <header class="mdl-layout__header">
+      <div id="header" class="mdl-layout__header-row">
+        <span data-i18n="title_external" class="mdl-layout-title"></span>
+      </div>
+    </header>
+    <main class="mdl-layout__content">
+    <div class="page-content">
+      <div id="consent" style="display:none">
+        <div id="consent-explanation">
+          <span data-i18n="consent_text"></span>
+          <a data-i18n="google_privacy_policy" id='link-privacy-policy' href='https://policies.google.com/privacy' target='_blank'></a>
+          <span data-i18n="consent_more_details"></span>
+          <a data-i18n="consent_more_details_link" id='link-help-center' href='https://support.google.com/a/users/answer/9018161' target='_blank'></a>
+        </div>
+        <div id="consent-buttons">
+          <button data-i18n="consent_dismiss" class="mdl-button mdl-js-button" id="consent-button-dismiss"></button>
+          <button data-i18n="consent_reject" class="mdl-button mdl-js-button" id="consent-button-no"></button>
+          <button data-i18n="consent_agree" class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored" id="consent-button-yes"></button>
+        </div>
+      </div>
+      <div id="signin" style="display:none">
+        <div data-i18n="explanation_external" id="explanation"></div>
+        <div data-i18n="signin_prompt_external" id="signin-prompt"></div>
+        <div class="signin-footer">
+          <button data-i18n="add_account_button_text" class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored" id="signin-button"></button>
+          <div id="signin-tooltip" style="display:none">
+            <i class="material-icons yellow md-24" id="signin-warning-icon">warning</i>
+            <div class="sc-i18n mdl-tooltip mdl-tooltip--top" data-mdl-for="signin-warning-icon">
+              <span data-i18n="disabled_accounts_external"></span>
+              <ul id="signin-accounts-list" class="mdl-list"></ul>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div id="error" style="display:none">
+        <i class="material-icons red md-24" id="error-icon">warning</i>
+        <span id="error-desc"></span>
+      </div>
+      <div id="sync">
+        <div id="spinner"><div class="mdl-spinner mdl-js-spinner mdl-spinner--single-color is-active"></div></div>
+        <ul id="accounts-list" class="mdl-list" style="display:none">
+        </ul>
+        <div data-i18n="no_sync_date" id="sync-status"></div>
+        <div id="button-area">
+          <div id="dummy-focus-stealer" tabindex="1"></div>
+          <button data-i18n="sync_button" class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored" id="sync-button"></button>
+          <span id="loading-spinner" class="invisible">
+            <div class="mdl-spinner mdl-js-spinner mdl-spinner--single-color is-active"></div>
+          </span>
+        </div>
+      </div>
+    </div>
+    </main>
+  </div>
+</body>
+</html>

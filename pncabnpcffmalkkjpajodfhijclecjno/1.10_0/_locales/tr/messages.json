@@ -1,0 +1,77 @@
+{
+   "close_button": {
+      "message": "Kapat"
+   },
+   "extension_description": {
+      "message": "Password Checkup, veri ihlallerinden etkilenen hesapları tekrar güvenli hale getirmenize yardımcı olmaktadır."
+   },
+   "extension_detailed_description": {
+      "message": "Nerede oturum açıyor olursanız olun, girdiğiniz kullanıcı adı ve şifre Google'ın bildiği bir veri ihlalinde görünmesi nedeniyle artık güvenli değilse uyarı alırsınız. Lütfen şifrenizi sıfırlayın. Aynı kullanıcı adını ve şifreyi başka hesaplarda kullanıyorsanız lütfen ilgili hesaplarda da şifrenizi sıfırlayın.\n\nPassword Checkup özelliği gizlilik göz önünde bulunarak geliştirilmiştir. Bu özellik; hesaplarınız, şifreleriniz veya cihazınızla ilgili kimlik bilgilerini hiçbir zaman bildirmez. Güvenli olmayan kimlik bilgilerini bulan arama sayısına (uyarı nedeniyle şifrenin değiştirilmiş olup olmamasından bağımsız olarak) dair anonim bilgileri ve kapsanan site sayısını artırmak amacıyla ilgili alan adını raporlarız. Password Checkup özelliğinin işleyişiyle ilgili daha fazla bilgiyi https://support.google.com/accounts?p=password-checkup adresinde bulabilirsiniz.\n\nBu öğeyi yükleyerek www.google.com/policies/ adresindeki Google Hizmet Şartları ve Gizlilik Politikası'nı kabul etmiş olursunuz."
+   },
+   "extension_name": {
+      "message": "Password Checkup"
+   },
+   "ignore_button": {
+      "message": "Bu siteyi yoksay"
+   },
+   "learn_more": {
+      "message": "Daha Fazla Bilgi"
+   },
+   "popup_advanced_settings_action": {
+      "message": "Gelişmiş ayarlar"
+   },
+   "popup_default_status_message": {
+      "message": "Yakın zamanda kullandığınız hiçbir şifre için güvenlik ihlali tespit edilmemiştir."
+   },
+   "popup_ignore_button": {
+      "message": "Yoksay"
+   },
+   "popup_ignored_status_message": {
+      "message": "Yakın zamanda kullandığınız hiçbir şifre için güvenlik ihlali tespit edilmemiştir. Bunlara, sıfırlamayı tercih etmediğiniz güvenli olmayan şifreler dahil değildir."
+   },
+   "popup_learn_more": {
+      "message": "Daha fazla bilgi"
+   },
+   "popup_multiple_accounts_warning_status_message": {
+      "message": "Password Checkup, veri ihlali nedeniyle aşağıdaki \u003Cb>$1 hesapta\u003C/b> kullandığınız şifrenin artık güvenli olmadığını belirledi.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "popup_number_unsafe_accounts": {
+      "message": "$1 güvenli olmayan hesap",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "popup_one_account_warning_status_message": {
+      "message": "Password Checkup, veri ihlali nedeniyle aşağıdaki \u003Cb>1 hesapta\u003C/b> kullandığınız şifrenin artık güvenli olmadığını belirledi."
+   },
+   "popup_reset_extension_button": {
+      "message": "Uzantı verilerini temizle"
+   },
+   "popup_reset_extension_text": {
+      "message": "Tüm uzantı verilerini temizleyin. Bu işlem ile, güvenli olmayan şifreler ve daha önce yoksayılan siteler ile ilgili saklanan tüm bilgilerin kaldırılacaktır."
+   },
+   "popup_warning_action": {
+      "message": "Şifrelerinizi hemen değiştirmeniz gerekir."
+   },
+   "reset_text": {
+      "message": "Şifrenizi hemen değiştirmeniz gerekir."
+   },
+   "warning_banner_header": {
+      "message": "Şifrenizi değiştirin"
+   },
+   "warning_text": {
+      "message": "Password Checkup, veri ihlali nedeniyle  \u003Cb>$1\u003C/b> şifrenizi kullanmanın artık güvenli olmadığını belirledi.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   }
+}

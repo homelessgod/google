@@ -1,0 +1,126 @@
+{
+   "before_trying_again": {
+      "description": "Error resolution tip in error pages.",
+      "message": "Før du prøver igen:"
+   },
+   "browser_action_title": {
+      "description": "Browser action title that shows up on hover.",
+      "message": "Udsend denne webadresse"
+   },
+   "context_menu_disable": {
+      "description": "Label of the context menu item that disables Tone.",
+      "message": "Deaktiver Google Tone"
+   },
+   "context_menu_enable": {
+      "description": "Label of the context menu item that enables Tone.",
+      "message": "Aktivér Google Tone"
+   },
+   "description": {
+      "description": "Extension description.",
+      "message": "Udsend en webadresse til computere, der er inden for hørevidde."
+   },
+   "ensure_online": {
+      "description": "Network workaround.",
+      "message": "Kontrollér, at computeren er online."
+   },
+   "error_audio_title": {
+      "description": "Title of the error_audio.html page.",
+      "message": "Google Tone kunne ikke høre det."
+   },
+   "error_network_title": {
+      "description": "Title of error_network.html page.",
+      "message": "Det virkede desværre ikke."
+   },
+   "increase_volume": {
+      "description": "Audio workaround #1",
+      "message": "Skru op for lyden."
+   },
+   "invite_others": {
+      "description": "Press the button to try it.",
+      "message": "Inviter andre til at bruge Google Tone: {{shortlink}}"
+   },
+   "name": {
+      "description": "Extension name.",
+      "message": "Google Tone"
+   },
+   "notification_receive_message_format": {
+      "description": "Notification message when you receive a Tone.",
+      "message": "Klik for at åbne \"{{title}}\" fra {{domain}}"
+   },
+   "notification_receive_test_page_message": {
+      "description": "Notification message sent from Tone test page.",
+      "message": "Klik for at prøve Google Tone."
+   },
+   "notification_receive_title_format": {
+      "description": "Notification title when you receive a Tone.",
+      "message": "Webadresse fra {{username}}."
+   },
+   "notification_send_fail_audio_message": {
+      "description": "Notification title shown when audio verification fails.",
+      "message": "Kontrollér lydstyrken, og prøv igen.\nKlik for at få flere oplysninger."
+   },
+   "notification_send_fail_audio_title": {
+      "description": "Notification title shown when audio verification fails.",
+      "message": "Google Tone kunne ikke høre sig selv"
+   },
+   "notification_send_fail_network_message": {
+      "description": "Notification message shown when a Tone was attempted but the network was offline.",
+      "message": "Du lader til at være offline.\nKlik for at få flere oplysninger."
+   },
+   "notification_send_fail_network_title": {
+      "description": "Notification title shown when a Tone was attempted but the network was offline.",
+      "message": "Webadressen blev ikke sendt"
+   },
+   "press_button": {
+      "description": "Press the button to try it.",
+      "message": "Tryk på knappen {{action_image}} for at udsende en webadresse til computere inden for hørevidde."
+   },
+   "report_bug": {
+      "description": "Report a bug",
+      "message": "Rapportér en fejl"
+   },
+   "settings_off": {
+      "description": "Indicator showing that Tone is disabled.",
+      "message": "FRA"
+   },
+   "settings_off_subtitle": {
+      "description": "Subtitle showing that Tone is disabled.",
+      "message": "Du kan ikke sende eller modtage webadresser."
+   },
+   "settings_off_title": {
+      "description": "Title showing that Tone is disabled.",
+      "message": "Google Tone er deaktiveret"
+   },
+   "settings_on": {
+      "description": "Indicator showing that Tone is enabled.",
+      "message": "TIL"
+   },
+   "settings_on_subtitle": {
+      "description": "Subtitle showing that Tone is enabled.",
+      "message": "Du kan sende og modtage webadresser."
+   },
+   "settings_on_title": {
+      "description": "Title showing that Tone is enabled.",
+      "message": "Google Tone er aktiveret"
+   },
+   "settings_title": {
+      "description": "Title of settings.html",
+      "message": "Indstillinger"
+   },
+   "success_call": {
+      "description": "Call to action of success.html.",
+      "message": "Gå til en anden side, og klik på knappen {{action_image}} for at udsende den."
+   },
+   "success_title": {
+      "description": "Title of success.html.",
+      "message": "Google Tone fungerede!"
+   },
+   "try_now": {
+      "description": "Call to action to try the extension.",
+      "message": "Prøv Google Tone nu!"
+   },
+   "unplug_headphones": {
+      "description": "Audio workaround #2",
+      "message": "Sørg for at koble dine hovedtelefoner fra."
+   }
+}

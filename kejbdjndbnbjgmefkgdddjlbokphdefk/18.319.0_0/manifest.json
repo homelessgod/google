@@ -1,0 +1,39 @@
+{
+   "background": {
+      "scripts": [ "background_compiled.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "19": "images/product-icon/tag_assistant-19.png",
+         "48": "images/product-icon/tag_assistant-48.png"
+      },
+      "default_popup": "popup2.html",
+      "default_title": "Tag Assistant (by Google)"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "tag_assistant_compiled.js" ],
+      "matches": [ "http://*/*", "https://*/*" ]
+   } ],
+   "content_security_policy": "script-src 'self' https://ssl.google-analytics.com https://ajax.googleapis.com; object-src 'self';",
+   "description": "Tag Assistant helps to troubleshoot installation of various Google tags including Google Analytics, Google Tag Manager and more.",
+   "icons": {
+      "128": "images/product-icon/tag_assistant-128.png",
+      "16": "images/product-icon/tag_assistant-16.png",
+      "48": "images/product-icon/tag_assistant-48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC/R70d9/8bM8E0w6l5L46OatDXOnsEmAc4fKG9RqZMTsM4r3dxsmqZjGFvvLoGbieipQ4ZnKlolT5Qg+ZWI7ACIuMIdQQmjUn2NwCHqfJ8gXOycKuZJkloKtBGOElNUOhHM1WUoX4cisZxUauF4ymITyV+9x2zdYv7ba0laB+FKQIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "10.0",
+   "name": "Tag Assistant (by Google)",
+   "oauth2": {
+      "client_id": "374153995138-mpt4onsdkdnbe16q1eft9jol53utbcj7.apps.googleusercontent.com",
+      "scopes": [ "https://www.googleapis.com/auth/userinfo.profile", "https://www.googleapis.com/auth/analytics.readonly", "https://www.googleapis.com/auth/content" ]
+   },
+   "optional_permissions": [ "management" ],
+   "options_page": "options.html",
+   "permissions": [ "contextMenus", "identity", "storage", "tabs", "webNavigation", "webRequestBlocking", "webRequest", "http://*/", "https://*/" ],
+   "short_name": "Tag Assistant",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "18.319.0"
+}

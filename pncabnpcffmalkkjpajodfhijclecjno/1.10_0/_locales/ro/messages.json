@@ -1,0 +1,77 @@
+{
+   "close_button": {
+      "message": "Închideți"
+   },
+   "extension_description": {
+      "message": "Password Checkup vă ajută să securizați din nou conturile afectate de încălcarea securității datelor."
+   },
+   "extension_detailed_description": {
+      "message": "Oriunde v-ați conecta, dacă introduceți un nume de utilizator și o parolă care nu mai sunt sigure, deoarece au apărut într-o încălcare a securității datelor detectată de Google, veți primi o alertă. Resetați-vă parola. Dacă folosiți același nume de utilizator și aceeași parolă pentru orice alte conturi, resetați-vă parola și acolo.\n\nAm creat Verificarea parolei gândindu-ne la confidențialitate. Aceasta nu raportează niciodată informații de identificare despre conturile, parolele și dispozitivul dvs. Însă raportează informații anonime despre numărul căutărilor care indică date de conectare nesigure, alerte care duc la schimbarea parolei și domeniile implicate, pentru a îmbunătăți acoperirea site-ului. Puteți afla mai multe despre modul în care funcționează Verificarea parolei la https://support.google.com/accounts?p=password-checkup.\n\nDacă instalați acest element, acceptați Termenii și condițiile și Politica de confidențialitate Google de la www.google.com/policies/."
+   },
+   "extension_name": {
+      "message": "Password Checkup"
+   },
+   "ignore_button": {
+      "message": "Ignorați pentru acest site"
+   },
+   "learn_more": {
+      "message": "Aflați mai multe"
+   },
+   "popup_advanced_settings_action": {
+      "message": "Setări avansate"
+   },
+   "popup_default_status_message": {
+      "message": "Nu s-a detectat încălcarea securității datelor pentru parolele dvs. folosite recent."
+   },
+   "popup_ignore_button": {
+      "message": "Ignorați"
+   },
+   "popup_ignored_status_message": {
+      "message": "Nu s-a detectat încălcarea securității datelor pentru parolele dvs. folosite recent. Aici nu sunt incluse parolele nesigure pe care ați ales să nu le resetați."
+   },
+   "popup_learn_more": {
+      "message": "Aflați mai multe"
+   },
+   "popup_multiple_accounts_warning_status_message": {
+      "message": "Verificarea parolei a detectat că parolele dvs. pentru \u003Cb>$1 conturi\u003C/b> nu mai sunt sigure, din cauza unei încălcări a securității datelor.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "popup_number_unsafe_accounts": {
+      "message": "$1 conturi nesigure",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "popup_one_account_warning_status_message": {
+      "message": "Verificarea parolei a detectat că parola dvs. pentru \u003Cb>un cont\u003C/b> nu mai este sigură, din cauza unei încălcări a securității datelor."
+   },
+   "popup_reset_extension_button": {
+      "message": "Ștergeți datele despre extensii"
+   },
+   "popup_reset_extension_text": {
+      "message": "Ștergeți toate datele despre extensii. Astfel, veți șterge toate informațiile stocate despre parolele nesigure și despre site-urile ignorate anterior."
+   },
+   "popup_warning_action": {
+      "message": "Ar trebui să vă schimbați parolele acum."
+   },
+   "reset_text": {
+      "message": "Ar trebui să vă schimbați parola acum."
+   },
+   "warning_banner_header": {
+      "message": "Schimbați parola"
+   },
+   "warning_text": {
+      "message": "Password Checkup a detectat că parola dvs. pentru \u003Cb>$1\u003C/b> nu mai este sigură, din cauza unei încălcări a securității datelor.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   }
+}

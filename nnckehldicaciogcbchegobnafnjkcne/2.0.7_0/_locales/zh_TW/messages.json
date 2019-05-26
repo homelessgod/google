@@ -1,0 +1,126 @@
+{
+   "before_trying_again": {
+      "description": "Error resolution tip in error pages.",
+      "message": "在您重試之前："
+   },
+   "browser_action_title": {
+      "description": "Browser action title that shows up on hover.",
+      "message": "播送這個網址"
+   },
+   "context_menu_disable": {
+      "description": "Label of the context menu item that disables Tone.",
+      "message": "停用 Tone"
+   },
+   "context_menu_enable": {
+      "description": "Label of the context menu item that enables Tone.",
+      "message": "啟用 Tone"
+   },
+   "description": {
+      "description": "Extension description.",
+      "message": "向聽力所及範圍內的電腦播送任何網址。"
+   },
+   "ensure_online": {
+      "description": "Network workaround.",
+      "message": "確認您的電腦已連上網路。"
+   },
+   "error_audio_title": {
+      "description": "Title of the error_audio.html page.",
+      "message": "Google Tone 聽不到聲音。"
+   },
+   "error_network_title": {
+      "description": "Title of error_network.html page.",
+      "message": "很抱歉，這項功能無法運作。"
+   },
+   "increase_volume": {
+      "description": "Audio workaround #1",
+      "message": "提高音量。"
+   },
+   "invite_others": {
+      "description": "Press the button to try it.",
+      "message": "邀請其他人使用 Google Tone：{{shortlink}}"
+   },
+   "name": {
+      "description": "Extension name.",
+      "message": "Google Tone"
+   },
+   "notification_receive_message_format": {
+      "description": "Notification message when you receive a Tone.",
+      "message": "點選即可開啟來自 {{domain}} 的「{{title}}」"
+   },
+   "notification_receive_test_page_message": {
+      "description": "Notification message sent from Tone test page.",
+      "message": "點選即可試用 Tone！"
+   },
+   "notification_receive_title_format": {
+      "description": "Notification title when you receive a Tone.",
+      "message": "您收到了來自 {{username}} 的網址！"
+   },
+   "notification_send_fail_audio_message": {
+      "description": "Notification title shown when audio verification fails.",
+      "message": "請檢查音量，然後再試一次。\n按一下即可瞭解詳情。"
+   },
+   "notification_send_fail_audio_title": {
+      "description": "Notification title shown when audio verification fails.",
+      "message": "Tone 聽不到自己的聲音"
+   },
+   "notification_send_fail_network_message": {
+      "description": "Notification message shown when a Tone was attempted but the network was offline.",
+      "message": "您目前為離線狀態。\n按一下即可瞭解詳情。"
+   },
+   "notification_send_fail_network_title": {
+      "description": "Notification title shown when a Tone was attempted but the network was offline.",
+      "message": "網址未送出"
+   },
+   "press_button": {
+      "description": "Press the button to try it.",
+      "message": "按下 {{action_image}} 按鈕即可向聽力範圍內的電腦播送網址。"
+   },
+   "report_bug": {
+      "description": "Report a bug",
+      "message": "回報錯誤"
+   },
+   "settings_off": {
+      "description": "Indicator showing that Tone is disabled.",
+      "message": "關閉"
+   },
+   "settings_off_subtitle": {
+      "description": "Subtitle showing that Tone is disabled.",
+      "message": "您無法收發網址。"
+   },
+   "settings_off_title": {
+      "description": "Title showing that Tone is disabled.",
+      "message": "Google Tone 已關閉"
+   },
+   "settings_on": {
+      "description": "Indicator showing that Tone is enabled.",
+      "message": "開啟"
+   },
+   "settings_on_subtitle": {
+      "description": "Subtitle showing that Tone is enabled.",
+      "message": "您可以收發網址。"
+   },
+   "settings_on_title": {
+      "description": "Title showing that Tone is enabled.",
+      "message": "Google Tone 已開啟"
+   },
+   "settings_title": {
+      "description": "Title of settings.html",
+      "message": "設定"
+   },
+   "success_call": {
+      "description": "Call to action of success.html.",
+      "message": "前往另一個頁面，按一下 {{action_image}} 按鈕即可開始播送。"
+   },
+   "success_title": {
+      "description": "Title of success.html.",
+      "message": "Google Tone 已開始運作！"
+   },
+   "try_now": {
+      "description": "Call to action to try the extension.",
+      "message": "立即試用 Google Tone！"
+   },
+   "unplug_headphones": {
+      "description": "Audio workaround #2",
+      "message": "拔除耳機。"
+   }
+}

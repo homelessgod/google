@@ -1,0 +1,77 @@
+{
+   "close_button": {
+      "message": "Zavrieť"
+   },
+   "extension_description": {
+      "message": "Aplikácia Password Checkup vám pomáha znova zabezpečiť účty, v prípade ktorých došlo k porušeniu ochrany údajov."
+   },
+   "extension_detailed_description": {
+      "message": "Keď pri prihlasovaní zadáte používateľské meno a heslo, ktoré už nie sú bezpečné z dôvodu porušenia ochrany údajov, o ktorom Google vie, dostanete upozornenie. Resetujte svoje heslo. Ak používate rovnaké používateľské meno a heslo pre ďalšie účty, resetujte heslo aj v nich.\n\nKontrola hesla bola vytvorená na zaistenie ochrany súkromia. Nikdy nenahlasuje žiadne informácie o účtoch, heslách ani zariadeniach, podľa ktorých by vás bolo možné identifikovať. Na účely zlepšovania kontroly webov nahlasujeme anonymné informácie o počte vyhľadávaní, ktoré odhalia nebezpečné poverenia, informácie o tom, či upozornenie viedlo k zmene hesla a údaje o zahrnutých doménach. Ďalšie informácie o tom, ako kontrola hesla funguje, nájdete na https://support.google.com/accounts?p=password-checkup.\n\nInštaláciou tejto položky vyjadrujete súhlas so zmluvnými podmienkami spoločnosti Google a pravidlami ochrany súkromia uvedenými na www.google.com/policies/."
+   },
+   "extension_name": {
+      "message": "Password Checkup"
+   },
+   "ignore_button": {
+      "message": "Ignorovať pre tento web"
+   },
+   "learn_more": {
+      "message": "Ďalšie informácie"
+   },
+   "popup_advanced_settings_action": {
+      "message": "Rozšírené nastavenia"
+   },
+   "popup_default_status_message": {
+      "message": "Pri žiadnom z vašich aktuálnych hesiel sa nezistilo porušenie ochrany údajov."
+   },
+   "popup_ignore_button": {
+      "message": "Ignorovať"
+   },
+   "popup_ignored_status_message": {
+      "message": "Pri žiadnom z vašich aktuálnych hesiel sa nezistilo porušenie ochrany údajov. Netýka sa to však nebezpečných hesiel, ktorých obnovenie ste sa rozhodli ignorovať."
+   },
+   "popup_learn_more": {
+      "message": "Ďalšie informácie"
+   },
+   "popup_multiple_accounts_warning_status_message": {
+      "message": "Aplikácia Password Checkup zistila, že heslá týchto \u003Cb>účtov (počet: $1)\u003C/b> už nie sú bezpečné z dôvodu porušenia ochrany údajov.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "popup_number_unsafe_accounts": {
+      "message": "Počet nezabezpečených účtov: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "popup_one_account_warning_status_message": {
+      "message": "Aplikácia Password Checkup zistila, že heslo tohto \u003Cb>1 účtu\u003C/b> už nie je bezpečné z dôvodu porušenia ochrany údajov."
+   },
+   "popup_reset_extension_button": {
+      "message": "Vymazať údaje rozšírenia"
+   },
+   "popup_reset_extension_text": {
+      "message": "Vymažte všetky údaje rozšírenia. Týmto sa odstránia všetky uložené údaje o nebezpečných heslách a doposiaľ ignorovaných weboch."
+   },
+   "popup_warning_action": {
+      "message": "Mali by ste si okamžite zmeniť heslá."
+   },
+   "reset_text": {
+      "message": "Mali by ste si okamžite zmeniť heslo."
+   },
+   "warning_banner_header": {
+      "message": "Zmeňte si heslo"
+   },
+   "warning_text": {
+      "message": "Aplikácia Password Checkup hesla zistila, že vaše heslo pre doménu \u003Cb>$1\u003C/b> už nie je bezpečné z dôvodu porušenia ochrany údajov.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   }
+}

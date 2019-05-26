@@ -1,0 +1,77 @@
+{
+   "close_button": {
+      "message": "閉じる"
+   },
+   "extension_description": {
+      "message": "Password Checkup は、データ侵害の影響を受けたアカウントを再び保護するうえで役立ちます。"
+   },
+   "extension_detailed_description": {
+      "message": "どこでログインする際も、Google で認識されるデータ侵害が見られるために安全に利用できなくなったユーザー名やパスワードを入力した場合は、アラートが送信されます。パスワードを再設定してください。他のアカウントで同じユーザー名やパスワードを使用している場合は、そのアカウントのパスワードも再設定してください。\n\nパスワード診断ではプライバシーが考慮されています。パスワード診断で、アカウント、パスワード、デバイスに関する識別情報が報告されることは一切ありません。報告されるのは、安全でない認証情報が認識されたルックアップの回数、アラートを受けてパスワードが変更されたかどうか、サイト カバレッジの改善に関連するドメインに関する匿名の情報です。パスワード診断の仕組みについて詳しくは、https://support.google.com/accounts?p=password-checkup をご覧ください。\n\nこのアイテムをインストールすると、Google 利用規約とプライバシー ポリシー（www.google.com/policies/）に同意したことになります。"
+   },
+   "extension_name": {
+      "message": "Password Checkup"
+   },
+   "ignore_button": {
+      "message": "このサイトでは無視する"
+   },
+   "learn_more": {
+      "message": "詳細"
+   },
+   "popup_advanced_settings_action": {
+      "message": "詳細設定"
+   },
+   "popup_default_status_message": {
+      "message": "最近使用したパスワードはいずれもデータ侵害では検出されませんでした。"
+   },
+   "popup_ignore_button": {
+      "message": "無視する"
+   },
+   "popup_ignored_status_message": {
+      "message": "最近使用したパスワードはいずれもデータ侵害では検出されませんでした。これには、再設定を無視することを選択した安全ではないパスワードは含まれません。"
+   },
+   "popup_learn_more": {
+      "message": "詳細"
+   },
+   "popup_multiple_accounts_warning_status_message": {
+      "message": "Password Checkup の結果、データ侵害により次の \u003Cb>$1 件のアカウント\u003C/b>のパスワードは安全に利用できないことが検出されました。",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "popup_number_unsafe_accounts": {
+      "message": "安全ではないアカウント: $1 件",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "popup_one_account_warning_status_message": {
+      "message": "Password Checkup の結果、データ侵害により次の \u003Cb>1 件のアカウント\u003C/b>のパスワードは安全に利用できないことが検出されました。"
+   },
+   "popup_reset_extension_button": {
+      "message": "拡張機能データを消去する"
+   },
+   "popup_reset_extension_text": {
+      "message": "拡張機能データをすべて消去します。安全ではないパスワードや以前に無視することを選択したサイトに関する保存済みの情報がすべて削除されます。"
+   },
+   "popup_warning_action": {
+      "message": "パスワードを今すぐ変更してください。"
+   },
+   "reset_text": {
+      "message": "パスワードを今すぐ変更してください。"
+   },
+   "warning_banner_header": {
+      "message": "パスワードの変更"
+   },
+   "warning_text": {
+      "message": "Password Checkup の結果、データ侵害により \u003Cb>$1\u003C/b> のパスワードは安全に利用できないことが検出されました。",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   }
+}

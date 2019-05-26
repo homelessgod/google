@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px"
+     height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<symbol  id="ic_x5F_arrow_x5F_thinleft_x5F_flat_1_" viewBox="0 -24 24 24">
+  <polygon fill="none" points="24,-24 0,-24 0,0 24,0"/>
+  <polygon fill="#231F20" points="20,-10 9,-10 14,-5 12.25,-3.25 4,-11.5 12.25,-19.75 14,-18 9,-13 20,-13"/>
+</symbol>
+<use xlink:href="#ic_x5F_arrow_x5F_thinleft_x5F_flat_1_"  width="24" height="24" id="A" y="-24" transform="matrix(1 0 0 -1 0 0)" overflow="visible"/>
+</svg>

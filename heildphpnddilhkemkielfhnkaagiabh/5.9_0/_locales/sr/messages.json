@@ -1,0 +1,46 @@
+{
+   "browser_error": {
+      "description": "Error mesage shown if the redirection has failed.",
+      "message": "Контактирајте администратора система."
+   },
+   "error_title": {
+      "description": "The title of the redirection page if an error has happened while trying to load the alternative browser.",
+      "message": "Није могуће отворити алтернативни прегледач"
+   },
+   "extension_description": {
+      "description": "Description of the extension.",
+      "message": "Користите Chrome у својој организацији уз подршку за застареле прегледаче."
+   },
+   "extension_name": {
+      "description": "Name of the extension.",
+      "message": "Подршка за застареле прегледаче"
+   },
+   "learn_more_message": {
+      "description": "Message shown on the bottom with a link to a (potentially) internationalized 'learn more' article",
+      "message": "\u003Ca href='https://www.google.com/intl/sr/chrome/business/'>Сазнајте више\u003C/a> о подршци за застареле прегледаче."
+   },
+   "redirect_message": {
+      "description": "Text shown on the redirection page while the alternative browser is started.",
+      "message": "Администратор система је конфигурисао Chrome да отвара алтернативни прегледач за приступ \u003Cstrong>$url$\u003C/strong>.",
+      "placeholders": {
+         "url": {
+            "content": "$1",
+            "example": "http://google.com/"
+         }
+      }
+   },
+   "redirect_title": {
+      "description": "The title of the redirection page. Also shown in the Chrome title bar.",
+      "message": "Отварање у алтернативном прегледачу..."
+   },
+   "wrong_protocol_error": {
+      "description": "This error is whown when the action page is invoke with a hash tag specifying an address that is not in the http/https protocols.",
+      "message": "Није могуће отворити \u003Cstrong>$url$\u003C/strong> због грешке у конфигурацији протокола. Контактирајте администратора система.",
+      "placeholders": {
+         "url": {
+            "content": "$1",
+            "example": "http://google.com/"
+         }
+      }
+   }
+}

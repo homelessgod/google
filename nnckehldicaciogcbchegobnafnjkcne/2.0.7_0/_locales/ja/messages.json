@@ -1,0 +1,126 @@
+{
+   "before_trying_again": {
+      "description": "Error resolution tip in error pages.",
+      "message": "もう一度試す前に以下を行ってください。"
+   },
+   "browser_action_title": {
+      "description": "Browser action title that shows up on hover.",
+      "message": "この URL を送信"
+   },
+   "context_menu_disable": {
+      "description": "Label of the context menu item that disables Tone.",
+      "message": "Google トーンを無効にする"
+   },
+   "context_menu_enable": {
+      "description": "Label of the context menu item that enables Tone.",
+      "message": "Google トーンを有効にする"
+   },
+   "description": {
+      "description": "Extension description.",
+      "message": "音声が届く範囲にあるパソコンに URL を送信します。"
+   },
+   "ensure_online": {
+      "description": "Network workaround.",
+      "message": "パソコンがインターネットに接続されていることを確認します。"
+   },
+   "error_audio_title": {
+      "description": "Title of the error_audio.html page.",
+      "message": "音声を認識できませんでした。"
+   },
+   "error_network_title": {
+      "description": "Title of error_network.html page.",
+      "message": "動作しませんでした。"
+   },
+   "increase_volume": {
+      "description": "Audio workaround #1",
+      "message": "音量を上げます。"
+   },
+   "invite_others": {
+      "description": "Press the button to try it.",
+      "message": "他のユーザーに Google トーンを紹介する: {{shortlink}}"
+   },
+   "name": {
+      "description": "Extension name.",
+      "message": "Google トーン"
+   },
+   "notification_receive_message_format": {
+      "description": "Notification message when you receive a Tone.",
+      "message": "{{domain}} で「{{title}}」をクリックすると開くことができます"
+   },
+   "notification_receive_test_page_message": {
+      "description": "Notification message sent from Tone test page.",
+      "message": "クリックして Google トーンをお試しください。"
+   },
+   "notification_receive_title_format": {
+      "description": "Notification title when you receive a Tone.",
+      "message": "{{username}} さんから URL が届きました。"
+   },
+   "notification_send_fail_audio_message": {
+      "description": "Notification title shown when audio verification fails.",
+      "message": "音量を確認してからもう一度お試しください。\nクリックして詳細を確認できます。"
+   },
+   "notification_send_fail_audio_title": {
+      "description": "Notification title shown when audio verification fails.",
+      "message": "音声を認識できませんでした"
+   },
+   "notification_send_fail_network_message": {
+      "description": "Notification message shown when a Tone was attempted but the network was offline.",
+      "message": "オフラインになっているようです。\nクリックして詳細を確認できます。"
+   },
+   "notification_send_fail_network_title": {
+      "description": "Notification title shown when a Tone was attempted but the network was offline.",
+      "message": "URL を送信できませんでした"
+   },
+   "press_button": {
+      "description": "Press the button to try it.",
+      "message": "[{{action_image}}] ボタンを押して、音声が届く範囲にあるパソコンに URL を送信します。"
+   },
+   "report_bug": {
+      "description": "Report a bug",
+      "message": "バグを報告"
+   },
+   "settings_off": {
+      "description": "Indicator showing that Tone is disabled.",
+      "message": "無効"
+   },
+   "settings_off_subtitle": {
+      "description": "Subtitle showing that Tone is disabled.",
+      "message": "URL を送受信できません。"
+   },
+   "settings_off_title": {
+      "description": "Title showing that Tone is disabled.",
+      "message": "Google トーンは無効です"
+   },
+   "settings_on": {
+      "description": "Indicator showing that Tone is enabled.",
+      "message": "有効"
+   },
+   "settings_on_subtitle": {
+      "description": "Subtitle showing that Tone is enabled.",
+      "message": "URL を送受信できます。"
+   },
+   "settings_on_title": {
+      "description": "Title showing that Tone is enabled.",
+      "message": "Google トーンは有効です"
+   },
+   "settings_title": {
+      "description": "Title of settings.html",
+      "message": "設定"
+   },
+   "success_call": {
+      "description": "Call to action of success.html.",
+      "message": "ページを移動し、[{{action_image}}] ボタンをクリックして送信してください。"
+   },
+   "success_title": {
+      "description": "Title of success.html.",
+      "message": "Google トーンが正常に動作しました。"
+   },
+   "try_now": {
+      "description": "Call to action to try the extension.",
+      "message": "Google トーンをお試しください"
+   },
+   "unplug_headphones": {
+      "description": "Audio workaround #2",
+      "message": "ヘッドフォンのプラグを抜きます。"
+   }
+}
