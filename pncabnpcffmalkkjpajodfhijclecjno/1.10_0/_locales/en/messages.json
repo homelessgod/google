@@ -1,0 +1,100 @@
+{
+   "close_button": {
+      "description": "Message displayed on the 'Close' button on the warning banner.",
+      "message": "Close"
+   },
+   "extension_description": {
+      "description": "Short description of the Password Checkup extension. This is displayed in bold as the first line in the Chrome webstore listing Overview.",
+      "message": "Password Checkup helps you resecure accounts that were affected by data breaches."
+   },
+   "extension_detailed_description": {
+      "description": "The full detailed description displayed in the Chrome webstore.",
+      "message": "Wherever you sign-in, if you enter a username and password that is no longer safe due to appearing in a data breach known to Google, you’ll receive an alert. Please reset your password. If you use the same username and password for any other accounts, please reset your password there as well.\n\nPassword Checkup was built with privacy in mind. It never reports any identifying information about your accounts, passwords, or device. We do report anonymous information about the number of lookups that surface an unsafe credential, whether an alert leads to a password change, and the domain involved for improving site coverage. You can learn more about how Password Checkup works at https://support.google.com/accounts?p=password-checkup.\n\nBy installing this item, you agree to the Google Terms of Service and Privacy Policy at www.google.com/policies/."
+   },
+   "extension_name": {
+      "description": "This extension will alert if a user's credential was exposed in a data breach.",
+      "message": "Password Checkup"
+   },
+   "ignore_button": {
+      "description": "Message displayed on the 'Ignore for this site' button on the warning banner.",
+      "message": "Ignore for this site"
+   },
+   "learn_more": {
+      "description": "This URL links to the Password Checkup help page.",
+      "message": "Learn More"
+   },
+   "popup_advanced_settings_action": {
+      "description": "Messaged displayed in popup to show advanced settings.",
+      "message": "Advanced settings"
+   },
+   "popup_default_status_message": {
+      "description": "Message displayed in popup when all credentials are safe or ignored.",
+      "message": "None of your recently used passwords were detected in a data breach."
+   },
+   "popup_ignore_button": {
+      "description": "Message displayed on the 'Ignore' button on the popup.",
+      "message": "Ignore"
+   },
+   "popup_ignored_status_message": {
+      "description": "Message displayed in popup when all credentials are safe or ignored.",
+      "message": "None of your recently used passwords were detected in a data breach. This does not include unsafe passwords that you have opted to ignore resetting."
+   },
+   "popup_learn_more": {
+      "description": "Message displayed on the learn more link.",
+      "message": "Learn more"
+   },
+   "popup_multiple_accounts_warning_status_message": {
+      "description": "Message displayed in popup when any credentials are unsafe (and not ignored).",
+      "message": "Password Checkup detected that the following \u003Cb>$number$ accounts\u003C/b> have passwords that are no longer safe due to a data breach.",
+      "placeholders": {
+         "number": {
+            "content": "$1",
+            "example": "1"
+         }
+      }
+   },
+   "popup_number_unsafe_accounts": {
+      "description": "Displayed under the domain of an unsafe credential if there are more than one credential.",
+      "message": "$number$ unsafe accounts",
+      "placeholders": {
+         "number": {
+            "content": "$1",
+            "example": "1"
+         }
+      }
+   },
+   "popup_one_account_warning_status_message": {
+      "description": "Message displayed in popup when one account is unsafe (and not ignored).",
+      "message": "Password Checkup detected that the following \u003Cb>1 account\u003C/b> has a password that is no longer safe due to a data breach."
+   },
+   "popup_reset_extension_button": {
+      "description": "Message displayed on 'Reset' button on popup.",
+      "message": "Clear extension data"
+   },
+   "popup_reset_extension_text": {
+      "description": "Message displayed next to 'Reset' button on popup.",
+      "message": "Clear all extension data. This will remove all stored information about unsafe passwords and previously ignored sites."
+   },
+   "popup_warning_action": {
+      "description": "Message displayed in popup when any credentials are unsafe (and not ignored).",
+      "message": "You should change your passwords now."
+   },
+   "reset_text": {
+      "description": "This is the action text on the warning banner telling users what to do if their credential was exposed in a data breach.",
+      "message": "You should change your password now."
+   },
+   "warning_banner_header": {
+      "description": "This is header for the warning displayed to users if their credential was exposed in a data breach.",
+      "message": "Change your password"
+   },
+   "warning_text": {
+      "description": "This is the warning message displayed to users if their credential was exposed in a data breach.",
+      "message": "Password Checkup detected that your password for \u003Cb>$domain$\u003C/b> is no longer safe due to a data breach.",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "localhost"
+         }
+      }
+   }
+}

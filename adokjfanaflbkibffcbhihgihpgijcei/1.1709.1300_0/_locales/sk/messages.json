@@ -1,0 +1,440 @@
+{
+   "101206989909763677": {
+      "message": "Študenti v triede $CLASS_NAME$",
+      "placeholders": {
+         "CLASS_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "1258929983314547244": {
+      "message": "ODOSLANÉ A OTVORENÉ UČITEĽOVI"
+   },
+   "1301730406464354688": {
+      "message": "Otvoriť Učebňu"
+   },
+   "1462156539679968804": {
+      "message": "Prijaté od študentov"
+   },
+   "1472332582476021124": {
+      "message": "Študenti môžu súbor zobrazovať"
+   },
+   "1510105121221276016": {
+      "message": "Uzamknúť na obrazovke"
+   },
+   "1550690544509024009": {
+      "message": "{numFlings,plural, =1{# nová položka}few{# nové položky}many{# novej položky}other{# nových položiek}}"
+   },
+   "1663150675851578875": {
+      "message": "Máme problémy s pripojením k rozšíreniu $PRODUCT_NAME$. Skontrolujte, či je k dispozícii pripojenie k sieti, a skúste sa znova pripojiť.",
+      "placeholders": {
+         "PRODUCT_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "1758804700969198023": {
+      "message": "Ponuka zdieľania"
+   },
+   "1790549872641667595": {
+      "message": "Zdieľanie s Učebňou (interná verzia)"
+   },
+   "1951089763019042037": {
+      "message": "Študent"
+   },
+   "2050089326602918210": {
+      "message": "Zdieľanie s Učebňou"
+   },
+   "2062938386395101624": {
+      "message": "Odoslané a otvorené pre študentov"
+   },
+   "2070581630224025695": {
+      "message": "Uverejniť oznam"
+   },
+   "2090147790320018555": {
+      "message": "V poslednom čase ste nič neodoslali a neotvorili."
+   },
+   "2213990758451550370": {
+      "message": "Študenti môžu súbor komentovať"
+   },
+   "2266749875018591275": {
+      "message": "Vaše rozšírenie $PRODUCT_NAME$ nie je aktuálne. Ak chcete pokračovať, kliknite na možnosť $START_LINK$odinštalovať toto rozšírenie$END_LINK$. Zároveň sa otvorí stránka Internetového obchodu Chrome, kde môžete rozšírenie preinštalovať.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "PRODUCT_NAME": {
+            "content": "$2"
+         },
+         "START_LINK": {
+            "content": "$3"
+         }
+      }
+   },
+   "2315140680766681153": {
+      "message": "Nie sú tu žiadni študenti na zobrazenie."
+   },
+   "2409870568039115310": {
+      "message": "ODOSLAŤ A OTVORIŤ UČITEĽOVI"
+   },
+   "2416435327104074837": {
+      "message": "Odoslané a otvorené pre učiteľa"
+   },
+   "265018083235803821": {
+      "message": "Ponuka povolení"
+   },
+   "272253201636921624": {
+      "message": "Odosiela sa a otvára sa"
+   },
+   "3208531239543188174": {
+      "message": "Otvorí sa o {numSeconds,plural, =1{1 sekundu}few{# sekundy}many{# sekundy}other{# sekúnd}}..."
+   },
+   "3727581148109420602": {
+      "message": "Otvoriť v novej karte"
+   },
+   "3852289441366561594": {
+      "message": "Pripája sa..."
+   },
+   "3853169172456108967": {
+      "message": "VYTVORIŤ TRIEDU ALEBO SA ZAPÍSAŤ DO TRIEDY"
+   },
+   "3894950702316166331": {
+      "message": "Načítava sa..."
+   },
+   "4012779869104225222": {
+      "message": "Zoznam tried"
+   },
+   "4048890404505834885": {
+      "message": "Položiť otázku"
+   },
+   "4101941266124151376": {
+      "message": "zapnuté"
+   },
+   "4221250166827447984": {
+      "message": "Zobrazuje sa stránka $TITLE$",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "4269658859113770197": {
+      "message": "Načítavajú sa vaše triedy..."
+   },
+   "436489073937327740": {
+      "message": "Odošlite spoločnosti Google ďalšie záznamy denníka, ktoré budú obsahovať informácie o zdieľaných stránkach a e-mailových adresách členov vašej triedy."
+   },
+   "4481147463445876932": {
+      "message": "Vytvoriť úlohu"
+   },
+   "4491595920888170943": {
+      "message": "Zdieľanie aktuálnej stránky nie je možné."
+   },
+   "4622108781632885640": {
+      "message": "Prijaté od učiteľa"
+   },
+   "4742705439416933924": {
+      "message": "Zapíšte sa do triedy a otvárajte stránky spoločne"
+   },
+   "4748990655911819545": {
+      "message": "Triedy, ktoré učíte"
+   },
+   "4811423455816775324": {
+      "message": "Ak chcete používať $PRODUCT$, je potrebné prihlásiť sa do prehliadača Chrome.\nKliknite tu a prihláste sa.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "4849976898594713883": {
+      "message": "Aplikácia $PRODUCT$ má problém pripojiť sa k svojim serverom a zdá sa, že tento problém spôsobuje konfigurácia brány alebo firewallu. Skontrolujte svoje nastavenia firewallu a ubezpečte sa, že povoľujú prenos údajov na server $SERVER$.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         },
+         "SERVER": {
+            "content": "$2"
+         }
+      }
+   },
+   "48585068921907804": {
+      "message": "Nepodarilo sa pripojiť k službe $PRODUCT_NAME$. Skúste sa odhlásiť z účtu a potom sa znova prihlásiť. Ak problém pretrváva, kliknite nižšie na ikonu spätnej väzby a odošlite spätnú väzbu.",
+      "placeholders": {
+         "PRODUCT_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "4930506384627295710": {
+      "message": "Nastavenia"
+   },
+   "533692309512814645": {
+      "message": "ODOSLAŤ A OTVORIŤ"
+   },
+   "5354810546510399127": {
+      "message": "Otvoriť stránku Pomocníka"
+   },
+   "5560440246965579819": {
+      "message": "Učitelia môžu súbor zobrazovať"
+   },
+   "566090020805595985": {
+      "message": "VYTVORIŤ TRIEDU"
+   },
+   "5851560788527570644": {
+      "message": "Upozornenia"
+   },
+   "5936353814217802658": {
+      "message": "ODOSLAŤ A OTVORIŤ UČITEĽOVI"
+   },
+   "6031597996865914480": {
+      "message": "ODOSLAŤ A OTVORIŤ"
+   },
+   "6042567254866620046": {
+      "message": "Tento systém nie je pripojený k rozšíreniu $PRODUCT$. Stlačte tlačidlo na pripojenie a skúste sa pripojiť.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "6084304183859355623": {
+      "message": "Prihlásili ste sa ako $EMAIL$. Ak chcete pokračovať, $START_LINK$prihláste sa do prehliadača Chrome$END_LINK$ so školským účtom Google, pomocou ktorého máte prístup k Učebni.",
+      "placeholders": {
+         "EMAIL": {
+            "content": "$1"
+         },
+         "END_LINK": {
+            "content": "$2"
+         },
+         "START_LINK": {
+            "content": "$3"
+         }
+      }
+   },
+   "6110089012347909146": {
+      "message": "vypnuté"
+   },
+   "6229272560153199861": {
+      "message": "Vytvorte triedu a otvárajte stránky spoločne"
+   },
+   "6422956386741575643": {
+      "message": "Zadajte stručný popis"
+   },
+   "6576961868476783976": {
+      "message": "V službe $PRODUCT$ sa pri pokuse o zdieľanie dokumentu vyskytla chyba. Skúste to znova neskôr.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "6666246860368909334": {
+      "message": " – "
+   },
+   "6731720160639032735": {
+      "message": "Prihlásili ste sa ako $EMAIL$",
+      "placeholders": {
+         "EMAIL": {
+            "content": "$1"
+         }
+      }
+   },
+   "6802974388288119584": {
+      "message": "Služba Google Feedback vám umožňuje odosielať spoločnosti Google návrhy k jej produktom. Vítame nahlásenie problémov, nápady týkajúce sa funkcií aj všeobecné komentáre."
+   },
+   "6921620009241719815": {
+      "message": "Prejsť na predchádzajúcu stránku"
+   },
+   "7002955679222677443": {
+      "message": "Ďalšie informácie"
+   },
+   "7014972904425258116": {
+      "message": "Učitelia môžu súbor komentovať"
+   },
+   "7187802960307973851": {
+      "message": "V poslednom čase ste nič nedostali."
+   },
+   "7419648588978430202": {
+      "message": "Načítava sa vaša história..."
+   },
+   "7467129818830892099": {
+      "message": "Študenti na stránke na celú obrazovku"
+   },
+   "7520798696482451948": {
+      "message": "ZAPÍSAŤ SA DO TRIEDY"
+   },
+   "7582805180132294390": {
+      "message": "$PRODUCT$ má problém pripojiť sa k svojim serverom. Ak bude tento problém pretrvávať, skontrolujte svoje internetové pripojenie a nastavenia brány firewall. Následne nás o tom informujte pomocou ikony spätnej väzby nižšie.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "7604563725603697690": {
+      "message": "Snímka obrazovky vašej aktuálnej stránky."
+   },
+   "7613121200569555025": {
+      "message": "Používateľ $NAME$ odoslal stránku",
+      "placeholders": {
+         "NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "7646520484997880732": {
+      "message": "Otvorí stránku s nastaveniami"
+   },
+   "7733702880641460982": {
+      "message": "Google Feedback"
+   },
+   "77478328938908900": {
+      "message": "Zavrieť správu s upozornením"
+   },
+   "7798244153502527716": {
+      "message": "Ak chcete používať rozšírenie $PRODUCT$, je potrebné prihlásiť sa do prehliadača Chrome.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "7819314041543176992": {
+      "message": "Zavrieť"
+   },
+   "7826444313570725162": {
+      "message": "ODOSLANÉ A OTVORENÉ"
+   },
+   "784919827997620253": {
+      "message": "Odoslať spätnú väzbu"
+   },
+   "7869782771655761788": {
+      "message": "Odoslané a otvorené"
+   },
+   "787828271820052473": {
+      "message": "Vytvorte triedu alebo sa zapíšte do triedy a otvárajte stránky spoločne"
+   },
+   "7914587618073030772": {
+      "message": "Zdieľanie s Učebňou (test)"
+   },
+   "7924019946919704377": {
+      "message": "$START_LINK$Kliknutím tu$END_LINK$ sa prihláste do prehliadača Chrome a potom znova vyskúšajte službu $PRODUCT_NAME$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "PRODUCT_NAME": {
+            "content": "$2"
+         },
+         "START_LINK": {
+            "content": "$3"
+         }
+      }
+   },
+   "8071009096908772636": {
+      "message": "Zobrazovať upozornenia prehliadača, keď mi študenti odošlú a otvoria webové stránky"
+   },
+   "8083611296479050044": {
+      "message": "Prejsť na stránku so spätnou väzbou"
+   },
+   "8107264734060843365": {
+      "message": "If this problem doesn't go away, try restarting your computer. If this problem persists, click the feedback icon below to submit feedback."
+   },
+   "813263746069473514": {
+      "message": "Pripojiť"
+   },
+   "819996403327805209": {
+      "message": "Ďalšie informácie"
+   },
+   "8250116767525441148": {
+      "message": "Pripojenie rozšírenia $PRODUCT$ k stránke $SITE$ zlyhalo. Skontrolujte svoje internetové pripojenie a skúste to znova.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         },
+         "SITE": {
+            "content": "$2"
+         }
+      }
+   },
+   "826991190228103925": {
+      "message": "Nastavenia"
+   },
+   "8410291800785136487": {
+      "message": "Odoslať a otvoriť študentom"
+   },
+   "8427578009205621398": {
+      "message": "Počet študentov: $PARTICIPATING$/$TOTAL$",
+      "placeholders": {
+         "PARTICIPATING": {
+            "content": "$1"
+         },
+         "TOTAL": {
+            "content": "$2"
+         }
+      }
+   },
+   "8510084535053903986": {
+      "message": "Učitelia môžu súbor upravovať"
+   },
+   "8584185541337081736": {
+      "message": "Zdieľajte toto rozšírenie so svojimi študentmi, ktorí tak budú dostávať vaše odkazy.&nbsp;"
+   },
+   "8636360788868898667": {
+      "message": "Dostaňte v okamihu svoju triedu na rovnakú (webovú) stránku."
+   },
+   "8657495129257769609": {
+      "message": "Zdá sa, že vaše zariadenie nie je pripojené na internet. Skontrolujte pripojenie a skúste to znova."
+   },
+   "8757637959955680925": {
+      "message": "$PRODUCT_NAME$ vyžaduje, aby ste sa prihlásili do prehliadača Chrome. Zdá sa, že ste sa neprihlásili.",
+      "placeholders": {
+         "PRODUCT_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "8812061458772284085": {
+      "message": "Popis, informácie o produkte, ďalšie systémové informácie a vaša e-mailová adresa budú odoslané spoločnosti Google. Prečítajte si $START_LINK_1$pravidlá ochrany súkromia$END_LINK$ a $START_LINK_2$zmluvné podmienky$END_LINK$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK_1": {
+            "content": "$2"
+         },
+         "START_LINK_2": {
+            "content": "$3"
+         }
+      }
+   },
+   "8876711157282412092": {
+      "message": "{numLinks,plural, =1{# odkaz}few{# odkazy}many{# odkazu}other{# odkazov}}"
+   },
+   "8934950226874423147": {
+      "message": "Študenti môžu súbor upravovať"
+   },
+   "9057609174906387434": {
+      "message": "Ikona $PAGE_TITLE$.",
+      "placeholders": {
+         "PAGE_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "9200475522066047621": {
+      "message": "Zapísané triedy"
+   },
+   "9217362152767454370": {
+      "message": "$PRODUCT$ vyžaduje povolenie na prístup k vášmu profilu.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "99413348305232894": {
+      "message": "Zdieľanie s Učebňou"
+   }
+}

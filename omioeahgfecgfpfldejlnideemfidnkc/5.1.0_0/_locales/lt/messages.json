@@ -1,0 +1,69 @@
+{
+   "app_description": {
+      "message": "Peržiūr. „AdSense“, „Ad Exchange“, „DoubleClick for Publishers“ skelb. ir paskyrų duomenis, užblokuokite netink. skelb. svetainėje."
+   },
+   "cs_overlay_date_7day": {
+      "message": "7 d."
+   },
+   "cs_overlay_date_today": {
+      "message": "Šiandien"
+   },
+   "cs_overlay_date_yesterday": {
+      "message": "Vakar"
+   },
+   "cs_overlay_size_name": {
+      "message": "Dydis"
+   },
+   "cs_overlay_type_name": {
+      "message": "Tipas"
+   },
+   "dfp_creative_id": {
+      "message": "Skelbimas: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "dfp_no_creative": {
+      "message": "Nėra jokių DFP skelbimų"
+   },
+   "dfp_unknown_creative": {
+      "message": "Nežinomas skelbimas"
+   },
+   "domains_whitelist_saved": {
+      "message": "Autorizuotų svetainių sąrašas atnaujintas."
+   },
+   "expired_creative": {
+      "message": "Nepavyko nuskaityti šio skelbimo informacijos. Šiek tiek palaukite, tada pabandykite iš naujo įkelti puslapį."
+   },
+   "expired_line_item": {
+      "message": "Nepavyko nuskaityti šio eilutinio elemento informacijos. Šiek tiek palaukite, tada pabandykite iš naujo įkelti puslapį."
+   },
+   "line_item_adsense_or_adx": {
+      "message": "„AdSense“ arba „Ad Exchange“"
+   },
+   "line_item_id": {
+      "message": "Eilutės elementas: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "line_item_no_ad": {
+      "message": "Nėra jokių DFP skelbimų"
+   },
+   "misconfigured_ad_notification_text": {
+      "message": "Šiame puslapyje yra netinkamai sukonfigūruotų skelbimų (\u003Ca href=\"ovnfc\">0\u003C/span>). Tai gali turėti neigiamos įtakos jūsų pajamoms. \u003Ca target=\"_new\" href=\"http://support.google.com/adsense/bin/answer.py?answer=2694805\" class=\"ovnfs\">Sužinokite daugiau\u003C/a>"
+   },
+   "no_results_creative": {
+      "message": "Nepavyko rasti šio skelbimo informacijos. Galbūt neturite prieigos prie jo."
+   },
+   "no_results_line_item": {
+      "message": "Nepavyko rasti šio eilutinio elemento informacijos. Galbūt neturite prieigos prie jo."
+   },
+   "settings_saved_title": {
+      "message": "Nustatymai išsaugoti"
+   }
+}

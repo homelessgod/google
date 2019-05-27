@@ -1,0 +1,69 @@
+{
+   "app_description": {
+      "message": "Prikaz AdSense, Ad Exchange i DoubleClick for Publishers oglasa i računa te blokiranje neprikladnih oglasa na web-lokaciji."
+   },
+   "cs_overlay_date_7day": {
+      "message": "7 dana"
+   },
+   "cs_overlay_date_today": {
+      "message": "Danas"
+   },
+   "cs_overlay_date_yesterday": {
+      "message": "Jučer"
+   },
+   "cs_overlay_size_name": {
+      "message": "Veličina"
+   },
+   "cs_overlay_type_name": {
+      "message": "Vrsta"
+   },
+   "dfp_creative_id": {
+      "message": "Oglas: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "dfp_no_creative": {
+      "message": "Nema DFP oglasa"
+   },
+   "dfp_unknown_creative": {
+      "message": "Nepoznati oglas"
+   },
+   "domains_whitelist_saved": {
+      "message": "Popis autoriziranih web-lokacija ažuriran je."
+   },
+   "expired_creative": {
+      "message": "Nismo mogli dohvatiti podatke o ovom oglasu. Pričekajte nekoliko sekundi, a zatim pokušajte ponovno učitati stranicu."
+   },
+   "expired_line_item": {
+      "message": "Nismo mogli dohvatiti podatke o ovoj stavci retka. Pričekajte nekoliko sekundi, a zatim pokušajte ponovno učitati stranicu."
+   },
+   "line_item_adsense_or_adx": {
+      "message": "AdSense ili Ad Exchange"
+   },
+   "line_item_id": {
+      "message": "Stavka retka: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "line_item_no_ad": {
+      "message": "Nema DFP oglasa"
+   },
+   "misconfigured_ad_notification_text": {
+      "message": "Ova stranica sadrži \u003Ca href=\"ovnfc\">0\u003C/span> pogrešno konfiguriranih oglasnih jedinica. To može negativno utjecati na vaš prihod. \u003Ca target=\"_new\" href=\"http://support.google.com/adsense/bin/answer.py?answer=2694805\" class=\"ovnfs\">Saznajte više\u003C/a>"
+   },
+   "no_results_creative": {
+      "message": "Nismo mogli pronaći podatke o ovom oglasu. Možda im ne možete pristupiti."
+   },
+   "no_results_line_item": {
+      "message": "Nismo mogli pronaći podatke o ovoj stavci retka. Možda im ne možete pristupiti."
+   },
+   "settings_saved_title": {
+      "message": "Postavke su spremljene"
+   }
+}

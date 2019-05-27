@@ -1,0 +1,77 @@
+{
+   "close_button": {
+      "message": "Sluiten"
+   },
+   "extension_description": {
+      "message": "Met Password Checkup kun je accounts opnieuw beveiligen die zijn getroffen door gegevenslekken."
+   },
+   "extension_detailed_description": {
+      "message": "Als je bij het inloggen een gebruikersnaam en wachtwoord opgeeft die niet meer veilig zijn vanwege een gegevenslek waarvan Google op de hoogte is, ontvang je een melding. Reset je wachtwoord. Als je dezelfde gebruikersnaam en hetzelfde wachtwoord gebruikt voor andere accounts, reset je je wachtwoord daar ook.\n\nWachtwoordcontrole is gebouwd met het oog op privacy. De functie rapporteert nooit identificerende informatie over je accounts, wachtwoorden of apparaat. We rapporteren wel anonieme informatie over het aantal zoekacties waarbij onveilige inloggegevens worden aangetroffen (ongeacht of een melding tot een wachtwoordwijziging leidt) en het betreffende domein. Hiermee proberen we de sitedekking te verbeteren. Op https://support.google.com/accounts?p=password-checkup vind je meer informatie over hoe Wachtwoordcontrole werkt.\n\nAls je dit item installeert, ga je akkoord met de servicevoorwaarden en het privacybeleid van Google op www.google.com/policies/."
+   },
+   "extension_name": {
+      "message": "Password Checkup"
+   },
+   "ignore_button": {
+      "message": "Negeren voor deze site"
+   },
+   "learn_more": {
+      "message": "Meer informatie"
+   },
+   "popup_advanced_settings_action": {
+      "message": "Geavanceerde instellingen"
+   },
+   "popup_default_status_message": {
+      "message": "Geen van je recent gebruikte wachtwoorden is gedetecteerd bij een gegevenslek."
+   },
+   "popup_ignore_button": {
+      "message": "Negeren"
+   },
+   "popup_ignored_status_message": {
+      "message": "Geen van je recent gebruikte wachtwoorden is gedetecteerd bij een gegevenslek. Dit omvat geen onveilige wachtwoorden waarvoor je hebt gekozen om ze niet te resetten."
+   },
+   "popup_learn_more": {
+      "message": "Meer informatie"
+   },
+   "popup_multiple_accounts_warning_status_message": {
+      "message": "Password Checkup heeft gedetecteerd dat de wachtwoorden voor de volgende \u003Cb>$1 accounts\u003C/b> niet meer veilig zijn vanwege een gegevenslek.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "popup_number_unsafe_accounts": {
+      "message": "$1 onveilige accounts",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "popup_one_account_warning_status_message": {
+      "message": "Password Checkup heeft gedetecteerd dat het wachtwoord voor het volgende \u003Cb>account\u003C/b> niet meer veilig is vanwege een gegevenslek."
+   },
+   "popup_reset_extension_button": {
+      "message": "Extensiegegevens wissen"
+   },
+   "popup_reset_extension_text": {
+      "message": "Wis alle extensiegegevens. Hiermee wordt alle opgeslagen informatie over onveilige wachtwoorden en eerder genegeerde sites verwijderd."
+   },
+   "popup_warning_action": {
+      "message": "Je moet je wachtwoorden nu wijzigen."
+   },
+   "reset_text": {
+      "message": "Je moet je wachtwoord nu wijzigen."
+   },
+   "warning_banner_header": {
+      "message": "Je wachtwoord wijzigen"
+   },
+   "warning_text": {
+      "message": "Password Checkup heeft gedetecteerd dat je wachtwoord voor \u003Cb>$1\u003C/b> niet meer veilig is vanwege een gegevenslek.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   }
+}

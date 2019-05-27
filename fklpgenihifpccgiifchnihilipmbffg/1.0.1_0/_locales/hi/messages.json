@@ -1,0 +1,176 @@
+{
+   "ALT_APPDESC": {
+      "message": "चित्रों को उनके वैकल्‍पिक लेख से बदलें."
+   },
+   "ALT_APPNAME": {
+      "message": "चित्र Alt लेख व्‍यूअर"
+   },
+   "ALT_INFOBAR": {
+      "message": "चित्रों को उनके वैकल्‍पिक लेख से बदल दिया गया है."
+   },
+   "ALT_UNDO": {
+      "message": "पूर्ववत् करें"
+   },
+   "CARET_BROWSING_ANIMATION": {
+      "message": "कर्सर की स्‍थिति को एनिमेशन से हाइलाइट करें."
+   },
+   "CARET_BROWSING_APPDESC": {
+      "message": "तीर कुंजियों का उपयोग करके वेब पृष्‍ठों का लेख ब्राउज़ करें."
+   },
+   "CARET_BROWSING_APPNAME": {
+      "message": "कैरेट ब्राउज़िंग"
+   },
+   "CARET_BROWSING_CARETBROWSINGOPTIONS": {
+      "message": "कैरेट ब्राउज़िंग विकल्‍प"
+   },
+   "CARET_BROWSING_ENABLEDISABLECROS": {
+      "message": "कैरेट ब्राउज़िंग चालू करने के लिए \u003Cspan class='key'>Alt\u003C/span> + \u003Cimg src='increase_brightness.png'> (स्‍क्रीन की रोशनी बढ़ाएं कुंजी या F7) दबाएं. उसे बंद करने के लिए उसे पुन: दबाएं."
+   },
+   "CARET_BROWSING_ENABLEDISABLENONCROS": {
+      "message": "कैरेट ब्राउज़िंग चालू करने के लिए \u003Cspan class='key'>F7\u003C/span> दबाएं. उसे बंद करने के लिए उसे पुन: दबाएं."
+   },
+   "CARET_BROWSING_FLASH": {
+      "message": "कर्सर की स्‍थिति को एक तेज़ फ़्लैश के साथ हाइलाइट करें."
+   },
+   "CARET_BROWSING_FOCUSHELP": {
+      "message": "\u003Cp>जब आप किसी लिंक या नियंत्रण पर पहुंचते हैं, तो वह अपने आप फ़ोकस हो जाता है.   लिंक या बटन पर क्‍लिक करने के लिए \u003Cspan class='key'>Enter\u003C/span> दबाएं. \u003C/p> \u003Cp>   जब कोई फ़ोकस किया गया नियंत्रण (जैसे कोई लेख बॉक्‍स या सूची बॉक्‍स) तीर कुंजियों   को कैप्‍चर कर रहा हो, तब \u003Cspan class='key'>Esc\u003C/span> दबाएं और फिर कैरेट ब्राउज़िंग जारी रखने के लिए   बायां या दायां तीर दबाएं. \u003C/p> \u003Cp>   वैकल्‍पिक रूप से, फ़ोकस करने योग्‍य अगले नियंत्रण पर जाने के लिए \u003Cspan class='key'>Tab\u003C/span> दबाएं. \u003C/p>"
+   },
+   "CARET_BROWSING_JUMP": {
+      "message": "जब कैरेट बड़ी दूरी से जम्‍प करता है:"
+   },
+   "CARET_BROWSING_KEYBOARDCOMMANDS": {
+      "message": "कीबोर्ड के कमांड"
+   },
+   "CARET_BROWSING_MOVEBYWORDSMAC": {
+      "message": "शब्‍दों के द्वारा जाने के लिए \u003Cspan class='key'>Option\u003C/span> को दबाए रखें."
+   },
+   "CARET_BROWSING_MOVEBYWORDSNONMAC": {
+      "message": "शब्‍दों के द्वारा जाने के लिए \u003Cspan class='key'>Control\u003C/span> दबाए रखें."
+   },
+   "CARET_BROWSING_NAVHELP": {
+      "message": "\u003Cp>संपूर्ण दस्‍तावेज़ में जाने के लिए तीर कुंजियों का उपयोग करें. \u003C/p>\u003Cp>कर्सर को किसी भी स्‍थान पर ले जाने के लिए वहां क्‍लिक करें. \u003C/p> \u003Cp>   लेख चुनने के लिए \u003Cspan class='key'>Shift\u003C/span> + तीरों को दबाएं.\u003C/p>"
+   },
+   "CARET_BROWSING_NOFEEDBACK": {
+      "message": "कोई फ़ीडबैक नहीं, बस कर्सर दिखाएं."
+   },
+   "CARET_BROWSING_SUBHEADING1": {
+      "message": "यह एक्‍सटेंशन आपको वेब पृष्‍ठ में ले जाने योग्‍य कर्सर देता है, जिससे आप लेख को कीबोर्ड के द्वारा चुन सकते हैं."
+   },
+   "CARET_BROWSING_SUBHEADING2": {
+      "message": "इसे अभी आज़माएं - कैरेट ब्राउज़िंग इस पृष्‍ठ पर हमेशा सक्षम रहती है!"
+   },
+   "CARET_BROWSING_VISUALFEEDBACK": {
+      "message": "विज़ुअल फ़ीडबैक"
+   },
+   "CARET_BROWSING_WHENENABLED": {
+      "message": "जब कैरेट ब्राउज़िंग सक्षम हो:"
+   },
+   "COLOR_ENHANCER_ADJUSTMENT_FACTOR": {
+      "message": "Color adjustment"
+   },
+   "COLOR_ENHANCER_APPDESC": {
+      "message": "A customizable color filter applied to webpages to improve color perception."
+   },
+   "COLOR_ENHANCER_APPNAME": {
+      "message": "Color Enhancer"
+   },
+   "COLOR_ENHANCER_CANCEL": {
+      "message": "Cancel"
+   },
+   "COLOR_ENHANCER_DEGREE": {
+      "message": "Degree"
+   },
+   "COLOR_ENHANCER_ENABLE": {
+      "message": "Enable?"
+   },
+   "COLOR_ENHANCER_OK": {
+      "message": "OK"
+   },
+   "COLOR_ENHANCER_RESET": {
+      "message": "Reset"
+   },
+   "COLOR_ENHANCER_SETUP_BUTTON": {
+      "message": "Setup"
+   },
+   "COLOR_ENHANCER_SETUP_HEADING": {
+      "message": "Setup:"
+   },
+   "COLOR_ENHANCER_SEVERITY": {
+      "message": "Step 2: Adjust the slider until all of the stars are visible in the\n        selected row"
+   },
+   "COLOR_ENHANCER_TYPE_BLUE": {
+      "message": "नीला"
+   },
+   "COLOR_ENHANCER_TYPE_CHOICE": {
+      "message": "Step 1: Select the row with the faintest stars:"
+   },
+   "COLOR_ENHANCER_TYPE_GREEN": {
+      "message": "हरा"
+   },
+   "COLOR_ENHANCER_TYPE_RED": {
+      "message": "लाल"
+   },
+   "HIGHCONTRAST_": {
+      "message": "$1 की रंग योजना:"
+   },
+   "HIGHCONTRAST_APPDESC": {
+      "message": "वेबपृष्‍ठों को पढ़ने में अधिक आसान बनाने के लिए रंग योजना को बदलें या उलट दें."
+   },
+   "HIGHCONTRAST_APPNAME": {
+      "message": "उच्‍च कंट्रास्‍ट"
+   },
+   "HIGHCONTRAST_DEFAULT": {
+      "message": "डिफ़ॉल्‍ट रंग योजना:"
+   },
+   "HIGHCONTRAST_DISABLE": {
+      "message": "अक्षम करें"
+   },
+   "HIGHCONTRAST_DISABLED": {
+      "message": "उच्‍च कंट्रास्‍ट अक्षम है"
+   },
+   "HIGHCONTRAST_ENABLE": {
+      "message": "सक्षम करें"
+   },
+   "HIGHCONTRAST_ENABLED": {
+      "message": "उच्‍च कंट्रास्‍ट सक्षम है"
+   },
+   "HIGHCONTRAST_FORGET": {
+      "message": "साइट कस्‍टमाइज़ेशन को भूलें"
+   },
+   "HIGHCONTRAST_GRAYSCALE": {
+      "message": "ग्रेस्‍केल"
+   },
+   "HIGHCONTRAST_INCREASED_CONTRAST": {
+      "message": "बढ़ा हुआ कंट्रास्‍ट"
+   },
+   "HIGHCONTRAST_INVERTED_COLOR": {
+      "message": "विपरीत रंग"
+   },
+   "HIGHCONTRAST_INVERTED_GRAYSCALE": {
+      "message": "विपरीत ग्रेस्‍केल"
+   },
+   "HIGHCONTRAST_MODE_NORMAL": {
+      "message": "सामान्य"
+   },
+   "HIGHCONTRAST_SETDEFAULT": {
+      "message": "डिफ़ॉल्‍ट योजना के रूप में सेट करें"
+   },
+   "HIGHCONTRAST_YELLOW_ON_BLACK": {
+      "message": "काले पर पीला"
+   },
+   "LONGDESC_ADD_BORDER_CHECKBOX": {
+      "message": "aria-describedat या longdesc attributes वाले तत्‍वों में बॉर्डर जोड़ें."
+   },
+   "LONGDESC_APPDESC": {
+      "message": "\"longdesc\" या \"aria-describedat\" विशेषता वाली किसी भी चीज़ का बड़ा वर्णन ऐक्‍सेस करने के लिए उस पर राइट क्‍लिक करें."
+   },
+   "LONGDESC_APPNAME": {
+      "message": "संदर्भ मेनू में लंबा वर्णन"
+   },
+   "LONGDESC_CONTEXT_MENU_ITEM": {
+      "message": "लंबे वर्णन को नए टैब में खोलें"
+   },
+   "LONGDESC_OPTIONS": {
+      "message": "विकल्प"
+   }
+}

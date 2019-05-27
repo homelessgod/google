@@ -1,0 +1,440 @@
+{
+   "101206989909763677": {
+      "message": "Mga mag-aaral sa $CLASS_NAME$",
+      "placeholders": {
+         "CLASS_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "1258929983314547244": {
+      "message": "NAIPADALA SA GURO"
+   },
+   "1301730406464354688": {
+      "message": "Buksan ang Classroom"
+   },
+   "1462156539679968804": {
+      "message": "Natanggap mula sa mga mag-aaral"
+   },
+   "1472332582476021124": {
+      "message": "Maaaring tingnan ng mga mag-aaral ang file"
+   },
+   "1510105121221276016": {
+      "message": "I-lock sa Screen"
+   },
+   "1550690544509024009": {
+      "message": "{numFlings,plural, =1{# bago}one{# bago}other{# na bago}}"
+   },
+   "1663150675851578875": {
+      "message": "Nagkakaproblema kami sa pagkonekta sa $PRODUCT_NAME$. Pakitiyak na available ang iyong koneksyon sa network, pagkatapos ay subukan muling kumonekta.",
+      "placeholders": {
+         "PRODUCT_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "1758804700969198023": {
+      "message": "Menu ng Pagbabahagi"
+   },
+   "1790549872641667595": {
+      "message": "Ibahagi sa Classroom (Staging)"
+   },
+   "1951089763019042037": {
+      "message": "Mag-aaral"
+   },
+   "2050089326602918210": {
+      "message": "Ibahagi sa Classroom"
+   },
+   "2062938386395101624": {
+      "message": "Ipinadala sa mga mag-aaral"
+   },
+   "2070581630224025695": {
+      "message": "Gumawa ng anunsyo"
+   },
+   "2090147790320018555": {
+      "message": "Wala kang ipinadalang anumang bagay kamakailan."
+   },
+   "2213990758451550370": {
+      "message": "Maaaring magkomento ang mga mag-aaral sa file"
+   },
+   "2266749875018591275": {
+      "message": "Luma na ang iyong \"$PRODUCT_NAME$\" extension. Upang magpatuloy, mag-click sa $START_LINK$i-uninstall ang extension na ito$END_LINK$. Bubuksan din nito ang page ng Chrome Web Store kung saan maaaring i-install muli ang extension.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "PRODUCT_NAME": {
+            "content": "$2"
+         },
+         "START_LINK": {
+            "content": "$3"
+         }
+      }
+   },
+   "2315140680766681153": {
+      "message": "Walang ipapakitang mag-aaral."
+   },
+   "2409870568039115310": {
+      "message": "IPADALA SA GURO"
+   },
+   "2416435327104074837": {
+      "message": "Ipinadala sa guro"
+   },
+   "265018083235803821": {
+      "message": "Menu ng Mga Pahintulot"
+   },
+   "272253201636921624": {
+      "message": "Ipinapadala"
+   },
+   "3208531239543188174": {
+      "message": "Bubukas sa {numSeconds,plural, =1{1 segundo}one{# segundo}other{# (na) segundo}}..."
+   },
+   "3727581148109420602": {
+      "message": "Buksan sa bagong tab"
+   },
+   "3852289441366561594": {
+      "message": "Kumokonekta..."
+   },
+   "3853169172456108967": {
+      "message": "GUMAWA NG O SUMALI SA KLASE"
+   },
+   "3894950702316166331": {
+      "message": "Naglo-load..."
+   },
+   "4012779869104225222": {
+      "message": "Listahan ng Mga Klase"
+   },
+   "4048890404505834885": {
+      "message": "Magtanong"
+   },
+   "4101941266124151376": {
+      "message": "naka-on"
+   },
+   "4221250166827447984": {
+      "message": "Tinitingnan ang $TITLE$",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "4269658859113770197": {
+      "message": "Nilo-load ang iyong mga klase..."
+   },
+   "436489073937327740": {
+      "message": "Magpadala ng mga karagdagang log sa Google, na naglalaman ng mga nakabahaging page at email address para sa mga miyembro ng iyong klase."
+   },
+   "4481147463445876932": {
+      "message": "Gumawa ng takdang-aralin"
+   },
+   "4491595920888170943": {
+      "message": "Hindi maibabahagi ang kasalukuyang page."
+   },
+   "4622108781632885640": {
+      "message": "Natanggap mula sa guro"
+   },
+   "4742705439416933924": {
+      "message": "Sumali sa klase upang buksan ang mga page nang magkakasama"
+   },
+   "4748990655911819545": {
+      "message": "Itinuturo"
+   },
+   "4811423455816775324": {
+      "message": "Dapat ay naka-sign in ka sa Chrome upang magamit ang $PRODUCT$.\nMag-click dito upang mag-sign in.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "4849976898594713883": {
+      "message": "Nagkakaproblema ang $PRODUCT$ sa pagkonekta sa mga server nito, at mukhang dahil ito sa configuration ng isang gateway o firewall. Pakitingnan ang mga setting ng iyong firewall at tiyaking naka-configure ang mga ito na pahintulutan ang trapiko sa $SERVER$.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         },
+         "SERVER": {
+            "content": "$2"
+         }
+      }
+   },
+   "48585068921907804": {
+      "message": "Nagkakaproblema kami sa pagkonekta sa $PRODUCT_NAME$. Pakisubukang mag-sign out sa iyong account at pagkatapos ay mag-sign in muli. Kung magpapatuloy ang problemang ito, i-click ang icon ng feedback sa ibaba upang magsumite ng feedback.",
+      "placeholders": {
+         "PRODUCT_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "4930506384627295710": {
+      "message": "Mga Setting"
+   },
+   "533692309512814645": {
+      "message": "IPADALA"
+   },
+   "5354810546510399127": {
+      "message": "Binubuksan ang Page ng Tulong"
+   },
+   "5560440246965579819": {
+      "message": "Maaaring tingnan ng mga guro ang file"
+   },
+   "566090020805595985": {
+      "message": "GUMAWA NG KLASE"
+   },
+   "5851560788527570644": {
+      "message": "Mga Notification"
+   },
+   "5936353814217802658": {
+      "message": "IPADALA SA GURO"
+   },
+   "6031597996865914480": {
+      "message": "IPADALA"
+   },
+   "6042567254866620046": {
+      "message": "Hindi konektado sa $PRODUCT$ ang system na ito. Mangyaring pindutin ang button sa pagkonekta upang subukang kumonekta.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "6084304183859355623": {
+      "message": "Naka-sign in ka bilang $EMAIL$. Upang magpatuloy, $START_LINK$mag-sign in sa Chrome$END_LINK$ gamit ang isang Google school account na may access sa Google Classroom.",
+      "placeholders": {
+         "EMAIL": {
+            "content": "$1"
+         },
+         "END_LINK": {
+            "content": "$2"
+         },
+         "START_LINK": {
+            "content": "$3"
+         }
+      }
+   },
+   "6110089012347909146": {
+      "message": "naka-off"
+   },
+   "6229272560153199861": {
+      "message": "Gumawa ng klase upang buksan ang mga page nang magkakasama"
+   },
+   "6422956386741575643": {
+      "message": "Maglagay ng maikling paglalarawan"
+   },
+   "6576961868476783976": {
+      "message": "Nagkaroon ng error sa $PRODUCT$ sa pagsubok na ibahagi ang dokumento. Pakisubukang muli sa ibang pagkakataon.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "6666246860368909334": {
+      "message": " – "
+   },
+   "6731720160639032735": {
+      "message": "Naka-sign in bilang $EMAIL$",
+      "placeholders": {
+         "EMAIL": {
+            "content": "$1"
+         }
+      }
+   },
+   "6802974388288119584": {
+      "message": "Nagbibigay-daan sa iyo ang Google Feedback na magpadala sa Google ng mga suhestyon tungkol sa aming mga produkto. Tinatanggap namin ang anumang mga ulat na problema, ideya sa feature at pangkalahatang komento."
+   },
+   "6921620009241719815": {
+      "message": "Pumunta Sa Nakaraang Page"
+   },
+   "7002955679222677443": {
+      "message": "Matuto nang Higit Pa"
+   },
+   "7014972904425258116": {
+      "message": "Maaaring magkomento ang mga guro sa file"
+   },
+   "7187802960307973851": {
+      "message": "Wala kang natanggap na anumang bagay kamakailan."
+   },
+   "7419648588978430202": {
+      "message": "Nilo-load ang iyong history..."
+   },
+   "7467129818830892099": {
+      "message": "Mga mag-aaral sa fullscreen na page"
+   },
+   "7520798696482451948": {
+      "message": "SUMALI SA KLASE"
+   },
+   "7582805180132294390": {
+      "message": "Nagkakaproblema ang $PRODUCT$ sa pagkonekta sa mga server nito. Kung magpatuloy ang isyu, tingnan ang iyong koneksyon sa internet at mga setting ng firewall at magpadala ng feedback gamit ang icon ng feedback sa ibaba.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "7604563725603697690": {
+      "message": "Screenshot ng iyong kasalukuyang page."
+   },
+   "7613121200569555025": {
+      "message": "Nagpadala si $NAME$ ng page",
+      "placeholders": {
+         "NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "7646520484997880732": {
+      "message": "Binubuksan ang Page ng Mga Setting"
+   },
+   "7733702880641460982": {
+      "message": "Google Feedback"
+   },
+   "77478328938908900": {
+      "message": "Isara ang Mensahe ng Babala"
+   },
+   "7798244153502527716": {
+      "message": "Dapat ay naka-sign in ka sa Chrome upang magamit ang $PRODUCT$.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "7819314041543176992": {
+      "message": "Isara"
+   },
+   "7826444313570725162": {
+      "message": "NAIPADALA"
+   },
+   "784919827997620253": {
+      "message": "Isumite ang Feedback"
+   },
+   "7869782771655761788": {
+      "message": "Naipadala"
+   },
+   "787828271820052473": {
+      "message": "Gumawa ng o sumali sa klase upang buksan ang mga pag nang magkakasama"
+   },
+   "7914587618073030772": {
+      "message": "Ibahagi sa Classroom (Panubok)"
+   },
+   "7924019946919704377": {
+      "message": "$START_LINK$Mag-click dito$END_LINK$ upang mag-sign in sa Chrome, at pagkatapos ay subukang muli ang $PRODUCT_NAME$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "PRODUCT_NAME": {
+            "content": "$2"
+         },
+         "START_LINK": {
+            "content": "$3"
+         }
+      }
+   },
+   "8071009096908772636": {
+      "message": "Magpakita ng mga notification sa browser kapag nag-push sa akin ng mga webpage ang mga mag-aaral"
+   },
+   "8083611296479050044": {
+      "message": "Pumunta Sa Page ng Feedback"
+   },
+   "8107264734060843365": {
+      "message": "If this problem doesn't go away, try restarting your computer. If this problem persists, click the feedback icon below to submit feedback."
+   },
+   "813263746069473514": {
+      "message": "Makipag-ugnayan"
+   },
+   "819996403327805209": {
+      "message": "Matuto nang higit pa"
+   },
+   "8250116767525441148": {
+      "message": "Hindi makakonekta ang $PRODUCT$ sa $SITE$. Paki-verify ang iyong koneksyon sa internet at subukang muli.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         },
+         "SITE": {
+            "content": "$2"
+         }
+      }
+   },
+   "826991190228103925": {
+      "message": "Mga Setting"
+   },
+   "8410291800785136487": {
+      "message": "Ipadala sa mga mag-aaral"
+   },
+   "8427578009205621398": {
+      "message": "$PARTICIPATING$/$TOTAL$ (na) mag-aaral",
+      "placeholders": {
+         "PARTICIPATING": {
+            "content": "$1"
+         },
+         "TOTAL": {
+            "content": "$2"
+         }
+      }
+   },
+   "8510084535053903986": {
+      "message": "Maaaring i-edit ng mga guro ang file"
+   },
+   "8584185541337081736": {
+      "message": "Ibahagi ang extension na ito sa iyong mga mag-aaral upang matanggap nila ang iyong mga link.&nbsp;"
+   },
+   "8636360788868898667": {
+      "message": "Dalhin agad ang iyong klase sa parehong (web)page."
+   },
+   "8657495129257769609": {
+      "message": "Lumalabas na hindi konektado sa internet ang iyong machine. Pakitingnan ang iyong koneksyon at subukang muli."
+   },
+   "8757637959955680925": {
+      "message": "Upang magamit ang $PRODUCT_NAME$, kailangan ay naka-sign in ka sa Chrome, at mukhang hindi ka naka-sign in.",
+      "placeholders": {
+         "PRODUCT_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "8812061458772284085": {
+      "message": "Ipapadala sa Google ang paglalarawan, impormasyon ng produkto, karagdagang impormasyon ng system at ang iyong email address. Tingnan ang $START_LINK_1$Patakaran sa Privacy$END_LINK$ at $START_LINK_2$Mga Tuntunin ng Serbisyo$END_LINK$ ng Google.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK_1": {
+            "content": "$2"
+         },
+         "START_LINK_2": {
+            "content": "$3"
+         }
+      }
+   },
+   "8876711157282412092": {
+      "message": "{numLinks,plural, =1{# link}one{# link}other{# na link}}"
+   },
+   "8934950226874423147": {
+      "message": "Maaaring i-edit ng mga mag-aaral ang file"
+   },
+   "9057609174906387434": {
+      "message": "Icon ng $PAGE_TITLE$.",
+      "placeholders": {
+         "PAGE_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "9200475522066047621": {
+      "message": "Naka-enroll"
+   },
+   "9217362152767454370": {
+      "message": "Nangangailangan ng pahintulot ang $PRODUCT$ upang ma-access ang iyong profile.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "99413348305232894": {
+      "message": "Ibahagi sa Classroom"
+   }
+}

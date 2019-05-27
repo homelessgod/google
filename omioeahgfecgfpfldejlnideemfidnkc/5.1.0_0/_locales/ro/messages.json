@@ -1,0 +1,69 @@
+{
+   "app_description": {
+      "message": "Consultați date despre anunțurile și conturile dvs. AdSense, Ad Exchange și DFP și blocați anunțurile nepotrivite de pe site-ul dvs."
+   },
+   "cs_overlay_date_7day": {
+      "message": "7 zile"
+   },
+   "cs_overlay_date_today": {
+      "message": "Astăzi"
+   },
+   "cs_overlay_date_yesterday": {
+      "message": "Ieri"
+   },
+   "cs_overlay_size_name": {
+      "message": "Dimensiune"
+   },
+   "cs_overlay_type_name": {
+      "message": "Tip"
+   },
+   "dfp_creative_id": {
+      "message": "Reclamă: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "dfp_no_creative": {
+      "message": "Nicio reclamă DFP"
+   },
+   "dfp_unknown_creative": {
+      "message": "Reclamă necunoscută"
+   },
+   "domains_whitelist_saved": {
+      "message": "Lista de site-uri autorizate a fost actualizată."
+   },
+   "expired_creative": {
+      "message": "Nu au putut fi accesate informațiile pentru această reclamă. Așteptați câteva secunde, apoi încercați să reîncărcați pagina."
+   },
+   "expired_line_item": {
+      "message": "Nu au putut fi accesate informațiile pentru acest element rând. Așteptați câteva secunde, apoi încercați să reîncărcați pagina."
+   },
+   "line_item_adsense_or_adx": {
+      "message": "AdSense sau Ad Exchange"
+   },
+   "line_item_id": {
+      "message": "Element rând: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "line_item_no_ad": {
+      "message": "Niciun anunț DFP"
+   },
+   "misconfigured_ad_notification_text": {
+      "message": "Această pagină conține \u003Ca href=\"ovnfc\">0\u003C/span> unități de anunțuri incorect configurate. Acest fapt poate afecta negativ venitul dvs. \u003Ca target=\"_new\" href=\"http://support.google.com/adsense/bin/answer.py?answer=2694805\" class=\"ovnfs\">Aflați mai multe\u003C/a>"
+   },
+   "no_results_creative": {
+      "message": "Nu au fost găsite informații pentru această reclamă. Este posibil să nu aveți acces la aceasta."
+   },
+   "no_results_line_item": {
+      "message": "Nu au fost găsite informații pentru acest element rând. Este posibil să nu aveți acces la acesta."
+   },
+   "settings_saved_title": {
+      "message": "Setările au fost salvate"
+   }
+}

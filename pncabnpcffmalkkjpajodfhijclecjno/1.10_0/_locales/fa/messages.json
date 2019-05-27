@@ -1,0 +1,77 @@
+{
+   "close_button": {
+      "message": "بستن"
+   },
+   "extension_description": {
+      "message": "Password Checkup به شما کمک می‌کند حساب‌هایی را که تحت تأثیر نقض داده‌ها قرار گرفته‌اند، دوباره ایمن‌سازی کنید."
+   },
+   "extension_detailed_description": {
+      "message": "هرزمان به سیستم وارد می‌شوید، اگر نام کاربری و گذرواژه‌ای وارد کنید که به‌دلیل ارائه شدن در نقص داده شناخته‌شده‌ای برای Google دیگر ایمن نباشد، هشداری دریافت خواهید کرد. لطفاً گذرواژه‌تان را بازنشانی کنید. اگر از همان نام کاربری و گذرواژه برای هر حساب دیگری استفاده می‌کنید، لطفاً در آنجا هم گذرواژه‌تان را بازنشانی کنید.\n\nPassword Checkup با درنظر گرفتن حریم‌خصوصی تولید شده است. Password Checkup هرگز هیچ‌گونه اطلاعات شناسایی را درباره حساب‌ها، گذرواژه‌ها، یا دستگاه‌هایتان گزارش نمی‌کند. چه هشدار منجر به تغییر گذرواژه بشود یا نه، ما برای افزایش پوشش سایت، اطلاعات ناشناسی را درباره تعداد جستجو‌هایی که اطلاعات کاربری ناامن را شناسایی کرده است و دامنه مربوطه گزارش می‌دهیم. می‌توانید درباره نحوه عملکرد Password Checkup در https://support.google.com/accounts?p=password-checkup اطلاعات بیشتری کسب کنید.\n\nبا نصب این مورد، با «شرایط و ضوابط» و «خط‌مشی رازداری» Google ارائه‌شده در www.google.com/policies/ موافقت می‌کنید."
+   },
+   "extension_name": {
+      "message": "Password Checkup"
+   },
+   "ignore_button": {
+      "message": "برای این سایت نادیده گرفته شود"
+   },
+   "learn_more": {
+      "message": "بیشتر بدانید"
+   },
+   "popup_advanced_settings_action": {
+      "message": "تنظیمات پیشرفته"
+   },
+   "popup_default_status_message": {
+      "message": "هیچ‌کدام از گذرواژه‌های اخیراً استفاده‌شده در نقض داده شناسایی نشدند."
+   },
+   "popup_ignore_button": {
+      "message": "نادیده گرفتن"
+   },
+   "popup_ignored_status_message": {
+      "message": "هیچ‌کدام از گذرواژه‌های اخیراً استفاده‌شده در نقض داده شناسایی نشدند. این مورد شامل گذرواژه‌های غیرایمنی نمی‌شود که برای بازنشانی نادیده گرفتید."
+   },
+   "popup_learn_more": {
+      "message": "بیشتر بدانید"
+   },
+   "popup_multiple_accounts_warning_status_message": {
+      "message": "Password Checkup تشخیص داد \u003Cb>$1 حساب\u003C/b> زیر گذرواژه‌هایی دارند که به‌دلیل نقض داده دیگر ایمن نیستند.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "popup_number_unsafe_accounts": {
+      "message": "$1 حساب غیرایمن",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "popup_one_account_warning_status_message": {
+      "message": "Password Checkup تشخیص داد \u003Cb>1 حساب\u003C/b> زیر گذرواژه‌ای دارد که به‌دلیل نقض داده دیگر ایمن نیست."
+   },
+   "popup_reset_extension_button": {
+      "message": "پاک کردن داده‌های افزونه"
+   },
+   "popup_reset_extension_text": {
+      "message": "همه داده‌های افزونه را پاک کنید. با این کار همه اطلاعات ذخیره‌شده درباره گذرواژه‌های غیرایمن و سایت‌های نادیده گرفته‌شده قبلی حذف خواهد شد."
+   },
+   "popup_warning_action": {
+      "message": "باید هم‌اکنون گذرواژه‌هایتان را تغییر دهید."
+   },
+   "reset_text": {
+      "message": "باید هم‌اکنون گذرواژه‌تان را تغییر دهید."
+   },
+   "warning_banner_header": {
+      "message": "تغییر گذرواژه"
+   },
+   "warning_text": {
+      "message": "Password Checkup تشخیص داد که به‌دلیل نقض داده، گذرواژه‌تان برای \u003Cb>$1\u003C/b> دیگر ایمن نیست.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   }
+}

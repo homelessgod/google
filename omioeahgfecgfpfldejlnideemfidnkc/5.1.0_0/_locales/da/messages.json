@@ -1,0 +1,69 @@
+{
+   "app_description": {
+      "message": "Se data for dine AdSense-, Ad Exchange- og DFP-annoncer og -konti, og bloker visning af upassende annoncer på dit website."
+   },
+   "cs_overlay_date_7day": {
+      "message": "Syv dage"
+   },
+   "cs_overlay_date_today": {
+      "message": "I dag"
+   },
+   "cs_overlay_date_yesterday": {
+      "message": "I går"
+   },
+   "cs_overlay_size_name": {
+      "message": "Størrelse"
+   },
+   "cs_overlay_type_name": {
+      "message": "Type"
+   },
+   "dfp_creative_id": {
+      "message": "Annoncemateriale: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "dfp_no_creative": {
+      "message": "Intet DFP-annoncemateriale"
+   },
+   "dfp_unknown_creative": {
+      "message": "Ukendt annoncemateriale"
+   },
+   "domains_whitelist_saved": {
+      "message": "Listen over godkendte websites er blevet opdateret."
+   },
+   "expired_creative": {
+      "message": "Vi kunne ikke hente oplysningerne om dette annoncemateriale. Vent et par sekunder, og prøv derefter at indlæse siden igen."
+   },
+   "expired_line_item": {
+      "message": "Vi kunne ikke hente oplysningerne om denne linjepost. Vent et par sekunder, og prøv derefter at indlæse siden igen."
+   },
+   "line_item_adsense_or_adx": {
+      "message": "AdSense eller Ad Exchange"
+   },
+   "line_item_id": {
+      "message": "Linjepost: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "line_item_no_ad": {
+      "message": "Ingen DFP-annonce"
+   },
+   "misconfigured_ad_notification_text": {
+      "message": "Denne side indeholder \u003Ca href=\"ovnfc\">0\u003C/span> annonceenheder, der er konfigureret forkert. Det kan have en negativ indvirkning på din omsætning. \u003Ca target=\"_new\" href=\"http://support.google.com/adsense/bin/answer.py?answer=2694805\" class=\"ovnfs\">Få flere oplysninger\u003C/a>"
+   },
+   "no_results_creative": {
+      "message": "Vi kunne ikke finde oplysningerne om dette annoncemateriale. Du har muligvis ikke adgang til annoncematerialet."
+   },
+   "no_results_line_item": {
+      "message": "Vi kunne ikke finde oplysningerne om denne linjepost. Du har muligvis ikke adgang til linjeposten."
+   },
+   "settings_saved_title": {
+      "message": "Indstillingerne er blevet gemt"
+   }
+}

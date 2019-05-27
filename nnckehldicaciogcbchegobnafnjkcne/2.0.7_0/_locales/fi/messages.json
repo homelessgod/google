@@ -1,0 +1,126 @@
+{
+   "before_trying_again": {
+      "description": "Error resolution tip in error pages.",
+      "message": "Tee näin ennen kuin yrität uudelleen:"
+   },
+   "browser_action_title": {
+      "description": "Browser action title that shows up on hover.",
+      "message": "Lähetä tämä URL-osoite"
+   },
+   "context_menu_disable": {
+      "description": "Label of the context menu item that disables Tone.",
+      "message": "Poista Tone käytöstä"
+   },
+   "context_menu_enable": {
+      "description": "Label of the context menu item that enables Tone.",
+      "message": "Ota Tone käyttöön"
+   },
+   "description": {
+      "description": "Extension description.",
+      "message": "Lähetä mikä tahansa URL-osoite kuuloetäisyydellä oleviin tietokoneisiin."
+   },
+   "ensure_online": {
+      "description": "Network workaround.",
+      "message": "Varmista, että tietokoneesi on verkossa."
+   },
+   "error_audio_title": {
+      "description": "Title of the error_audio.html page.",
+      "message": "Google Tone ei kuullut, mitä sanoit"
+   },
+   "error_network_title": {
+      "description": "Title of error_network.html page.",
+      "message": "Valitettavasti se ei toiminut"
+   },
+   "increase_volume": {
+      "description": "Audio workaround #1",
+      "message": "Lisää äänenvoimakkuutta."
+   },
+   "invite_others": {
+      "description": "Press the button to try it.",
+      "message": "Kutsu muita käyttämään Google Tonea: {{shortlink}}"
+   },
+   "name": {
+      "description": "Extension name.",
+      "message": "Google Tone"
+   },
+   "notification_receive_message_format": {
+      "description": "Notification message when you receive a Tone.",
+      "message": "Klikkaa, jos haluat avata kohteen {{title}} lähettäjältä {{domain}}."
+   },
+   "notification_receive_test_page_message": {
+      "description": "Notification message sent from Tone test page.",
+      "message": "Klikkaa, jos haluat kokeilla Tonea!"
+   },
+   "notification_receive_title_format": {
+      "description": "Notification title when you receive a Tone.",
+      "message": "URL käyttäjältä {{username}}!"
+   },
+   "notification_send_fail_audio_message": {
+      "description": "Notification title shown when audio verification fails.",
+      "message": "Tarkistä äänenvoimakkuutesi ja yritä uudelleen.\nSaat lisätietoja klikkaamalla."
+   },
+   "notification_send_fail_audio_title": {
+      "description": "Notification title shown when audio verification fails.",
+      "message": "Tone ei kuullut itseään"
+   },
+   "notification_send_fail_network_message": {
+      "description": "Notification message shown when a Tone was attempted but the network was offline.",
+      "message": "Vaikutat olevan offline-tilassa.\nSaat lisätietoja klikkaamalla."
+   },
+   "notification_send_fail_network_title": {
+      "description": "Notification title shown when a Tone was attempted but the network was offline.",
+      "message": "URL-osoitetta ei lähetetty"
+   },
+   "press_button": {
+      "description": "Press the button to try it.",
+      "message": "Paina {{action_image}} -painiketta, jos haluat lähettää URL-osoitteen kuuloetäisyydellä oleviin tietokoneisiin."
+   },
+   "report_bug": {
+      "description": "Report a bug",
+      "message": "Ilmoita virheestä"
+   },
+   "settings_off": {
+      "description": "Indicator showing that Tone is disabled.",
+      "message": "POIS PÄÄLTÄ"
+   },
+   "settings_off_subtitle": {
+      "description": "Subtitle showing that Tone is disabled.",
+      "message": "Et voit lähettää tai vastaanottaa URL-osoitteita."
+   },
+   "settings_off_title": {
+      "description": "Title showing that Tone is disabled.",
+      "message": "Google Tone on poissa päältä"
+   },
+   "settings_on": {
+      "description": "Indicator showing that Tone is enabled.",
+      "message": "PÄÄLLÄ"
+   },
+   "settings_on_subtitle": {
+      "description": "Subtitle showing that Tone is enabled.",
+      "message": "Voit lähettää ja vastaanottaa URL-osoitteita."
+   },
+   "settings_on_title": {
+      "description": "Title showing that Tone is enabled.",
+      "message": "Google Tone on päällä"
+   },
+   "settings_title": {
+      "description": "Title of settings.html",
+      "message": "Asetukset"
+   },
+   "success_call": {
+      "description": "Call to action of success.html.",
+      "message": "Siirry toiselle sivulle ja lähetä se klikkaamalla {{action_image}} -painiketta."
+   },
+   "success_title": {
+      "description": "Title of success.html.",
+      "message": "Google Tone toimi!"
+   },
+   "try_now": {
+      "description": "Call to action to try the extension.",
+      "message": "Kokeile Google Tonea heti!"
+   },
+   "unplug_headphones": {
+      "description": "Audio workaround #2",
+      "message": "Irrota kuulokkeet."
+   }
+}

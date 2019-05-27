@@ -1,0 +1,77 @@
+{
+   "close_button": {
+      "message": "ዝጋ"
+   },
+   "extension_description": {
+      "message": "የPassword Checkup በውሂብ ደንብ ጥሰቶች ተፅዕኖ ያረፈባቸውን መለያዎች መልሰው እንዲያገኟቸው ያግዛል።"
+   },
+   "extension_detailed_description": {
+      "message": "በመለያ በገቡ ማንኛውም ጊዜ Google በሚያውቀው የውሂብ ጥሰት ላይ በመታየቱ ምክንያት ደህንነቱ ያልተጠበቀ የተጠቃሚ ስም እና የይለፍ ቃል ካስገቡ ማንቂያ ይደርሰዎታል። እባክዎ የይለፍ ቃልዎን ዳግም ያስጀምሩት። ለማናቸውም ሌሎች መለያዎች ተመሳሳዩን የተጠቃሚ ስም እና የይለፍ ቃል የሚጠቀሙ ከሆኑ እባክዎ እንዲሁም እዚህ ላይ የይለፍ ቃልዎን ዳግም ያስጀምሩት።\n\nየይለፍ ቃል ፍተሻ ግላዊነት ከግምት ውስጥ በማስገባት የተገነባ ነው። የእርስዎን መለያዎች፣ የይለፍ ቃላት ወይም መሣሪያ የሚለይ ማንኛውም መረጃን በጭራሽ ሪፖርት አያደርግም። ደህንነቱ ያልተጠበቀ የመግቢያ መረጃ የሚሰጡ የፍለጋዎች ብዛት፣ አንድ ማንቂያ የይለፍ ቃል አምጥቶ እንደሆነ፣ እና የጣቢያ ሽፋንን ለማሻሻል የተሳተፈው ጎራ መረጃ ሪፖርት እናደርጋለን። https://support.google.com/accounts?p=password-checkup ላይ የይለፍ ቃል ፍተሻ እንዴት እንደሚሰራ ተጨማሪ ማወቅ ይችላሉ።\n\nይህን ንጥል በመጫን www.google.com/policies/ ላይ በGoogle አገልግሎት ውል እና የግላዊነት መመሪያ ይስማማሉ።"
+   },
+   "extension_name": {
+      "message": "Password Checkup"
+   },
+   "ignore_button": {
+      "message": "ለዚህ ጣቢያ ችላ በል"
+   },
+   "learn_more": {
+      "message": "የበለጠ ለመረዳት"
+   },
+   "popup_advanced_settings_action": {
+      "message": "የላቁ ቅንብሮች"
+   },
+   "popup_default_status_message": {
+      "message": "ማናቸውም በቅርብ ጊዜ ስራ ላይ የዋሉ የይለፍ ቃላትዎ በውሂብ ጥሰት ላይ አልተገኙም።"
+   },
+   "popup_ignore_button": {
+      "message": "ችላ በለው"
+   },
+   "popup_ignored_status_message": {
+      "message": "ማናቸውም በቅርብ ጊዜ ስራ ላይ የዋሉ የይለፍ ቃላትዎ በውሂብ ጥሰት ላይ አልተገኙም። ይህ ዳግም ለማስጀመር ችላ ለማለት የመረጧቸውን ደህንነታቸው አስጊ የሆኑ የይለፍ ቃላት አያካትትም።"
+   },
+   "popup_learn_more": {
+      "message": "የበለጠ ለመረዳት"
+   },
+   "popup_multiple_accounts_warning_status_message": {
+      "message": "የPassword Checkup የሚከተሉት \u003Cb>$1 መለያዎች\u003C/b> በውሂብ ጥሰት ምክንያት እነሱን መጠቀም ለደህንነት አስጊ እንደሆኑ አግኝቷል።",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "popup_number_unsafe_accounts": {
+      "message": "$1 ደህንነታቸው አስጊ የሆኑ መለያዎች",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "popup_one_account_warning_status_message": {
+      "message": "የPassword Checkup የሚከተለው \u003Cb>1 መለያ\u003C/b> በውሂብ ጥሰት ምክንያት እሱን መጠቀም ለደህንነት አስጊ እንደሆነ አግኝቷል።"
+   },
+   "popup_reset_extension_button": {
+      "message": "የቅጥያ ውሂብን አጽዳ"
+   },
+   "popup_reset_extension_text": {
+      "message": "ሁሉንም የቅጥያ ውሂብ ያጽዱ። ይህ ሁሉንም ስለአስጊ ይለፍ ቃላት እና ከዚህ ቀደም ችላ የተባሉ ጣቢያዎች ያለ የተከማቸ መረጃ ሁሉ ያስወግዳል።"
+   },
+   "popup_warning_action": {
+      "message": "የእርስዎን የይለፍ ቃላት አሁን መለወጥ አለብዎት።"
+   },
+   "reset_text": {
+      "message": "የእርስዎን የይለፍ ቃል አሁን መለወጥ አለብዎት።"
+   },
+   "warning_banner_header": {
+      "message": "የይለፍ ቃልዎን ይቀይሩ"
+   },
+   "warning_text": {
+      "message": "የPassword Checkup የእርስዎ የ \u003Cb>$1\u003C/b> የይለፍ ቃል ከእንግዲህ በኋላ በውሂብ ደንብ ጥሰት ምክንያት ደህንነቱ አስተማማኝ እንዳልሆነ ደርሶበታል።",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   }
+}

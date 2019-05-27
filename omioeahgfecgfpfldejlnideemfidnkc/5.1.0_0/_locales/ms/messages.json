@@ -1,0 +1,69 @@
+{
+   "app_description": {
+      "message": "Lihat data pada iklan dan akaun AdSense, AdExchange dan DoubleClick for Publishers anda. Sekat iklan tidak wajar di laman web anda."
+   },
+   "cs_overlay_date_7day": {
+      "message": "7 Hari"
+   },
+   "cs_overlay_date_today": {
+      "message": "Hari ini"
+   },
+   "cs_overlay_date_yesterday": {
+      "message": "Semalam"
+   },
+   "cs_overlay_size_name": {
+      "message": "Saiz"
+   },
+   "cs_overlay_type_name": {
+      "message": "Jenis"
+   },
+   "dfp_creative_id": {
+      "message": "Kreatif: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "dfp_no_creative": {
+      "message": "Tiada kreatif DFP"
+   },
+   "dfp_unknown_creative": {
+      "message": "Kreatif tidak diketahui"
+   },
+   "domains_whitelist_saved": {
+      "message": "Senarai tapak yang dibenarkan telah dikemas kini."
+   },
+   "expired_creative": {
+      "message": "Kami tidak dapat mengambil maklumat untuk kreatif ini. Sila tunggu selama beberapa saat kemudian cuba muatkan semula halaman."
+   },
+   "expired_line_item": {
+      "message": "Kami tidak dapat mengambil maklumat untuk item baris ini. Sila tunggu selama beberapa saat kemudian cuba muatkan semula halaman."
+   },
+   "line_item_adsense_or_adx": {
+      "message": "AdSense atau Ad Exchange"
+   },
+   "line_item_id": {
+      "message": "Item baris: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "line_item_no_ad": {
+      "message": "Tiada iklan DFP"
+   },
+   "misconfigured_ad_notification_text": {
+      "message": "Halaman ini mengandungi \u003Ca href=\"ovnfc\">0\u003C/span> unit iklan yang dikonfigurasikan secara salah. Ini mungkin menjejaskan hasil anda. \u003Ca target=\"_new\" href=\"http://support.google.com/adsense/bin/answer.py?answer=2694805\" class=\"ovnfs\">Ketahui lebih lanjut\u003C/a>"
+   },
+   "no_results_creative": {
+      "message": "Kami tidak menemui maklumat untuk kreatif ini. Anda mungkin tidak mempunyai akses kepadanya."
+   },
+   "no_results_line_item": {
+      "message": "Kami tidak menemui maklumat untuk item baris ini. Anda mungkin tidak mempunyai akses kepadanya."
+   },
+   "settings_saved_title": {
+      "message": "Tetapan disimpan"
+   }
+}

@@ -1,0 +1,440 @@
+{
+   "101206989909763677": {
+      "message": "Luokan $CLASS_NAME$ oppilaat",
+      "placeholders": {
+         "CLASS_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "1258929983314547244": {
+      "message": "LÄHETETTY OPETTAJALLE"
+   },
+   "1301730406464354688": {
+      "message": "Avaa Classroom"
+   },
+   "1462156539679968804": {
+      "message": "Vastaanotettu opiskelijoilta"
+   },
+   "1472332582476021124": {
+      "message": "Oppilaat voivat tarkastella tiedostoa"
+   },
+   "1510105121221276016": {
+      "message": "Lukitse näytölle"
+   },
+   "1550690544509024009": {
+      "message": "{numFlings,plural, =1{# uusi}other{# uutta}}"
+   },
+   "1663150675851578875": {
+      "message": "Yhteyttä palveluun $PRODUCT_NAME$ ei voi muodostaa. Varmista, että saatavilla on verkkoyhteys, ja yritä muodostaa yhteys uudelleen.",
+      "placeholders": {
+         "PRODUCT_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "1758804700969198023": {
+      "message": "Jakovalikko"
+   },
+   "1790549872641667595": {
+      "message": "Jaa Classroomiin (testaus)"
+   },
+   "1951089763019042037": {
+      "message": "Opiskelija"
+   },
+   "2050089326602918210": {
+      "message": "Jaa Classroomiin"
+   },
+   "2062938386395101624": {
+      "message": "Lähetetty opiskelijoille"
+   },
+   "2070581630224025695": {
+      "message": "Tee ilmoitus."
+   },
+   "2090147790320018555": {
+      "message": "Et ole lähettänyt mitään viime aikoina."
+   },
+   "2213990758451550370": {
+      "message": "Oppilaat voivat kommentoida tiedostoa"
+   },
+   "2266749875018591275": {
+      "message": "Tuotteen $PRODUCT_NAME$ laajennus on vanhentunut. Jatka valitsemalla $START_LINK$poista tämä laajennus$END_LINK$. Tämä avaa myös Chrome Web Storen sivun, jolta laajennus voidaan asentaa uudelleen.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "PRODUCT_NAME": {
+            "content": "$2"
+         },
+         "START_LINK": {
+            "content": "$3"
+         }
+      }
+   },
+   "2315140680766681153": {
+      "message": "Näytettäviä oppilaita ei ole."
+   },
+   "2409870568039115310": {
+      "message": "LÄHETÄ OPETTAJALLE."
+   },
+   "2416435327104074837": {
+      "message": "Lähetetty opettajalle"
+   },
+   "265018083235803821": {
+      "message": "Käyttöoikeusvalikko"
+   },
+   "272253201636921624": {
+      "message": "Lähetetään"
+   },
+   "3208531239543188174": {
+      "message": "Avataan {numSeconds,plural, =1{1 sekunnissa}other{# sekunnissa}}…"
+   },
+   "3727581148109420602": {
+      "message": "Avaa uudella välilehdellä"
+   },
+   "3852289441366561594": {
+      "message": "Yhdistetään…"
+   },
+   "3853169172456108967": {
+      "message": "LUO KURSSI TAI LIITY KURSSILLE"
+   },
+   "3894950702316166331": {
+      "message": "Ladataan…"
+   },
+   "4012779869104225222": {
+      "message": "Luokkaluettelo"
+   },
+   "4048890404505834885": {
+      "message": "Esitä kysymys"
+   },
+   "4101941266124151376": {
+      "message": "käytössä"
+   },
+   "4221250166827447984": {
+      "message": "Näytetään $TITLE$",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "4269658859113770197": {
+      "message": "Kursseja ladataan…"
+   },
+   "436489073937327740": {
+      "message": "Lähetä Googlelle ylimääräiset lokit, jotka sisältävät jaetut sivut ja luokan jäsenten sähköpostiosoitteet."
+   },
+   "4481147463445876932": {
+      "message": "Luo tehtävä."
+   },
+   "4491595920888170943": {
+      "message": "Tätä sivua ei voi jakaa."
+   },
+   "4622108781632885640": {
+      "message": "Vastaanotettu opettajalta"
+   },
+   "4742705439416933924": {
+      "message": "Liity kurssille ja avaa sivuja yhdessä muiden kanssa."
+   },
+   "4748990655911819545": {
+      "message": "Opetus"
+   },
+   "4811423455816775324": {
+      "message": "$PRODUCT$ on käytössäsi vasta, kun olet kirjautunut Chromeen.\nKirjaudu sisään klikkaamalla tätä.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "4849976898594713883": {
+      "message": "$PRODUCT$ ei saa yhteyttä palvelimiinsa, mikä näyttää johtuvan yhdyskäytävän tai palomuurin asetuksista. Tarkasta palomuurin asetukset ja varmista, että $SERVER$ on sallittu palvelin.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         },
+         "SERVER": {
+            "content": "$2"
+         }
+      }
+   },
+   "48585068921907804": {
+      "message": "Yhdistäminen palveluun $PRODUCT_NAME$ ei onnistu. Kirjaudu ulos tilistäsi ja kirjaudu sitten uudestaan. Jos ongelma ei ratkea, lähetä palautetta klikkaamalla palautekuvaketta.",
+      "placeholders": {
+         "PRODUCT_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "4930506384627295710": {
+      "message": "Asetukset"
+   },
+   "533692309512814645": {
+      "message": "LÄHETÄ"
+   },
+   "5354810546510399127": {
+      "message": "Avaa ohjesivun."
+   },
+   "5560440246965579819": {
+      "message": "Opettajat voivat tarkastella tiedostoa"
+   },
+   "566090020805595985": {
+      "message": "LUO KURSSI"
+   },
+   "5851560788527570644": {
+      "message": "Ilmoitukset"
+   },
+   "5936353814217802658": {
+      "message": "LÄHETÄ OPETTAJALLE"
+   },
+   "6031597996865914480": {
+      "message": "LÄHETÄ"
+   },
+   "6042567254866620046": {
+      "message": "Järjestelmäsi ja $PRODUCT$ eivät ole yhteydessä toisiinsa. Yritä yhteyden muodostamista painamalla Yhdistä-painiketta.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "6084304183859355623": {
+      "message": "Olet kirjautunut sisään sähköpostiosoitteella $EMAIL$. Jatka $START_LINK$kirjautumalla sisään Chromeen$END_LINK$ Google-oppilaitostilillä, jolla on Google Classroomin käyttöoikeudet.",
+      "placeholders": {
+         "EMAIL": {
+            "content": "$1"
+         },
+         "END_LINK": {
+            "content": "$2"
+         },
+         "START_LINK": {
+            "content": "$3"
+         }
+      }
+   },
+   "6110089012347909146": {
+      "message": "ei käytössä"
+   },
+   "6229272560153199861": {
+      "message": "Luo kurssi ja avaa sivuja yhdessä muiden kanssa."
+   },
+   "6422956386741575643": {
+      "message": "Kirjoita lyhyt kuvaus."
+   },
+   "6576961868476783976": {
+      "message": "$PRODUCT$ havaitsi virheen yrittäessään jakaa dokumenttia. Yritä myöhemmin uudelleen.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "6666246860368909334": {
+      "message": " – "
+   },
+   "6731720160639032735": {
+      "message": "Kirjauduttu osoitteella $EMAIL$",
+      "placeholders": {
+         "EMAIL": {
+            "content": "$1"
+         }
+      }
+   },
+   "6802974388288119584": {
+      "message": "Google-palautteen avulla voit lähettää Googlelle tuotteisiin liittyviä ehdotuksia. Otamme mielellämme vastaan ongelmaraportteja, ominaisuusideoita ja yleisiä kommentteja."
+   },
+   "6921620009241719815": {
+      "message": "Siirry edelliselle sivulle."
+   },
+   "7002955679222677443": {
+      "message": "Lisätietoja"
+   },
+   "7014972904425258116": {
+      "message": "Opettajat voivat kommentoida tiedostoa"
+   },
+   "7187802960307973851": {
+      "message": "Et ole vastaanottanut mitään viime aikoina."
+   },
+   "7419648588978430202": {
+      "message": "Ladataan historiaa…"
+   },
+   "7467129818830892099": {
+      "message": "Näytä oppilaat koko näytön tilassa"
+   },
+   "7520798696482451948": {
+      "message": "LIITY KURSSILLE"
+   },
+   "7582805180132294390": {
+      "message": "$PRODUCT$ ei voi muodostaa palvelinyhteyttä. Jos ongelma jatkuu, tarkista internetyhteytesi ja palomuuriasetuksesi ja lähetä palautetta alla olevan palautekuvakkeen avulla.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "7604563725603697690": {
+      "message": "Kuvakaappaus nykyisestä sivusta"
+   },
+   "7613121200569555025": {
+      "message": "$NAME$ lähetti sivun",
+      "placeholders": {
+         "NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "7646520484997880732": {
+      "message": "Avaa Asetukset-sivun"
+   },
+   "7733702880641460982": {
+      "message": "Palautetta Googlelle"
+   },
+   "77478328938908900": {
+      "message": "Sulje varoitusviesti."
+   },
+   "7798244153502527716": {
+      "message": "$PRODUCT$ on käytössäsi vasta, kun olet kirjautunut Chromeen.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "7819314041543176992": {
+      "message": "Sulje"
+   },
+   "7826444313570725162": {
+      "message": "LÄHETETTY"
+   },
+   "784919827997620253": {
+      "message": "Lähetä palautetta."
+   },
+   "7869782771655761788": {
+      "message": "Lähetetty"
+   },
+   "787828271820052473": {
+      "message": "Luo kurssi tai liity kurssille ja avaa sivuja yhdessä muiden kanssa."
+   },
+   "7914587618073030772": {
+      "message": "Jaa Classroomiin (testi)"
+   },
+   "7924019946919704377": {
+      "message": "Kirjaudu Chromeen $START_LINK$klikkaamalla tätä linkkiä$END_LINK$. Kokeile sitten uudestaan palvelun $PRODUCT_NAME$ käyttöä.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "PRODUCT_NAME": {
+            "content": "$2"
+         },
+         "START_LINK": {
+            "content": "$3"
+         }
+      }
+   },
+   "8071009096908772636": {
+      "message": "Näytä selaimen ilmoitus, kun oppilas lähettää minulle verkkosivun"
+   },
+   "8083611296479050044": {
+      "message": "Siirry palautesivulle."
+   },
+   "8107264734060843365": {
+      "message": "If this problem doesn't go away, try restarting your computer. If this problem persists, click the feedback icon below to submit feedback."
+   },
+   "813263746069473514": {
+      "message": "Yhdistä"
+   },
+   "819996403327805209": {
+      "message": "Lisätietoja"
+   },
+   "8250116767525441148": {
+      "message": "$PRODUCT$ ei saa yhteyttä sivustolle $SITE$. Tarkista verkkoyhteytesi ja yritä uudelleen.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         },
+         "SITE": {
+            "content": "$2"
+         }
+      }
+   },
+   "826991190228103925": {
+      "message": "Asetukset"
+   },
+   "8410291800785136487": {
+      "message": "Lähetä oppilaille."
+   },
+   "8427578009205621398": {
+      "message": "$PARTICIPATING$/$TOTAL$ oppilasta",
+      "placeholders": {
+         "PARTICIPATING": {
+            "content": "$1"
+         },
+         "TOTAL": {
+            "content": "$2"
+         }
+      }
+   },
+   "8510084535053903986": {
+      "message": "Opettajat voivat muokata tiedostoa"
+   },
+   "8584185541337081736": {
+      "message": "Jaa tämä laajennus oppilaiden kanssa, jotta he saavat linkkisi.&nbsp;"
+   },
+   "8636360788868898667": {
+      "message": "Pidä koko luokka ajan tasalla samalla (verkko)sivulla."
+   },
+   "8657495129257769609": {
+      "message": "Laitteesi ei vaikuta olevan yhteydessä verkkoon. Tarkista verkkoyhteys ja yritä uudelleen."
+   },
+   "8757637959955680925": {
+      "message": "Palvelun $PRODUCT_NAME$ käyttö edellyttää, että olet kirjautunut Chromeen, etkä ilmeisesti ole nyt kirjautunut sinne.",
+      "placeholders": {
+         "PRODUCT_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "8812061458772284085": {
+      "message": "Kuvaus, tuotetiedot, muut järjestelmätiedot ja sähköpostiosoitteesi lähetetään Googlelle. Tutustu Googlen $START_LINK_1$tietosuojakäytäntöön$END_LINK$ ja $START_LINK_2$käyttöehtoihin$END_LINK$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK_1": {
+            "content": "$2"
+         },
+         "START_LINK_2": {
+            "content": "$3"
+         }
+      }
+   },
+   "8876711157282412092": {
+      "message": "{numLinks,plural, =1{# linkki}other{# linkkiä}}"
+   },
+   "8934950226874423147": {
+      "message": "Opiskelijat voivat muokata tiedostoa"
+   },
+   "9057609174906387434": {
+      "message": "Sivun $PAGE_TITLE$ kuvake",
+      "placeholders": {
+         "PAGE_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "9200475522066047621": {
+      "message": "Ilmoittautumiset"
+   },
+   "9217362152767454370": {
+      "message": "$PRODUCT$ tarvitsee profiilisi käyttöoikeuden.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "99413348305232894": {
+      "message": "Jaa Classroomiin"
+   }
+}

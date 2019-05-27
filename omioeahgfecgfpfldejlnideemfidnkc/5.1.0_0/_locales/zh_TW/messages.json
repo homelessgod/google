@@ -1,0 +1,69 @@
+{
+   "app_description": {
+      "message": "查看 AdSense、Ad Exchange 和 DFP 廣告管理系統的廣告和帳戶資料，並可在您的網站上封鎖不合適的廣告。"
+   },
+   "cs_overlay_date_7day": {
+      "message": "7 天"
+   },
+   "cs_overlay_date_today": {
+      "message": "今天"
+   },
+   "cs_overlay_date_yesterday": {
+      "message": "昨天"
+   },
+   "cs_overlay_size_name": {
+      "message": "大小"
+   },
+   "cs_overlay_type_name": {
+      "message": "類型"
+   },
+   "dfp_creative_id": {
+      "message": "廣告素材：$1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "dfp_no_creative": {
+      "message": "沒有 DFP 廣告素材"
+   },
+   "dfp_unknown_creative": {
+      "message": "未知的廣告素材"
+   },
+   "domains_whitelist_saved": {
+      "message": "授權網站清單已更新。"
+   },
+   "expired_creative": {
+      "message": "我們無法擷取這個廣告素材的資訊，請過幾秒後再嘗試重新載入網頁。"
+   },
+   "expired_line_item": {
+      "message": "我們無法擷取這個委刊項的資訊，請過幾秒後再嘗試重新載入網頁。"
+   },
+   "line_item_adsense_or_adx": {
+      "message": "AdSense 或 Ad Exchange"
+   },
+   "line_item_id": {
+      "message": "委刊項：$1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "line_item_no_ad": {
+      "message": "沒有 DFP 廣告"
+   },
+   "misconfigured_ad_notification_text": {
+      "message": "此網頁包含 \u003Ca href=\"ovnfc\">0\u003C/span> 個設定錯誤的廣告單元，可能會降低您的收益。\u003Ca target=\"_new\" href=\"http://support.google.com/adsense/bin/answer.py?answer=2694805\" class=\"ovnfs\">瞭解詳情\u003C/a>"
+   },
+   "no_results_creative": {
+      "message": "我們找不到這個廣告素材的資訊，您可能沒有相關存取權。"
+   },
+   "no_results_line_item": {
+      "message": "我們找不到這個委刊項的資訊，您可能沒有相關存取權。"
+   },
+   "settings_saved_title": {
+      "message": "已儲存設定"
+   }
+}

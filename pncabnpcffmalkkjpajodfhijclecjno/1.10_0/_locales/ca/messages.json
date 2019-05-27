@@ -1,0 +1,77 @@
+{
+   "close_button": {
+      "message": "Tanca"
+   },
+   "extension_description": {
+      "message": "Password Checkup t'ajuda a restablir la protecció dels comptes que han patit una violació de la seguretat de les dades."
+   },
+   "extension_detailed_description": {
+      "message": "Quan iniciïs la sessió en qualsevol dispositiu, si introdueixes un nom d'usuari i una contrasenya que ja no són segurs a causa d'una violació de la seguretat de les dades de què Google tingui constància, rebràs una alerta. Restableix la contrasenya. Si fas servir el mateix nom d'usuari i contrasenya per a altres comptes, restableix-ne també la contrasenya.\n\nPassword Checkup s'ha creat pensant especialment en la privadesa. No envia informació que identifiqui els comptes, les contrasenyes ni els dispositius. Enviem informació anònima sobre el nombre de cerques que inclouen una credencial que no és segura, si una alerta porta a un canvi de contrasenya, i el domini utilitzat per millorar la cobertura del lloc web. Pots obtenir més informació sobre com funciona Password Checkup a https://support.google.com/accounts?p=password-checkup.\n\nEn instal·lar aquest element, acceptes les condicions del servei de Google i la política de privadesa de www.google.com/policies/."
+   },
+   "extension_name": {
+      "message": "Password Checkup"
+   },
+   "ignore_button": {
+      "message": "Ignora per a aquest lloc web"
+   },
+   "learn_more": {
+      "message": "Més informació"
+   },
+   "popup_advanced_settings_action": {
+      "message": "Configuració avançada"
+   },
+   "popup_default_status_message": {
+      "message": "No s'ha detectat cap de les contrasenyes que has fet servir fa poc en cap violació de la seguretat de les dades"
+   },
+   "popup_ignore_button": {
+      "message": "Ignora"
+   },
+   "popup_ignored_status_message": {
+      "message": "No s'ha detectat cap de les contrasenyes que has fet servir fa poc en cap violació de la seguretat de les dades En aquest grup no s'inclouen les contrasenyes no segures que no has volgut restablir."
+   },
+   "popup_learn_more": {
+      "message": "Més informació"
+   },
+   "popup_multiple_accounts_warning_status_message": {
+      "message": "Password Checkup ha detectat que \u003Cb>$1 comptes\u003C/b> tenen contrasenyes que ja no són segures a causa d'una violació de la seguretat de les dades.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "popup_number_unsafe_accounts": {
+      "message": "Hi ha $1 comptes que no són segurs",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "popup_one_account_warning_status_message": {
+      "message": "Password Checkup ha detectat que \u003Cb>1 compte\u003C/b> té una contrasenya que ja no és segura a causa d'una violació de la seguretat de les dades."
+   },
+   "popup_reset_extension_button": {
+      "message": "Esborra les dades de l'extensió"
+   },
+   "popup_reset_extension_text": {
+      "message": "Esborra totes les dades de l'extensió. Amb aquesta acció se suprimirà tota la informació emmagatzemada sobre contrasenyes no segures i llocs web que s'han ignorat anteriorment."
+   },
+   "popup_warning_action": {
+      "message": "Et recomanem que canviïs ara les contrasenyes."
+   },
+   "reset_text": {
+      "message": "Et recomanem que canviïs ara la contrasenya."
+   },
+   "warning_banner_header": {
+      "message": "Canvia la contrasenya"
+   },
+   "warning_text": {
+      "message": "Password Checkup ha detectat que la contrasenya per a \u003Cb>$1\u003C/b> ja no és segura a causa d'una violació de la seguretat de les dades.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   }
+}

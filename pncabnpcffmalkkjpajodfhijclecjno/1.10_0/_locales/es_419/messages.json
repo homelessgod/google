@@ -1,0 +1,77 @@
+{
+   "close_button": {
+      "message": "Cerrar"
+   },
+   "extension_description": {
+      "message": "Password Checkup te permite proteger cuentas que hayan sufrido un incumplimiento de datos."
+   },
+   "extension_detailed_description": {
+      "message": "Cada vez que accedas, si ingresas un nombre de usuario y contraseña que ya no son seguros debido a que están relacionados con un incumplimiento de datos conocido por Google, recibirás una alerta. Restablece tu contraseña. Si usas el mismo nombre de usuario y contraseña para otras cuentas, restablece tu contraseña también en esas cuentas.\n\nLa \"Verificación de contraseñas\" se diseñó para mantener la privacidad. Nunca envía información sobre tus cuentas, contraseñas o dispositivo que permita identificarte. Sí enviamos información anónima sobre la cantidad de búsquedas que muestran una credencial no segura (ya sea por una alerta que motiva un cambio de contraseña) y el dominio involucrado para mejorar la cobertura del sitio. Puedes obtener más información sobre cómo funciona la \"Verificación de contraseñas\" en https://support.google.com/accounts?p=password-checkup.\n\nSi instalas esta extensión, aceptas las Condiciones del Servicio y la Política de Privacidad de Google que se indican en www.google.com/policies/."
+   },
+   "extension_name": {
+      "message": "Password Checkup"
+   },
+   "ignore_button": {
+      "message": "Ignorar para este sitio"
+   },
+   "learn_more": {
+      "message": "Más información"
+   },
+   "popup_advanced_settings_action": {
+      "message": "Configuración avanzada"
+   },
+   "popup_default_status_message": {
+      "message": "No se detectó ninguna de tus contraseñas recientemente utilizadas en un incumplimiento de datos."
+   },
+   "popup_ignore_button": {
+      "message": "Ignorar"
+   },
+   "popup_ignored_status_message": {
+      "message": "No se detectó ninguna de tus contraseñas recientemente utilizadas en un incumplimiento de datos. Esto no incluye las contraseñas no seguras para las que elegiste ignorar el restablecimiento."
+   },
+   "popup_learn_more": {
+      "message": "Más información"
+   },
+   "popup_multiple_accounts_warning_status_message": {
+      "message": "Password Checkup detectó que las contraseñas de las siguientes \u003Cb>$1 cuentas\u003C/b> ya no son seguras debido a un incumplimiento de datos.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "popup_number_unsafe_accounts": {
+      "message": "$1 cuentas no seguras",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "popup_one_account_warning_status_message": {
+      "message": "Password Checkup detectó que la contraseña de la siguiente \u003Cb>cuenta\u003C/b> ya no es segura debido a un incumplimiento de datos."
+   },
+   "popup_reset_extension_button": {
+      "message": "Borrar datos de extensiones"
+   },
+   "popup_reset_extension_text": {
+      "message": "Borra todos los datos de extensiones. Esta acción quitará toda la información almacenada sobre contraseñas no seguras y sitios ignorados previamente."
+   },
+   "popup_warning_action": {
+      "message": "Cambia tus contraseñas ahora mismo."
+   },
+   "reset_text": {
+      "message": "Cambia tu contraseña ahora mismo."
+   },
+   "warning_banner_header": {
+      "message": "Cambia tu contraseña"
+   },
+   "warning_text": {
+      "message": "Password Checkup detectó que tu contraseña para \u003Cb>$1\u003C/b> ya no es segura debido a un incumplimiento de datos.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   }
+}

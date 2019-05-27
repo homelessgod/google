@@ -1,0 +1,440 @@
+{
+   "101206989909763677": {
+      "message": "Pelajar dalam $CLASS_NAME$",
+      "placeholders": {
+         "CLASS_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "1258929983314547244": {
+      "message": "DIHANTAR KEPADA GURU"
+   },
+   "1301730406464354688": {
+      "message": "Buka Bilik Darjah"
+   },
+   "1462156539679968804": {
+      "message": "Diterima daripada pelajar"
+   },
+   "1472332582476021124": {
+      "message": "Pelajar boleh melihat fail"
+   },
+   "1510105121221276016": {
+      "message": "Kuncikan pada Skrin"
+   },
+   "1550690544509024009": {
+      "message": "{numFlings,plural, =1{# baharu}other{# baharu}}"
+   },
+   "1663150675851578875": {
+      "message": "Kami sedang menghadapi masalah menyambung kepada $PRODUCT_NAME$. Sila pastikan sambungan rangkaian anda tersedia, kemudian cuba menyambung sekali lagi.",
+      "placeholders": {
+         "PRODUCT_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "1758804700969198023": {
+      "message": "Menu Kongsi"
+   },
+   "1790549872641667595": {
+      "message": "Kongsi ke Bilik Darjah (Pemeringkatan)"
+   },
+   "1951089763019042037": {
+      "message": "Pelajar"
+   },
+   "2050089326602918210": {
+      "message": "Kongsi ke Bilik Darjah"
+   },
+   "2062938386395101624": {
+      "message": "Dihantar kepada pelajar"
+   },
+   "2070581630224025695": {
+      "message": "Buat pengumuman"
+   },
+   "2090147790320018555": {
+      "message": "Anda belum menghantar apa-apa baru-baru ini."
+   },
+   "2213990758451550370": {
+      "message": "Pelajar boleh mengulas pada fail"
+   },
+   "2266749875018591275": {
+      "message": "Sambungan \"$PRODUCT_NAME$\" anda telah lapuk. Untuk meneruskan, klik untuk $START_LINK$menyahpasang sambungan ini$END_LINK$. Langkah ini akan turut membuka halaman Gedung Web Chrome yang membolehkan sambungan dipasang semula.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "PRODUCT_NAME": {
+            "content": "$2"
+         },
+         "START_LINK": {
+            "content": "$3"
+         }
+      }
+   },
+   "2315140680766681153": {
+      "message": "Tiada pelajar untuk dipaparkan."
+   },
+   "2409870568039115310": {
+      "message": "HANTAR KEPADA GURU"
+   },
+   "2416435327104074837": {
+      "message": "Dihantar kepada guru"
+   },
+   "265018083235803821": {
+      "message": "Menu Kebenaran"
+   },
+   "272253201636921624": {
+      "message": "Menghantar"
+   },
+   "3208531239543188174": {
+      "message": "Dibuka dalam masa {numSeconds,plural, =1{1 saat}other{# saat}}..."
+   },
+   "3727581148109420602": {
+      "message": "Buka dalam tab baharu"
+   },
+   "3852289441366561594": {
+      "message": "Menyambung..."
+   },
+   "3853169172456108967": {
+      "message": "BUAT ATAU SERTAI KELAS"
+   },
+   "3894950702316166331": {
+      "message": "Memuatkan…"
+   },
+   "4012779869104225222": {
+      "message": "Senarai Kelas"
+   },
+   "4048890404505834885": {
+      "message": "Tanya soalan"
+   },
+   "4101941266124151376": {
+      "message": "pada"
+   },
+   "4221250166827447984": {
+      "message": "Melihat $TITLE$",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "4269658859113770197": {
+      "message": "Memuatkan kelas anda..."
+   },
+   "436489073937327740": {
+      "message": "Hantar log tambahan kepada Google, yang mengandungi halaman yang dikongsi dan alamat e-mel untuk ahli kelas anda."
+   },
+   "4481147463445876932": {
+      "message": "Buat tugasan"
+   },
+   "4491595920888170943": {
+      "message": "Halaman semasa tidak dapat dikongsi."
+   },
+   "4622108781632885640": {
+      "message": "Diterima daripada guru"
+   },
+   "4742705439416933924": {
+      "message": "Sertai kelas untuk membuka muka HALAMAN bersama-sama"
+   },
+   "4748990655911819545": {
+      "message": "Mengajar"
+   },
+   "4811423455816775324": {
+      "message": "Anda mesti log masuk ke Chrome untuk menggunakan $PRODUCT$.\nKlik di sini untuk log masuk.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "4849976898594713883": {
+      "message": "$PRODUCT$ menghadapi masalah menyambung ke pelayannya dan nampaknya masalah ini berpunca daripada konfigurasi get laluan atau tembok api. Sila semak tetapan tembok api anda dan pastikan tetapan itu dikonfigurasikan untuk membenarkan trafik dengan $SERVER$.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         },
+         "SERVER": {
+            "content": "$2"
+         }
+      }
+   },
+   "48585068921907804": {
+      "message": "Kami menghadapi masalah menyambung kepada $PRODUCT_NAME$ . Sila cuba log keluar daripada akaun anda dan kemudian log masuk sekali lagi. Jika masalah ini berterusan, klik ikon maklum balas di bawah untuk mengemukakan maklum balas.",
+      "placeholders": {
+         "PRODUCT_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "4930506384627295710": {
+      "message": "Tetapan"
+   },
+   "533692309512814645": {
+      "message": "HANTAR"
+   },
+   "5354810546510399127": {
+      "message": "Membuka Halaman Bantuan"
+   },
+   "5560440246965579819": {
+      "message": "Guru boleh melihat fail"
+   },
+   "566090020805595985": {
+      "message": "BUAT KELAS"
+   },
+   "5851560788527570644": {
+      "message": "Pemberitahuan"
+   },
+   "5936353814217802658": {
+      "message": "HANTAR KEPADA GURU"
+   },
+   "6031597996865914480": {
+      "message": "HANTAR"
+   },
+   "6042567254866620046": {
+      "message": "Sistem ini tidak disambungkan kepada $PRODUCT$. Sila tekan butang sambung untuk cuba menyambung.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "6084304183859355623": {
+      "message": "Anda telah log masuk sebagai $EMAIL$. Untuk meneruskan, $START_LINK$daftar masuk ke Chrome$END_LINK$ menggunakan akaun sekolah Google yang mempunyai akses kepada Bilik Darjah Google.",
+      "placeholders": {
+         "EMAIL": {
+            "content": "$1"
+         },
+         "END_LINK": {
+            "content": "$2"
+         },
+         "START_LINK": {
+            "content": "$3"
+         }
+      }
+   },
+   "6110089012347909146": {
+      "message": "mati"
+   },
+   "6229272560153199861": {
+      "message": "Buat kelas untuk membuka halaman bersama-sama"
+   },
+   "6422956386741575643": {
+      "message": "Masukkan huraian ringkas"
+   },
+   "6576961868476783976": {
+      "message": "$PRODUCT$ mengalami ralat semasa cuba berkongsi dokumen. Sila cuba sebentar lagi.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "6666246860368909334": {
+      "message": " – "
+   },
+   "6731720160639032735": {
+      "message": "Dilog masuk sebagai $EMAIL$",
+      "placeholders": {
+         "EMAIL": {
+            "content": "$1"
+         }
+      }
+   },
+   "6802974388288119584": {
+      "message": "Google Feedback membolehkan anda menghantar cadangan kepada Google mengenai produk kami. Kami mengalu-alukan laporan masalah, idea ciri dan ulasan umum."
+   },
+   "6921620009241719815": {
+      "message": "Pergi Ke Halaman Sebelumnya"
+   },
+   "7002955679222677443": {
+      "message": "Ketahui Lebih Lanjut"
+   },
+   "7014972904425258116": {
+      "message": "Guru boleh mengulas pada fail"
+   },
+   "7187802960307973851": {
+      "message": "Anda belum menerima apa-apa baru-baru ini."
+   },
+   "7419648588978430202": {
+      "message": "Memuatkan sejarah anda..."
+   },
+   "7467129818830892099": {
+      "message": "Pelajar pada halaman skrin penuh"
+   },
+   "7520798696482451948": {
+      "message": "SERTAI KELAS?"
+   },
+   "7582805180132294390": {
+      "message": "$PRODUCT$ menghadapi masalah menyambung ke pelayannya. Jika masalah ini berterusan, periksa tetapan sambungan Internet & tembok api anda dan hantar maklum balas menggunakan ikon maklum balas di bawah.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "7604563725603697690": {
+      "message": "Tangkapan skrin halaman semasa anda."
+   },
+   "7613121200569555025": {
+      "message": "$NAME$ telah menghantar halaman",
+      "placeholders": {
+         "NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "7646520484997880732": {
+      "message": "Membuka Halaman Tetapan"
+   },
+   "7733702880641460982": {
+      "message": "Google Maklum Balas"
+   },
+   "77478328938908900": {
+      "message": "Tutup Mesej Amaran"
+   },
+   "7798244153502527716": {
+      "message": "Anda mesti log masuk ke Chrome untuk menggunakan $PRODUCT$.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "7819314041543176992": {
+      "message": "Tutup"
+   },
+   "7826444313570725162": {
+      "message": "DIHANTAR"
+   },
+   "784919827997620253": {
+      "message": "Serah Maklum Balas"
+   },
+   "7869782771655761788": {
+      "message": "Dihantar"
+   },
+   "787828271820052473": {
+      "message": "Buat atau sertai kelas untuk membuka halaman bersama-sama"
+   },
+   "7914587618073030772": {
+      "message": "Kongsi ke Bilik Darjah (Ujian)"
+   },
+   "7924019946919704377": {
+      "message": "$START_LINK$Klik di sini$END_LINK$ untuk melog masuk ke Chrome dan kemudian cuba $PRODUCT_NAME$ sekali lagi.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "PRODUCT_NAME": {
+            "content": "$2"
+         },
+         "START_LINK": {
+            "content": "$3"
+         }
+      }
+   },
+   "8071009096908772636": {
+      "message": "Tunjukkan pemberitahuan penyemak imbas apabila pelajar menolak halaman web kepada saya"
+   },
+   "8083611296479050044": {
+      "message": "Pergi Ke Halaman Maklum Balas"
+   },
+   "8107264734060843365": {
+      "message": "If this problem doesn't go away, try restarting your computer. If this problem persists, click the feedback icon below to submit feedback."
+   },
+   "813263746069473514": {
+      "message": "Sambung"
+   },
+   "819996403327805209": {
+      "message": "Ketahui lebih lanjut"
+   },
+   "8250116767525441148": {
+      "message": "$PRODUCT$ tidak dapat menyambung kepada $SITE$. Sila sahkan sambungan internet anda dan cuba sekali lagi.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         },
+         "SITE": {
+            "content": "$2"
+         }
+      }
+   },
+   "826991190228103925": {
+      "message": "Tetapan"
+   },
+   "8410291800785136487": {
+      "message": "Hantar kepada pelajar"
+   },
+   "8427578009205621398": {
+      "message": "$PARTICIPATING$/$TOTAL$ pelajar",
+      "placeholders": {
+         "PARTICIPATING": {
+            "content": "$1"
+         },
+         "TOTAL": {
+            "content": "$2"
+         }
+      }
+   },
+   "8510084535053903986": {
+      "message": "Guru boleh mengedit fail"
+   },
+   "8584185541337081736": {
+      "message": "Kongsi sambungan ini dengan para pelajar anda supaya mereka menerima pautan anda.&nbsp;"
+   },
+   "8636360788868898667": {
+      "message": "Sediakan kelas anda pada halaman (web) yang sama, dengan segera."
+   },
+   "8657495129257769609": {
+      "message": "Kelihatannya mesin anda tidak disambungkan kepada internet. Sila periksa sambungan anda dan cuba sekali lagi."
+   },
+   "8757637959955680925": {
+      "message": "$PRODUCT_NAME$ memerlukan anda untuk log masuk ke Chrome dan anda kelihatannya belum melakukannya.",
+      "placeholders": {
+         "PRODUCT_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "8812061458772284085": {
+      "message": "Penerangan, maklumat produk, maklumat sistem tambahan dan alamat e-mel anda akan dihantar kepada Google. Lihat $START_LINK_1$Dasar Privasi$END_LINK$ dan $START_LINK_2$Terma Perkhidmatan$END_LINK$ Google.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK_1": {
+            "content": "$2"
+         },
+         "START_LINK_2": {
+            "content": "$3"
+         }
+      }
+   },
+   "8876711157282412092": {
+      "message": "{numLinks,plural, =1{# pautan}other{# pautan}}"
+   },
+   "8934950226874423147": {
+      "message": "Pelajar boleh mengedit fail"
+   },
+   "9057609174906387434": {
+      "message": "Ikon $PAGE_TITLE$.",
+      "placeholders": {
+         "PAGE_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "9200475522066047621": {
+      "message": "Berdaftar"
+   },
+   "9217362152767454370": {
+      "message": "$PRODUCT$ memerlukan kebenaran untuk mengakses profil anda.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "99413348305232894": {
+      "message": "Kongsi ke Bilik Darjah"
+   }
+}

@@ -1,0 +1,440 @@
+{
+   "101206989909763677": {
+      "message": "Students in $CLASS_NAME$",
+      "placeholders": {
+         "CLASS_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "1258929983314547244": {
+      "message": "PUSHED TO TEACHER"
+   },
+   "1301730406464354688": {
+      "message": "Open Classroom"
+   },
+   "1462156539679968804": {
+      "message": "Received from students"
+   },
+   "1472332582476021124": {
+      "message": "Students can view file"
+   },
+   "1510105121221276016": {
+      "message": "Lock to screen"
+   },
+   "1550690544509024009": {
+      "message": "{numFlings,plural, =1{# new}other{# new}}"
+   },
+   "1663150675851578875": {
+      "message": "We're having trouble connecting to $PRODUCT_NAME$. Please make sure that your network connection is available, then try connecting again.",
+      "placeholders": {
+         "PRODUCT_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "1758804700969198023": {
+      "message": "Share menu"
+   },
+   "1790549872641667595": {
+      "message": "Share to Classroom (Staging)"
+   },
+   "1951089763019042037": {
+      "message": "Student"
+   },
+   "2050089326602918210": {
+      "message": "Share to Classroom"
+   },
+   "2062938386395101624": {
+      "message": "Pushed to students"
+   },
+   "2070581630224025695": {
+      "message": "Make announcement"
+   },
+   "2090147790320018555": {
+      "message": "You haven't pushed anything recently."
+   },
+   "2213990758451550370": {
+      "message": "Students can comment on file"
+   },
+   "2266749875018591275": {
+      "message": "Your \"$PRODUCT_NAME$\" extension is out of date. To continue, click to $START_LINK$uninstall this extension$END_LINK$. This will also open the Chrome Web Store page, where the extension can be reinstalled.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "PRODUCT_NAME": {
+            "content": "$2"
+         },
+         "START_LINK": {
+            "content": "$3"
+         }
+      }
+   },
+   "2315140680766681153": {
+      "message": "There are no students to be displayed."
+   },
+   "2409870568039115310": {
+      "message": "PUSH TO TEACHER"
+   },
+   "2416435327104074837": {
+      "message": "Pushed to teacher"
+   },
+   "265018083235803821": {
+      "message": "Permissions Menu"
+   },
+   "272253201636921624": {
+      "message": "Pushing"
+   },
+   "3208531239543188174": {
+      "message": "Opening in {numSeconds,plural, =1{1 second}other{# seconds}}..."
+   },
+   "3727581148109420602": {
+      "message": "Open in a new tab"
+   },
+   "3852289441366561594": {
+      "message": "Connecting..."
+   },
+   "3853169172456108967": {
+      "message": "CREATE OR JOIN CLASS"
+   },
+   "3894950702316166331": {
+      "message": "Loading..."
+   },
+   "4012779869104225222": {
+      "message": "List of classes"
+   },
+   "4048890404505834885": {
+      "message": "Ask question"
+   },
+   "4101941266124151376": {
+      "message": "on"
+   },
+   "4221250166827447984": {
+      "message": "Viewing $TITLE$",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "4269658859113770197": {
+      "message": "Loading your classes..."
+   },
+   "436489073937327740": {
+      "message": "Send additional logs to Google, which contain the pages shared and email addresses for members of your class."
+   },
+   "4481147463445876932": {
+      "message": "Create assignment"
+   },
+   "4491595920888170943": {
+      "message": "The current page cannot be shared."
+   },
+   "4622108781632885640": {
+      "message": "Received from teacher"
+   },
+   "4742705439416933924": {
+      "message": "Join a class to open pages together"
+   },
+   "4748990655911819545": {
+      "message": "Teaching"
+   },
+   "4811423455816775324": {
+      "message": "You must be signed in to Chrome to use $PRODUCT$.\nClick here to sign in.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "4849976898594713883": {
+      "message": "$PRODUCT$ is having trouble with connecting to its servers. This appears to be due to the configuration of a gateway or firewall. Please check your firewall settings, and make sure that they are configured to allow traffic with $SERVER$.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         },
+         "SERVER": {
+            "content": "$2"
+         }
+      }
+   },
+   "48585068921907804": {
+      "message": "We're having trouble connecting to $PRODUCT_NAME$. Please try signing out of your account and then signing in again. If this problem persists, click the Feedback icon below to submit feedback.",
+      "placeholders": {
+         "PRODUCT_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "4930506384627295710": {
+      "message": "Settings"
+   },
+   "533692309512814645": {
+      "message": "PUSH"
+   },
+   "5354810546510399127": {
+      "message": "Opens Help page"
+   },
+   "5560440246965579819": {
+      "message": "Teachers can view file"
+   },
+   "566090020805595985": {
+      "message": "CREATE CLASS"
+   },
+   "5851560788527570644": {
+      "message": "Notifications"
+   },
+   "5936353814217802658": {
+      "message": "PUSH TO TEACHER"
+   },
+   "6031597996865914480": {
+      "message": "PUSH"
+   },
+   "6042567254866620046": {
+      "message": "This system is not connected to $PRODUCT$. Please press the connect button to try to connect.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "6084304183859355623": {
+      "message": "You are signed in as $EMAIL$. To continue, $START_LINK$sign in to Chrome$END_LINK$ with a Google school or university account that has access to Google Classroom.",
+      "placeholders": {
+         "EMAIL": {
+            "content": "$1"
+         },
+         "END_LINK": {
+            "content": "$2"
+         },
+         "START_LINK": {
+            "content": "$3"
+         }
+      }
+   },
+   "6110089012347909146": {
+      "message": "off"
+   },
+   "6229272560153199861": {
+      "message": "Create a class to open pages together"
+   },
+   "6422956386741575643": {
+      "message": "Enter a brief description"
+   },
+   "6576961868476783976": {
+      "message": "$PRODUCT$ encountered an error while attempting to share the document. Please try again later.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "6666246860368909334": {
+      "message": " – "
+   },
+   "6731720160639032735": {
+      "message": "Signed in as $EMAIL$",
+      "placeholders": {
+         "EMAIL": {
+            "content": "$1"
+         }
+      }
+   },
+   "6802974388288119584": {
+      "message": "Google Feedback lets you send Google suggestions about our products. We welcome problem reports, feature ideas and general comments."
+   },
+   "6921620009241719815": {
+      "message": "Go to previous page"
+   },
+   "7002955679222677443": {
+      "message": "Learn more"
+   },
+   "7014972904425258116": {
+      "message": "Teachers can comment on file"
+   },
+   "7187802960307973851": {
+      "message": "You haven't received anything recently."
+   },
+   "7419648588978430202": {
+      "message": "Loading your history..."
+   },
+   "7467129818830892099": {
+      "message": "Students on full-screen page"
+   },
+   "7520798696482451948": {
+      "message": "JOIN CLASS"
+   },
+   "7582805180132294390": {
+      "message": "$PRODUCT$ is having trouble connecting to its servers. If this issue persists, check your Internet connection & firewall settings, and send feedback using the Feedback icon below.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "7604563725603697690": {
+      "message": "Screenshot of your current page."
+   },
+   "7613121200569555025": {
+      "message": "$NAME$ sent a page",
+      "placeholders": {
+         "NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "7646520484997880732": {
+      "message": "Opens Settings Page"
+   },
+   "7733702880641460982": {
+      "message": "Google Feedback"
+   },
+   "77478328938908900": {
+      "message": "Close warning message"
+   },
+   "7798244153502527716": {
+      "message": "You must be signed in to Chrome to use $PRODUCT$.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "7819314041543176992": {
+      "message": "Close"
+   },
+   "7826444313570725162": {
+      "message": "PUSHED"
+   },
+   "784919827997620253": {
+      "message": "Submit feedback"
+   },
+   "7869782771655761788": {
+      "message": "Pushed"
+   },
+   "787828271820052473": {
+      "message": "Create or join a class to open pages together"
+   },
+   "7914587618073030772": {
+      "message": "Share to Classroom (Test)"
+   },
+   "7924019946919704377": {
+      "message": "$START_LINK$Click here$END_LINK$ to sign in to Chrome, and then try $PRODUCT_NAME$ again.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "PRODUCT_NAME": {
+            "content": "$2"
+         },
+         "START_LINK": {
+            "content": "$3"
+         }
+      }
+   },
+   "8071009096908772636": {
+      "message": "Show browser notifications when students push web pages to me"
+   },
+   "8083611296479050044": {
+      "message": "Go to feedback page"
+   },
+   "8107264734060843365": {
+      "message": "If this problem doesn't go away, try restarting your computer. If this problem persists, click the feedback icon below to submit feedback."
+   },
+   "813263746069473514": {
+      "message": "Connect"
+   },
+   "819996403327805209": {
+      "message": "Learn more"
+   },
+   "8250116767525441148": {
+      "message": "$PRODUCT$ couldn't connect to $SITE$. Please verify your Internet connection and try again.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         },
+         "SITE": {
+            "content": "$2"
+         }
+      }
+   },
+   "826991190228103925": {
+      "message": "Settings"
+   },
+   "8410291800785136487": {
+      "message": "Push to students"
+   },
+   "8427578009205621398": {
+      "message": "$PARTICIPATING$/$TOTAL$ students",
+      "placeholders": {
+         "PARTICIPATING": {
+            "content": "$1"
+         },
+         "TOTAL": {
+            "content": "$2"
+         }
+      }
+   },
+   "8510084535053903986": {
+      "message": "Teachers can edit file"
+   },
+   "8584185541337081736": {
+      "message": "Share this extension with your students so that they receive your links.&nbsp;"
+   },
+   "8636360788868898667": {
+      "message": "Get your class on the same (web) page, instantly."
+   },
+   "8657495129257769609": {
+      "message": "It appears that your machine is not connected to the Internet. Please check your connection and try again."
+   },
+   "8757637959955680925": {
+      "message": "$PRODUCT_NAME$ needs you to be signed in to Chrome, and it doesn't appear that you are.",
+      "placeholders": {
+         "PRODUCT_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "8812061458772284085": {
+      "message": "The description, product information, additional systems information and your email address will be sent to Google. See Google's $START_LINK_1$Privacy Policy$END_LINK$ and $START_LINK_2$Terms of Service$END_LINK$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK_1": {
+            "content": "$2"
+         },
+         "START_LINK_2": {
+            "content": "$3"
+         }
+      }
+   },
+   "8876711157282412092": {
+      "message": "{numLinks,plural, =1{# link}other{# links}}"
+   },
+   "8934950226874423147": {
+      "message": "Students can edit file"
+   },
+   "9057609174906387434": {
+      "message": "$PAGE_TITLE$ icon.",
+      "placeholders": {
+         "PAGE_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "9200475522066047621": {
+      "message": "Enrolled"
+   },
+   "9217362152767454370": {
+      "message": "$PRODUCT$ requires permission to access your profile.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "99413348305232894": {
+      "message": "Share to Classroom"
+   }
+}

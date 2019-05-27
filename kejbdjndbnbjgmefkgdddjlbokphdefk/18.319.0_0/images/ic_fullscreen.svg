@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<symbol  id="ic_x5F_fullscreen_x5F_flat" viewBox="0 -24 24 24">
+<path d="M5-11h2v4h4v2H5V-11z M7-13H5v-6h6v2H7V-13z M13-5v-2h4v-4h2v6H13z M17-17h-4v-2h6v6h-2V-17z"/>
+<polygon fill="none" points="24,-24 0,-24 0,0 24,0  "/>
+</symbol>
+<use xlink:href="#ic_x5F_fullscreen_x5F_flat"  width="24" height="24" id="XMLID_51_" y="-24" transform="matrix(1 0 0 -1 0 0)" overflow="visible"/>
+</svg>

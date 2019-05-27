@@ -1,0 +1,69 @@
+{
+   "app_description": {
+      "message": "Преглеждайте данни за рекламите и профилите си в AdSense, Ad Exchange и DFP и блокирайте неподходящи реклами от сайта си."
+   },
+   "cs_overlay_date_7day": {
+      "message": "7 дни"
+   },
+   "cs_overlay_date_today": {
+      "message": "Днес"
+   },
+   "cs_overlay_date_yesterday": {
+      "message": "Вчера"
+   },
+   "cs_overlay_size_name": {
+      "message": "Размер"
+   },
+   "cs_overlay_type_name": {
+      "message": "Тип"
+   },
+   "dfp_creative_id": {
+      "message": "Рекламно послание: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "dfp_no_creative": {
+      "message": "Няма рекламно послание в DFP"
+   },
+   "dfp_unknown_creative": {
+      "message": "Неизвестно рекламно послание"
+   },
+   "domains_whitelist_saved": {
+      "message": "Списъкът с упълномощени сайтове бе актуализиран."
+   },
+   "expired_creative": {
+      "message": "Не можахме да извлечем информацията за това рекламно послание. Моля, изчакайте няколко секунди и след това опитайте да презаредите страницата."
+   },
+   "expired_line_item": {
+      "message": "Не можахме да извлечем информацията за тази договорена покупка. Моля, изчакайте няколко секунди и след това опитайте да презаредите страницата."
+   },
+   "line_item_adsense_or_adx": {
+      "message": "AdSense или Ad Exchange"
+   },
+   "line_item_id": {
+      "message": "Договорена покупка: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "line_item_no_ad": {
+      "message": "Няма реклама в DFP"
+   },
+   "misconfigured_ad_notification_text": {
+      "message": "Тази страница съдържа \u003Ca href=\"ovnfc\">0\u003C/span> неправилно конфигурирани рекламни елемента. Това може да се отрази отрицателно на приходите Ви. \u003Ca target=\"_new\" href=\"http://support.google.com/adsense/bin/answer.py?answer=2694805\" class=\"ovnfs\">Научете повече\u003C/a>"
+   },
+   "no_results_creative": {
+      "message": "Не можахме да намерим информацията за това рекламно послание. Възможно е да нямате достъп до него."
+   },
+   "no_results_line_item": {
+      "message": "Не можахме да намерим информацията за тази договорена покупка. Възможно е да нямате достъп до нея."
+   },
+   "settings_saved_title": {
+      "message": "Настройките бяха запазени"
+   }
+}

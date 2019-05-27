@@ -1,0 +1,212 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <link rel="stylesheet" href="options_min.css" />
+    <title>Options for the Google Tag Assistant Extension</title>
+  </head>
+  <body>
+    <div id="options-header">
+      <div class="options-header-text">
+        <span>Tag Assistant by</span>
+        <img class="google-icon" src="images/google_icon_dark.svg" alt="Google_icon">
+      </div>
+    </div>
+    <div id="status" class="status-hidden"></div>
+    <div class="options-appbar">
+      <div class="goog-inline-block jfk-button jfk-button-standard" id="reset">
+        Reset to default
+      </div>
+      <div class="goog-inline-block jfk-button jfk-button-standard"
+           id="list-checks">
+        List checks
+      </div>
+      <div role="button" id="back"
+           class="goog-inline-block jfk-button jfk-button-standard jfk-button-img"
+           style="-webkit-user-select: none; display:none">
+        <div class="goog-inline-block img-back">Back</div>
+      </div>
+    </div>
+    <div id="options-title">Options</div>
+    <div id="options-list">
+      <div class="options-section">
+        <div class="options-section-header options-description-title">
+          Global options
+        </div>
+        <div class="options-controls">
+          <form>
+            <div id="validate-all-pages"></div>
+            <input type="checkbox"
+                   name="IgnoreExternalScripts"
+                   id="IgnoreExternalScripts">
+            <span class="options-category">Ignore external scripts</span>
+            <br>
+          </form>
+          <form id="debugging-controls"></form>
+          <form id="enable-logging" style="display: none">
+            <input type="checkbox" name="LoggingEnabled" id="LoggingEnabled">
+            <span class="options-category">Enable Logging</span>
+          </form>
+          <form>
+            <input type="checkbox" name="FollowLinksAcrossTabs" id="FollowLinksAcrossTabs">
+            <span class="options-category">Recording: Follow Links Across Tabs</span>
+          </form>
+          <form>
+            <input type="checkbox" name="AutoOpenRecordings" id="AutoOpenRecordings">
+            <span class="options-category">Auto open recordings report when recording is stopped.
+            </span>
+          </form>
+          <form id="DisableNgModeDiv" style="display:none">
+            <input type="checkbox" name="DisableNgMode" id="DisableNgMode">
+            <span class="options-category">Switch to old interface</span>
+          </form>
+        </div>
+        <div class="options-help">
+          <dl>
+            <dt class="options-description-title">Parsing external scripts</dt>
+            <dd>
+              The extension will analyze scripts loaded from this page for any
+              tags in the background. It may take more than 10 seconds for the
+              results to show up.
+            </dd>
+          </dl>
+        </div>
+      </div>
+      <div id="permissions-check" class="options-section" style="display:none">
+        <div class="options-section-header options-description-title">
+          Additional permissions requested
+        </div>
+        <form class="options-controls" id="permissions-controls">
+          <div class="permissions-check-buttons">
+            <div role="button" id="permissions-check-button"
+                 class="goog-inline-block jfk-button jfk-button-action">
+              Allow
+            </div>
+          </div>
+          <div class="permissions-check-message">
+            Check if other extensions are blocking tags
+          </div>
+        </form>
+        <div class="options-help">
+          <dl>
+            <dt class="options-description-title">Extension checking</dt>
+            <dd>
+              Some extensions may block tags, in which case the Tag Assistant
+              will show an error. With granting Tag Assistant access it will
+              check for know extensions and flag them in the popup.
+            </dd>
+          </dl>
+        </div>
+      </div>
+      <div class="options-section">
+        <div class="options-section-header options-description-title">Level of Detail</div>
+        <form class="options-controls" id="categories-controls">
+          <div id="categories"></div>
+        </form>
+        <div class="options-help">
+          <dl>
+            <dt class="options-description-title">Basic Information</dt>
+            <dd>
+              This covers ID's and other important information as well as errors,
+              warnings and suggestions.
+            </dd>
+            <dt class="options-description-title">Detailed Information</dt>
+            <dd>
+              Some tags provide additional information that may be useful for
+              debugging.
+            </dd>
+          </dl>
+        </div>
+      </div>
+      <div class="options-section">
+        <div class="options-section-header options-description-title">
+          Advanced Options
+        </div>
+        <div class="options-controls" id="advanced-controls">
+          <form>
+            <div class="goog-inline-block jfk-button jfk-button-standard"
+                 id="link-google-analytics">
+              Get Google Analytics Accounts
+            </div>
+            <div class="goog-inline-block jfk-button jfk-button-standard"
+                 id="logout"  style="display:none;">
+              Logout
+            </div>
+            <div id="analytics-accounts"></div>
+          </form>
+          <div id="options-gta-pages"></div>
+        </div>
+        <div class="options-help">
+          <dl>
+            <dt class="options-description-title">
+              Linking to Google Analytics
+            </dt>
+            <dd>
+              Get the accounts IDs from Google Analytics to enable direct
+              links into the Google Analytics Frontend for the accounts you
+              are managing. This can also be used to restrict the tag
+              analysis to only those domains.
+            </dd>
+          </dl>
+        </div>
+      </div>
+
+      <!--Logging options-->
+      <div class="options-section" id="logging-controls" style="display:none">
+        <div class="options-section-header options-description-title">
+          Logging Options
+        </div>
+        <div class="options-controls">
+          <div>
+            <dl>
+              <dt class="options-description-title">Log info template:</dt>
+              <dd>
+                <input type="text" id="log-info-template"
+                       placeholder="%timestamp|[TabId: %tabId]|[%source]|[%url]">
+              </dd>
+            </dl>
+          </div>
+          <div id="log-sources"></div>
+        </div>
+        <div class="options-help">
+          <dl>
+            <dt class="options-description-title">
+              Log Template
+            </dt>
+            <dd>
+              Specify the details you would like to be printed in log
+              messages. Split each token using '|' delimiter ('|' will be
+              replaced with ' ' when message is printed to console.).
+              Use '%' to specify special values that should be looked upon in
+              'templateData' parameter of log function. Below values have
+              special meaning:
+              <ul>
+                <li>%timestamp: Prints the current time stamp.</li>
+                <li>%tabid: Tab ID.</li>
+                <li>%source: Request source (Popup/Content Script/Background Page)</li>
+              </ul>
+            </dd>
+          </dl>
+          <dl>
+            <dt class="options-description-title">Log Source</dt>
+            <dd>Select source/s for which logs should be captured.</dd>
+          </dl>
+        </div>
+      </div>
+      <!--End Logging options-->
+
+    </div>
+    <div id="checksTable" style="display:none;">
+      <div id="checksControls"></div>
+      <div class="options-section">
+        <div id="templates" class="options-templates"></div>
+      </div>
+    </div>
+
+    <div class="reset-storage" style="display: none;">
+      <a href="#">Reset to welcome screen (only available in the internal version)</a>
+    </div>
+    <hr>
+    <div>Version: <span id="version"></span>  <span id="internal"></span></div>
+    <script src="options_compiled.js"></script>
+  </body>
+</html>

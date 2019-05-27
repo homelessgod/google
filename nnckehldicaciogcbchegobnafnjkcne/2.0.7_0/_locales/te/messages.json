@@ -1,0 +1,126 @@
+{
+   "before_trying_again": {
+      "description": "Error resolution tip in error pages.",
+      "message": "మీరు మళ్లీ ప్రయత్నించడానికి ముందు:"
+   },
+   "browser_action_title": {
+      "description": "Browser action title that shows up on hover.",
+      "message": "ఈ URLను ప్రసారం చేయండి"
+   },
+   "context_menu_disable": {
+      "description": "Label of the context menu item that disables Tone.",
+      "message": "టోన్‌ను నిలిపివేయి"
+   },
+   "context_menu_enable": {
+      "description": "Label of the context menu item that enables Tone.",
+      "message": "టోన్‌ను ప్రారంభించు"
+   },
+   "description": {
+      "description": "Extension description.",
+      "message": "ఏ URLను అయినా వినబడేంత దూరంలో ఉన్న కంప్యూటర్‌లకు ప్రసారం చేస్తుంది."
+   },
+   "ensure_online": {
+      "description": "Network workaround.",
+      "message": "మీ కంప్యూటర్‌కు ఇంటర్నెట్ కనెక్షన్ ఉన్నట్లు నిర్ధారించుకోండి."
+   },
+   "error_audio_title": {
+      "description": "Title of the error_audio.html page.",
+      "message": "Google టోన్ దాన్ని వినలేకపోయింది."
+   },
+   "error_network_title": {
+      "description": "Title of error_network.html page.",
+      "message": "దురదృష్టవశాత్తూ, అది పని చేయలేదు."
+   },
+   "increase_volume": {
+      "description": "Audio workaround #1",
+      "message": "మీ వాల్యూమ్ పెంచండి."
+   },
+   "invite_others": {
+      "description": "Press the button to try it.",
+      "message": "Google టోన్‌ను ఉపయోగించమని ఇతరులను ఆహ్వానించండి: {{shortlink}}"
+   },
+   "name": {
+      "description": "Extension name.",
+      "message": "Google టోన్"
+   },
+   "notification_receive_message_format": {
+      "description": "Notification message when you receive a Tone.",
+      "message": "{{domain}} నుండి అందించబడిన '{{title}}' తెరవడానికి క్లిక్ చేయండి"
+   },
+   "notification_receive_test_page_message": {
+      "description": "Notification message sent from Tone test page.",
+      "message": "టోన్ ప్రయత్నించడానికి క్లిక్ చేయండి!"
+   },
+   "notification_receive_title_format": {
+      "description": "Notification title when you receive a Tone.",
+      "message": "{{username}} నుండి అందించబడిన URL!"
+   },
+   "notification_send_fail_audio_message": {
+      "description": "Notification title shown when audio verification fails.",
+      "message": "మీ వాల్యూమ్ సరిచూసి, ఆపై మళ్లీ ప్రయత్నించండి.\nమరింత సమాచారం కోసం క్లిక్ చేయండి."
+   },
+   "notification_send_fail_audio_title": {
+      "description": "Notification title shown when audio verification fails.",
+      "message": "టోన్ దాని శబ్దాన్ని అదే వినలేకపోయింది"
+   },
+   "notification_send_fail_network_message": {
+      "description": "Notification message shown when a Tone was attempted but the network was offline.",
+      "message": "మీరు ఆఫ్‌లైన్‌లో ఉన్నట్లున్నారు.\nమరింత సమాచారం కోసం క్లిక్ చేయండి."
+   },
+   "notification_send_fail_network_title": {
+      "description": "Notification title shown when a Tone was attempted but the network was offline.",
+      "message": "URL పంపబడలేదు"
+   },
+   "press_button": {
+      "description": "Press the button to try it.",
+      "message": "వినబడేంత దూరంలో ఉన్న కంప్యూటర్‌లకు URLను ప్రసారం చేయడానికి {{action_image}} బటన్‌ను నొక్కండి."
+   },
+   "report_bug": {
+      "description": "Report a bug",
+      "message": "బగ్‌ను నివేదించండి"
+   },
+   "settings_off": {
+      "description": "Indicator showing that Tone is disabled.",
+      "message": "ఆఫ్ చేయబడింది"
+   },
+   "settings_off_subtitle": {
+      "description": "Subtitle showing that Tone is disabled.",
+      "message": "మీరు URLలను పంపలేరు లేదా స్వీకరించలేరు."
+   },
+   "settings_off_title": {
+      "description": "Title showing that Tone is disabled.",
+      "message": "Google టోన్ ఆఫ్ చేయబడింది"
+   },
+   "settings_on": {
+      "description": "Indicator showing that Tone is enabled.",
+      "message": "ఆన్ చేయబడింది"
+   },
+   "settings_on_subtitle": {
+      "description": "Subtitle showing that Tone is enabled.",
+      "message": "మీరు URLలను పంపవచ్చు మరియు స్వీకరించవచ్చు."
+   },
+   "settings_on_title": {
+      "description": "Title showing that Tone is enabled.",
+      "message": "Google టోన్ ఆన్ చేయబడింది"
+   },
+   "settings_title": {
+      "description": "Title of settings.html",
+      "message": "సెట్టింగ్‌లు"
+   },
+   "success_call": {
+      "description": "Call to action of success.html.",
+      "message": "మరో పేజీకి నావిగేట్ చేసి, దాన్ని ప్రసారం చేయడానికి {{action_image}} బటన్‌ను క్లిక్ చేయండి."
+   },
+   "success_title": {
+      "description": "Title of success.html.",
+      "message": "Google టోన్ పని చేసింది!"
+   },
+   "try_now": {
+      "description": "Call to action to try the extension.",
+      "message": "ఇప్పుడే Google టోన్‌ను ప్రయత్నించండి!"
+   },
+   "unplug_headphones": {
+      "description": "Audio workaround #2",
+      "message": "మీ హెడ్‌ఫోన్స్ అన్‌ప్లగ్ చేయండి."
+   }
+}

@@ -1,0 +1,69 @@
+{
+   "app_description": {
+      "message": "Veja dados sobre os seus anúncios e as suas contas do AdSense, Ad Exchange e DFP, e bloqueie os anúncios inadequados no seu site."
+   },
+   "cs_overlay_date_7day": {
+      "message": "7 Dias"
+   },
+   "cs_overlay_date_today": {
+      "message": "Hoje"
+   },
+   "cs_overlay_date_yesterday": {
+      "message": "Ontem"
+   },
+   "cs_overlay_size_name": {
+      "message": "Tamanho"
+   },
+   "cs_overlay_type_name": {
+      "message": "Tipo"
+   },
+   "dfp_creative_id": {
+      "message": "Criativo: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "dfp_no_creative": {
+      "message": "Nenhum criativo do DFP"
+   },
+   "dfp_unknown_creative": {
+      "message": "Anúncio desconhecido"
+   },
+   "domains_whitelist_saved": {
+      "message": "A lista de sites autorizados foi atualizada."
+   },
+   "expired_creative": {
+      "message": "Não conseguimos obter as informações relativas a este anúncio. Aguarde alguns segundos e, em seguida, experimente atualizar a página."
+   },
+   "expired_line_item": {
+      "message": "Não conseguimos obter as informações relativas a este elemento publicitário. Aguarde alguns segundos e, em seguida, experimente atualizar a página."
+   },
+   "line_item_adsense_or_adx": {
+      "message": "AdSense ou Ad Exchange"
+   },
+   "line_item_id": {
+      "message": "Elemento publicitário: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "line_item_no_ad": {
+      "message": "Nenhum anúncio do DFP"
+   },
+   "misconfigured_ad_notification_text": {
+      "message": "Esta página contém \u003Ca href=\"ovnfc\">0\u003C/span> blocos de anúncios mal configurados. Isto pode afetar negativamente a sua receita. \u003Ca target=\"_new\" href=\"http://support.google.com/adsense/bin/answer.py?answer=2694805\" class=\"ovnfs\">Saiba mais\u003C/a>"
+   },
+   "no_results_creative": {
+      "message": "Não conseguimos encontrar as informações relativas a este anúncio. Poderá não ter acesso ao mesmo."
+   },
+   "no_results_line_item": {
+      "message": "Não conseguimos encontrar as informações relativas a este elemento publicitário. Poderá não ter acesso ao mesmo."
+   },
+   "settings_saved_title": {
+      "message": "Definições guardadas"
+   }
+}

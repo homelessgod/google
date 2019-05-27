@@ -1,0 +1,46 @@
+{
+   "browser_error": {
+      "description": "Error mesage shown if the redirection has failed.",
+      "message": "Contact your system administrator."
+   },
+   "error_title": {
+      "description": "The title of the redirection page if an error has happened while trying to load the alternative browser.",
+      "message": "The alternate browser could not be opened"
+   },
+   "extension_description": {
+      "description": "Description of the extension.",
+      "message": "Deploy Chrome for your organization while supporting legacy browsers."
+   },
+   "extension_name": {
+      "description": "Name of the extension.",
+      "message": "Legacy Browser Support"
+   },
+   "learn_more_message": {
+      "description": "Message shown on the bottom with a link to a (potentially) internationalized 'learn more' article",
+      "message": "\u003Ca href='https://www.google.com/intl/en/chrome/business/'>Learn more\u003C/a> about legacy browser support."
+   },
+   "redirect_message": {
+      "description": "Text shown on the redirection page while the alternative browser is started.",
+      "message": "Your system administrator has configured Chrome to open an alternate browser to access \u003Cstrong>$url$\u003C/strong>.",
+      "placeholders": {
+         "url": {
+            "content": "$1",
+            "example": "http://google.com/"
+         }
+      }
+   },
+   "redirect_title": {
+      "description": "The title of the redirection page. Also shown in the Chrome title bar.",
+      "message": "Opening in alternate browser..."
+   },
+   "wrong_protocol_error": {
+      "description": "This error is whown when the action page is invoke with a hash tag specifying an address that is not in the http/https protocols.",
+      "message": "\u003Cstrong>$url$\u003C/strong> cannot be opened due to a protocol configuration error. Please contact your system administrator.",
+      "placeholders": {
+         "url": {
+            "content": "$1",
+            "example": "http://google.com/"
+         }
+      }
+   }
+}

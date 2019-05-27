@@ -1,0 +1,440 @@
+{
+   "101206989909763677": {
+      "message": "Kursteilnehmer in \"$CLASS_NAME$\"",
+      "placeholders": {
+         "CLASS_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "1258929983314547244": {
+      "message": "An Kursleiter gesendet"
+   },
+   "1301730406464354688": {
+      "message": "Classroom öffnen"
+   },
+   "1462156539679968804": {
+      "message": "Von Kursteilnehmern erhalten"
+   },
+   "1472332582476021124": {
+      "message": "Kursteilnehmer dürfen die Datei ansehen."
+   },
+   "1510105121221276016": {
+      "message": "Auf Bildschirm fixieren"
+   },
+   "1550690544509024009": {
+      "message": "{numFlings,plural, =1{# neue}other{# neue}}"
+   },
+   "1663150675851578875": {
+      "message": "Beim Herstellen einer Verbindung mit $PRODUCT_NAME$ sind Probleme aufgetreten. Stellen Sie sicher, dass eine Netzwerkverbindung vorhanden ist und versuchen Sie es erneut.",
+      "placeholders": {
+         "PRODUCT_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "1758804700969198023": {
+      "message": "Menü mit Optionen zum Teilen"
+   },
+   "1790549872641667595": {
+      "message": "Mit Classroom teilen (interne Version)"
+   },
+   "1951089763019042037": {
+      "message": "Kursteilnehmer"
+   },
+   "2050089326602918210": {
+      "message": "Mit Classroom teilen"
+   },
+   "2062938386395101624": {
+      "message": "An Kursteilnehmer gesendet"
+   },
+   "2070581630224025695": {
+      "message": "Ankündigung machen"
+   },
+   "2090147790320018555": {
+      "message": "Sie haben in letzter Zeit nichts gesendet."
+   },
+   "2213990758451550370": {
+      "message": "Kursteilnehmer dürfen die Datei kommentieren."
+   },
+   "2266749875018591275": {
+      "message": "Die Erweiterung \"$PRODUCT_NAME$\" ist nicht mehr aktuell. $START_LINK$Klicken Sie hier, um diese Erweiterung zu deinstallieren.$END_LINK$ Dadurch wird auch der Chrome Web Store geöffnet, wo Sie die Erweiterung neu installieren können.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "PRODUCT_NAME": {
+            "content": "$2"
+         },
+         "START_LINK": {
+            "content": "$3"
+         }
+      }
+   },
+   "2315140680766681153": {
+      "message": "Keine Kursteilnehmer vorhanden."
+   },
+   "2409870568039115310": {
+      "message": "An Kursleiter senden"
+   },
+   "2416435327104074837": {
+      "message": "An Kursleiter gesendet"
+   },
+   "265018083235803821": {
+      "message": "Menü \"Berechtigungen\""
+   },
+   "272253201636921624": {
+      "message": "Wird gesendet…"
+   },
+   "3208531239543188174": {
+      "message": "Wird in {numSeconds,plural, =1{1 Sekunde}other{# Sekunden}}geöffnet…"
+   },
+   "3727581148109420602": {
+      "message": "In neuem Tab öffnen"
+   },
+   "3852289441366561594": {
+      "message": "Verbindung wird hergestellt..."
+   },
+   "3853169172456108967": {
+      "message": "Kurs erstellen oder für Kurs anmelden"
+   },
+   "3894950702316166331": {
+      "message": "Wird geladen..."
+   },
+   "4012779869104225222": {
+      "message": "Liste der Kurse"
+   },
+   "4048890404505834885": {
+      "message": "Frage stellen"
+   },
+   "4101941266124151376": {
+      "message": "aktiviert"
+   },
+   "4221250166827447984": {
+      "message": "$TITLE$ wird angezeigt",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "4269658859113770197": {
+      "message": "Ihre Kurse werden geladen..."
+   },
+   "436489073937327740": {
+      "message": "Weitere Protokolle an Google senden. Diese enthalten die freigegebenen Seiten und die E-Mail-Adressen der Teilnehmer Ihres Kurses."
+   },
+   "4481147463445876932": {
+      "message": "Aufgabe erstellen"
+   },
+   "4491595920888170943": {
+      "message": "Die aktuelle Seite kann nicht freigegeben werden."
+   },
+   "4622108781632885640": {
+      "message": "Vom Kursleiter erhalten"
+   },
+   "4742705439416933924": {
+      "message": "Melden Sie sich für einen Kurs an, um Seiten gemeinsam zu öffnen."
+   },
+   "4748990655911819545": {
+      "message": "Unterricht"
+   },
+   "4811423455816775324": {
+      "message": "Sie müssen in Chrome angemeldet sein, um $PRODUCT$ zu verwenden.\nKlicken Sie zum Anmelden hier.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "4849976898594713883": {
+      "message": "$PRODUCT$ kann keine Verbindung zu den Servern herstellen. Die Ursache dafür liegt anscheinend an der Konfiguration eines Gateways oder einer Firewall. Stellen Sie sicher, dass Ihre Firewalleinstellungen den Datenaustausch mit $SERVER$ zulassen.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         },
+         "SERVER": {
+            "content": "$2"
+         }
+      }
+   },
+   "48585068921907804": {
+      "message": "Die Verbindung zu $PRODUCT_NAME$ kann nicht hergestellt werden. Bitte melden Sie sich aus Ihrem Konto ab und danach wieder an. Sollte das Problem dennoch weiterhin bestehen, klicken Sie unten auf das Feedbacksymbol, um uns das Problem zu melden.",
+      "placeholders": {
+         "PRODUCT_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "4930506384627295710": {
+      "message": "Einstellungen"
+   },
+   "533692309512814645": {
+      "message": "Senden"
+   },
+   "5354810546510399127": {
+      "message": "Öffnet die Hilfeseite"
+   },
+   "5560440246965579819": {
+      "message": "Kursleiter dürfen die Datei ansehen."
+   },
+   "566090020805595985": {
+      "message": "Kurs erstellen"
+   },
+   "5851560788527570644": {
+      "message": "Benachrichtigungen"
+   },
+   "5936353814217802658": {
+      "message": "An Kursleiter senden"
+   },
+   "6031597996865914480": {
+      "message": "Senden"
+   },
+   "6042567254866620046": {
+      "message": "Dieses System ist nicht mit $PRODUCT$ verbunden. Klicken Sie auf die Schaltfläche zum Verbinden, um zu versuchen, eine Verbindung herzustellen.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "6084304183859355623": {
+      "message": "Sie sind als $EMAIL$ angemeldet. Um fortzufahren, $START_LINK$melden Sie sich in Chrome an$END_LINK$ und verwenden Sie dabei ein Google-Konto einer Bildungseinrichtung, die Zugriff auf Google Classroom hat.",
+      "placeholders": {
+         "EMAIL": {
+            "content": "$1"
+         },
+         "END_LINK": {
+            "content": "$2"
+         },
+         "START_LINK": {
+            "content": "$3"
+         }
+      }
+   },
+   "6110089012347909146": {
+      "message": "deaktiviert"
+   },
+   "6229272560153199861": {
+      "message": "Kurs erstellen, um Seiten gemeinsam zu öffnen"
+   },
+   "6422956386741575643": {
+      "message": "Geben Sie eine kurze Beschreibung ein"
+   },
+   "6576961868476783976": {
+      "message": "Bei der Freigabe des Dokuments ist in \"$PRODUCT$\" ein Fehler aufgetreten. Bitte versuchen Sie es später noch einmal.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "6666246860368909334": {
+      "message": " – "
+   },
+   "6731720160639032735": {
+      "message": "Angemeldet als $EMAIL$",
+      "placeholders": {
+         "EMAIL": {
+            "content": "$1"
+         }
+      }
+   },
+   "6802974388288119584": {
+      "message": "Über Google Feedback können Sie Google Ihr Feedback zu Google-Produkten zukommen zu lassen. Hier können Sie uns Probleme melden, Vorschläge für neue Funktionen einreichen oder allgemeine Anmerkungen senden."
+   },
+   "6921620009241719815": {
+      "message": "Zur vorherigen Seite"
+   },
+   "7002955679222677443": {
+      "message": "Weitere Informationen"
+   },
+   "7014972904425258116": {
+      "message": "Kursleiter dürfen die Datei kommentieren."
+   },
+   "7187802960307973851": {
+      "message": "Sie haben in letzter Zeit nichts erhalten."
+   },
+   "7419648588978430202": {
+      "message": "Verlauf wird geladen…"
+   },
+   "7467129818830892099": {
+      "message": "Kursteilnehmer im Vollbild anzeigen"
+   },
+   "7520798696482451948": {
+      "message": "Für Kurs anmelden"
+   },
+   "7582805180132294390": {
+      "message": "\"$PRODUCT$\" kann keine Verbindung zu seinen Servern herstellen. Sollte dieses Problem andauern, überprüfen Sie bitte Ihre Internetverbindung und die Einstellungen Ihrer Firewall und senden Sie uns über das entsprechende Symbol unten Ihr Feedback.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "7604563725603697690": {
+      "message": "Screenshot meiner aktuellen Seite"
+   },
+   "7613121200569555025": {
+      "message": "$NAME$ hat eine Seite gesendet.",
+      "placeholders": {
+         "NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "7646520484997880732": {
+      "message": "Öffnet die Einstellungen"
+   },
+   "7733702880641460982": {
+      "message": "Feedback an Google"
+   },
+   "77478328938908900": {
+      "message": "Warnmeldung schließen"
+   },
+   "7798244153502527716": {
+      "message": "Sie müssen in Chrome angemeldet sein, um $PRODUCT$ zu verwenden.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "7819314041543176992": {
+      "message": "Schließen"
+   },
+   "7826444313570725162": {
+      "message": "Gesendet"
+   },
+   "784919827997620253": {
+      "message": "Feedback geben"
+   },
+   "7869782771655761788": {
+      "message": "Gesendet"
+   },
+   "787828271820052473": {
+      "message": "Kurs erstellen oder für einen Kurs anmelden, um Seiten gemeinsam zu öffnen"
+   },
+   "7914587618073030772": {
+      "message": "Mit Classroom teilen (Testversion)"
+   },
+   "7924019946919704377": {
+      "message": "$START_LINK$Klicken Sie auf diesen Link, um sich in Chrome anzumelden$END_LINK$, und rufen Sie $PRODUCT_NAME$ dann erneut auf.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "PRODUCT_NAME": {
+            "content": "$2"
+         },
+         "START_LINK": {
+            "content": "$3"
+         }
+      }
+   },
+   "8071009096908772636": {
+      "message": "Browserbenachrichtigungen anzeigen, wenn mir Kursteilnehmer Webseiten schicken"
+   },
+   "8083611296479050044": {
+      "message": "Zur Feedbackseite"
+   },
+   "8107264734060843365": {
+      "message": "If this problem doesn't go away, try restarting your computer. If this problem persists, click the feedback icon below to submit feedback."
+   },
+   "813263746069473514": {
+      "message": "Verbinden"
+   },
+   "819996403327805209": {
+      "message": "Weitere Informationen"
+   },
+   "8250116767525441148": {
+      "message": "$PRODUCT$ konnte keine Verbindung mit $SITE$ herstellen. Überprüfen Sie die Internetverbindung und versuchen Sie es erneut.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         },
+         "SITE": {
+            "content": "$2"
+         }
+      }
+   },
+   "826991190228103925": {
+      "message": "Einstellungen"
+   },
+   "8410291800785136487": {
+      "message": "An Kursteilnehmer senden"
+   },
+   "8427578009205621398": {
+      "message": "$PARTICIPATING$/$TOTAL$ Kursteilnehmer",
+      "placeholders": {
+         "PARTICIPATING": {
+            "content": "$1"
+         },
+         "TOTAL": {
+            "content": "$2"
+         }
+      }
+   },
+   "8510084535053903986": {
+      "message": "Kursleiter dürfen die Datei bearbeiten."
+   },
+   "8584185541337081736": {
+      "message": "Informieren Sie Ihre Kursteilnehmer über diese Erweiterung, damit sie Ihre Links erhalten.&nbsp;"
+   },
+   "8636360788868898667": {
+      "message": "Arbeiten Sie mit Ihren Kursteilnehmern über eine zentrale Webplattform zusammen – sofort."
+   },
+   "8657495129257769609": {
+      "message": "Ihr Computer ist offenbar nicht mit dem Internet verbunden. Bitte überprüfen Sie Ihre Verbindung und versuchen Sie es erneut."
+   },
+   "8757637959955680925": {
+      "message": "Damit Sie $PRODUCT_NAME$ verwenden können, müssen Sie in Chrome angemeldet sein. Im Moment sind Sie anscheinend nicht in Chrome angemeldet.",
+      "placeholders": {
+         "PRODUCT_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "8812061458772284085": {
+      "message": "Die Beschreibung, Produktinformationen, weitere Systeminformationen und Ihre E-Mail-Adresse werden an Google gesendet. Weitere Informationen finden Sie in der $START_LINK_1$Datenschutzerklärung$END_LINK$ und den $START_LINK_2$Nutzungsbedingungen$END_LINK$ von Google.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK_1": {
+            "content": "$2"
+         },
+         "START_LINK_2": {
+            "content": "$3"
+         }
+      }
+   },
+   "8876711157282412092": {
+      "message": "{numLinks,plural, =1{# Link}other{# Links}}"
+   },
+   "8934950226874423147": {
+      "message": "Kursteilnehmer dürfen die Datei bearbeiten."
+   },
+   "9057609174906387434": {
+      "message": "Symbol von $PAGE_TITLE$",
+      "placeholders": {
+         "PAGE_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "9200475522066047621": {
+      "message": "Als Kursteilnehmer eingeschrieben"
+   },
+   "9217362152767454370": {
+      "message": "Sie müssen $PRODUCT$ den Zugriff auf Ihr Profil erlauben.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "99413348305232894": {
+      "message": "Mit Classroom teilen"
+   }
+}

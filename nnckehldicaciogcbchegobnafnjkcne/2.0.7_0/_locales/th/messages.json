@@ -1,0 +1,126 @@
+{
+   "before_trying_again": {
+      "description": "Error resolution tip in error pages.",
+      "message": "ก่อนที่จะลองอีกครั้ง:"
+   },
+   "browser_action_title": {
+      "description": "Browser action title that shows up on hover.",
+      "message": "เผยแพร่ URL นี้"
+   },
+   "context_menu_disable": {
+      "description": "Label of the context menu item that disables Tone.",
+      "message": "ปิดใช้ Tone"
+   },
+   "context_menu_enable": {
+      "description": "Label of the context menu item that enables Tone.",
+      "message": "เปิดใช้ Tone"
+   },
+   "description": {
+      "description": "Extension description.",
+      "message": "เผยแพร่ URL ใดก็ได้ไปยังคอมพิวเตอร์ในระยะที่ได้ยิน"
+   },
+   "ensure_online": {
+      "description": "Network workaround.",
+      "message": "โปรดตรวจสอบว่าคอมพิวเตอร์ออนไลน์อยู่"
+   },
+   "error_audio_title": {
+      "description": "Title of the error_audio.html page.",
+      "message": "Google Tone ไม่ได้ยินเสียงนั้น"
+   },
+   "error_network_title": {
+      "description": "Title of error_network.html page.",
+      "message": "ขออภัย ยังไม่ได้ผล"
+   },
+   "increase_volume": {
+      "description": "Audio workaround #1",
+      "message": "เพิ่มระดับเสียงของคุณ"
+   },
+   "invite_others": {
+      "description": "Press the button to try it.",
+      "message": "เชิญผู้อื่นมาใช้ Google Tone: {{shortlink}}"
+   },
+   "name": {
+      "description": "Extension name.",
+      "message": "Google Tone"
+   },
+   "notification_receive_message_format": {
+      "description": "Notification message when you receive a Tone.",
+      "message": "คลิกเพื่อเปิด \"{{title}}\" จาก {{domain}}"
+   },
+   "notification_receive_test_page_message": {
+      "description": "Notification message sent from Tone test page.",
+      "message": "คลิกเพื่อลองใช้งาน Tone!"
+   },
+   "notification_receive_title_format": {
+      "description": "Notification title when you receive a Tone.",
+      "message": "URL จาก {{username}}!"
+   },
+   "notification_send_fail_audio_message": {
+      "description": "Notification title shown when audio verification fails.",
+      "message": "โปรดตรวจสอบระดับเสียงและลองอีกครั้ง\nคลิกเพื่อดูข้อมูลเพิ่มเติม"
+   },
+   "notification_send_fail_audio_title": {
+      "description": "Notification title shown when audio verification fails.",
+      "message": "Tone ไม่ได้ยินเสียงตัวเอง"
+   },
+   "notification_send_fail_network_message": {
+      "description": "Notification message shown when a Tone was attempted but the network was offline.",
+      "message": "ดูเหมือนว่าคุณออฟไลน์อยู่\nคลิกเพื่อดูข้อมูลเพิ่มเติม"
+   },
+   "notification_send_fail_network_title": {
+      "description": "Notification title shown when a Tone was attempted but the network was offline.",
+      "message": "ไม่ได้ส่ง URL"
+   },
+   "press_button": {
+      "description": "Press the button to try it.",
+      "message": "กดปุ่ม {{action_image}} เพื่อเผยแพร่ URL ไปยังคอมพิวเตอร์ในระยะที่ได้ยิน"
+   },
+   "report_bug": {
+      "description": "Report a bug",
+      "message": "รายงานข้อบกพร่อง"
+   },
+   "settings_off": {
+      "description": "Indicator showing that Tone is disabled.",
+      "message": "ปิด"
+   },
+   "settings_off_subtitle": {
+      "description": "Subtitle showing that Tone is disabled.",
+      "message": "คุณไม่สามารถส่งหรือรับ URL ได้"
+   },
+   "settings_off_title": {
+      "description": "Title showing that Tone is disabled.",
+      "message": "Google Tone ปิดอยู่"
+   },
+   "settings_on": {
+      "description": "Indicator showing that Tone is enabled.",
+      "message": "เปิด"
+   },
+   "settings_on_subtitle": {
+      "description": "Subtitle showing that Tone is enabled.",
+      "message": "คุณสามารถส่งและรับ URL ได้"
+   },
+   "settings_on_title": {
+      "description": "Title showing that Tone is enabled.",
+      "message": "Google Tone เปิดอยู่"
+   },
+   "settings_title": {
+      "description": "Title of settings.html",
+      "message": "การตั้งค่า"
+   },
+   "success_call": {
+      "description": "Call to action of success.html.",
+      "message": "นำทางไปยังหน้าอื่นและคลิกปุ่ม {{action_image}} เพื่อเผยแพร่หน้าดังกล่าว"
+   },
+   "success_title": {
+      "description": "Title of success.html.",
+      "message": "Google Tone ใช้งานได้แล้ว!"
+   },
+   "try_now": {
+      "description": "Call to action to try the extension.",
+      "message": "ลองใช้งาน Google Tone เลย!"
+   },
+   "unplug_headphones": {
+      "description": "Audio workaround #2",
+      "message": "ถอดหูฟังออก"
+   }
+}

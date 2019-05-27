@@ -1,0 +1,77 @@
+{
+   "close_button": {
+      "message": "Fechar"
+   },
+   "extension_description": {
+      "message": "Com o Password Checkup, você volta a proteger contas que foram afetadas por violações de dados."
+   },
+   "extension_detailed_description": {
+      "message": "Sempre que fizer login e informar um nome de usuário e uma senha que não são mais seguros devido a uma violação de dados detectada pelo Google, você receberá um alerta. Redefina sua senha. Se você usa o mesmo nome de usuário e a mesma senha para outras contas, redefina a senha delas também.\n\nA Verificação de senha foi desenvolvida com a privacidade em mente. Informações de identificação sobre contas, senhas ou dispositivos nunca são relatadas. Relatamos informações anônimas sobre o número de pesquisas que têm como resultado uma credencial não segura, sobre se um alerta leva a uma alteração de senha e sobre o domínio envolvido para melhorar a cobertura do site. Saiba mais sobre o funcionamento da Verificação de senha em https://support.google.com/accounts?p=password-checkup.\n\nAo instalar esse item, você concorda com os Termos de Serviço e a Política de Privacidade do Google disponíveis em www.google.com.br/policies/."
+   },
+   "extension_name": {
+      "message": "Password Checkup"
+   },
+   "ignore_button": {
+      "message": "Ignorar para este site"
+   },
+   "learn_more": {
+      "message": "Saiba mais"
+   },
+   "popup_advanced_settings_action": {
+      "message": "Configurações avançadas"
+   },
+   "popup_default_status_message": {
+      "message": "Não foi detectada violação de dados em nenhuma das senhas usadas recentemente."
+   },
+   "popup_ignore_button": {
+      "message": "Ignorar"
+   },
+   "popup_ignored_status_message": {
+      "message": "Não foi detectada violação de dados em nenhuma das senhas usadas recentemente. Isso não inclui as senhas não seguras que você optou por não redefinir."
+   },
+   "popup_learn_more": {
+      "message": "Saiba mais"
+   },
+   "popup_multiple_accounts_warning_status_message": {
+      "message": "O Password Checkup detectou que as \u003Cb>$1 contas\u003C/b> a seguir têm senhas que não são mais seguras devido a uma violação de dados.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "popup_number_unsafe_accounts": {
+      "message": "$1 contas não seguras",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "popup_one_account_warning_status_message": {
+      "message": "O Password Checkup detectou que a \u003Cb>conta\u003C/b> a seguir tem uma senha que não é mais segura devido a uma violação de dados."
+   },
+   "popup_reset_extension_button": {
+      "message": "Limpar dados da extensão"
+   },
+   "popup_reset_extension_text": {
+      "message": "Limpe todos os dados da extensão. Isso removerá todas as informações armazenadas sobre senhas não seguras e sites ignorados anteriormente."
+   },
+   "popup_warning_action": {
+      "message": "Altere suas senhas imediatamente."
+   },
+   "reset_text": {
+      "message": "Altere sua senha imediatamente."
+   },
+   "warning_banner_header": {
+      "message": "Altere sua senha"
+   },
+   "warning_text": {
+      "message": "O Password Checkup detectou que sua senha do \u003Cb>$1\u003C/b> não é mais segura devido a uma violação de dados.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   }
+}

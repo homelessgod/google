@@ -1,0 +1,440 @@
+{
+   "101206989909763677": {
+      "message": "Studenti v kurzu $CLASS_NAME$",
+      "placeholders": {
+         "CLASS_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "1258929983314547244": {
+      "message": "POSLÁNO UČITELI"
+   },
+   "1301730406464354688": {
+      "message": "Otevřít Učebnu"
+   },
+   "1462156539679968804": {
+      "message": "Přijato od studentů"
+   },
+   "1472332582476021124": {
+      "message": "Studenti mohou soubor zobrazit"
+   },
+   "1510105121221276016": {
+      "message": "Uzamknout na obrazovce"
+   },
+   "1550690544509024009": {
+      "message": "{numFlings,plural, =1{# nová}few{# nové}many{# nové}other{# nových}}"
+   },
+   "1663150675851578875": {
+      "message": "Ke službě $PRODUCT_NAME$ se nám nedaří připojit. Ujistěte se, že máte k dispozici připojení k internetu. Pak se zkuste připojit znovu.",
+      "placeholders": {
+         "PRODUCT_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "1758804700969198023": {
+      "message": "Nabídka sdílení"
+   },
+   "1790549872641667595": {
+      "message": "Sdílení do Učebny (Pre-produkce)"
+   },
+   "1951089763019042037": {
+      "message": "Student"
+   },
+   "2050089326602918210": {
+      "message": "Sdílení do Učebny"
+   },
+   "2062938386395101624": {
+      "message": "Posláno studentům"
+   },
+   "2070581630224025695": {
+      "message": "Přidat oznámení"
+   },
+   "2090147790320018555": {
+      "message": "V poslední době jste nic neposlali."
+   },
+   "2213990758451550370": {
+      "message": "Studenti mohou soubor okomentovat"
+   },
+   "2266749875018591275": {
+      "message": "Rozšíření $PRODUCT_NAME$ je zastaralé. Pokud chcete pokračovat, kliknutím jej $START_LINK$odinstalujte$END_LINK$. Tím se také otevře Internetový obchod Chrome, odkud si jej budete moci znovu nainstalovat.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "PRODUCT_NAME": {
+            "content": "$2"
+         },
+         "START_LINK": {
+            "content": "$3"
+         }
+      }
+   },
+   "2315140680766681153": {
+      "message": "Nejsou zde žádní studenti k zobrazení."
+   },
+   "2409870568039115310": {
+      "message": "POSLAT UČITELI"
+   },
+   "2416435327104074837": {
+      "message": "Posláno učiteli"
+   },
+   "265018083235803821": {
+      "message": "Nabídka oprávnění"
+   },
+   "272253201636921624": {
+      "message": "Probíhá odesílání"
+   },
+   "3208531239543188174": {
+      "message": "Obsah se otevře za {numSeconds,plural, =1{1 sekundu}few{# sekundy}many{# sekundy}other{# sekund}}..."
+   },
+   "3727581148109420602": {
+      "message": "Otevřít na nové kartě"
+   },
+   "3852289441366561594": {
+      "message": "Připojování..."
+   },
+   "3853169172456108967": {
+      "message": "VYTVOŘIT KURZ NEBO SE ZAPSAT DO KURZU"
+   },
+   "3894950702316166331": {
+      "message": "Načítání..."
+   },
+   "4012779869104225222": {
+      "message": "Seznam kurzů"
+   },
+   "4048890404505834885": {
+      "message": "Položit otázku"
+   },
+   "4101941266124151376": {
+      "message": "zapnuto"
+   },
+   "4221250166827447984": {
+      "message": "Zobrazení stránky $TITLE$",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "4269658859113770197": {
+      "message": "Načítání vašich kurzů..."
+   },
+   "436489073937327740": {
+      "message": "Pošlete společnosti Google další protokoly, které budou obsahovat sdílené stránky a e-mailové adresy účastníků vašeho kurzu."
+   },
+   "4481147463445876932": {
+      "message": "Vytvořit úkol"
+   },
+   "4491595920888170943": {
+      "message": "Aktuální stránku nelze sdílet."
+   },
+   "4622108781632885640": {
+      "message": "Přijato od učitele"
+   },
+   "4742705439416933924": {
+      "message": "Abyste mohli stránky otevřít pohromadě, zapište se do kurzu"
+   },
+   "4748990655911819545": {
+      "message": "Vyučované"
+   },
+   "4811423455816775324": {
+      "message": "Abyste mohli službu $PRODUCT$ používat, musíte být v prohlížeči Chrome přihlášeni.\nPro přihlášení klikněte sem.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "4849976898594713883": {
+      "message": "Službě $PRODUCT$ se nedaří připojit ke svým serverům. Příčinou se zdá být konfigurace brány nebo firewallu. Zkontrolujte nastavení firewallu a ujistěte se, že umožňují komunikaci se serverem „$SERVER$“.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         },
+         "SERVER": {
+            "content": "$2"
+         }
+      }
+   },
+   "48585068921907804": {
+      "message": "Nedaří se nám připojit k službě $PRODUCT_NAME$. Zkuste se ze svého účtu odhlásit a pak znovu přihlásit. Pokud problém přetrvává, klikněte níže na ikonu zpětné vazby a odešlete nám zpětnou vazbu.",
+      "placeholders": {
+         "PRODUCT_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "4930506384627295710": {
+      "message": "Nastavení"
+   },
+   "533692309512814645": {
+      "message": "POSLAT"
+   },
+   "5354810546510399127": {
+      "message": "Otevře stránku nápovědy"
+   },
+   "5560440246965579819": {
+      "message": "Učitelé mohou soubor zobrazit"
+   },
+   "566090020805595985": {
+      "message": "VYTVOŘIT KURZ"
+   },
+   "5851560788527570644": {
+      "message": "Oznámení"
+   },
+   "5936353814217802658": {
+      "message": "POSLAT UČITELI"
+   },
+   "6031597996865914480": {
+      "message": "POSLAT"
+   },
+   "6042567254866620046": {
+      "message": "Tento systém není připojen ke službě $PRODUCT$. Zkuste se připojit stisknutím tlačítka pro připojení.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "6084304183859355623": {
+      "message": "Jste přihlášeni jako $EMAIL$. Abyste mohli pokračovat, $START_LINK$přihlaste se do prohlížeče Chrome$END_LINK$ pomocí školního účtu Google, který má přístup do Učebny.",
+      "placeholders": {
+         "EMAIL": {
+            "content": "$1"
+         },
+         "END_LINK": {
+            "content": "$2"
+         },
+         "START_LINK": {
+            "content": "$3"
+         }
+      }
+   },
+   "6110089012347909146": {
+      "message": "vypnuto"
+   },
+   "6229272560153199861": {
+      "message": "Abyste mohli stránky otevřít pohromadě, vytvořte kurz"
+   },
+   "6422956386741575643": {
+      "message": "Zadejte stručný popis"
+   },
+   "6576961868476783976": {
+      "message": "Při pokusu o sdílení dokumentu došlo ve službě $PRODUCT$ k chybě. Zkuste to prosím znovu později.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "6666246860368909334": {
+      "message": " − "
+   },
+   "6731720160639032735": {
+      "message": "Jste přihlášeni jako $EMAIL$",
+      "placeholders": {
+         "EMAIL": {
+            "content": "$1"
+         }
+      }
+   },
+   "6802974388288119584": {
+      "message": "Google Feedback umožňuje odeslat společnosti Google návrhy týkající se našich služeb. Uvítáme zprávy o problémech, náměty na nové funkce i obecné komentáře."
+   },
+   "6921620009241719815": {
+      "message": "Přejít na předchozí stránku"
+   },
+   "7002955679222677443": {
+      "message": "Další informace"
+   },
+   "7014972904425258116": {
+      "message": "Učitelé mohou soubor okomentovat"
+   },
+   "7187802960307973851": {
+      "message": "V poslední době vám nic nepřišlo."
+   },
+   "7419648588978430202": {
+      "message": "Načítání vaší historie..."
+   },
+   "7467129818830892099": {
+      "message": "Studenti na stránce na celou obrazovku"
+   },
+   "7520798696482451948": {
+      "message": "ZAPSAT SE DO KURZU"
+   },
+   "7582805180132294390": {
+      "message": "Službě $PRODUCT$ se nedaří připojit ke svým serverům. Pokud tento problém přetrvává, zkontrolujte své připojení k internetu a nastavení firewallu a pošlete nám zpětnou vazbu prostřednictvím ikony zpětné vazby, kterou najdete níže.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "7604563725603697690": {
+      "message": "Snímek obrazovky vaší aktuální stránky"
+   },
+   "7613121200569555025": {
+      "message": "Uživatel $NAME$ vám poslal stránku",
+      "placeholders": {
+         "NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "7646520484997880732": {
+      "message": "Přejít na stránku nastavení"
+   },
+   "7733702880641460982": {
+      "message": "Zpětná vazba pro společnost Google"
+   },
+   "77478328938908900": {
+      "message": "Zavřít upozornění"
+   },
+   "7798244153502527716": {
+      "message": "Abyste mohli službu $PRODUCT$ používat, musíte být v prohlížeči Chrome přihlášeni.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "7819314041543176992": {
+      "message": "Zavřít"
+   },
+   "7826444313570725162": {
+      "message": "POSLÁNO"
+   },
+   "784919827997620253": {
+      "message": "Odeslat zpětnou vazbu"
+   },
+   "7869782771655761788": {
+      "message": "Posláno"
+   },
+   "787828271820052473": {
+      "message": "Abyste mohli stránky otevřít pohromadě, vytvořte kurz nebo se do kurzu zapište"
+   },
+   "7914587618073030772": {
+      "message": "Sdílení do Učebny (Test)"
+   },
+   "7924019946919704377": {
+      "message": "$START_LINK$Klikněte sem$END_LINK$, abyste se přihlásili do prohlížeče Chrome, a pak službu $PRODUCT_NAME$ zkuste znovu.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "PRODUCT_NAME": {
+            "content": "$2"
+         },
+         "START_LINK": {
+            "content": "$3"
+         }
+      }
+   },
+   "8071009096908772636": {
+      "message": "Zobrazit oznámení prohlížeče, když mi studenti pošlou webové stránky"
+   },
+   "8083611296479050044": {
+      "message": "Přejít na stránku zpětné vazby"
+   },
+   "8107264734060843365": {
+      "message": "If this problem doesn't go away, try restarting your computer. If this problem persists, click the feedback icon below to submit feedback."
+   },
+   "813263746069473514": {
+      "message": "Připojit"
+   },
+   "819996403327805209": {
+      "message": "Další informace"
+   },
+   "8250116767525441148": {
+      "message": "Službě $PRODUCT$ se nepodařilo připojit k webu $SITE$. Ověřte, zda máte připojení k internetu, a zkuste to znovu.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         },
+         "SITE": {
+            "content": "$2"
+         }
+      }
+   },
+   "826991190228103925": {
+      "message": "Nastavení"
+   },
+   "8410291800785136487": {
+      "message": "Poslat studentům"
+   },
+   "8427578009205621398": {
+      "message": "Počet studentů: $PARTICIPATING$/$TOTAL$",
+      "placeholders": {
+         "PARTICIPATING": {
+            "content": "$1"
+         },
+         "TOTAL": {
+            "content": "$2"
+         }
+      }
+   },
+   "8510084535053903986": {
+      "message": "Učitelé mohou soubor upravit"
+   },
+   "8584185541337081736": {
+      "message": "Sdílejte toto rozšíření se svými studenty, aby vaše odkazy dostali.&nbsp;"
+   },
+   "8636360788868898667": {
+      "message": "Dostaňte všechny v kurzu okamžitě na stejnou (webovou) stránku."
+   },
+   "8657495129257769609": {
+      "message": "Zdá se, že váš počítač není připojený k internetu. Zkontrolujte připojení a zkuste to znovu."
+   },
+   "8757637959955680925": {
+      "message": "Služba $PRODUCT_NAME$ potřebuje, abyste byli přihlášeni do prohlížeče Chrome. A zdá se, že v něm přihlášeni nejste.",
+      "placeholders": {
+         "PRODUCT_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "8812061458772284085": {
+      "message": "Společnosti Google budou odeslány popis, informace o službě, další systémové informace a vaše e-mailová adresa. Viz $START_LINK_1$zásady ochrany soukromí$END_LINK$ a $START_LINK_2$smluvní podmínky$END_LINK$ společnosti Google.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK_1": {
+            "content": "$2"
+         },
+         "START_LINK_2": {
+            "content": "$3"
+         }
+      }
+   },
+   "8876711157282412092": {
+      "message": "{numLinks,plural, =1{# odkaz}few{# odkazy}many{# odkazu}other{# odkazů}}"
+   },
+   "8934950226874423147": {
+      "message": "Studenti mohou soubor upravit"
+   },
+   "9057609174906387434": {
+      "message": "Ikona webových stránek $PAGE_TITLE$.",
+      "placeholders": {
+         "PAGE_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "9200475522066047621": {
+      "message": "Zapsané"
+   },
+   "9217362152767454370": {
+      "message": "Služba $PRODUCT$ žádá o oprávnění přistupovat k vašemu profilu.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "99413348305232894": {
+      "message": "Sdílení do Učebny"
+   }
+}

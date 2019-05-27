@@ -1,0 +1,46 @@
+{
+   "browser_error": {
+      "description": "Error mesage shown if the redirection has failed.",
+      "message": "Kontaktujte svojho správcu systému."
+   },
+   "error_title": {
+      "description": "The title of the redirection page if an error has happened while trying to load the alternative browser.",
+      "message": "Alternatívny prehliadač sa nepodarilo otvoriť"
+   },
+   "extension_description": {
+      "description": "Description of the extension.",
+      "message": "Nasaďte vo svojej organizácii prehliadač Chrome a pritom zachovajte podporu starších prehliadačov."
+   },
+   "extension_name": {
+      "description": "Name of the extension.",
+      "message": "Podpora starších prehliadačov"
+   },
+   "learn_more_message": {
+      "description": "Message shown on the bottom with a link to a (potentially) internationalized 'learn more' article",
+      "message": "\u003Ca href='https://www.google.com/intl/sk/chrome/business/'>Prečítajte si viac informácií\u003C/a> o podpore starších prehliadačov."
+   },
+   "redirect_message": {
+      "description": "Text shown on the redirection page while the alternative browser is started.",
+      "message": "Správca systému nakonfiguroval prehliadač Chrome tak, aby sa pri prístupe k adrese \u003Cstrong>$url$\u003C/strong> otvoril alternatívny prehliadač.",
+      "placeholders": {
+         "url": {
+            "content": "$1",
+            "example": "http://google.com/"
+         }
+      }
+   },
+   "redirect_title": {
+      "description": "The title of the redirection page. Also shown in the Chrome title bar.",
+      "message": "Prebieha otváranie alternatívneho prehliadača..."
+   },
+   "wrong_protocol_error": {
+      "description": "This error is whown when the action page is invoke with a hash tag specifying an address that is not in the http/https protocols.",
+      "message": "Adresu \u003Cstrong>$url$\u003C/strong> nie je možné otvoriť z dôvodu chyby konfigurácie protokolu. Kontaktujte správcu systému.",
+      "placeholders": {
+         "url": {
+            "content": "$1",
+            "example": "http://google.com/"
+         }
+      }
+   }
+}

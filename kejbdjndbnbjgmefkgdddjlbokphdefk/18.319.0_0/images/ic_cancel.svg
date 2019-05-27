@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px"
+     height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<symbol  id="ic_x5F_cancel_x5F_flat" viewBox="0 -24 24 24">
+  <polygon fill="none" points="24,-24 0,-24 0,0 24,0"/>
+  <path fill="#231F20" d="M12-2C6.477-2,2-6.477,2-12s4.477-10,10-10s10,4.477,10,10S17.523-2,12-2z M18-16.586L16.586-18L12-13.414
+    L7.414-18L6-16.586L10.586-12L6-7.414L7.414-6L12-10.586L16.586-6L18-7.414L13.414-12L18-16.586z"/>
+</symbol>
+<use xlink:href="#ic_x5F_cancel_x5F_flat"  width="24" height="24" id="A" y="-24" transform="matrix(1 0 0 -1 0 0)" overflow="visible"/>
+</svg>

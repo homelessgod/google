@@ -1,0 +1,23 @@
+{
+   "content_scripts": [ {
+      "all_frames": false,
+      "css": [ "css/studio_styles.css", "css/material_css_min.css" ],
+      "js": [ "js/third_party.min.js", "js/drm_qa_helper_app.js" ],
+      "matches": [ "https://www.google.com/doubleclick/studio/*" ],
+      "run_at": "document_start"
+   } ],
+   "content_security_policy": "script-src 'self'; object-src 'self'",
+   "description": "DoubleClick Studio QA Helper Chrome Extension",
+   "icons": {
+      "128": "img/qa_helper_icon_128x128.png",
+      "16": "img/qa_helper_icon_16x16.png",
+      "48": "img/qa_helper_icon_48x48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAkb93dQbqWE9QoFDzRte9EfgAVrZIREg0vE0sjKczB28RngfRHaKXXcky7rKWjNst0xz9lfTfhnQdM1cGb6Tv5OyKMJL+DH2MFrzkI9kG5LZpOmTi5zbDdDx3BXPm6Kzik0amkKg9OOFWa1cf8bXoi5eFNITOyJc+z0J7ClrSila3oHUlT22hYL1hARDzJN1cmksqyPkzqFB5QtSEicFioXf/Yh6Zb51rr3hOe/8Mu4suNyZgRqwDYsHKkfBpGUxrfdvyLB45/sD8sb3GbTsES/GILVhUMCI9STQKi7b2oAwfWIEANLCcAj5CurpO4shLwqac0ZGtRxIK9l9aBn3jJwIDAQAB",
+   "manifest_version": 2,
+   "name": "DoubleClick QA Helper",
+   "permissions": [ "notifications", "tabs", "https://*.appspot.com/" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.6",
+   "web_accessible_resources": [ "partials/*", "js/*", "css/*", "img/*", "*.json" ]
+}

@@ -1,0 +1,77 @@
+{
+   "close_button": {
+      "message": "Zatvori"
+   },
+   "extension_description": {
+      "message": "Password Checkup pomaže vam da ponovo zaštitite račune na kojima je došlo do povrede podataka."
+   },
+   "extension_detailed_description": {
+      "message": "Bez obzira na to gdje se prijavljujete, ako unesete korisničko ime i zaporku koji više nisu sigurni zbog povrede podataka poznate Googleu, primit ćete upozorenje. Poništite zaporku. Ako isto korisničko ime i zaporku upotrebljavate i za neke druge račune, poništite zaporku i na njima.\n\nProvjera zaporke razvijena je u svrhu zaštite privatnosti. Nikad ne iznosi identifikacijske podatke o vašim računima, zaporkama ili uređaju. Prijavljujemo anonimne podatke o broju provjera u kojima su pronađene nesigurne vjerodajnice, o tome dolazi li nakon upozorenja do promjene zaporke i o pogođenoj domeni radi poboljšanja pokrivenosti web-lokacije. Više informacija o tome kako funkcionira Provjera zaporke možete saznati na stranici https://support.google.com/accounts?p=password-checkup.\n\nInstaliranjem ove stavke prihvaćate Googleove uvjete pružanja usluge i pravila o privatnosti na stranici www.google.com/policies/."
+   },
+   "extension_name": {
+      "message": "Password Checkup"
+   },
+   "ignore_button": {
+      "message": "Zanemari za ovu web-lokaciju"
+   },
+   "learn_more": {
+      "message": "Saznajte više"
+   },
+   "popup_advanced_settings_action": {
+      "message": "Napredne postavke"
+   },
+   "popup_default_status_message": {
+      "message": "Nijedna od vaših nedavno korištenih zaporki nije otkrivena u povredi podataka."
+   },
+   "popup_ignore_button": {
+      "message": "Zanemari"
+   },
+   "popup_ignored_status_message": {
+      "message": "Nijedna od vaših nedavno korištenih zaporki nije otkrivena u povredi podataka. To ne uključuje nesigurne zaporke koje niste željeli poništiti."
+   },
+   "popup_learn_more": {
+      "message": "Saznajte više"
+   },
+   "popup_multiple_accounts_warning_status_message": {
+      "message": "Password Checkup otkrio je da sljedeći računi (\u003Cb>njih $1\u003C/b>) imaju zaporke koje više nisu sigurne zbog povrede podataka.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "popup_number_unsafe_accounts": {
+      "message": "Nesigurni računi: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "popup_one_account_warning_status_message": {
+      "message": "Password Checkup otkrio je da sljedeći \u003Cb>1 račun\u003C/b> ima zaporku koja više nije sigurna zbog povrede podataka."
+   },
+   "popup_reset_extension_button": {
+      "message": "Izbriši podatke proširenja"
+   },
+   "popup_reset_extension_text": {
+      "message": "Izbrišite sve podatke proširenja. Time ćete ukloniti sve pohranjene podatke o nesigurnim zaporkama i prethodno zanemarenim web-lokacijama."
+   },
+   "popup_warning_action": {
+      "message": "Trebate odmah promijeniti svoje zaporke."
+   },
+   "reset_text": {
+      "message": "Trebali biste odmah promijeniti zaporku."
+   },
+   "warning_banner_header": {
+      "message": "Promijenite zaporku"
+   },
+   "warning_text": {
+      "message": "Password Checkup otkrio je da vaša zaporka za \u003Cb>$1\u003C/b> više nije sigurna zbog povrede podataka.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   }
+}

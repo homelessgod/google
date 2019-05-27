@@ -1,0 +1,176 @@
+{
+   "ALT_APPDESC": {
+      "message": "তাদের বৈকল্পিক পাঠ্যের সাথে চিত্রগুলি প্রতিস্থাপন করুন৷"
+   },
+   "ALT_APPNAME": {
+      "message": "বৈকল্পিক পাঠ্য প্রদর্শক চিত্র"
+   },
+   "ALT_INFOBAR": {
+      "message": "চিত্রগুলিকে তাদের বিকল্প পাঠ্যের দ্বারা প্রতিস্থাপিত করা হয়েছে৷"
+   },
+   "ALT_UNDO": {
+      "message": "পূর্বাবস্থায় ফিরুন"
+   },
+   "CARET_BROWSING_ANIMATION": {
+      "message": "কোনো অ্যানিমেশনের সাথে কার্সারের অবস্থান হাইলাইট করুন৷"
+   },
+   "CARET_BROWSING_APPDESC": {
+      "message": "তীর চিহ্নগুলি ব্যবহার করে ওয়েব পৃষ্ঠাগুলির পাঠ্য ব্রাউজ করুন৷"
+   },
+   "CARET_BROWSING_APPNAME": {
+      "message": "ক্যারেট ব্রাউজিং"
+   },
+   "CARET_BROWSING_CARETBROWSINGOPTIONS": {
+      "message": "ক্যারেট ব্রাউজিং বিকল্পগুলি"
+   },
+   "CARET_BROWSING_ENABLEDISABLECROS": {
+      "message": "ক্যারেট ব্রাউজিং চালু করতে \u003Cspan class='key'>Alt\u003C/span> + \u003Cimg src='increase_brightness.png'> (উজ্জ্বলতা বাড়ানোর কী, বা F7) টিপুন৷ এটিকে বন্ধ করতে এটি আবার টিপুন৷"
+   },
+   "CARET_BROWSING_ENABLEDISABLENONCROS": {
+      "message": "ক্যারেট ব্রাউজিং চালু করতে \u003Cspan class='key'>F7\u003C/span> টিপুন৷ এটিকে বন্ধ করতে এটি আবার টিপুন৷"
+   },
+   "CARET_BROWSING_FLASH": {
+      "message": "একটি দ্রুত ফ্ল্যাশের সাথে কার্সারের অবস্থান হাইলাইট করুন৷"
+   },
+   "CARET_BROWSING_FOCUSHELP": {
+      "message": "\u003Cp>যখন আপনি কোনো লিঙ্ক অ্যাক্সেস করেন বা নিয়ন্ত্রণ করেন, তখন এটি স্বয়ংক্রিয়ভাবে ফোকাস করবে৷ কোনো লিঙ্ক বা বোতামে ক্লিক করতে \u003Cspan class='key'>Enter\u003C/span> টিপুন৷ \u003C/p> \u003Cp> যখন কোনো ফোকাস করা নিয়ন্ত্রণ (কোনো পাঠ্য বক্স বা তালিকা বক্স) নির্দেশক তীরচিহ্নগুলি ক্যাপচার করে, তখন ক্যারেট ব্রাউজিং করা চালিয়ে যেতে বাম বা ডান তীর অনুসরণ করে \u003Cspan class='key'>Esc\u003C/span> টিপুন৷ \u003C/p> \u003Cp> অন্যথা, পরবর্তী ফোকাসযোগ্য নিয়ন্ত্রণে সরে যেতে \u003Cspan class='key'>Tab\u003C/span> টিপুন৷ \u003C/p>"
+   },
+   "CARET_BROWSING_JUMP": {
+      "message": "যখন ক্যারেট একটি বড় দূরত্বে সরে যায়:"
+   },
+   "CARET_BROWSING_KEYBOARDCOMMANDS": {
+      "message": "কীবোর্ড কমান্ডগুলি"
+   },
+   "CARET_BROWSING_MOVEBYWORDSMAC": {
+      "message": "শব্দগুলির দ্বারা সরাতে \u003Cspan class='key'>বিকল্প\u003C/span> টিপে ধরে রাখুন৷"
+   },
+   "CARET_BROWSING_MOVEBYWORDSNONMAC": {
+      "message": "শব্দগুলির দ্বারা সরাতে \u003Cspan class='key'>নিয়ন্ত্রণ\u003C/span> টিপে ধরে রাখুন৷"
+   },
+   "CARET_BROWSING_NAVHELP": {
+      "message": "\u003Cp>দস্তাবেজটি বরাবর সরাতে নির্দেশক তীরচিহ্নগুলি ব্যবহার করুন৷ \u003C/p>\u003Cp>সেই অবস্থানে কার্সার সরাতে যেকোনো স্থানে ক্লিক করুন৷ \u003C/p> \u003Cp> পাঠ্য নির্বাচন করতে \u003Cspan class='key'>Shift\u003C/span> + তীরচিহ্নগুলি টিপুন৷"
+   },
+   "CARET_BROWSING_NOFEEDBACK": {
+      "message": "কোনো প্রতিক্রিয়া নেই, শুধুমাত্র কার্সার প্রদর্শন করুন৷"
+   },
+   "CARET_BROWSING_SUBHEADING1": {
+      "message": "এই এক্সটেনশানটি আপনাকে ওয়েব পৃষ্ঠাটির উপর একটি চলনশীল কার্সার দেয়, আপনাকে কীবোর্ড দিয়ে পাঠ্য নির্বাচন করতে দেয়৷"
+   },
+   "CARET_BROWSING_SUBHEADING2": {
+      "message": "এখনই এটি ব্যবহার করে দেখুন - ক্যারেট ব্রাউজিং সর্বদা এই পৃষ্ঠায় সক্ষম করা থাকে!"
+   },
+   "CARET_BROWSING_VISUALFEEDBACK": {
+      "message": "চাক্ষুষ প্রতিক্রিয়া"
+   },
+   "CARET_BROWSING_WHENENABLED": {
+      "message": "যখন ক্যারেট ব্রাউজিং সক্ষম করা থাকবে:"
+   },
+   "COLOR_ENHANCER_ADJUSTMENT_FACTOR": {
+      "message": "Color adjustment"
+   },
+   "COLOR_ENHANCER_APPDESC": {
+      "message": "A customizable color filter applied to webpages to improve color perception."
+   },
+   "COLOR_ENHANCER_APPNAME": {
+      "message": "Color Enhancer"
+   },
+   "COLOR_ENHANCER_CANCEL": {
+      "message": "Cancel"
+   },
+   "COLOR_ENHANCER_DEGREE": {
+      "message": "Degree"
+   },
+   "COLOR_ENHANCER_ENABLE": {
+      "message": "Enable?"
+   },
+   "COLOR_ENHANCER_OK": {
+      "message": "OK"
+   },
+   "COLOR_ENHANCER_RESET": {
+      "message": "Reset"
+   },
+   "COLOR_ENHANCER_SETUP_BUTTON": {
+      "message": "Setup"
+   },
+   "COLOR_ENHANCER_SETUP_HEADING": {
+      "message": "Setup:"
+   },
+   "COLOR_ENHANCER_SEVERITY": {
+      "message": "Step 2: Adjust the slider until all of the stars are visible in the\n        selected row"
+   },
+   "COLOR_ENHANCER_TYPE_BLUE": {
+      "message": "নীল"
+   },
+   "COLOR_ENHANCER_TYPE_CHOICE": {
+      "message": "Step 1: Select the row with the faintest stars:"
+   },
+   "COLOR_ENHANCER_TYPE_GREEN": {
+      "message": "সবুজ"
+   },
+   "COLOR_ENHANCER_TYPE_RED": {
+      "message": "লাল"
+   },
+   "HIGHCONTRAST_": {
+      "message": "$1 এর জন্য রঙের স্কীম:"
+   },
+   "HIGHCONTRAST_APPDESC": {
+      "message": "ওয়েব পৃষ্ঠাগুলিকে আরও সহজে পাঠযোগ্য করতে পরিবর্তন করে বা রঙের স্কীম পাল্টায়৷"
+   },
+   "HIGHCONTRAST_APPNAME": {
+      "message": "উচ্চ কনট্রাস্ট"
+   },
+   "HIGHCONTRAST_DEFAULT": {
+      "message": "ডিফল্ট রঙের স্কীম:"
+   },
+   "HIGHCONTRAST_DISABLE": {
+      "message": "অক্ষম"
+   },
+   "HIGHCONTRAST_DISABLED": {
+      "message": "উচ্চ কনট্রাস্ট অক্ষম রয়েছে"
+   },
+   "HIGHCONTRAST_ENABLE": {
+      "message": "সক্ষম করুন"
+   },
+   "HIGHCONTRAST_ENABLED": {
+      "message": "উচ্চ কনট্রাস্ট সক্ষম করা রয়েছে"
+   },
+   "HIGHCONTRAST_FORGET": {
+      "message": "সাইট কাস্টমাইজেশনগুলি মুছুন"
+   },
+   "HIGHCONTRAST_GRAYSCALE": {
+      "message": "গ্রেস্কেল"
+   },
+   "HIGHCONTRAST_INCREASED_CONTRAST": {
+      "message": "বর্ধিত কনট্রাস্ট"
+   },
+   "HIGHCONTRAST_INVERTED_COLOR": {
+      "message": "ইনভার্টেড রঙ"
+   },
+   "HIGHCONTRAST_INVERTED_GRAYSCALE": {
+      "message": "ইনভার্টেড গ্রেস্কেল"
+   },
+   "HIGHCONTRAST_MODE_NORMAL": {
+      "message": "সাধারণ"
+   },
+   "HIGHCONTRAST_SETDEFAULT": {
+      "message": "ডিফল্ট স্কীম হিসাবে সেট করুন"
+   },
+   "HIGHCONTRAST_YELLOW_ON_BLACK": {
+      "message": "কালোতে হলুদ"
+   },
+   "LONGDESC_ADD_BORDER_CHECKBOX": {
+      "message": "aria-describedat বা longdesc অ্যাট্রিবিউটগুলির সাথে উপাদানগুলিতে সীমানা যোগ করুন৷"
+   },
+   "LONGDESC_APPDESC": {
+      "message": "কোনো \"longdesc\" বা \"aria-describedat\" অ্যাট্রিবিউটগুলির সাথে যেকোনো কিছুর উপর ডান-ক্লিক করুন৷"
+   },
+   "LONGDESC_APPNAME": {
+      "message": "বিষয়বস্তুর মেনুর মধ্যে দীর্ঘ বিবরণ"
+   },
+   "LONGDESC_CONTEXT_MENU_ITEM": {
+      "message": "নতুন ট্যাবে দীর্ঘ বিবরণ খুলুন"
+   },
+   "LONGDESC_OPTIONS": {
+      "message": "বিকল্পসমূহ"
+   }
+}

@@ -1,0 +1,46 @@
+{
+   "browser_error": {
+      "description": "Error mesage shown if the redirection has failed.",
+      "message": "Επικοινωνήστε με το διαχειριστή συστήματος."
+   },
+   "error_title": {
+      "description": "The title of the redirection page if an error has happened while trying to load the alternative browser.",
+      "message": "Δεν ήταν δυνατό το άνοιγμα του εναλλακτικού προγράμματος περιήγησης"
+   },
+   "extension_description": {
+      "description": "Description of the extension.",
+      "message": "Ανάπτυξη του Chrome για τον οργανισμό σας παράλληλα με την υποστήριξη προγραμμάτων περιήγησης παλαιού τύπου."
+   },
+   "extension_name": {
+      "description": "Name of the extension.",
+      "message": "Υποστήριξη προγράμματος περιήγησης παλιά"
+   },
+   "learn_more_message": {
+      "description": "Message shown on the bottom with a link to a (potentially) internationalized 'learn more' article",
+      "message": "\u003Ca href='https://www.google.com/intl/en/chrome/business/'>Μάθετε περισσότερα\u003C/a> σχετικά με την υποστήριξη προγραμμάτων περιήγησης παλαιού τύπου."
+   },
+   "redirect_message": {
+      "description": "Text shown on the redirection page while the alternative browser is started.",
+      "message": "Ο διαχειριστής του συστήματός σας έχει διαμορφώσει το Chrome έτσι ώστε να ανοίγει ένα εναλλακτικό πρόγραμμα περιήγησης για την πρόσβαση στη διεύθυνση \u003Cstrong>$url$\u003C/strong>.",
+      "placeholders": {
+         "url": {
+            "content": "$1",
+            "example": "http://google.com/"
+         }
+      }
+   },
+   "redirect_title": {
+      "description": "The title of the redirection page. Also shown in the Chrome title bar.",
+      "message": "Άνοιγμα σε εναλλακτικό πρόγραμμα περιήγησης…"
+   },
+   "wrong_protocol_error": {
+      "description": "This error is whown when the action page is invoke with a hash tag specifying an address that is not in the http/https protocols.",
+      "message": "Δεν είναι δυνατό το άνοιγμα της διεύθυνσης \u003Cstrong>$url$\u003C/strong> εξαιτίας ενός σφάλματος διαμόρφωσης πρωτοκόλλου. Επικοινωνήστε με το διαχειριστή του συστήματός σας.",
+      "placeholders": {
+         "url": {
+            "content": "$1",
+            "example": "http://google.com/"
+         }
+      }
+   }
+}

@@ -1,0 +1,25 @@
+{
+   "background": {
+      "scripts": [ "background_compiled.js" ]
+   },
+   "browser_action": {
+      "default_popup": "popup.html"
+   },
+   "content_security_policy": "script-src 'self' 'wasm-eval'; object-src 'self'",
+   "default_locale": "en",
+   "description": "__MSG_extension_description__",
+   "icons": {
+      "128": "icon128.png",
+      "16": "icon16.png",
+      "48": "icon48.png"
+   },
+   "incognito": "not_allowed",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnM5JbIr2W6muRxYTshLfWJrW67+HQhtfJwfiN+ABULEAYWjuv72KswXVeKVOjfpHd4G/3bIow2zYcVEiFwOGlHX1+/qYic6VUMg2oBsJDGSQjyZ5HpJop6Zmc8YJyyOw5OpRudIaEYmhJMpqtPqc9jKOVbf2RP9XIPlJ/lKhvHm/27Yib5R1sTXHtfzYReQg86vcljxuZMJ8LPbs2M7Y6Tb6OggCsb/+11K8C9MaxanuUry8xiIByfdJ6dSgzA6AklP2MX1uv0J4FoAQzLsCxUY5nzXcbWnyUNUTliMY02C2V77fEDqwqxM2vTa17EEt/pv39xQP0f1sN2Smac1J/QIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "67",
+   "name": "__MSG_extension_name__",
+   "permissions": [ "activeTab", "storage", "tabs", "webRequest", "\u003Call_urls>" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.10",
+   "web_accessible_resources": [ "warning.html" ]
+}

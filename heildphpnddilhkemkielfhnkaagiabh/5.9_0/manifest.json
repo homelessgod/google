@@ -1,0 +1,25 @@
+{
+   "background": {
+      "persistent": true,
+      "scripts": [ "js/port.js", "js/extension_logic.js", "js/background.js" ]
+   },
+   "default_locale": "en",
+   "description": "__MSG_extension_description__",
+   "icons": {
+      "128": "icon_128.png",
+      "16": "icon.png",
+      "48": "icon_48.png"
+   },
+   "incognito": "split",
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC4TEQzY23lT/kqZ4mSbHBncr64FiLpk4q8yRCkpUPZx7X/HzhYAs8ANDGRiW2/goyQ3KBONCHOYMniPVu92pI1p1sVTVFrmDzt+YRLT5cqXyp+wLK78W90FR1RSSXq7YKETse1ZJB//itaLp3qaNXqUbHpC7u3BZMmP1lQ440lgwIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "29",
+   "name": "__MSG_extension_name__",
+   "permissions": [ "storage", "tabs", "webRequest", "webRequestBlocking", "nativeMessaging", "http://*/*", "https://*/*" ],
+   "storage": {
+      "managed_schema": "schema.json"
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "5.9",
+   "web_accessible_resources": [ "action.html", "loading.html" ]
+}

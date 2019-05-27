@@ -1,0 +1,69 @@
+{
+   "app_description": {
+      "message": "Se data om AdSense-, Ad Exchange- og DFP-annonsene og -kontoene dine, og blokkér upassende annonser på nettstedet ditt."
+   },
+   "cs_overlay_date_7day": {
+      "message": "7 dager"
+   },
+   "cs_overlay_date_today": {
+      "message": "I dag"
+   },
+   "cs_overlay_date_yesterday": {
+      "message": "I går"
+   },
+   "cs_overlay_size_name": {
+      "message": "Størrelse"
+   },
+   "cs_overlay_type_name": {
+      "message": "Type"
+   },
+   "dfp_creative_id": {
+      "message": "Reklame: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "dfp_no_creative": {
+      "message": "DFP-reklamen er tom"
+   },
+   "dfp_unknown_creative": {
+      "message": "Ukjent reklame"
+   },
+   "domains_whitelist_saved": {
+      "message": "Listen over godkjente nettsteder er oppdatert."
+   },
+   "expired_creative": {
+      "message": "Vi klarte ikke å hente informasjonen om denne reklamen. Vent noen sekunder og prøv deretter å laste inn siden på nytt."
+   },
+   "expired_line_item": {
+      "message": "Vi klarte ikke å hente informasjonen om denne ordrelinjen. Vent noen sekunder og prøv deretter å laste inn siden på nytt."
+   },
+   "line_item_adsense_or_adx": {
+      "message": "AdSense eller Ad Exchange"
+   },
+   "line_item_id": {
+      "message": "Ordrelinje: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "line_item_no_ad": {
+      "message": "DFP-annonsen er tom"
+   },
+   "misconfigured_ad_notification_text": {
+      "message": "Denne siden inneholder \u003Ca href=\"ovnfc\">0\u003C/span> feilkonfigurerte annonseenheter. Dette kan ha en negativ innvirkning på inntektene dine. \u003Ca target=\"_new\" href=\"http://support.google.com/adsense/bin/answer.py?answer=2694805\" class=\"ovnfs\">Les mer\u003C/a>"
+   },
+   "no_results_creative": {
+      "message": "Vi fant ikke informasjonen om denne reklamen. Det kan hende du ikke har tilgang til den."
+   },
+   "no_results_line_item": {
+      "message": "Vi fant ikke informasjonen om denne ordrelinjen. Det kan hende du ikke har tilgang til den."
+   },
+   "settings_saved_title": {
+      "message": "Innstillingene er lagret"
+   }
+}

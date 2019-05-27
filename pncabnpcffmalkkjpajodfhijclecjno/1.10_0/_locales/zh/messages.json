@@ -1,0 +1,77 @@
+{
+   "close_button": {
+      "message": "关闭"
+   },
+   "extension_description": {
+      "message": "Password Checkup 可帮助您在帐号遭受数据泄露影响之后重新确保其安全。"
+   },
+   "extension_detailed_description": {
+      "message": "无论您在何处登录，只要您输入的用户名和密码因涉及 Google 已知的数据泄露而不再安全，就会收到系统提醒。请重置您的密码。如果您为任何其他帐号也使用该相同用户名和密码，也请重置这些帐号的密码。\n\n我们在设计“密码检查”时就充分考虑了隐私权问题。该功能不会报告有关您的帐号、密码或设备的任何识别信息。但我们会报告与显示不安全凭据的查询次数（无论您在收到系统提醒后是否更改密码）以及所涉网域相关的匿名信息，以提高网站的覆盖率。您可以访问 https://support.google.com/accounts?p=password-checkup，详细了解“密码检查”的工作原理。\n\n安装“密码检查”即表示您同意 www.google.com/policies/ 上所列的 Google 服务条款和隐私权政策。"
+   },
+   "extension_name": {
+      "message": "Password Checkup"
+   },
+   "ignore_button": {
+      "message": "忽略此网站"
+   },
+   "learn_more": {
+      "message": "了解详情"
+   },
+   "popup_advanced_settings_action": {
+      "message": "高级设置"
+   },
+   "popup_default_status_message": {
+      "message": "未检测到您最近使用过的密码发生数据泄露。"
+   },
+   "popup_ignore_button": {
+      "message": "忽略"
+   },
+   "popup_ignored_status_message": {
+      "message": "未检测到您最近使用过的密码发生数据泄露。但这不包括您已选择忽略重置的不安全密码。"
+   },
+   "popup_learn_more": {
+      "message": "了解详情"
+   },
+   "popup_multiple_accounts_warning_status_message": {
+      "message": "Password Checkup 检测到以下 \u003Cb>$1 个帐号\u003C/b>的密码因数据泄露而不再安全。",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "popup_number_unsafe_accounts": {
+      "message": "$1 个不安全帐号",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "popup_one_account_warning_status_message": {
+      "message": "Password Checkup 检测到以下 \u003Cb>1 个帐号\u003C/b>的密码因数据泄露而不再安全。"
+   },
+   "popup_reset_extension_button": {
+      "message": "清除扩展程序数据"
+   },
+   "popup_reset_extension_text": {
+      "message": "清除所有扩展程序数据。这项操作会移除所有与不安全密码和先前忽略的网站有关的已存储信息。"
+   },
+   "popup_warning_action": {
+      "message": "您应立即更改自己的密码。"
+   },
+   "reset_text": {
+      "message": "您应立即更改自己的密码。"
+   },
+   "warning_banner_header": {
+      "message": "更改密码"
+   },
+   "warning_text": {
+      "message": "Password Checkup 检测到您的 \u003Cb>$1\u003C/b> 密码因数据泄露而不再安全。",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   }
+}

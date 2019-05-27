@@ -1,0 +1,77 @@
+{
+   "close_button": {
+      "message": "Stäng"
+   },
+   "extension_description": {
+      "message": "Med hjälp av Password Checkup kan du förnya skyddet för konton som har utsatts för dataintrång."
+   },
+   "extension_detailed_description": {
+      "message": "Du får en avisering om du loggar in någonstans och anger ett användarnamn och lösenord som Google vet har blivit utsatt under ett dataintrång och därför inte längre är säkert. Återställ lösenordet. Om du använder samma användarnamn och lösenord för andra konton återställer du lösenordet där också.\n\nLösenordskontrollen skapades för att hjälpa dig att skydda din integritet. Den rapporterar aldrig information som kan identifiera konton, lösenord eller enheter. Däremot rapporteras anonym information om antalet uppslagningar som gav en osäker användaruppgift till svar, om lösenordet ändrades eller inte efter en varning och vilken domän det gällde i syfte att ge bättre webbplatstäckning. Du kan läsa mer om hur lösenordskontrollen fungerar på https://support.google.com/accounts?p=password-checkup.\n\nGenom att installera det här objektet godkänner du Googles användarvilkor och sekretesspolicy på www.google.com/policies/."
+   },
+   "extension_name": {
+      "message": "Password Checkup"
+   },
+   "ignore_button": {
+      "message": "Ignorera på denna webbplats"
+   },
+   "learn_more": {
+      "message": "Läs mer"
+   },
+   "popup_advanced_settings_action": {
+      "message": "Avancerade inställningar"
+   },
+   "popup_default_status_message": {
+      "message": "Inga lösenord som du har använt nyligen identifierades i samband med dataläckaget."
+   },
+   "popup_ignore_button": {
+      "message": "Ignorera"
+   },
+   "popup_ignored_status_message": {
+      "message": "Inga lösenord som du har använt nyligen identifierades i samband med dataläckaget. Informationen ovan gäller inte osäkra lösenord som du har valt bort återställningsfunktionen för."
+   },
+   "popup_learn_more": {
+      "message": "Läs mer"
+   },
+   "popup_multiple_accounts_warning_status_message": {
+      "message": "Password Checkup har upptäckt att följande \u003Cb>$1 konton\u003C/b> har lösenord som inte längre är säkra på grund av ett dataläckage.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "popup_number_unsafe_accounts": {
+      "message": "$1 osäkra konton",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "popup_one_account_warning_status_message": {
+      "message": "Password Checkup har upptäckt att lösenordet till följande \u003Cb>konto\u003C/b> inte längre är säkert på grund av ett dataläckage."
+   },
+   "popup_reset_extension_button": {
+      "message": "Rensa data för tillägget"
+   },
+   "popup_reset_extension_text": {
+      "message": "Rensa all data för tillägget All lagrad information om osäkra lösenord och webbplatser som tidigare har ignorerats tas bort."
+   },
+   "popup_warning_action": {
+      "message": "Du bör genast byta lösenord."
+   },
+   "reset_text": {
+      "message": "Du bör genast byta lösenord."
+   },
+   "warning_banner_header": {
+      "message": "Byt lösenord"
+   },
+   "warning_text": {
+      "message": "Password Checkup har upptäckt att ditt lösenord för \u003Cb>$1\u003C/b> inte längre är säkert på grund av ett dataintrång.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   }
+}

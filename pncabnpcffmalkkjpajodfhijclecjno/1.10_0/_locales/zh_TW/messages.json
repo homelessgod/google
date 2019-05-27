@@ -1,0 +1,77 @@
+{
+   "close_button": {
+      "message": "關閉"
+   },
+   "extension_description": {
+      "message": "帳戶發生資料侵害事件時，Password Checkup 可協助您重新確保帳戶的安全性。"
+   },
+   "extension_detailed_description": {
+      "message": "無論您登入的位置為何，只要輸入的使用者名稱和密碼受到 Google 已知的資料侵害而有安全疑慮，您就會收到一則警示。請重設您的密碼。如果您也在任何其他帳戶中使用了相同的使用者名稱和密碼，請重設該帳戶的密碼。\n\n我們在設計 Password Checkup 時便將隱私權納入考量，因此這項擴充功能不會回報任何與您的帳戶、密碼或裝置相關的個人識別資訊，而是會以匿名的方式回報以下資訊：揭露不安全憑證的查詢次數、使用者是否因警示而變更密碼，以及與這些事件關聯的網域，以改善網站的涵蓋範圍。如要進一步瞭解 Password Checkup 的運作方式，請前往 https://support.google.com/accounts?p=password-checkup。\n\n安裝這個項目即表示您同意 www.google.com/policies/ 中的《Google 服務條款》和《隱私權政策》。"
+   },
+   "extension_name": {
+      "message": "Password Checkup"
+   },
+   "ignore_button": {
+      "message": "忽略這個網站"
+   },
+   "learn_more": {
+      "message": "瞭解詳情"
+   },
+   "popup_advanced_settings_action": {
+      "message": "進階設定"
+   },
+   "popup_default_status_message": {
+      "message": "系統未在受侵害的資料中偵測到您最近使用的任何密碼。"
+   },
+   "popup_ignore_button": {
+      "message": "忽略"
+   },
+   "popup_ignored_status_message": {
+      "message": "系統未在受侵害的資料中偵測到您最近使用的任何密碼，但這不包括您選擇忽略重設的低安全性密碼。"
+   },
+   "popup_learn_more": {
+      "message": "瞭解詳情"
+   },
+   "popup_multiple_accounts_warning_status_message": {
+      "message": "Password Checkup 偵測到以下 \u003Cb>$1 個帳戶\u003C/b>的密碼因資料侵害事件而有安全疑慮。",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "popup_number_unsafe_accounts": {
+      "message": "$1 個帳戶有安全疑慮",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "popup_one_account_warning_status_message": {
+      "message": "Password Checkup 偵測到以下 \u003Cb>1 個帳戶\u003C/b>的密碼因資料侵害事件而有安全疑慮。"
+   },
+   "popup_reset_extension_button": {
+      "message": "清除擴充功能資料"
+   },
+   "popup_reset_extension_text": {
+      "message": "清除所有擴充功能資料。這樣做會移除所有與低安全性密碼和先前忽略的網站相關的已儲存資訊。"
+   },
+   "popup_warning_action": {
+      "message": "建議您立即變更密碼。"
+   },
+   "reset_text": {
+      "message": "建議您立即變更密碼。"
+   },
+   "warning_banner_header": {
+      "message": "變更您的密碼"
+   },
+   "warning_text": {
+      "message": "Password Checkup 偵測到您的 \u003Cb>$1\u003C/b> 密碼因資料侵害事件而有安全疑慮。",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   }
+}

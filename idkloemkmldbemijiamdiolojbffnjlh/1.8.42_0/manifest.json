@@ -1,0 +1,29 @@
+{
+   "background": {
+      "persistent": true,
+      "scripts": [ "background.js" ]
+   },
+   "content_scripts": [ {
+      "css": [ "app/cached.css" ],
+      "js": [ "app/cached.js" ],
+      "matches": [ "*://*.google.com/*" ],
+      "run_at": "document_end"
+   } ],
+   "content_security_policy": "default-src https://*.googleapis.com/vxrh3x3lh29hzwg7jabcxbdq/ https://*.googleapis.com/e1934bdd696ae9289/ https://ssl.google-analytics.com https://synergysetraining.appspot.com http://localhost:8888/ 'self'; connect-src *; img-src data:;",
+   "default_locale": "en",
+   "description": "__MSG_extension_description__",
+   "homepage_url": "http://www.synergyse.com",
+   "icons": {
+      "128": "synergyse-128.png",
+      "16": "synergyse-16.png",
+      "48": "synergyse-48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDdThubrqthS8N7y1+QUZ1J21rNjanh3ogUgdNSuBpgxE0T4jrtMm24JOm9aATxR3aI10uekxbEFACaDAfwhPwTMNB0I3Mu6ptJAzfgXLi+rpASHAZcPegFsERJ1KoiKc7GPq4Ds+cdQ1vj6T5PQK+P8iGyjXnbUvhcy6OAz8bfJwIDAQAB",
+   "manifest_version": 2,
+   "name": "G Suite Training",
+   "options_page": "options.html",
+   "permissions": [ "alarms", "storage", "tabs", "clipboardRead", "clipboardWrite", "*://*.google.com/*", "*://synergysetraining.appspot.com/*", "*://commondatastorage.googleapis.com/vxrh3x3lh29hzwg7jabcxbdq/*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.8.42",
+   "web_accessible_resources": [ "config/chrome.compiled.json", "installed.png", "_locales/*/messages.json" ]
+}

@@ -1,0 +1,77 @@
+{
+   "close_button": {
+      "message": "Bezárás"
+   },
+   "extension_description": {
+      "message": "A Password Checkup segítségével újra biztonságossá teheti az adatvédelmi incidensben érintett fiókjait."
+   },
+   "extension_detailed_description": {
+      "message": "Értesítést kap, ha bejelentkezéskor olyan felhasználónevet és jelszót ad meg, amelyek egy Google által ismert adatvédelmi incidens miatt már nem biztonságosak. Kérjük, módosítsa jelszavát. Ha más fiókoknál is ugyanazt a felhasználónevet és jelszót használja, az érintett fiókokban is módosítsa jelszavát.\n\nA Password Checkup létrehozásakor az adatvédelem volt a fő szempont. A szolgáltatás nem továbbít azonosító adatokat az Ön fiókjairól, jelszavairól és eszközeiről. A webhelyek lefedettségének növelése érdekében névtelen információkat továbbítunk a nem biztonságos hitelesítési adatokat felfedő keresések számáról, az érintett domainről, illetve arról, hogy a figyelmeztetés jelszómódosításhoz vezet-e. További információ a Password Checkup működéséről: https://support.google.com/accounts?p=password-checkup.\n\nA telepítéssel elfogadja a Google Általános Szerződési Feltételeket és Adatvédelmi irányelveket (www.google.com/policies/)."
+   },
+   "extension_name": {
+      "message": "Password Checkup"
+   },
+   "ignore_button": {
+      "message": "Ezen a webhelyen hagyja figyelmen kívül"
+   },
+   "learn_more": {
+      "message": "További információ"
+   },
+   "popup_advanced_settings_action": {
+      "message": "Speciális beállítások"
+   },
+   "popup_default_status_message": {
+      "message": "Egyik mostanában használt jelszavát sem észleltük az adatvédelmi incidenssel kapcsolatban."
+   },
+   "popup_ignore_button": {
+      "message": "Mellőzés"
+   },
+   "popup_ignored_status_message": {
+      "message": "Egyik mostanában használt jelszavát sem észleltük az adatvédelmi incidenssel kapcsolatban. Ez nem vonatkozik azokra a nem biztonságos jelszavakra, amelyeknél a módosítás mellőzése mellett döntött."
+   },
+   "popup_learn_more": {
+      "message": "További információ"
+   },
+   "popup_multiple_accounts_warning_status_message": {
+      "message": "A Password Checkup szerint a következő \u003Cb>$1 fiók\u003C/b> jelszavai adatvédelmi incidens miatt már nem biztonságosak.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "popup_number_unsafe_accounts": {
+      "message": "$1 nem biztonságos fiók",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "popup_one_account_warning_status_message": {
+      "message": "A Password Checkup szerint a következő \u003Cb>1 fiók\u003C/b> jelszava adatvédelmi incidens miatt már nem biztonságos."
+   },
+   "popup_reset_extension_button": {
+      "message": "Bővítményadatok törlése"
+   },
+   "popup_reset_extension_text": {
+      "message": "Az összes bővítményadat törlése. Ezzel a biztonságos jelszavakkal és korábban mellőzött oldalakkal kapcsolatban tárolt összes adatot törli."
+   },
+   "popup_warning_action": {
+      "message": "Érdemes azonnal megváltoztatnia jelszavait."
+   },
+   "reset_text": {
+      "message": "Érdemes azonnal megváltoztatnia jelszavát."
+   },
+   "warning_banner_header": {
+      "message": "Módosítsa jelszavát"
+   },
+   "warning_text": {
+      "message": "A Password Checkup szerint a(z) \u003Cb>$1\u003C/b> domainhez tartozó jelszava adatvédelmi incidens miatt már nem biztonságos.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   }
+}

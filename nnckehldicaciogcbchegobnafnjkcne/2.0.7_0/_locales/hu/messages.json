@@ -1,0 +1,126 @@
+{
+   "before_trying_again": {
+      "description": "Error resolution tip in error pages.",
+      "message": "Mielőtt újból próbálkozna:"
+   },
+   "browser_action_title": {
+      "description": "Browser action title that shows up on hover.",
+      "message": "Az URL sugárzása"
+   },
+   "context_menu_disable": {
+      "description": "Label of the context menu item that disables Tone.",
+      "message": "A Tone kikapcsolása"
+   },
+   "context_menu_enable": {
+      "description": "Label of the context menu item that enables Tone.",
+      "message": "A Tone bekapcsolása"
+   },
+   "description": {
+      "description": "Extension description.",
+      "message": "Sugározzon bármilyen URL-t a hallótávolságban lévő számítógépekre."
+   },
+   "ensure_online": {
+      "description": "Network workaround.",
+      "message": "Győződjön meg róla, hogy számítógépe online állapotban van."
+   },
+   "error_audio_title": {
+      "description": "Title of the error_audio.html page.",
+      "message": "A Google Tone semmit nem hallott."
+   },
+   "error_network_title": {
+      "description": "Title of error_network.html page.",
+      "message": "Sajnos ez nem vált be."
+   },
+   "increase_volume": {
+      "description": "Audio workaround #1",
+      "message": "Növelje a hangerőt."
+   },
+   "invite_others": {
+      "description": "Press the button to try it.",
+      "message": "Hívjon meg másokat is a Google Tone használatára: {{shortlink}}"
+   },
+   "name": {
+      "description": "Extension name.",
+      "message": "Google Tone"
+   },
+   "notification_receive_message_format": {
+      "description": "Notification message when you receive a Tone.",
+      "message": "Kattintson ide a következő megnyitásához: „{{title}}” ({{domain}} domain)"
+   },
+   "notification_receive_test_page_message": {
+      "description": "Notification message sent from Tone test page.",
+      "message": "Kattintson ide a Tone kipróbálásához!"
+   },
+   "notification_receive_title_format": {
+      "description": "Notification title when you receive a Tone.",
+      "message": "URL {{username}} felhasználótól!"
+   },
+   "notification_send_fail_audio_message": {
+      "description": "Notification title shown when audio verification fails.",
+      "message": "Ellenőrizze hangerő-beállításait, és próbálkozzon újra.\nTovábbi információért kattintson ide."
+   },
+   "notification_send_fail_audio_title": {
+      "description": "Notification title shown when audio verification fails.",
+      "message": "A Tone nem hallja saját magát"
+   },
+   "notification_send_fail_network_message": {
+      "description": "Notification message shown when a Tone was attempted but the network was offline.",
+      "message": "Úgy tűnik, offline módban van.\nTovábbi információért kattintson ide."
+   },
+   "notification_send_fail_network_title": {
+      "description": "Notification title shown when a Tone was attempted but the network was offline.",
+      "message": "Az URL küldése sikertelen volt"
+   },
+   "press_button": {
+      "description": "Press the button to try it.",
+      "message": "A(z) {{action_image}} gombot lenyomva a kiválasztott URL-t a hallótávolságban lévő számítógépekre sugározhatja."
+   },
+   "report_bug": {
+      "description": "Report a bug",
+      "message": "Programhiba bejelentése"
+   },
+   "settings_off": {
+      "description": "Indicator showing that Tone is disabled.",
+      "message": "KI"
+   },
+   "settings_off_subtitle": {
+      "description": "Subtitle showing that Tone is disabled.",
+      "message": "Nem tud URL-t küldeni és fogadni."
+   },
+   "settings_off_title": {
+      "description": "Title showing that Tone is disabled.",
+      "message": "A Google Tone ki van kapcsolva"
+   },
+   "settings_on": {
+      "description": "Indicator showing that Tone is enabled.",
+      "message": "BE"
+   },
+   "settings_on_subtitle": {
+      "description": "Subtitle showing that Tone is enabled.",
+      "message": "Készen áll arra, hogy URL-eket küldjön és fogadjon."
+   },
+   "settings_on_title": {
+      "description": "Title showing that Tone is enabled.",
+      "message": "A Google Tone be van kapcsolva"
+   },
+   "settings_title": {
+      "description": "Title of settings.html",
+      "message": "Beállítások"
+   },
+   "success_call": {
+      "description": "Call to action of success.html.",
+      "message": "Navigáljon egy másik oldalra, és kattintson a(z) {{action_image}} gombra, hogy ezt másokkal is közölhesse."
+   },
+   "success_title": {
+      "description": "Title of success.html.",
+      "message": "A Google Tone működött!"
+   },
+   "try_now": {
+      "description": "Call to action to try the extension.",
+      "message": "Próbálja ki a Google Tone bővítményt!"
+   },
+   "unplug_headphones": {
+      "description": "Audio workaround #2",
+      "message": "Húzza ki a fejhallgatót."
+   }
+}

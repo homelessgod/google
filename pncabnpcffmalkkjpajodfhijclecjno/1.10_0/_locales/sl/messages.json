@@ -1,0 +1,77 @@
+{
+   "close_button": {
+      "message": "Zapri"
+   },
+   "extension_description": {
+      "message": "Password Checkup vam pomaga znova zavarovati račune, na katere so vplivale podatkovne kršitve."
+   },
+   "extension_detailed_description": {
+      "message": "Če pri prijavi vnesete uporabniško ime in geslo, ki zaradi podatkovne kršitve, znane Googlu, nista več varna, prejmete opozorilo. Ponastavite geslo. Če isto uporabniško ime in geslo uporabljate za katerega od drugih računov, geslo ponastavite tudi zanje.\n\nPri razvoju pregleda gesel smo upoštevali tudi zasebnost. Ne sporoča podatkov, ki bi omogočali prepoznavo računov, gesel ali naprave. Poročamo anonimne podatke o številu iskanj, ki prikažejo poverilnico, ki ni varna, o tem, ali je zaradi opozorila spremenjeno geslo, ter o domeni, povezani z izboljšanjem pokritosti spletnega mesta. Več o tem, kako deluje Password Checkup, je na voljo na https://support.google.com/accounts?p=password-checkup.\n\nČe ga namestite, se strinjate z Googlovimi pogoji storitve in pravilnikom o zasebnosti na www.google.com/policies/."
+   },
+   "extension_name": {
+      "message": "Password Checkup"
+   },
+   "ignore_button": {
+      "message": "Prezri za to spletno mesto"
+   },
+   "learn_more": {
+      "message": "Več o tem"
+   },
+   "popup_advanced_settings_action": {
+      "message": "Dodatne nastavitve"
+   },
+   "popup_default_status_message": {
+      "message": "Pri podatkovni kršitvi ni bilo zaznano nobeno vaše nedavno uporabljeno geslo."
+   },
+   "popup_ignore_button": {
+      "message": "Prezri"
+   },
+   "popup_ignored_status_message": {
+      "message": "Pri podatkovni kršitvi ni bilo zaznano nobeno vaše nedavno uporabljeno geslo. To ne vključuje gesel, ki niso varna, za katera ste se odločili, da jih ne boste ponastavili."
+   },
+   "popup_learn_more": {
+      "message": "Več o tem"
+   },
+   "popup_multiple_accounts_warning_status_message": {
+      "message": "Password Checkup je zaznal, da imajo naslednji \u003Cb>računi ($1)\u003C/b> gesla, ki zaradi podatkovne kršitve niso več varna.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "popup_number_unsafe_accounts": {
+      "message": "Št. računov, ki niso varni: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "popup_one_account_warning_status_message": {
+      "message": "Password Checkup je zaznal, da ima naslednji \u003Cb>1 račun\u003C/b> geslo, ki zaradi podatkovne kršitve ni več varno."
+   },
+   "popup_reset_extension_button": {
+      "message": "Izbriši podatke razširitev"
+   },
+   "popup_reset_extension_text": {
+      "message": "Izbrišite vse podatke razširitev. S tem boste odstranili vse shranjene podatke o geslih, ki niso varna, ter prezrtih spletnih mestih."
+   },
+   "popup_warning_action": {
+      "message": "Takoj zamenjajte gesla."
+   },
+   "reset_text": {
+      "message": "Spremenite geslo."
+   },
+   "warning_banner_header": {
+      "message": "Spreminjanje gesla"
+   },
+   "warning_text": {
+      "message": "Password Checkup je zaznal, da geslo za domeno \u003Cb>$1\u003C/b> zaradi podatkovne kršitve ni več varno.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   }
+}

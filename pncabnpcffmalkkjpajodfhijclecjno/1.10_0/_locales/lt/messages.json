@@ -1,0 +1,77 @@
+{
+   "close_button": {
+      "message": "Uždaryti"
+   },
+   "extension_description": {
+      "message": "Naudojant plėtinį „Password Checkup“ galima pakartotinai apsaugoti paskyras, kurios buvo paveiktos dėl duomenų saugos pažeidimo."
+   },
+   "extension_detailed_description": {
+      "message": "Jei prisijungdami įvesite naudotojo vardą ir slaptažodį, kuris nebesaugus, nes buvo pateiktas „Google“ žinomame duomenų saugos pažeidime, gausite įspėjimą. Iš naujo nustatykite slaptažodį. Jei naudojate tą patį naudotojo vardą ir slaptažodį bet kokioms kitoms paskyroms, nustatykite slaptažodį iš naujo ir šiose paskyrose.\n\n„Password Checkup“ buvo sukurtas galvojant apie privatumą. Naudojant plėtinį niekada neteikiama jokia identifikavimo informacija apie jūsų paskyras, slaptažodžius ar įrenginį. Siekdami pagerinti svetainės aprėptį, pateikiame anoniminę informaciją apie paieškų, dėl kurių buvo atskleidžiami nesaugūs prisijungimo duomenys, skaičių, nesvarbu, ar po įspėjimo slaptažodis buvo pakeistas, ir susijusius domenus. Daugiau apie „Password Checkup“ veikimą sužinosite adresu https://support.google.com/accounts?p=password-checkup.\n\nĮdiegdami šį elementą sutinkate su „Google“ paslaugų teikimo sąlygomis ir privatumo politika www.google.com/policies/."
+   },
+   "extension_name": {
+      "message": "Password Checkup"
+   },
+   "ignore_button": {
+      "message": "Nepaisyti šioje svetainėje"
+   },
+   "learn_more": {
+      "message": "Sužinokite daugiau"
+   },
+   "popup_advanced_settings_action": {
+      "message": "Išplėstiniai nustatymai"
+   },
+   "popup_default_status_message": {
+      "message": "Duomenų saugos pažeidime nebuvo aptikta jokių neseniai naudotų slaptažodžių."
+   },
+   "popup_ignore_button": {
+      "message": "Nepaisyti"
+   },
+   "popup_ignored_status_message": {
+      "message": "Duomenų saugos pažeidime nebuvo aptikta jokių neseniai naudotų slaptažodžių. Čia neįtraukiami nesaugūs slaptažodžiai, kuriuos pasirinkote nenustatyti iš naujo."
+   },
+   "popup_learn_more": {
+      "message": "Sužinokite daugiau"
+   },
+   "popup_multiple_accounts_warning_status_message": {
+      "message": "Naudojant plėtinį „Password Checkup“ nustatyta, kad nurod. \u003Cb>$1 pask.\u003C/b> slaptažodžiai yra nebesaugūs dėl duomenų saugos pažeidimo.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "popup_number_unsafe_accounts": {
+      "message": "Nesaugių paskyrų: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "popup_one_account_warning_status_message": {
+      "message": "Naudojant plėtinį „Password Checkup“ nustatyta, kad nurod. \u003Cb>1 pask.\u003C/b> slaptažodis yra nebesaugus dėl duomenų saugos pažeidimo."
+   },
+   "popup_reset_extension_button": {
+      "message": "Išvalyti plėtinių duomenis"
+   },
+   "popup_reset_extension_text": {
+      "message": "Išvalyti visus plėtinių duomenis. Tai atlikus bus pašalinta visa saugoma informacija apie nesaugius slaptažodžius ir anksčiau nepaisytas svetaines."
+   },
+   "popup_warning_action": {
+      "message": "Turėtumėte pakeisti savo slaptažodžius dabar."
+   },
+   "reset_text": {
+      "message": "Turėtumėte pakeisti savo slaptažodį dabar."
+   },
+   "warning_banner_header": {
+      "message": "Pakeiskite slaptažodį"
+   },
+   "warning_text": {
+      "message": "Naudojant plėtinį „Password Checkup“ nustatyta, kad \u003Cb>$1\u003C/b> slaptažodis yra nebesaugus dėl duomenų saugos pažeidimo.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   }
+}

@@ -1,0 +1,46 @@
+{
+   "browser_error": {
+      "description": "Error mesage shown if the redirection has failed.",
+      "message": "आपल्या सिस्टीम प्रशासकाशी संपर्क साधा."
+   },
+   "error_title": {
+      "description": "The title of the redirection page if an error has happened while trying to load the alternative browser.",
+      "message": "वैकल्पिक ब्राउझर उघडू शकले नाही"
+   },
+   "extension_description": {
+      "description": "Description of the extension.",
+      "message": "परंपरागत ब्राउझर समर्थित करत असताना आपल्या संस्थेच्या Chrome चे उपयोजन करा."
+   },
+   "extension_name": {
+      "description": "Name of the extension.",
+      "message": "परंपरागत ब्राउझर समर्थन"
+   },
+   "learn_more_message": {
+      "description": "Message shown on the bottom with a link to a (potentially) internationalized 'learn more' article",
+      "message": "परंपरागत ब्राउझर समर्थनाबद्दल \u003Ca href='https://www.google.com/intl/en/chrome/business/'>अधिक जाणून घ्या\u003C/a>."
+   },
+   "redirect_message": {
+      "description": "Text shown on the redirection page while the alternative browser is started.",
+      "message": "\u003Cstrong>$url$\u003C/strong> वर प्रवेश करण्‍याकरिता वैकल्पिक ब्राउझर उघडण्यासाठी आपल्या सिस्टीम प्रशासकाने Chrome कॉन्फिगर केले आहे.",
+      "placeholders": {
+         "url": {
+            "content": "$1",
+            "example": "http://google.com/"
+         }
+      }
+   },
+   "redirect_title": {
+      "description": "The title of the redirection page. Also shown in the Chrome title bar.",
+      "message": "वैकल्पिक ब्राउझरमध्ये उघडत आहे..."
+   },
+   "wrong_protocol_error": {
+      "description": "This error is whown when the action page is invoke with a hash tag specifying an address that is not in the http/https protocols.",
+      "message": "एका प्रोटोकॉल कॉन्फिगरेशन त्रुटीमुळे \u003Cstrong>$url$\u003C/strong> उघडली जाऊ शकत नाही. कृपया आपल्या सिस्टीम प्रशासकाशी संपर्क साधा.",
+      "placeholders": {
+         "url": {
+            "content": "$1",
+            "example": "http://google.com/"
+         }
+      }
+   }
+}

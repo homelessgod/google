@@ -1,0 +1,46 @@
+{
+   "browser_error": {
+      "description": "Error mesage shown if the redirection has failed.",
+      "message": "Sazinieties ar savu sistēmas administratoru."
+   },
+   "error_title": {
+      "description": "The title of the redirection page if an error has happened while trying to load the alternative browser.",
+      "message": "Nevarēja atvērt papildu pārlūku."
+   },
+   "extension_description": {
+      "description": "Description of the extension.",
+      "message": "Izmantojiet Chrome savā organizācijā, vienlaikus atbalstot mantotos pārlūkus."
+   },
+   "extension_name": {
+      "description": "Name of the extension.",
+      "message": "Mantoto pārlūku atbalsts"
+   },
+   "learn_more_message": {
+      "description": "Message shown on the bottom with a link to a (potentially) internationalized 'learn more' article",
+      "message": "\u003Ca href='https://www.google.com/intl/lv/chrome/business/'>Uzziniet vairāk\u003C/a> par mantoto pārlūku atbalstu."
+   },
+   "redirect_message": {
+      "description": "Text shown on the redirection page while the alternative browser is started.",
+      "message": "Sistēmas administrators ir konfigurējis pārlūku Chrome, lai vietne \u003Cstrong>$url$\u003C/strong> tiktu atvērta papildu pārlūkā.",
+      "placeholders": {
+         "url": {
+            "content": "$1",
+            "example": "http://google.com/"
+         }
+      }
+   },
+   "redirect_title": {
+      "description": "The title of the redirection page. Also shown in the Chrome title bar.",
+      "message": "Notiek atvēršana papildu pārlūkā..."
+   },
+   "wrong_protocol_error": {
+      "description": "This error is whown when the action page is invoke with a hash tag specifying an address that is not in the http/https protocols.",
+      "message": "Vietni \u003Cstrong>$url$\u003C/strong> nevar atvērt protokola konfigurācijas kļūdas dēļ. Lūdzu, sazinieties ar savu sistēmas administratoru.",
+      "placeholders": {
+         "url": {
+            "content": "$1",
+            "example": "http://google.com/"
+         }
+      }
+   }
+}

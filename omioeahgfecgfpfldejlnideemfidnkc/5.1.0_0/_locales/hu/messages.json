@@ -1,0 +1,69 @@
+{
+   "app_description": {
+      "message": "AdSense-, Ad Exchange- és DoubleClick for Publishers-hird. és -fiókok adatainak megtekint., a nem megf. hird. letiltása a webhelyen."
+   },
+   "cs_overlay_date_7day": {
+      "message": "7 nap"
+   },
+   "cs_overlay_date_today": {
+      "message": "Ma"
+   },
+   "cs_overlay_date_yesterday": {
+      "message": "Tegnap"
+   },
+   "cs_overlay_size_name": {
+      "message": "Méret"
+   },
+   "cs_overlay_type_name": {
+      "message": "Típus"
+   },
+   "dfp_creative_id": {
+      "message": "Hirdetés: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "dfp_no_creative": {
+      "message": "Nincs DFP-hirdetés"
+   },
+   "dfp_unknown_creative": {
+      "message": "Ismeretlen hirdetés"
+   },
+   "domains_whitelist_saved": {
+      "message": "Az engedélyezett oldalak listája frissült."
+   },
+   "expired_creative": {
+      "message": "Erre a hirdetésre vonatkozóan nem találtunk információt. Kérjük, várjon néhány másodpercet, majd próbálja meg újra betölteni az oldalt."
+   },
+   "expired_line_item": {
+      "message": "Erre a sorelemre vonatkozóan nem találtunk információt. Kérjük, várjon néhány másodpercet, majd próbálja meg újra betölteni az oldalt."
+   },
+   "line_item_adsense_or_adx": {
+      "message": "AdSense vagy Ad Exchange"
+   },
+   "line_item_id": {
+      "message": "Sor: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "line_item_no_ad": {
+      "message": "Nincs DFP-hirdetés"
+   },
+   "misconfigured_ad_notification_text": {
+      "message": "Ezen az oldalon \u003Ca href=\"ovnfc\">0\u003C/span> darab helytelenül konfigurált hirdetési egység található. Ez negatív hatással lehet a bevételére. \u003Ca target=\"_new\" href=\"http://support.google.com/adsense/bin/answer.py?answer=2694805\" class=\"ovnfs\">További információ\u003C/a>"
+   },
+   "no_results_creative": {
+      "message": "Erre a hirdetésre vonatkozóan nem találtunk információt. Előfordulhat, hogy nem rendelkezik a megfelelő hozzáféréssel."
+   },
+   "no_results_line_item": {
+      "message": "Erre a sorelemre vonatkozóan nem találtunk információt. Előfordulhat, hogy nem rendelkezik a megfelelő hozzáféréssel."
+   },
+   "settings_saved_title": {
+      "message": "A beállítások mentése megtörtént"
+   }
+}

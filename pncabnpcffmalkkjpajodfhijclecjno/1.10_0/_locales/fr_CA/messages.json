@@ -1,0 +1,77 @@
+{
+   "close_button": {
+      "message": "Fermer"
+   },
+   "extension_description": {
+      "message": "L'extension Password Checkup vous aide à sécuriser de nouveau les comptes touchés par les violations de données."
+   },
+   "extension_detailed_description": {
+      "message": "Lorsque vous vous connectez, si vous entrez un nom d'utilisateur et un mot de passe qui ne sont plus sécurisés (car ils faisaient partie d'une violation de données dont Google est au courant), vous recevrez une alerte. Veuillez réinitialiser votre mot de passe. Si vous utilisez le même nom d'utilisateur et le même mot de passe pour d'autres comptes, veuillez réinitialiser votre mot de passe au même endroit.\n\nL'outil de vérification de mot de passe a été conçu pour augmenter la sécurité de vos données. Il ne partage jamais de renseignements personnels concernant vos comptes, vos mots de passe ni vos appareils. Nous signalons des données anonymes concernant le nombre de recherche associées à des données de connexion non sécuritaires ainsi que le domaine en question, que l'alerte mène à un changement de mot de passe ou non, afin d'améliorer la couverture de sites. Pour en apprendre davantage sur la façon dont fonctionne la vérification de mot de passe, consultez la page : https://support.google.com/accounts?p=password-checkup.\n\nEn installant cet élément, vous acceptez les conditions d'utilisations et la politique de confidentialité de Google, accessibles à l'adresse www.google.com/policies/."
+   },
+   "extension_name": {
+      "message": "Password Checkup"
+   },
+   "ignore_button": {
+      "message": "Ignorer pour ce site"
+   },
+   "learn_more": {
+      "message": "En savoir plus"
+   },
+   "popup_advanced_settings_action": {
+      "message": "Paramètres avancés"
+   },
+   "popup_default_status_message": {
+      "message": "Aucun des mots de passe que vous avez récemment utilisés n'a été détecté dans une violation de données."
+   },
+   "popup_ignore_button": {
+      "message": "Ignorer"
+   },
+   "popup_ignored_status_message": {
+      "message": "Aucun des mots de passe que vous avez récemment utilisés n'a été détecté dans une violation de données. Cela ne comprend pas les mots de passe non sécuritaires que vous avez choisi de ne pas réinitialiser."
+   },
+   "popup_learn_more": {
+      "message": "En savoir plus"
+   },
+   "popup_multiple_accounts_warning_status_message": {
+      "message": "L'extension Password Checkup a détecté que \u003Cb>le compte suivant ($1)\u003C/b> a un mot de passe qui n'est plus sécuritaire en raison d'une violation de données.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "popup_number_unsafe_accounts": {
+      "message": "$1 comptes non sécuritaires",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "popup_one_account_warning_status_message": {
+      "message": "L'extension Password Checkup a détecté que \u003Cb>le compte suivant\u003C/b> a un mot de passe qui n'est plus sécuritaire en raison d'une violation de données."
+   },
+   "popup_reset_extension_button": {
+      "message": "Effacer les données des extensions"
+   },
+   "popup_reset_extension_text": {
+      "message": "Effacer toutes les données des extensions. Cette action supprimera toutes les données stockées à propos des mots de passe non sécuritaires et des sites précédemment ignorés."
+   },
+   "popup_warning_action": {
+      "message": "Vous devriez changer vos mots de passe immédiatement."
+   },
+   "reset_text": {
+      "message": "Vous devriez changer votre mot de passe immédiatement."
+   },
+   "warning_banner_header": {
+      "message": "Changer le mot de passe"
+   },
+   "warning_text": {
+      "message": "L'extension Password Checkup a détecté que votre mot de passe pour \u003Cb>$1\u003C/b> n'est plus sécuritaire en raison d'une violation de données.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   }
+}

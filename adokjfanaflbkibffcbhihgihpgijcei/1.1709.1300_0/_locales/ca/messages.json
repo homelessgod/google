@@ -1,0 +1,440 @@
+{
+   "101206989909763677": {
+      "message": "Alumnes de \"$CLASS_NAME$\"",
+      "placeholders": {
+         "CLASS_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "1258929983314547244": {
+      "message": "S'HA ENVIAT AL PROFESSOR"
+   },
+   "1301730406464354688": {
+      "message": "Obre Classroom"
+   },
+   "1462156539679968804": {
+      "message": "S'han rebut dels alumnes"
+   },
+   "1472332582476021124": {
+      "message": "Els alumnes poden veure el fitxer"
+   },
+   "1510105121221276016": {
+      "message": "Bloqueja-ho a la pantalla"
+   },
+   "1550690544509024009": {
+      "message": "{numFlings,plural, =1{# nou}other{# nous}}"
+   },
+   "1663150675851578875": {
+      "message": "Tenim problemes per connectar-nos a $PRODUCT_NAME$. Assegureu-vos que teniu connexió de xarxa i torneu-ho a provar.",
+      "placeholders": {
+         "PRODUCT_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "1758804700969198023": {
+      "message": "Menú Comparteix"
+   },
+   "1790549872641667595": {
+      "message": "Comparteix a Classroom (ús intern)"
+   },
+   "1951089763019042037": {
+      "message": "Alumne"
+   },
+   "2050089326602918210": {
+      "message": "Comparteix a Classroom"
+   },
+   "2062938386395101624": {
+      "message": "S'han enviat als alumnes"
+   },
+   "2070581630224025695": {
+      "message": "Publica una notificació"
+   },
+   "2090147790320018555": {
+      "message": "No heu enviat res últimament."
+   },
+   "2213990758451550370": {
+      "message": "Els alumnes poden comentar el fitxer"
+   },
+   "2266749875018591275": {
+      "message": "La vostra extensió $PRODUCT_NAME$ és obsoleta. Per continuar, feu clic a $START_LINK$desinstal·la aquesta extensió$END_LINK$. Aquesta acció també obrirà la pàgina de Chrome Web Store, des d'on es pot tornar a instal·lar l'extensió.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "PRODUCT_NAME": {
+            "content": "$2"
+         },
+         "START_LINK": {
+            "content": "$3"
+         }
+      }
+   },
+   "2315140680766681153": {
+      "message": "No hi ha cap alumne per mostrar."
+   },
+   "2409870568039115310": {
+      "message": "ENVIA AL PROFESSOR"
+   },
+   "2416435327104074837": {
+      "message": "S'han enviat al professor"
+   },
+   "265018083235803821": {
+      "message": "Menú de permisos"
+   },
+   "272253201636921624": {
+      "message": "S'està enviant"
+   },
+   "3208531239543188174": {
+      "message": "S'obrirà d'aquí a {numSeconds,plural, =1{1 segon}other{# segons}}..."
+   },
+   "3727581148109420602": {
+      "message": "Obre en una pestanya nova"
+   },
+   "3852289441366561594": {
+      "message": "S'està connectant..."
+   },
+   "3853169172456108967": {
+      "message": "CREA UNA CLASSE O ENTRA-HI"
+   },
+   "3894950702316166331": {
+      "message": "S'està carregant..."
+   },
+   "4012779869104225222": {
+      "message": "Llista de classes"
+   },
+   "4048890404505834885": {
+      "message": "Fes una pregunta"
+   },
+   "4101941266124151376": {
+      "message": "activat"
+   },
+   "4221250166827447984": {
+      "message": "Mirant $TITLE$",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "4269658859113770197": {
+      "message": "Les vostres classes s'estan carregant..."
+   },
+   "436489073937327740": {
+      "message": "Envieu registres addicionals a Google amb les pàgines que s'hagin compartit i les adreces electròniques dels membres de la vostra classe."
+   },
+   "4481147463445876932": {
+      "message": "Crea una tasca"
+   },
+   "4491595920888170943": {
+      "message": "La pàgina actual no es pot compartir."
+   },
+   "4622108781632885640": {
+      "message": "S'han rebut del professor"
+   },
+   "4742705439416933924": {
+      "message": "Entreu en una classe per obrir pàgines conjuntament"
+   },
+   "4748990655911819545": {
+      "message": "Cursos impartits"
+   },
+   "4811423455816775324": {
+      "message": "Per poder utilitzar $PRODUCT$ heu d'haver iniciat la sessió a Chrome\nFeu clic aquí per iniciar-la",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "4849976898594713883": {
+      "message": "$PRODUCT$ té problemes per connectar-se als seus servidors, possiblement a causa de la configuració d'una passarel·la o del tallafoc. Comprova la configuració del tallafoc i assegura't que permet el trànsit amb $SERVER$.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         },
+         "SERVER": {
+            "content": "$2"
+         }
+      }
+   },
+   "48585068921907804": {
+      "message": "Tenim problemes per connectar-nos a $PRODUCT_NAME$. Proveu de tancar la sessió del compte i tornar-la a iniciar. Si el problema continua, feu clic a la icona de suggeriments de sota per enviar-nos-en.",
+      "placeholders": {
+         "PRODUCT_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "4930506384627295710": {
+      "message": "Configuració"
+   },
+   "533692309512814645": {
+      "message": "ENVIA"
+   },
+   "5354810546510399127": {
+      "message": "Obre la pàgina d'ajuda"
+   },
+   "5560440246965579819": {
+      "message": "Els professors poden veure el fitxer"
+   },
+   "566090020805595985": {
+      "message": "CREA UNA CLASSE"
+   },
+   "5851560788527570644": {
+      "message": "Notificacions"
+   },
+   "5936353814217802658": {
+      "message": "ENVIA AL PROFESSOR"
+   },
+   "6031597996865914480": {
+      "message": "ENVIA"
+   },
+   "6042567254866620046": {
+      "message": "Aquest sistema no està connectat a $PRODUCT$. Premeu el botó de connexió per intentar connectar-lo.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "6084304183859355623": {
+      "message": "Heu iniciat la sessió com a $EMAIL$. Per continuar, $START_LINK$inicieu la sessió a Chrome$END_LINK$ amb un compte de Google del centre educatiu que tingui accés a Google Classroom.",
+      "placeholders": {
+         "EMAIL": {
+            "content": "$1"
+         },
+         "END_LINK": {
+            "content": "$2"
+         },
+         "START_LINK": {
+            "content": "$3"
+         }
+      }
+   },
+   "6110089012347909146": {
+      "message": "desactivat"
+   },
+   "6229272560153199861": {
+      "message": "Creeu una classe per obrir pàgines conjuntament"
+   },
+   "6422956386741575643": {
+      "message": "Introduïu una descripció breu"
+   },
+   "6576961868476783976": {
+      "message": "S'ha produït un error a $PRODUCT$ en compartir el document. Torna-ho a provar més tard.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "6666246860368909334": {
+      "message": " : "
+   },
+   "6731720160639032735": {
+      "message": "Heu iniciat la sessió com a $EMAIL$.",
+      "placeholders": {
+         "EMAIL": {
+            "content": "$1"
+         }
+      }
+   },
+   "6802974388288119584": {
+      "message": "Google Feedback us permet enviar suggeriments a Google sobre els nostres productes. Agraïm els informes sobre problemes, les idees sobre funcions i els comentaris generals."
+   },
+   "6921620009241719815": {
+      "message": "Ves a la pàgina anterior"
+   },
+   "7002955679222677443": {
+      "message": "Més informació"
+   },
+   "7014972904425258116": {
+      "message": "Els professors poden comentar el fitxer"
+   },
+   "7187802960307973851": {
+      "message": "No heu rebut res últimament."
+   },
+   "7419648588978430202": {
+      "message": "L'historial s'està carregant…"
+   },
+   "7467129818830892099": {
+      "message": "Mostra els alumnes en pantalla completa"
+   },
+   "7520798696482451948": {
+      "message": "ENTRA EN UNA CLASSE"
+   },
+   "7582805180132294390": {
+      "message": "$PRODUCT$ té problemes per connectar-se als seus servidors. Si aquest problema continua, comproveu la vostra connexió a Internet i la configuració del tallafoc. També ens podeu escriure mitjançant la icona de suggeriments següent.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "7604563725603697690": {
+      "message": "Captura de pantalla de la pàgina actual"
+   },
+   "7613121200569555025": {
+      "message": "$NAME$ ha enviat una pàgina",
+      "placeholders": {
+         "NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "7646520484997880732": {
+      "message": "Obre la pàgina Configuració"
+   },
+   "7733702880641460982": {
+      "message": "Suggeriments per a Google"
+   },
+   "77478328938908900": {
+      "message": "Tanca el missatge d'advertiment"
+   },
+   "7798244153502527716": {
+      "message": "Per poder utilitzar $PRODUCT$ heu d'haver iniciat la sessió a Chrome.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "7819314041543176992": {
+      "message": "Tanca"
+   },
+   "7826444313570725162": {
+      "message": "S'HA ENVIAT"
+   },
+   "784919827997620253": {
+      "message": "Envia suggeriments"
+   },
+   "7869782771655761788": {
+      "message": "S'ha enviat"
+   },
+   "787828271820052473": {
+      "message": "Creeu o entreu en una classe per obrir pàgines conjuntament"
+   },
+   "7914587618073030772": {
+      "message": "Comparteix a Classroom (prova)"
+   },
+   "7924019946919704377": {
+      "message": "$START_LINK$Feu clic aquí$END_LINK$ per iniciar la sessió a Chrome i, a continuació, torneu a provar d'utilitzar $PRODUCT_NAME$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "PRODUCT_NAME": {
+            "content": "$2"
+         },
+         "START_LINK": {
+            "content": "$3"
+         }
+      }
+   },
+   "8071009096908772636": {
+      "message": "Mostra les notificacions del navegador quan els alumnes m'envien pàgines web"
+   },
+   "8083611296479050044": {
+      "message": "Ves a la pàgina de suggeriments"
+   },
+   "8107264734060843365": {
+      "message": "If this problem doesn't go away, try restarting your computer. If this problem persists, click the feedback icon below to submit feedback."
+   },
+   "813263746069473514": {
+      "message": "Connecta"
+   },
+   "819996403327805209": {
+      "message": "Més informació"
+   },
+   "8250116767525441148": {
+      "message": "$PRODUCT$ no s'ha pogut connectar a $SITE$. Verifiqueu la connexió a Internet i torneu-ho a provar.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         },
+         "SITE": {
+            "content": "$2"
+         }
+      }
+   },
+   "826991190228103925": {
+      "message": "Configuració"
+   },
+   "8410291800785136487": {
+      "message": "Envia als alumnes"
+   },
+   "8427578009205621398": {
+      "message": "$PARTICIPATING$/$TOTAL$ alumnes",
+      "placeholders": {
+         "PARTICIPATING": {
+            "content": "$1"
+         },
+         "TOTAL": {
+            "content": "$2"
+         }
+      }
+   },
+   "8510084535053903986": {
+      "message": "Els professors poden editar el fitxer"
+   },
+   "8584185541337081736": {
+      "message": "Compartiu aquesta extensió amb els alumnes perquè rebin els enllaços.&nbsp;"
+   },
+   "8636360788868898667": {
+      "message": "Tingueu la vostra classe a la mateixa pàgina (web) a l'instant."
+   },
+   "8657495129257769609": {
+      "message": "Sembla que la màquina que utilitzeu no està connectada a Internet. Comproveu-ne la connexió i torneu-ho a provar."
+   },
+   "8757637959955680925": {
+      "message": "$PRODUCT_NAME$ requereix que inicieu la sessió a Chrome, i sembla que no l'heu iniciat.",
+      "placeholders": {
+         "PRODUCT_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "8812061458772284085": {
+      "message": "La descripció, la informació del producte, la informació addicional del sistema i la vostra adreça electrònica s'enviaran a Google. Consulteu la $START_LINK_1$Política de privadesa$END_LINK$ i les $START_LINK_2$Condicions del servei$END_LINK$ de Google.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK_1": {
+            "content": "$2"
+         },
+         "START_LINK_2": {
+            "content": "$3"
+         }
+      }
+   },
+   "8876711157282412092": {
+      "message": "{numLinks,plural, =1{# enllaç}other{# enllaços}}"
+   },
+   "8934950226874423147": {
+      "message": "Els alumnes poden editar el fitxer"
+   },
+   "9057609174906387434": {
+      "message": "Icona de $PAGE_TITLE$",
+      "placeholders": {
+         "PAGE_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "9200475522066047621": {
+      "message": "Cursos on us heu inscrit"
+   },
+   "9217362152767454370": {
+      "message": "$PRODUCT$ necessita permís per accedir al vostre perfil.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "99413348305232894": {
+      "message": "Comparteix a Classroom"
+   }
+}

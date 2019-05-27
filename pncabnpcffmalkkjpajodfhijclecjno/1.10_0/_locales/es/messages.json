@@ -1,0 +1,77 @@
+{
+   "close_button": {
+      "message": "Cerrar"
+   },
+   "extension_description": {
+      "message": "Password Checkup te permite volver a proteger la cuentas que se hayan visto afectadas por quiebras de seguridad de datos."
+   },
+   "extension_detailed_description": {
+      "message": "Independientemente de dónde inicies sesión, si introduces un nombre de usuario y una contraseña que ya no son seguros porque aparecen en una quiebra de seguridad de datos de la que Google tiene constancia, recibirás una alerta. Si eso ocurre, te rogamos que cambies la contraseña. Si utilizas el mismo nombre de usuario y la misma contraseña en otras cuentas, cambia la contraseña de esas cuentas también.\n\nLa extensión Password Checkup se creó pensando en la privacidad. Nunca registra información sobre tus cuentas, contraseñas ni dispositivos que puedan identificarte. Registramos información anónima sobre el número de búsquedas que incluyen una credencial no segura, si una alerta dirige a un cambio de contraseña, y el dominio utilizado para mejorar la cobertura del sitio web. Puedes obtener más información sobre cómo funciona Password Checkup en https://support.google.com/accounts?p=password-checkup.\n\nAl instalar este elemento, aceptas cumplir las condiciones del servicio y la política de privacidad de Google en www.google.com/policies/."
+   },
+   "extension_name": {
+      "message": "Password Checkup"
+   },
+   "ignore_button": {
+      "message": "Ignorar en este sitio web"
+   },
+   "learn_more": {
+      "message": "Más información"
+   },
+   "popup_advanced_settings_action": {
+      "message": "Configuración avanzada"
+   },
+   "popup_default_status_message": {
+      "message": "No se ha detectado ninguna de tus contraseñas recientes en una quiebra de seguridad de datos."
+   },
+   "popup_ignore_button": {
+      "message": "Ignorar"
+   },
+   "popup_ignored_status_message": {
+      "message": "No se ha detectado ninguna de tus contraseñas recientes en una quiebra de seguridad de datos. No se incluyen las contraseñas no seguras que has decidido no cambiar."
+   },
+   "popup_learn_more": {
+      "message": "Más información"
+   },
+   "popup_multiple_accounts_warning_status_message": {
+      "message": "Password Checkup ha detectado que las contraseñas de las \u003Cb>$1 cuentas\u003C/b> siguientes ya no son seguras, dado que se ha producido una quiebra de seguridad de datos.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "popup_number_unsafe_accounts": {
+      "message": "$1 cuentas no seguras",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "popup_one_account_warning_status_message": {
+      "message": "Password Checkup ha detectado que la contraseña de la \u003Cb>cuenta\u003C/b> siguiente ya no es segura, dado que se ha producido una quiebra de seguridad de datos."
+   },
+   "popup_reset_extension_button": {
+      "message": "Borrar datos de la extensión"
+   },
+   "popup_reset_extension_text": {
+      "message": "Borra todos los datos de la extensión. Con esta acción, se quitará toda la información almacenada sobre contraseñas no seguras y sitios web ignorados previamente."
+   },
+   "popup_warning_action": {
+      "message": "Te recomendamos que cambies las contraseñas ahora."
+   },
+   "reset_text": {
+      "message": "Deberías cambiar la contraseña de inmediato."
+   },
+   "warning_banner_header": {
+      "message": "Cambia la contraseña"
+   },
+   "warning_text": {
+      "message": "Password Checkup ha detectado que la contraseña que usas en \u003Cb>$1\u003C/b> ya no es segura, dado que se ha producido una quiebra de seguridad de datos.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   }
+}

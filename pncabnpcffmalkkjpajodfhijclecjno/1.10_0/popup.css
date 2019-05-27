@@ -1,0 +1,159 @@
+@import url(https://fonts.googleapis.com/css?family=Google+Sans);
+@import url(https://fonts.googleapis.com/icon?family=Material+Icons);
+
+
+#status-banner {
+  display: flex;
+  align-items: center;
+  padding-bottom: 20px;
+}
+
+#status-banner-title {
+  padding-left: 10px;
+  font-size: 20px;
+  font-family: 'Google Sans', Arial, sans-serif;
+}
+
+.popup-container {
+  font-size: 14px;
+  line-height: 20px;
+  background-color: #ffffff;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+#advanced-settings-list {
+  display: flex;
+  align-items: flex-end;
+}
+
+#status-message {
+  padding-bottom: 10px;
+}
+
+#status-action {
+  padding-bottom: 5px;
+}
+
+#status-message-action {
+  padding-bottom: 5px;
+}
+
+.list-item {
+  display: flex;
+  min-height: 50px;
+  align-items: center;
+  margin-bottom: 10px;
+  justify-content: space-between;
+}
+
+.unsafe-account-list-item:not(:last-child) {
+  border-bottom: 1px solid #dadce0;
+}
+
+.unsafe-account-text {
+  flex-grow: 1;
+}
+
+.unsafe-account-name {
+  font-weight: bold;
+  overflow: hidden;
+  color: #1a73e8;
+  cursor: pointer;
+  padding-left: 10px;
+}
+
+.unsafe-account-name:hover {
+  text-decoration: underline;
+}
+
+.unsafe-account-number {
+  font-size: 11px;
+  overflow: hidden;
+  color: #404040;
+  padding-left: 10px;
+}
+
+.unsafe-account-icon-tray {
+  display: inline-flex;
+  flex-shrink: 0;
+  justify-content: center;
+}
+
+.list-item-action {
+  flex: 0;
+  width: 100px;
+  padding-left: 10px;
+  padding-right: 5px;
+}
+
+.unsafe-account-icon {
+  fill: #80868b;
+}
+
+.list-item-button {
+  border: 1px solid #dadce0;
+  background-color: #ffffff;
+  color: #1a73e8;
+  padding: 4px 16px;
+  border-radius: 2px;
+  cursor: pointer;
+  min-width: 80px;
+  font-weight: bold;
+  font-family: 'Google Sans', 'Roboto', Arial, sans-serif;
+  font-size: 14px;
+}
+
+.list-item-button:hover {
+  background-color: #f7faff;
+  border: 1px solid #d2e3fc;
+}
+
+#reset-button:hover {
+  background-color: #cadcff;
+}
+
+#learn-more:hover {
+  text-decoration: underline;
+}
+
+#learn-more {
+  cursor: pointer;
+  color: #1a73e8;
+}
+
+#advanced-settings-action {
+  margin-left: 5px;
+}
+
+#advanced-settings:hover {
+  text-decoration: underline;
+}
+
+#advanced-settings {
+  cursor: pointer;
+  justify-content: flex-end;
+  display: flex;
+  align-items: center;
+  font-size: 12px;
+  padding: 10px;
+  color: #3c4043;
+  fill: #3c4043;
+  min-height: 30px;
+}
+
+#reset-text {
+  font-size: 12px;
+  flex: 1;
+  overflow: hidden;
+  color: #404040;
+  padding-left: 10px;
+}
+
+body {
+  font-family: 'Roboto', Arial, sans-serif;
+  width: 320px;
+  color: #202124;
+  background-color: #f1f3f4;
+  margin: 5px;
+}

@@ -1,0 +1,32 @@
+{
+   "author": {
+      "email": "sacomoto@google.com"
+   },
+   "background": {
+      "page": "background.html"
+   },
+   "browser_action": {
+      "default_icon": {
+         "19": "icon_19_normal.png",
+         "38": "icon_38_normal.png"
+      },
+      "default_popup": "popup.html"
+   },
+   "content_security_policy": "script-src 'self' https://apis.google.com; object-src 'self'",
+   "default_locale": "en",
+   "description": "__MSG_extension_description__",
+   "icons": {
+      "128": "icon_128_normal.png",
+      "19": "icon_19_normal.png",
+      "38": "icon_38_normal.png",
+      "512": "icon_512_normal.png"
+   },
+   "incognito": "not_allowed",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAjXwWSZq5RLuM5ZbmRWn4gXwpMOb52aoOhtzIsmbXUWPQeA6/D2p1uaPxIHh6EusxAhXMrBgNaJv1QFxCxiU1aGDlmCR9mOsA7rK5kmVCi0TYLbQa+C38UDmyhRACrvHO26Jt8qC8oM8yiSuzgb+16rgCCcek9dP7IaHaoJMsBMAEf3VEno4xt+kCAAsFsyFCB4plWid54avqpgg6+OsR3ZtUAMWooVziJHVmBTiyl82QR5ZURYr+TjkiljkPEBLaMTKC2g7tUl2h0Q1UmMTMc2qxLIVVREhr4q9iOegNxfNy78BaxZxI1Hjp0EVYMZunIEI9r1k0vyyaH13TvdeqNwIDAQAB",
+   "manifest_version": 2,
+   "name": "Endpoint Verification",
+   "options_page": "options.html",
+   "permissions": [ "activeTab", "alarms", "browsingData", "cookies", "enterprise.deviceAttributes", "enterprise.platformKeys", "enterprise.reportingPrivate", "gcm", "identity", "identity.email", "idle", "nativeMessaging", "platformKeys", "storage", "*://*.google.com/*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.28"
+}

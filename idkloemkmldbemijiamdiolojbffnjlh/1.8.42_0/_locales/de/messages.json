@@ -1,0 +1,482 @@
+{
+   "autoplay_cancel": {
+      "description": "Message to cancel autoplay.",
+      "message": "stornieren"
+   },
+   "autoplay_lesson_will_start": {
+      "description": "Message when the lesson will start.",
+      "message": "Die Lektion beginnt in 15s"
+   },
+   "autoplay_up_next": {
+      "description": "Up next message in autoplay",
+      "message": "Als nächstes"
+   },
+   "button_skip_to_next": {
+      "description": "String for translation",
+      "message": "ZUR NÄCHSTEN SPRINGEN"
+   },
+   "button_video_training": {
+      "description": "String for translation",
+      "message": "Zur Videoschulung"
+   },
+   "connection_problem": {
+      "description": "Text that appears in training menu when there is a problem connecting to the training server",
+      "message": "Probleme beim Verbindungsaufbau zum Server."
+   },
+   "dialog_cancel_video_training": {
+      "description": "Button text for cancelling the dialog that takes the user to the video training web portal",
+      "message": "Abbrechen"
+   },
+   "dialog_close_autoplay_fail": {
+      "description": "Button text for closing dialog",
+      "message": "Schließen"
+   },
+   "dialog_close_copy_link": {
+      "description": "String for translation",
+      "message": "Schließen"
+   },
+   "dialog_content_autoplay_fail": {
+      "description": "Dialog text that appears when a training lesson is unavailable",
+      "message": "Die gewünschte Lektion ist nicht verfügbar. Über den Feedback-Link im Menü \"Schulungen\" können Sie Fehler melden."
+   },
+   "dialog_content_autoplay_login_fail": {
+      "description": "Dialog text that appears when user tries to play a training lesson from a shared link, and they are not logged in to their Google account",
+      "message": "Melden Sie sich an, um sich eine freigegebene Lektion anzusehen."
+   },
+   "dialog_content_copy_link": {
+      "description": "String for translation",
+      "message": "Der Link wurde in die Zwischenablage kopiert"
+   },
+   "dialog_content_end_lesson": {
+      "description": "Dialog text that appears when a user exits a training lesson in progress",
+      "message": "Dadurch wird die Lektion beendet. Möchten Sie wirklich fortfahren?"
+   },
+   "dialog_content_play_next_lesson": {
+      "description": "String for translation",
+      "message": "Anscheinend gibt es ein Problem bei der Wiedergabe der interaktiven Version dieser Lektion. Das Problem wurde dem Schulungsteam gemeldet. Bitte fahren Sie mit der nächsten Lektion fort."
+   },
+   "dialog_content_play_video_lesson": {
+      "description": "String for translation",
+      "message": "Anscheinend gibt es ein Problem bei der Wiedergabe der interaktiven Version dieser Lektion. Sie können die Videoversion laden, um die Lektion abzuschließen."
+   },
+   "dialog_content_restart_lesson": {
+      "description": "Dialog text that appears when a user interrupts a training lesson and causes the current UI target of the lesson to no longer be visibile (e.g closing a menu). The dialog offers the user to restart the training lesson.",
+      "message": "Sie haben die Lektion unterbrochen. Möchten Sie sie neu starten? Wenn Sie \"Nein\" auswählen, wird die Lektion beendet."
+   },
+   "dialog_content_start_new_lesson": {
+      "description": "Dialog text that appears when a user tries to start a new training lessons while an existing training lesson is in progress",
+      "message": "Wenn Sie eine neue Lektion starten, wird die aktuelle Lektion beendet. Möchten Sie die neue Lektion starten?"
+   },
+   "dialog_content_video_training": {
+      "description": "Dialog text promoting video training web portal that appears when a user tries to access training in an unsupported language",
+      "message": "Sie werden jetzt zu einem Schulungsportal weitergeleitet. Dort können Sie sich Videos zur G Suite ansehen, die allerdings nicht interaktiv sind. Wenn Sie sich interaktive Videos in Ihrer G Suite ansehen möchten, wechseln Sie zu einer unterstützten Sprache."
+   },
+   "dialog_content_welcome": {
+      "description": "String for translation",
+      "message": "Möchten Sie wissen, wie man die Schulungen zur G Suite verwendet? Bitte passen Sie die Lautstärke an, da Audioinhalte abgespielt werden."
+   },
+   "dialog_end_lesson": {
+      "description": "Button text for ending current training lesson",
+      "message": "Lektion beenden"
+   },
+   "dialog_load_video_lesson": {
+      "description": "String for translation",
+      "message": "Video laden"
+   },
+   "dialog_no_end_lesson": {
+      "description": "String for translation",
+      "message": "Nein"
+   },
+   "dialog_no_restart_lesson": {
+      "description": "String for translation",
+      "message": "Nein"
+   },
+   "dialog_no_start_new_lesson": {
+      "description": "String for translation",
+      "message": "Nein"
+   },
+   "dialog_ok_video_training": {
+      "description": "String for translation",
+      "message": "OK"
+   },
+   "dialog_play_next_lesson": {
+      "description": "String for translation",
+      "message": "Nächste Lektion"
+   },
+   "dialog_skip_welcome": {
+      "description": "String for translation",
+      "message": "Überspringen"
+   },
+   "dialog_start_welcome": {
+      "description": "Dialog text for starting training",
+      "message": "Starten"
+   },
+   "dialog_title_autoplay_fail": {
+      "description": "String for translation",
+      "message": "Die Lektion kann nicht abgespielt werden"
+   },
+   "dialog_title_copy_link": {
+      "description": "String for translation",
+      "message": "Link kopieren"
+   },
+   "dialog_title_end_lesson": {
+      "description": "Dialog title that appears when a user exits a training lesson in progress",
+      "message": "Lektion beenden"
+   },
+   "dialog_title_play_next_lesson": {
+      "description": "Button text for playing the next training lesson",
+      "message": "Nächste Lektion abspielen"
+   },
+   "dialog_title_play_video_lesson": {
+      "description": "Dialog title for playing a video training lesson",
+      "message": "Videolektion starten"
+   },
+   "dialog_title_restart_lesson": {
+      "description": "String for translation",
+      "message": "Lektion neu starten?"
+   },
+   "dialog_title_start_new_lesson": {
+      "description": "String for translation",
+      "message": "Neue Lektion starten"
+   },
+   "dialog_title_video_training": {
+      "description": "Button text for going to video training web portal",
+      "message": "Zur Videoschulung"
+   },
+   "dialog_title_welcome": {
+      "description": "Dialog title that appears when you first start using training software",
+      "message": "Willkommen bei den Schulungen zur G Suite"
+   },
+   "dialog_yes_end_lesson": {
+      "description": "Button text for choosing Yes to end a training lesson",
+      "message": "Ja"
+   },
+   "dialog_yes_restart_lesson": {
+      "description": "String for translation",
+      "message": "Ja"
+   },
+   "dialog_yes_start_new_lesson": {
+      "description": "String for translation",
+      "message": "Ja"
+   },
+   "extension_description": {
+      "description": "Description that appears in Chrome Web Store and Chrome extensions page",
+      "message": "Interaktive Schulungen und Komplettlösungen, direkt in der G Suite"
+   },
+   "generic_problem": {
+      "description": "String for translation",
+      "message": "Ein Problem ist aufgetreten, das wir prüfen. Sie können die Seite aktualisieren, um es erneut zu versuchen."
+   },
+   "language_name_de": {
+      "description": "String for translation",
+      "message": "Deutsch"
+   },
+   "language_name_en": {
+      "description": "Text label for English locale",
+      "message": "Englisch"
+   },
+   "language_name_es": {
+      "description": "Text label for Spanish locale, only English text should be translated",
+      "message": "Spanisch (Español)"
+   },
+   "language_name_fr": {
+      "description": "String for translation",
+      "message": "Französisch (Français)"
+   },
+   "language_name_ja": {
+      "description": "Text label for Japanese locale, only English text should be translated",
+      "message": "Japanisch (日本語)"
+   },
+   "language_name_zh_cn": {
+      "description": "String for translation",
+      "message": "Vereinfachtes Chinesisch (简体中文)"
+   },
+   "language_name_zh_tw": {
+      "description": "String for translation",
+      "message": "Traditionelles Chinesisch (繁體中文)"
+   },
+   "material_warmwelcome_icon_tooltip_cancel_button": {
+      "description": "String for translation",
+      "message": "Nein danke"
+   },
+   "material_warmwelcome_icon_tooltip_proceed_button": {
+      "description": "Button text for finding out what is the newest training lesson in the current G Suite app",
+      "message": "JETZT HERAUSFINDEN"
+   },
+   "material_warmwelcome_icon_tooltip_title": {
+      "description": "String for translation",
+      "message": "%HIGHLIGHT_START%Was gibt's Neues%HIGHLIGHT_END% in der G Suite?"
+   },
+   "material_warmwelcome_menu_tooltip_button": {
+      "description": "Button text that appears in training warm welcome process to acknowledge understanding of training menu",
+      "message": "SEHR GUT"
+   },
+   "material_warmwelcome_menu_tooltip_title": {
+      "description": "String for translation",
+      "message": "Jetzt ausprobieren!"
+   },
+   "menu_copy_lesson_link": {
+      "description": "String for translation",
+      "message": "Direktlink zur Lektion kopieren"
+   },
+   "menu_login": {
+      "description": "String for translation",
+      "message": "Schulungen zur G Suite: Log-in"
+   },
+   "menu_multilogin_change": {
+      "description": "String for translation",
+      "message": "Ändern"
+   },
+   "menu_multilogin_change_account": {
+      "description": "Link text for changing to another Google account from training menu",
+      "message": "Konto wechseln und aktualisieren"
+   },
+   "menu_multilogin_warning": {
+      "description": "String for translation",
+      "message": "Sie sind mit einem anderen Konto bei den Schulungen zur G Suite angemeldet: "
+   },
+   "menu_new_lesson": {
+      "description": "String for translation",
+      "message": "NEU"
+   },
+   "menu_new_lesson_with_count": {
+      "description": "String for translation",
+      "message": "%NUM% NEUE"
+   },
+   "menu_play_all": {
+      "description": "String for translation",
+      "message": "ALLE ABSPIELEN"
+   },
+   "menu_play_all_recommended": {
+      "description": "Button text for playing all recommended training lessons",
+      "message": "ALLE EMPFOHLENEN ABSPIELEN"
+   },
+   "menu_recommended": {
+      "description": "String for translation",
+      "message": "Nur empfohlene Lektionen anzeigen"
+   },
+   "menu_search": {
+      "description": "String for translation",
+      "message": "Suchen"
+   },
+   "menu_search_empty": {
+      "description": "String for translation",
+      "message": "Keine Treffer. Bitte versuchen Sie es mit anderen Suchbegriffen."
+   },
+   "menu_search_results_section": {
+      "description": "String for translation",
+      "message": "Suchergebnisse"
+   },
+   "menu_settings": {
+      "description": "Button text for training settings link",
+      "message": "Einstellungen"
+   },
+   "menu_start_here": {
+      "description": "String for translation",
+      "message": "Hier starten"
+   },
+   "menu_training": {
+      "description": "Text for title of training menu",
+      "message": "Schulungen"
+   },
+   "menu_training_tooltip": {
+      "description": "String for translation",
+      "message": "Schulungen zur G Suite"
+   },
+   "menu_version": {
+      "description": "Menu text for current version of training software",
+      "message": "Version"
+   },
+   "menu_view_all": {
+      "description": "String for translation",
+      "message": "Alle ansehen"
+   },
+   "menu_warning_no_lessons_available": {
+      "description": "Text that appears in training menu when no training lessons are available for current G Suite app",
+      "message": "Für diese Anwendung sind demnächst Lektionen verfügbar."
+   },
+   "menu_warning_updated": {
+      "description": "String for translation",
+      "message": "Die Chrome-Erweiterung \"G Suite Training\" wurde aktualisiert. Bitte laden Sie die Seite neu."
+   },
+   "module_data_empty": {
+      "description": "String for translation",
+      "message": "Für diese App sind in der aktuellen Spracheinstellung keine Lektionen verfügbar. Ändern Sie die Spracheinstellung in "
+   },
+   "player_completed_content": {
+      "description": "String for translation",
+      "message": "Wenn Sie sich die Lektion noch einmal ansehen möchten, klicken Sie auf die Wiedergabeschaltfläche. Um mit der nächsten Lektion fortzufahren, klicken Sie auf \"Weiter\"."
+   },
+   "player_completed_title": {
+      "description": "String for translation",
+      "message": "Lektion abgeschlossen."
+   },
+   "player_next": {
+      "description": "Button text for moving to the next training lesson",
+      "message": "Weiter"
+   },
+   "player_next_lesson": {
+      "description": "String for translation",
+      "message": "Nächste Lektion"
+   },
+   "player_playing": {
+      "description": "Text that appears in training player when a training lesson is playing",
+      "message": "Wiedergabe läuft"
+   },
+   "player_previous_lesson": {
+      "description": "String for translation",
+      "message": "Vorherige Lektion"
+   },
+   "related_links": {
+      "description": "Button text for list of related web links for current training lesson",
+      "message": "Weitere Informationen"
+   },
+   "reload": {
+      "description": "Button text for reloading training menu content",
+      "message": "Aktualisieren"
+   },
+   "retry_connection": {
+      "description": "String for translation",
+      "message": "Erneuter Versuch in %SEC%…"
+   },
+   "retrying_connection": {
+      "description": "String for translation",
+      "message": "Neuer Versuch…"
+   },
+   "title_bar_app_admin": {
+      "description": "String for translation",
+      "message": "Schulungen zur Admin-Konsole"
+   },
+   "title_bar_app_calendar": {
+      "description": "String for translation",
+      "message": "Schulungen zu Google Kalender"
+   },
+   "title_bar_app_classroom": {
+      "description": "String for translation",
+      "message": "Schulungen zu Classroom"
+   },
+   "title_bar_app_document": {
+      "description": "String for translation",
+      "message": "Schulungen zu Google Docs"
+   },
+   "title_bar_app_drive": {
+      "description": "String for translation",
+      "message": "Schulungen zu Google Drive"
+   },
+   "title_bar_app_forms": {
+      "description": "String for translation",
+      "message": "Schulungen zu Google Formulare"
+   },
+   "title_bar_app_groups": {
+      "description": "Title text for Google Groups (G Suite app) Training",
+      "message": "Schulungen zu Google Groups"
+   },
+   "title_bar_app_hangouts": {
+      "description": "Title text for Google Hangouts (G Suite app) Training",
+      "message": "Schulungen zu Hangouts"
+   },
+   "title_bar_app_inbox": {
+      "description": "Title text for Google Inbox (G Suite app) Training",
+      "message": "Schulungen zu Inbox"
+   },
+   "title_bar_app_mail": {
+      "description": "String for translation",
+      "message": "Schulungen zu Gmail"
+   },
+   "title_bar_app_plus": {
+      "description": "String for translation",
+      "message": "Schulungen zu Google+"
+   },
+   "title_bar_app_presentation": {
+      "description": "String for translation",
+      "message": "Schulungen zu Google Präsentationen"
+   },
+   "title_bar_app_sites": {
+      "description": "Title for Google Sites (G Suite app) training",
+      "message": "Schulungen zu Google Sites"
+   },
+   "title_bar_app_spreadsheets": {
+      "description": "String for translation",
+      "message": "Schulungen zu Google Tabellen"
+   },
+   "title_bar_missing_app_default": {
+      "description": "Title text for default training menu title, more info on G Suite at https://gsuite.google.com",
+      "message": "Schulungen zur G Suite"
+   },
+   "tooltip_adjust_volume": {
+      "description": "Tooltip for adjusting audio volume of training",
+      "message": "Lautstärke anpassen"
+   },
+   "tooltip_completed": {
+      "description": "String for translation",
+      "message": "Abgeschlossen"
+   },
+   "tooltip_known": {
+      "description": "Tooltip for training lesson that was marked as known by user",
+      "message": "Als bekannt markiert"
+   },
+   "tooltip_next_lesson": {
+      "description": "Tooltip for playing next training lesson button",
+      "message": "Nächste Lektion"
+   },
+   "tooltip_not_started": {
+      "description": "String for translation",
+      "message": "Ich weiß das"
+   },
+   "tooltip_pause": {
+      "description": "String for translation",
+      "message": "Anhalten"
+   },
+   "tooltip_play": {
+      "description": "String for translation",
+      "message": "Abspielen"
+   },
+   "tooltip_player_completed": {
+      "description": "String for translation",
+      "message": "Abgeschlossen"
+   },
+   "tooltip_previous_lesson": {
+      "description": "String for translation",
+      "message": "Vorherige Lektion"
+   },
+   "tooltip_progress": {
+      "description": "Tooltip text for a training lesson that is at least 70% complete",
+      "message": "70 % abgeschlossen"
+   },
+   "tooltip_progress_25": {
+      "description": "String for translation",
+      "message": "25 % abgeschlossen"
+   },
+   "tooltip_progress_50": {
+      "description": "String for translation",
+      "message": "50 % abgeschlossen"
+   },
+   "tooltip_progress_75": {
+      "description": "Tooltip text for a training lesson that is 70% complete",
+      "message": "70 % abgeschlossen"
+   },
+   "tooltip_recommended": {
+      "description": "Tooltip for recommended training lessons",
+      "message": "Empfohlen"
+   },
+   "tooltip_share": {
+      "description": "String for translation",
+      "message": "Freigeben"
+   },
+   "try_now": {
+      "description": "Button text for trying to connect to training server manually when connection fails",
+      "message": "Jetzt ausprobieren"
+   },
+   "wait_for_reconnect": {
+      "description": "String for translation",
+      "message": "Einen Moment bitte, der Ladevorgang läuft noch."
+   },
+   "whatsnew_section_title_with_app_name": {
+      "description": "Title for training menu new training lessons section, %APP% should not be translated",
+      "message": "Was gibt's Neues bei %APP%?"
+   },
+   "whatsnew_section_title_without_app_name": {
+      "description": "Section title for new training lessons",
+      "message": "Was gibt's Neues?"
+   }
+}

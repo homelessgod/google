@@ -1,0 +1,440 @@
+{
+   "101206989909763677": {
+      "message": "Siswa di $CLASS_NAME$",
+      "placeholders": {
+         "CLASS_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "1258929983314547244": {
+      "message": "DIKIRIM KE GURU"
+   },
+   "1301730406464354688": {
+      "message": "Buka Kelas"
+   },
+   "1462156539679968804": {
+      "message": "Diterima dari siswa"
+   },
+   "1472332582476021124": {
+      "message": "Siswa dapat melihat file"
+   },
+   "1510105121221276016": {
+      "message": "Kunci Tampilan Layar"
+   },
+   "1550690544509024009": {
+      "message": "{numFlings,plural, =1{# baru}other{# baru}}"
+   },
+   "1663150675851578875": {
+      "message": "Ada masalah saat mencoba menyambung ke $PRODUCT_NAME$. Pastikan sambungan jaringan Anda tersedia, kemudian cobalah untuk menyambungkan kembali.",
+      "placeholders": {
+         "PRODUCT_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "1758804700969198023": {
+      "message": "Menu Berbagi"
+   },
+   "1790549872641667595": {
+      "message": "Berbagi ke Kelas (Perencanaan)"
+   },
+   "1951089763019042037": {
+      "message": "Siswa"
+   },
+   "2050089326602918210": {
+      "message": "Berbagi ke Kelas"
+   },
+   "2062938386395101624": {
+      "message": "Dikirim ke siswa"
+   },
+   "2070581630224025695": {
+      "message": "Buat pengumuman"
+   },
+   "2090147790320018555": {
+      "message": "Anda belum mengirim apa pun baru-baru ini."
+   },
+   "2213990758451550370": {
+      "message": "Siswa dapat mengomentari file"
+   },
+   "2266749875018591275": {
+      "message": "Masa berlaku ekstensi \"$PRODUCT_NAME$\" sudah berakhir. Untuk melanjutkan, klik untuk $START_LINK$mencopot pemasangan ekstensi ini$END_LINK$. Tindakan ini juga akan membuka laman Toko Web Chrome tempat ekstensi dapat dipasang kembali.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "PRODUCT_NAME": {
+            "content": "$2"
+         },
+         "START_LINK": {
+            "content": "$3"
+         }
+      }
+   },
+   "2315140680766681153": {
+      "message": "Tidak ada pelajar untuk ditampilkan."
+   },
+   "2409870568039115310": {
+      "message": "KIRIM KE GURU"
+   },
+   "2416435327104074837": {
+      "message": "Dikirim ke guru"
+   },
+   "265018083235803821": {
+      "message": "Menu Izin"
+   },
+   "272253201636921624": {
+      "message": "Mengirim"
+   },
+   "3208531239543188174": {
+      "message": "Dibuka dalam {numSeconds,plural, =1{1 detik}other{# detik}}..."
+   },
+   "3727581148109420602": {
+      "message": "Buka di tab baru"
+   },
+   "3852289441366561594": {
+      "message": "Menyambung..."
+   },
+   "3853169172456108967": {
+      "message": "BUAT ATAU GABUNG KE KELAS"
+   },
+   "3894950702316166331": {
+      "message": "Memuat..."
+   },
+   "4012779869104225222": {
+      "message": "Daftar Kelas"
+   },
+   "4048890404505834885": {
+      "message": "Ajukan pertanyaan"
+   },
+   "4101941266124151376": {
+      "message": "aktif"
+   },
+   "4221250166827447984": {
+      "message": "Melihat $TITLE$",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "4269658859113770197": {
+      "message": "Memuat kelas Anda..."
+   },
+   "436489073937327740": {
+      "message": "Kirim log tambahan ke Google, yang berisi laman yang dibagikan dan alamat email anggota kelas Anda."
+   },
+   "4481147463445876932": {
+      "message": "Buat tugas"
+   },
+   "4491595920888170943": {
+      "message": "Laman yang aktif tidak dapat dibagikan."
+   },
+   "4622108781632885640": {
+      "message": "Diterima dari guru"
+   },
+   "4742705439416933924": {
+      "message": "Bergabunglah dengan kelas untuk membuka laman secara bersamaan"
+   },
+   "4748990655911819545": {
+      "message": "Mengajar"
+   },
+   "4811423455816775324": {
+      "message": "Anda perlu masuk ke Chrome untuk menggunakan $PRODUCT$.\nKlik di sini untuk masuk.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "4849976898594713883": {
+      "message": "$PRODUCT$ mengalami masalah saat menyambung ke server-nya, dan hal itu tampaknya disebabkan konfigurasi gerbang atau firewall. Periksa setelan firewall Anda, dan pastikan setelan tersebut dikonfigurasikan untuk mengizinkan lalu lintas dengan $SERVER$.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         },
+         "SERVER": {
+            "content": "$2"
+         }
+      }
+   },
+   "48585068921907804": {
+      "message": "Kami memiliki masalah saat menghubungkan ke $PRODUCT_NAME$. Coba keluar dari akun Anda dan masuk lagi. Jika masalah ini masih terjadi, klik ikon masukan di bawah untuk mengirimkan masukan.",
+      "placeholders": {
+         "PRODUCT_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "4930506384627295710": {
+      "message": "Setelan"
+   },
+   "533692309512814645": {
+      "message": "KIRIM"
+   },
+   "5354810546510399127": {
+      "message": "Membuka Laman Bantuan"
+   },
+   "5560440246965579819": {
+      "message": "Guru dapat melihat file"
+   },
+   "566090020805595985": {
+      "message": "BUAT KELAS"
+   },
+   "5851560788527570644": {
+      "message": "Notifikasi"
+   },
+   "5936353814217802658": {
+      "message": "KIRIM KE GURU"
+   },
+   "6031597996865914480": {
+      "message": "KIRIM"
+   },
+   "6042567254866620046": {
+      "message": "Sistem ini tidak tersambung ke $PRODUCT$. Tekan tombol sambungkan untuk mencoba menyambungkan.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "6084304183859355623": {
+      "message": "Anda masuk sebagai $EMAIL$. Untuk melanjutkan, $START_LINK$masuk ke Chrome$END_LINK$ dengan akun sekolah Google yang memiliki akses ke Google Kelas.",
+      "placeholders": {
+         "EMAIL": {
+            "content": "$1"
+         },
+         "END_LINK": {
+            "content": "$2"
+         },
+         "START_LINK": {
+            "content": "$3"
+         }
+      }
+   },
+   "6110089012347909146": {
+      "message": "nonaktif"
+   },
+   "6229272560153199861": {
+      "message": "Buat kelas untuk membuka laman secara bersamaan"
+   },
+   "6422956386741575643": {
+      "message": "Masukkan deskripsi singkat"
+   },
+   "6576961868476783976": {
+      "message": "$PRODUCT$ mengalami kesalahan saat mencoba berbagi dokumen. Coba lagi nanti.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "6666246860368909334": {
+      "message": " – "
+   },
+   "6731720160639032735": {
+      "message": "Masuk sebagai $EMAIL$",
+      "placeholders": {
+         "EMAIL": {
+            "content": "$1"
+         }
+      }
+   },
+   "6802974388288119584": {
+      "message": "Google Masukan memungkinkan Anda untuk mengirim saran kepada Google yang berkaitan dengan produk-produk kami. Anda dapat menggunakannya untuk mengirimkan laporan masalah, menyampaikan ide untuk fitur-fitur baru, dan komentar umum."
+   },
+   "6921620009241719815": {
+      "message": "Membuka Laman Sebelumnya"
+   },
+   "7002955679222677443": {
+      "message": "Pelajari Lebih Lanjut"
+   },
+   "7014972904425258116": {
+      "message": "Guru dapat mengomentari file"
+   },
+   "7187802960307973851": {
+      "message": "Anda belum menerima apa pun baru-baru ini."
+   },
+   "7419648588978430202": {
+      "message": "Memuat riwayat Anda..."
+   },
+   "7467129818830892099": {
+      "message": "Pelajar di halaman layar penuh"
+   },
+   "7520798696482451948": {
+      "message": "GABUNG KE KELAS"
+   },
+   "7582805180132294390": {
+      "message": "$PRODUCT$ mengalami kesulitan terhubung ke server. Jika masalah terus berlanjut, periksa sambungan internet & setelan firewall, serta kirim masukan menggunakan ikon masukan di bawah ini.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "7604563725603697690": {
+      "message": "Screenshot laman Anda saat ini."
+   },
+   "7613121200569555025": {
+      "message": "$NAME$ mengirim laman",
+      "placeholders": {
+         "NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "7646520484997880732": {
+      "message": "Membuka Laman Setelan"
+   },
+   "7733702880641460982": {
+      "message": "Google Masukan"
+   },
+   "77478328938908900": {
+      "message": "Menutup Pesan Peringatan"
+   },
+   "7798244153502527716": {
+      "message": "Anda perlu masuk ke Chrome untuk menggunakan $PRODUCT$.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "7819314041543176992": {
+      "message": "Tutup"
+   },
+   "7826444313570725162": {
+      "message": "DIKIRIM"
+   },
+   "784919827997620253": {
+      "message": "Mengirim Masukan"
+   },
+   "7869782771655761788": {
+      "message": "Dikirim"
+   },
+   "787828271820052473": {
+      "message": "Buat atau gabung dengan kelas untuk membuka laman secara bersamaan"
+   },
+   "7914587618073030772": {
+      "message": "Berbagi ke Kelas (Pengujian)"
+   },
+   "7924019946919704377": {
+      "message": "$START_LINK$Klik di sini$END_LINK$ untuk masuk ke Chrome, lalu coba $PRODUCT_NAME$ lagi.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "PRODUCT_NAME": {
+            "content": "$2"
+         },
+         "START_LINK": {
+            "content": "$3"
+         }
+      }
+   },
+   "8071009096908772636": {
+      "message": "Tampilkan notifikasi browser saat siswa mengirim laman web ke saya"
+   },
+   "8083611296479050044": {
+      "message": "Membuka Laman Masukan"
+   },
+   "8107264734060843365": {
+      "message": "If this problem doesn't go away, try restarting your computer. If this problem persists, click the feedback icon below to submit feedback."
+   },
+   "813263746069473514": {
+      "message": "Sambungkan"
+   },
+   "819996403327805209": {
+      "message": "Pelajari lebih lanjut"
+   },
+   "8250116767525441148": {
+      "message": "$PRODUCT$ tidak dapat tersambung ke $SITE$. Verifikasi sambungan internet Anda dan coba lagi.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         },
+         "SITE": {
+            "content": "$2"
+         }
+      }
+   },
+   "826991190228103925": {
+      "message": "Setelan"
+   },
+   "8410291800785136487": {
+      "message": "Kirim ke siswa"
+   },
+   "8427578009205621398": {
+      "message": "$PARTICIPATING$/$TOTAL$ siswa",
+      "placeholders": {
+         "PARTICIPATING": {
+            "content": "$1"
+         },
+         "TOTAL": {
+            "content": "$2"
+         }
+      }
+   },
+   "8510084535053903986": {
+      "message": "Guru dapat mengedit file"
+   },
+   "8584185541337081736": {
+      "message": "Bagikan ekstensi ini dengan siswa agar mereka menerima tautan Anda.&nbsp;"
+   },
+   "8636360788868898667": {
+      "message": "Tampilkan kelas Anda di laman (web) yang sama secara langsung."
+   },
+   "8657495129257769609": {
+      "message": "Tampaknya komputer Anda tidak tersambung ke internet. Periksa sambungan Anda dan coba lagi."
+   },
+   "8757637959955680925": {
+      "message": "$PRODUCT_NAME$ mengharuskan Anda masuk ke Chrome, dan kelihatannya Anda belum masuk.",
+      "placeholders": {
+         "PRODUCT_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "8812061458772284085": {
+      "message": "Deskripsi, informasi produk, informasi sistem tambahan, dan alamat email Anda akan dikirim ke Google. Lihat $START_LINK_1$Kebijakan Privasi$END_LINK$ dan $START_LINK_2$Persyaratan Layanan$END_LINK$ Google.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK_1": {
+            "content": "$2"
+         },
+         "START_LINK_2": {
+            "content": "$3"
+         }
+      }
+   },
+   "8876711157282412092": {
+      "message": "{numLinks,plural, =1{# tautan}other{# tautan}}"
+   },
+   "8934950226874423147": {
+      "message": "Siswa dapat mengedit file"
+   },
+   "9057609174906387434": {
+      "message": "Ikon $PAGE_TITLE$.",
+      "placeholders": {
+         "PAGE_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "9200475522066047621": {
+      "message": "Terdaftar"
+   },
+   "9217362152767454370": {
+      "message": "$PRODUCT$ memerlukan izin untuk mengakses profil Anda.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "99413348305232894": {
+      "message": "Berbagi ke Kelas"
+   }
+}

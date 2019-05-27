@@ -1,0 +1,77 @@
+{
+   "close_button": {
+      "message": "Aizvērt"
+   },
+   "extension_description": {
+      "message": "Izmantojot paplašinājumu Password Checkup, varat atkārtoti aizsargāt kontus, kuru drošība ir apdraudēta datu pārkāpuma dēļ."
+   },
+   "extension_detailed_description": {
+      "message": "Neatkarīgi no tā, kur pierakstāties, saņemsiet brīdinājumu, ievadot lietotājvārdu un paroli, kas vairs nav droša uzņēmumam Google zināma datu pārkāpuma dēļ. Lūdzu, atiestatiet savu paroli. Ja izmantojat tādu pašu lietotājvārdu un paroli citiem kontiem, lūdzu, atiestatiet paroli visos šajos kontos.\n\nPaplašinājums Password Checkup tika izstrādāts, ņemot vērā konfidencialitāti. Tajā nekad netiek reģistrēta identificējoša informācija par jūsu kontiem, parolēm vai ierīci. Mēs reģistrējam anonīmu informāciju par atrasto problēmu skaitu, kas norāda uz nedrošiem akreditācijas datiem, paroles maiņu brīdinājuma dēļ, kā arī iesaistīto domēnu, lai aptvertu vairāk vietņu. Plašāku informāciju par paplašinājuma Password Checkup skatiet vietnē https://support.google.com/accounts?p=password-checkup.\n\nInstalējot šo paplašinājumu, jūs piekrītat Google pakalpojumu sniegšanas noteikumiem un konfidencialitātes politikai: www.google.com/policies/."
+   },
+   "extension_name": {
+      "message": "Password Checkup"
+   },
+   "ignore_button": {
+      "message": "Ignorēt šajā vietnē"
+   },
+   "learn_more": {
+      "message": "Uzzināt vairāk"
+   },
+   "popup_advanced_settings_action": {
+      "message": "Papildu iestatījumi"
+   },
+   "popup_default_status_message": {
+      "message": "Datu pārkāpumā netika konstatēta neviena no jūsu nesen izmantotajām parolēm."
+   },
+   "popup_ignore_button": {
+      "message": "Ignorēt"
+   },
+   "popup_ignored_status_message": {
+      "message": "Datu pārkāpumā netika konstatēta neviena no jūsu nesen izmantotajām parolēm. Tas neattiecas uz nedrošām parolēm, kurām esat izvēlējies ignorēt atiestatīšanu."
+   },
+   "popup_learn_more": {
+      "message": "Uzzināt vairāk"
+   },
+   "popup_multiple_accounts_warning_status_message": {
+      "message": "Paplašinājumā Password Checkup tika konstatēts, ka tālāk norādītajiem \u003Cb>$1 kontiem\u003C/b> ir paroles, kas vairs nav drošas datu pārkāpuma dēļ.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "popup_number_unsafe_accounts": {
+      "message": "$1 nedroši konti",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "popup_one_account_warning_status_message": {
+      "message": "Paplašinājumā Password Checkup tika konstatēts, ka tālāk norādītajam \u003Cb>1 kontam\u003C/b> ir parole, kas vairs nav droša datu pārkāpuma dēļ."
+   },
+   "popup_reset_extension_button": {
+      "message": "Notīrīt paplašinājuma datus"
+   },
+   "popup_reset_extension_text": {
+      "message": "Notīriet visus paplašinājuma datus. Tādējādi tiks noņemta visa saglabātā informācija par nedrošām parolēm un iepriekš ignorētajām vietnēm."
+   },
+   "popup_warning_action": {
+      "message": "Nomainiet paroles tūlīt."
+   },
+   "reset_text": {
+      "message": "Nomainiet paroli tūlīt."
+   },
+   "warning_banner_header": {
+      "message": "Nomainiet paroli"
+   },
+   "warning_text": {
+      "message": "Paplašinājumā Password Checkup tika konstatēts, ka jūsu parole vietnē \u003Cb>$1\u003C/b> vairs nav droša datu pārkāpuma dēļ.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   }
+}

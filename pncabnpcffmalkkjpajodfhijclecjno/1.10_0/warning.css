@@ -1,0 +1,84 @@
+@import url(https://fonts.googleapis.com/css?family=Google+Sans);
+
+#warning-banner-icon {
+  margin-top: 15px;
+  margin-left: 20px;
+  width: 16%;
+  float: left;
+}
+
+#warning-banner {
+  top: 0;
+  left: 0;
+  flex-grow: 1;
+  flex-shrink: 0;
+  z-index:2147483647;
+  position: absolute;
+  background-color: #db4437;
+  border-radius: 5px;
+  font-family: 'Google Sans', Arial, sans-serif;
+}
+
+#warning-banner-inner-container {
+  display: inline-block;
+  margin-left: 20px;
+  width: 70%;
+  color: #ffffff;
+}
+
+#warning-banner-header {
+  font-size: 20px;
+  margin-top: 20px;
+  margin-left: 0;
+  display: block;
+  padding-bottom: 15px;
+}
+
+span.text {
+  display: block;
+  padding-bottom: 5px;
+  font-size: 14px;
+}
+
+#button-container {
+  float: right;
+}
+
+button {
+  border: 0;
+  color: #ffffff;
+  cursor: pointer;
+  font-size: 14px;
+  min-width: 80px;
+  padding: 4px 16px;
+  border-radius: 2px;
+  margin-bottom: 20px;
+}
+
+button:hover {
+  background: #830000 !important;
+  border: 1px solid #830000 !important;
+}
+
+a {
+  text-decoration: underline;
+  color: #ffffff;
+}
+
+#warning-banner-close-button {
+  background: #e36c62;
+  margin-right: 20px;
+  border: 1px solid #e36c62;
+}
+
+#warning-banner-ignore-button {
+  background: #db4437;
+  margin-right: 5px;
+  border: 1px solid #e36c62;
+}
+
+#learn-more {
+  text-decoration: underline;
+  cursor: pointer;
+  color: #ffffff;
+}

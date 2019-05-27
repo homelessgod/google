@@ -1,0 +1,69 @@
+{
+   "app_description": {
+      "message": "Перегляд даних про свої оголошення й облікові записи AdSense, Ad Exchange і DFP і блокування невідповідної реклами на своєму сайті."
+   },
+   "cs_overlay_date_7day": {
+      "message": "7 днів"
+   },
+   "cs_overlay_date_today": {
+      "message": "Сьогодні"
+   },
+   "cs_overlay_date_yesterday": {
+      "message": "Учора"
+   },
+   "cs_overlay_size_name": {
+      "message": "Розмір"
+   },
+   "cs_overlay_type_name": {
+      "message": "Тип"
+   },
+   "dfp_creative_id": {
+      "message": "Оголошення: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "dfp_no_creative": {
+      "message": "Немає оголошення DFP"
+   },
+   "dfp_unknown_creative": {
+      "message": "Невідоме оголошення"
+   },
+   "domains_whitelist_saved": {
+      "message": "Список авторизованих сайтів оновлено."
+   },
+   "expired_creative": {
+      "message": "Не вдалось отримати інформацію про це оголошення. Зачекайте кілька секунд і спробуйте оновити сторінку."
+   },
+   "expired_line_item": {
+      "message": "Не вдалось отримати інформацію про цей рядок. Зачекайте кілька секунд і спробуйте оновити сторінку."
+   },
+   "line_item_adsense_or_adx": {
+      "message": "AdSense або Ad Exchange"
+   },
+   "line_item_id": {
+      "message": "Елемент: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "line_item_no_ad": {
+      "message": "Немає оголошення DFP"
+   },
+   "misconfigured_ad_notification_text": {
+      "message": "Ця сторінка містить таку кількість неправильно налаштованих рекламних блоків: \u003Ca href=\"ovnfc\">0\u003C/span>. Це може мати негативний вплив на ваш прибуток. \u003Ca target=\"_new\" href=\"http://support.google.com/adsense/bin/answer.py?answer=2694805\" class=\"ovnfs\">Докладніше\u003C/a>"
+   },
+   "no_results_creative": {
+      "message": "Не вдалося знайти інформацію про це оголошення. Можливо, у вас немає до нього доступу."
+   },
+   "no_results_line_item": {
+      "message": "Не вдалося знайти інформацію про цей рядок. Можливо, у вас немає до нього доступу."
+   },
+   "settings_saved_title": {
+      "message": "Налаштування збережено"
+   }
+}

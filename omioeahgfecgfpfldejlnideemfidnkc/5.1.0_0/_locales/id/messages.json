@@ -1,0 +1,69 @@
+{
+   "app_description": {
+      "message": "Lihat data pada iklan dan akun AdSense, Ad Exchange, dan DFP Anda, serta cekal iklan yang tidak sesuai di situs Anda."
+   },
+   "cs_overlay_date_7day": {
+      "message": "7 Hari"
+   },
+   "cs_overlay_date_today": {
+      "message": "Hari ini"
+   },
+   "cs_overlay_date_yesterday": {
+      "message": "Kemarin"
+   },
+   "cs_overlay_size_name": {
+      "message": "Ukuran"
+   },
+   "cs_overlay_type_name": {
+      "message": "Jenis"
+   },
+   "dfp_creative_id": {
+      "message": "Materi iklan: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "dfp_no_creative": {
+      "message": "Tidak ada materi iklan DFP"
+   },
+   "dfp_unknown_creative": {
+      "message": "Materi iklan tidak dikenal"
+   },
+   "domains_whitelist_saved": {
+      "message": "Daftar situs yang diizinkan telah diperbarui."
+   },
+   "expired_creative": {
+      "message": "Kami tidak dapat mengambil informasi untuk materi iklan ini. Mohon tunggu beberapa detik, lalu coba muat ulang halaman."
+   },
+   "expired_line_item": {
+      "message": "Kami tidak dapat mengambil informasi untuk item baris ini. Mohon tunggu beberapa detik, lalu coba muat ulang halaman."
+   },
+   "line_item_adsense_or_adx": {
+      "message": "AdSense atau Ad Exchange"
+   },
+   "line_item_id": {
+      "message": "Item baris: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "line_item_no_ad": {
+      "message": "Tidak ada iklan DFP"
+   },
+   "misconfigured_ad_notification_text": {
+      "message": "Halaman ini berisi \u003Ca href=\"ovnfc\">0\u003C/span> unit iklan yang salah dikonfigurasi. Ini dapat memberi pengaruh negatif pada pendapatan Anda. \u003Ca target=\"_new\" href=\"http://support.google.com/adsense/bin/answer.py?answer=2694805\" class=\"ovnfs\">Pelajari lebih lanjut\u003C/a>"
+   },
+   "no_results_creative": {
+      "message": "Kami tidak dapat menemukan informasi untuk materi iklan ini. Anda mungkin tidak memiliki akses ke informasi tersebut."
+   },
+   "no_results_line_item": {
+      "message": "Kami tidak dapat menemukan informasi untuk item baris ini. Anda mungkin tidak memiliki akses ke informasi tersebut."
+   },
+   "settings_saved_title": {
+      "message": "Setelan disimpan"
+   }
+}

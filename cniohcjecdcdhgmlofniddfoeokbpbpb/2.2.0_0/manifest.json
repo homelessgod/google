@@ -1,0 +1,31 @@
+{
+   "background": {
+      "scripts": [ "log_constructor.js" ]
+   },
+   "browser_action": {
+      "default_popup": "popup.html",
+      "default_title": "EME Logger"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "content_script.js" ],
+      "matches": [ "http://*/*", "https://*/*", "file://*" ],
+      "run_at": "document_start"
+   } ],
+   "description": "Logs all Encrypted Media Extensions (EME) method calls and events.",
+   "icons": {
+      "128": "EME_logo_128.png",
+      "22": "EME_logo_22.png",
+      "32": "EME_logo_32.png",
+      "48": "EME_logo_48.png",
+      "96": "EME_logo_96.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsoR1VTp/4QQ4G4s8sN/6hVEh+9Yti3FVFycuI7hfJ4gX9spRbQSb1n+a03pTpXCkWWqUbqsGSqLF+d3cQpJHMIpEbUlPG/GU5CvTL/ABVL3MJ0Zfdk5CM+4vD35cW8S33gXdXzhJQUiwRafHAdm6F1vBmY9Du/FqbtpD0E5NfX0ej7gIOQ+Nt8qvM01hfLzDBtm3LMWQoC5bi/yW5wIhPEzbejSrWevwCD139nxLHspTZLBiIQUutNwZHOZSex+D0I0kG9NIkr5hFlTv4Y34QnGH1KwCDUpbnmioc7MIfQX/gzzhtRkeeysWRT8sfNzf6It1c/5rNl+NC2tmrofigQIDAQAB",
+   "manifest_version": 2,
+   "name": "EME Call and Event Logger",
+   "permissions": [ "unlimitedStorage" ],
+   "short_name": "EME Logger",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.2.0",
+   "web_accessible_resources": [ "mutation-summary.js", "prototypes.js", "eme_listeners.js" ]
+}

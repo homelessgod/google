@@ -1,0 +1,170 @@
+{
+   "about_section_title": {
+      "description": "Title for the 'about' section of the options page",
+      "message": "About this extension"
+   },
+   "about_text_external": {
+      "description": "Content of the 'about' section on the external options page. The extension collects device information and sends it to our server",
+      "message": "Endpoint Verification gathers and reports desktop machine status: screenlock state, disk encryption, hardware identifiers, os type/version."
+   },
+   "about_text_internal": {
+      "description": "Content of the 'about' section on the internal options page. The extension collects device information and sends it to our server",
+      "message": "SecureConnect gathers and reports desktop machine status: screenlock state, disk encryption, hardware identifiers, os type/version."
+   },
+   "add_account_button_text": {
+      "description": "Text for the Add Account button. Directs the user to a page where they can sign into a google account",
+      "message": "Add account"
+   },
+   "consent_agree": {
+      "description": "Text shown on the agree button on the consent screen. The user agrees to the Google Privacy Policy.",
+      "message": "Agree"
+   },
+   "consent_dismiss": {
+      "description": "Text shown on the dismiss button on the consent screen. This closes the consent screen and does not show it again.",
+      "message": "Dismiss"
+   },
+   "consent_more_details": {
+      "description": "Continuation of the 'consent_text' message. 'Details' means more information regarding the Google Privacy Policy",
+      "message": "For more details, click "
+   },
+   "consent_more_details_link": {
+      "description": "Continuation of the 'consent_more_details' message. It is separate because this text will be turned into a clickable link to a separate information page.",
+      "message": "here"
+   },
+   "consent_reject": {
+      "description": "Test shown on the reject button on the consent screen. The user does not want to give consent to the Google Privacy Policy right now.",
+      "message": "Not now"
+   },
+   "consent_text": {
+      "description": "First part of the consent message shown to the user. The full phrase is '... subject to the Google Privacy Policy.'",
+      "message": "Your enterprise administrator is installing Endpoint Verification on your device, subject to the "
+   },
+   "default_text": {
+      "description": "Text shown in the logging mode select, indicating it as the option which will be selected automatically",
+      "message": "Default"
+   },
+   "disabled_accounts_external": {
+      "description": "Text shown for the list of disabled accounts. Refers to accounts which the user is signed into but have not been enabled for SecureConnect by the domain administrator",
+      "message": "These accounts are not enabled for Endpoint Verification"
+   },
+   "disabled_accounts_internal": {
+      "description": "Text shown for the list of disabled accounts. Refers to accounts which the user is signed into but have not been enabled for SecureConnect by the domain administrator",
+      "message": "These accounts are not enabled for SecureConnect"
+   },
+   "disabled_option": {
+      "description": "Text for the disabled mode select on the options page. This means that both enforcing and logging are turned off, and the extension will not interfere with accessing enterprise resources",
+      "message": "Disabled"
+   },
+   "download_logs": {
+      "description": "Text for a link that downloads the extension logs to the user's machine",
+      "message": "Download logs."
+   },
+   "enforcing_explanation": {
+      "description": "Explanation for the Enforcing mode select on the options page. 'The access' is access to enterprise resources and web pages",
+      "message": "The access is denied when the SecureConnect device information is incorrect or not present."
+   },
+   "enforcing_option": {
+      "description": "Text for the enforcing mode select on the options page. 'Enforcing' in this context means that the extension is actively enforcing enterprise device policies, and will block access to enterprise resources if it decides the device is untrustworthy",
+      "message": "Enforcing"
+   },
+   "explanation_external": {
+      "description": "Explanation of the extension shown to external users. The extension collects device information such as OS information (the operating system, os version number), identifiers (serial number, mac address), and the user using the device. This information is collected and may be viewed in the G Suite Admin Panel by a G Suite administrator",
+      "message": "Endpoint Verification allows G Suite administrators to view laptop and desktop status, including: OS, Device, and User information."
+   },
+   "explanation_internal": {
+      "description": "Explanation of the extension shown to internal users (googlers). The extension collects device information such as OS information (the operating system, os version number), identifiers (serial number, mac address), and the user using the device. This information is collected and may be viewed in the G Suite Admin Panel by a G Suite administrator",
+      "message": "SecureConnect allows G Suite administrators to view laptop and desktop status, including: OS, Device, and User information."
+   },
+   "extension_description": {
+      "description": "Description of the extension that displays in the Chrome Webstore. Essentially the same as 'explanation_internal' message",
+      "message": "Allows G Suite administrators to view laptop and desktop status, including: OS, Device, and User information."
+   },
+   "gaia_server_label": {
+      "description": "Label for the gaia server input on the options page",
+      "message": "ListAccounts server:"
+   },
+   "google_privacy_policy": {
+      "description": "The Google Privacy Policy, shown in the consent message.",
+      "message": "Google Privacy Policy."
+   },
+   "google_server_label_external": {
+      "description": "Label for the google server input on the external options page",
+      "message": "Endpoint Verification server:"
+   },
+   "google_server_label_internal": {
+      "description": "Label for the google server input on the internal options page",
+      "message": "SecureConnect server:"
+   },
+   "last_sync_date": {
+      "description": "Text shown in popup when all accounts have synced at least once. Will be displayed along with a date: i.e. 'Last sync date: 07/24/2018 12:00:00'",
+      "message": "Last sync date"
+   },
+   "learn_more_link": {
+      "description": "Text for the 'learn more' link in the about section on the options page. The link goes to a page where the user can get more information about the extension and what it does",
+      "message": "Learn more"
+   },
+   "logging_option": {
+      "description": "Text for the logging mode select on the options page. This means that our service will write to server-side logs if the device is not trusted, but will not actually block access to anything",
+      "message": "Logging"
+   },
+   "native_helper_error_text": {
+      "description": "Text shown for NATIVE_HELPER_ERROR. 'Native helper' here and in other messages refers to a native binary that must be installed along with the extension in order for the extension to function properly. Synonymous terms for 'native helper' include 'native binary' and 'executable'. This error means that either the native helper has not been installed at all or has been installed incorrectly.",
+      "message": "The native helper is not present or hasn't been installed correctly."
+   },
+   "native_helper_install_text": {
+      "description": "Text shown as a link. Continuation of the 'native_helper_error_text' message. 'It' here refers to the native helper",
+      "message": "Install it now."
+   },
+   "no_sync_date": {
+      "description": "Text shown in popup when some account has not been synced before",
+      "message": "No known sync date."
+   },
+   "not_admin_installed_text": {
+      "description": "Text shown for NOT_ADMIN_INSTALLED. On ChromeOs devices only, the extension must be force installed on the device by the G Suite administrator who manages the device. See https://support.google.com/chrome/a/answer/6306504?hl=en for more context",
+      "message": "This extension must be force installed on Chrome OS."
+   },
+   "options_page_title_external": {
+      "description": "Title of the external version of the options page",
+      "message": "Endpoint Verification Options"
+   },
+   "options_page_title_internal": {
+      "description": "Title of the internal version of the options page",
+      "message": "SecureConnect Reporting Options"
+   },
+   "platform_keys_disabled_text": {
+      "description": "Text shown for PLATFORM_KEYS_DISABLED. 'Client certificates' and 'keys' here refer cryptographic keys and certificates used to establish secure internet connections. On ChromeOS devices, the extension requires a specific setting to be enabled in order to be able to use these",
+      "message": "The extension needs access to client certificates and keys on Chrome OS."
+   },
+   "settings_title": {
+      "description": "Title for the 'settings' section on the options page",
+      "message": "Settings"
+   },
+   "signin_prompt_external": {
+      "description": "Text shown to external users when no accounts are logged in. Users must be signed in with a google account on a domain that has SecureConnect enabled (typically a work or school account)",
+      "message": "Endpoint Verification requires you to be logged into your work or school account."
+   },
+   "signin_prompt_internal": {
+      "description": "Text shown to internal users when no accounts are logged in. Users must be signed in with a google account on a domain that has SecureConnect enabled (typically a work or school account)",
+      "message": "SecureConnect requires you to be logged into your work or school account."
+   },
+   "sync_button": {
+      "description": "Text on the sync button. 'Sync', both here and in other messages, refers to sending device information to our server",
+      "message": "Sync Now"
+   },
+   "syncing_error_text": {
+      "description": "Text shown for SYNCING_ERROR. 'Sync' here means sending device information to our server. The message means that we were unable to send the information and will attempt to try again shortly",
+      "message": "Failed to sync. A sync will be retried shortly."
+   },
+   "title_external": {
+      "description": "The external name of the extension",
+      "message": "Endpoint Verification"
+   },
+   "title_internal": {
+      "description": "The internal (googlers-only) name of the extension",
+      "message": "SecureConnect Reporting"
+   },
+   "unsupported_platform_text": {
+      "description": "Text shown for UNSUPPORTED_PLATFORM. SecureConnect cannot run on the device because the OS is not supported. 'Platform' here is synonymous with 'OS'",
+      "message": "Unsupported platform."
+   }
+}

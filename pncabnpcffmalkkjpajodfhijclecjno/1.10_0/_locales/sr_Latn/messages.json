@@ -1,0 +1,77 @@
+{
+   "close_button": {
+      "message": "Zatvori"
+   },
+   "extension_description": {
+      "message": "Password Checkup vam pomaže da ponovo zaštitite naloge na koje utiču upadi u podatke."
+   },
+   "extension_detailed_description": {
+      "message": "Gde god da se prijavite, dobićete obaveštenje ako unesete korisničko ime i lozinku koji više nisu bezbedni jer su se pojavljivali tokom upada u podatke koji je poznat Google-u. Resetujte lozinku. Ako koristite isto korisničko ime i lozinku za još neke naloge, resetujte lozinku i tamo.\n\nPrivatnost je uzeta u obzir prilikom pravljenja Provere lozinke. Ona nikada ne otkriva bilo kakve podatke koji mogu da vas identifikuju o nalozima, lozinkama ili uređaju. Ipak otkrivamo anonimne podatke o broju traženja koja prikazuju nebezbedni akreditiv, o tome da li je obaveštenje dovelo do promene lozinke i o domenu koji je povezan sa poboljšanjem pokrivenosti sajta. Možete da saznate više o tome kako Provera lozinke radi na https://support.google.com/accounts?p=password-checkup.\n\nAko instalirate ovu stavku, prihvatate Google uslove korišćenja usluge i politiku privatnosti na www.google.com/policies/."
+   },
+   "extension_name": {
+      "message": "Password Checkup"
+   },
+   "ignore_button": {
+      "message": "Ignoriši za ovaj sajt"
+   },
+   "learn_more": {
+      "message": "Saznajte više"
+   },
+   "popup_advanced_settings_action": {
+      "message": "Napredna podešavanja"
+   },
+   "popup_default_status_message": {
+      "message": "Nijedna od nedavno korišćenih lozinki nije otkrivena u upadu u podatke."
+   },
+   "popup_ignore_button": {
+      "message": "Zanemari"
+   },
+   "popup_ignored_status_message": {
+      "message": "Nijedna od nedavno korišćenih lozinki nije otkrivena u upadu u podatke. Ovo ne obuhvata nebezbedne lozinke koje ste izabrali da ne resetujete."
+   },
+   "popup_learn_more": {
+      "message": "Saznajte više"
+   },
+   "popup_multiple_accounts_warning_status_message": {
+      "message": "Password Checkup je otkrio da ovi nalozi \u003Cb>($1)\u003C/b> imaju lozinke koje više nisu bezbedne zbog upada u podatke.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "popup_number_unsafe_accounts": {
+      "message": "Nebezbednih naloga: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "popup_one_account_warning_status_message": {
+      "message": "Password Checkup je otkrio da ovaj \u003Cb>1 nalog\u003C/b> ima lozinku koja više nije bezbedna zbog upada u podatke."
+   },
+   "popup_reset_extension_button": {
+      "message": "Obriši podatke dodatka"
+   },
+   "popup_reset_extension_text": {
+      "message": "Obrišite sve podatke dodataka. Ovim uklanjate sve sačuvane podatke o nebezbednim lozinkama i prethodno zanemarenim sajtovima."
+   },
+   "popup_warning_action": {
+      "message": "Treba odmah da promenite lozinke."
+   },
+   "reset_text": {
+      "message": "Treba odmah da promenite lozinku."
+   },
+   "warning_banner_header": {
+      "message": "Promenite lozinku"
+   },
+   "warning_text": {
+      "message": "Password Checkup je otkrio da lozinka za \u003Cb>$1\u003C/b> više nije bezbedna zbog upada u podatke.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   }
+}

@@ -1,0 +1,126 @@
+{
+   "before_trying_again": {
+      "description": "Error resolution tip in error pages.",
+      "message": "Pirms mēģināt vēlreiz, veiciet tālāk norādītās darbības."
+   },
+   "browser_action_title": {
+      "description": "Browser action title that shows up on hover.",
+      "message": "Pārraidīt šo URL"
+   },
+   "context_menu_disable": {
+      "description": "Label of the context menu item that disables Tone.",
+      "message": "Atspējot paplašinājumu Tone"
+   },
+   "context_menu_enable": {
+      "description": "Label of the context menu item that enables Tone.",
+      "message": "Iespējot paplašinājumu Tone"
+   },
+   "description": {
+      "description": "Extension description.",
+      "message": "Pārraidiet jebkuru vietrādi URL uz datoriem dzirdamības attālumā."
+   },
+   "ensure_online": {
+      "description": "Network workaround.",
+      "message": "Pārbaudiet, vai datoram ir izveidots savienojums ar internetu."
+   },
+   "error_audio_title": {
+      "description": "Title of the error_audio.html page.",
+      "message": "Paplašinājumā Tone nevarēja uztvert skaņas signālu"
+   },
+   "error_network_title": {
+      "description": "Title of error_network.html page.",
+      "message": "Diemžēl radās kļūda."
+   },
+   "increase_volume": {
+      "description": "Audio workaround #1",
+      "message": "Palieliniet skaļumu."
+   },
+   "invite_others": {
+      "description": "Press the button to try it.",
+      "message": "Uzaiciniet citus lietotājus izmantot paplašinājumu Google Tone: {{shortlink}}"
+   },
+   "name": {
+      "description": "Extension name.",
+      "message": "Google Tone"
+   },
+   "notification_receive_message_format": {
+      "description": "Notification message when you receive a Tone.",
+      "message": "Noklikšķiniet, lai atvērtu lapu “{{title}}” no domēna {{domain}}."
+   },
+   "notification_receive_test_page_message": {
+      "description": "Notification message sent from Tone test page.",
+      "message": "Noklikšķiniet, lai izmēģinātu paplašinājumu Tone!"
+   },
+   "notification_receive_title_format": {
+      "description": "Notification title when you receive a Tone.",
+      "message": "URL no lietotāja {{username}}"
+   },
+   "notification_send_fail_audio_message": {
+      "description": "Notification title shown when audio verification fails.",
+      "message": "Pārbaudiet skaļumu un mēģiniet vēlreiz.\nNoklikšķiniet, lai saņemtu papildinformāciju."
+   },
+   "notification_send_fail_audio_title": {
+      "description": "Notification title shown when audio verification fails.",
+      "message": "Paplašinājumā Tone nevarēja uztvert signālu"
+   },
+   "notification_send_fail_network_message": {
+      "description": "Notification message shown when a Tone was attempted but the network was offline.",
+      "message": "Šķiet, ka esat bezsaistē.\nNoklikšķiniet, lai saņemtu papildu informāciju."
+   },
+   "notification_send_fail_network_title": {
+      "description": "Notification title shown when a Tone was attempted but the network was offline.",
+      "message": "URL nav nosūtīts"
+   },
+   "press_button": {
+      "description": "Press the button to try it.",
+      "message": "Nospiediet pogu {{action_image}}, lai pārraidītu URL uz datoriem dzirdamības attālumā."
+   },
+   "report_bug": {
+      "description": "Report a bug",
+      "message": "Ziņot par blusu"
+   },
+   "settings_off": {
+      "description": "Indicator showing that Tone is disabled.",
+      "message": "IZSL."
+   },
+   "settings_off_subtitle": {
+      "description": "Subtitle showing that Tone is disabled.",
+      "message": "Jūs nevarat nosūtīt vai saņemt vietrāžus URL."
+   },
+   "settings_off_title": {
+      "description": "Title showing that Tone is disabled.",
+      "message": "Paplašinājums Google Tone ir izslēgts"
+   },
+   "settings_on": {
+      "description": "Indicator showing that Tone is enabled.",
+      "message": "IESL."
+   },
+   "settings_on_subtitle": {
+      "description": "Subtitle showing that Tone is enabled.",
+      "message": "Jūs varat nosūtīt un saņemt vietrāžus URL."
+   },
+   "settings_on_title": {
+      "description": "Title showing that Tone is enabled.",
+      "message": "Paplašinājums Google Tone ir ieslēgts"
+   },
+   "settings_title": {
+      "description": "Title of settings.html",
+      "message": "Iestatījumi"
+   },
+   "success_call": {
+      "description": "Call to action of success.html.",
+      "message": "Pārejiet uz citu lapu un noklikšķiniet uz pogas {{action_image}}, lai pārraidītu tās vietrādi URL."
+   },
+   "success_title": {
+      "description": "Title of success.html.",
+      "message": "Google Tone darbojas!"
+   },
+   "try_now": {
+      "description": "Call to action to try the extension.",
+      "message": "Izmēģiniet paplašinājumu Google Tone tūlīt!"
+   },
+   "unplug_headphones": {
+      "description": "Audio workaround #2",
+      "message": "Atvienojiet austiņas."
+   }
+}

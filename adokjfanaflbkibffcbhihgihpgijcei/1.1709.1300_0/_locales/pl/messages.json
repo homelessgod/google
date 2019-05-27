@@ -1,0 +1,440 @@
+{
+   "101206989909763677": {
+      "message": "Uczniowie na zajęciach $CLASS_NAME$",
+      "placeholders": {
+         "CLASS_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "1258929983314547244": {
+      "message": "WYSŁANE NAUCZYCIELOWI"
+   },
+   "1301730406464354688": {
+      "message": "Otwórz Classroom"
+   },
+   "1462156539679968804": {
+      "message": "Otrzymane od uczniów"
+   },
+   "1472332582476021124": {
+      "message": "Uczniowie mogą wyświetlać plik"
+   },
+   "1510105121221276016": {
+      "message": "Zablokuj na ekranie ucznia"
+   },
+   "1550690544509024009": {
+      "message": "{numFlings,plural, =1{Nowe: #}few{Nowe: #}many{Nowe: #}other{Nowe: #}}"
+   },
+   "1663150675851578875": {
+      "message": "Nie udało się połączyć z $PRODUCT_NAME$. Sprawdź dostępność swojego połączenia internetowego i spróbuj jeszcze raz.",
+      "placeholders": {
+         "PRODUCT_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "1758804700969198023": {
+      "message": "Menu udostępniania"
+   },
+   "1790549872641667595": {
+      "message": "Udostępnij w Classroom (wersja doświadczalna)"
+   },
+   "1951089763019042037": {
+      "message": "Uczeń"
+   },
+   "2050089326602918210": {
+      "message": "Udostępnij w Classroom"
+   },
+   "2062938386395101624": {
+      "message": "Przesłane uczniom"
+   },
+   "2070581630224025695": {
+      "message": "Opublikuj ogłoszenie"
+   },
+   "2090147790320018555": {
+      "message": "Nic nie zostało przez Ciebie ostatnio przesłane."
+   },
+   "2213990758451550370": {
+      "message": "Uczniowie mogą komentować plik"
+   },
+   "2266749875018591275": {
+      "message": "Rozszerzenie „$PRODUCT_NAME$” jest nieaktualne. Aby kontynuować, kliknij $START_LINK$opcję odinstalowania rozszerzenia$END_LINK$. Zostanie otwarta strona Chrome Web Store, na której możesz ponownie zainstalować rozszerzenie.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "PRODUCT_NAME": {
+            "content": "$2"
+         },
+         "START_LINK": {
+            "content": "$3"
+         }
+      }
+   },
+   "2315140680766681153": {
+      "message": "Brak uczniów do wyświetlenia."
+   },
+   "2409870568039115310": {
+      "message": "WYŚLIJ DO NAUCZYCIELA"
+   },
+   "2416435327104074837": {
+      "message": "Przesłane nauczycielowi"
+   },
+   "265018083235803821": {
+      "message": "Menu uprawnień"
+   },
+   "272253201636921624": {
+      "message": "Wysyłanie"
+   },
+   "3208531239543188174": {
+      "message": "Otworzy się za {numSeconds,plural, =1{1 sekundę}few{# sekundy}many{# sekund}other{# sekundy}}..."
+   },
+   "3727581148109420602": {
+      "message": "Otwórz w nowej karcie"
+   },
+   "3852289441366561594": {
+      "message": "Łączenie..."
+   },
+   "3853169172456108967": {
+      "message": "UTWÓRZ ZAJĘCIA LUB DOŁĄCZ DO NICH"
+   },
+   "3894950702316166331": {
+      "message": "Ładuję..."
+   },
+   "4012779869104225222": {
+      "message": "Lista zajęć"
+   },
+   "4048890404505834885": {
+      "message": "Zadaj pytanie"
+   },
+   "4101941266124151376": {
+      "message": "wł."
+   },
+   "4221250166827447984": {
+      "message": "Wyświetlają $TITLE$",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "4269658859113770197": {
+      "message": "Ładuję zajęcia..."
+   },
+   "436489073937327740": {
+      "message": "Wyślij do Google dodatkowe dzienniki zawierające udostępnione strony i adresy e-mail uczestników zajęć."
+   },
+   "4481147463445876932": {
+      "message": "Utwórz zadanie"
+   },
+   "4491595920888170943": {
+      "message": "Bieżącej strony nie można udostępnić."
+   },
+   "4622108781632885640": {
+      "message": "Otrzymane od nauczyciela"
+   },
+   "4742705439416933924": {
+      "message": "Dołącz do zajęć, aby razem otwierać strony"
+   },
+   "4748990655911819545": {
+      "message": "Prowadzę"
+   },
+   "4811423455816775324": {
+      "message": "Aby korzystać z $PRODUCT$, musisz zalogować się w Chrome.\nKliknij tutaj, aby się zalogować.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "4849976898594713883": {
+      "message": "$PRODUCT$ nie może nawiązać połączenia ze swoimi serwerami (prawdopodobnie z powodu konfiguracji bramy lub zapory sieciowej). Sprawdź ustawienia zapory sieciowej i upewnij się, że połączenie z serwerem „$SERVER$” jest dozwolone.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         },
+         "SERVER": {
+            "content": "$2"
+         }
+      }
+   },
+   "48585068921907804": {
+      "message": "Nie udało się połączyć z $PRODUCT_NAME$. Spróbuj wylogować się z konta i zalogować się ponownie. Jeśli problem nadal występuje, kliknij ikonę opinii poniżej, aby powiadomić nas o tym.",
+      "placeholders": {
+         "PRODUCT_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "4930506384627295710": {
+      "message": "Ustawienia"
+   },
+   "533692309512814645": {
+      "message": "WYŚLIJ"
+   },
+   "5354810546510399127": {
+      "message": "Otwiera stronę pomocy"
+   },
+   "5560440246965579819": {
+      "message": "Nauczyciele mogą wyświetlać plik"
+   },
+   "566090020805595985": {
+      "message": "UTWÓRZ ZAJĘCIA"
+   },
+   "5851560788527570644": {
+      "message": "Powiadomienia"
+   },
+   "5936353814217802658": {
+      "message": "WYŚLIJ DO NAUCZYCIELA"
+   },
+   "6031597996865914480": {
+      "message": "WYŚLIJ"
+   },
+   "6042567254866620046": {
+      "message": "Ten system nie jest połączony z $PRODUCT$. Kliknij przycisk połączenia, aby je nawiązać.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "6084304183859355623": {
+      "message": "Zalogowano jako $EMAIL$. Aby kontynuować, $START_LINK$zaloguj się w Chrome$END_LINK$ na szkolne konto z dostępem do Google Classroom.",
+      "placeholders": {
+         "EMAIL": {
+            "content": "$1"
+         },
+         "END_LINK": {
+            "content": "$2"
+         },
+         "START_LINK": {
+            "content": "$3"
+         }
+      }
+   },
+   "6110089012347909146": {
+      "message": "wył."
+   },
+   "6229272560153199861": {
+      "message": "Utwórz zajęcia, aby razem otwierać strony"
+   },
+   "6422956386741575643": {
+      "message": "Wpisz krótki opis"
+   },
+   "6576961868476783976": {
+      "message": "Usługa $PRODUCT$ napotkała błąd podczas próby udostępnienia dokumentu. Spróbuj ponownie później.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "6666246860368909334": {
+      "message": " – "
+   },
+   "6731720160639032735": {
+      "message": "Zalogowano jako $EMAIL$",
+      "placeholders": {
+         "EMAIL": {
+            "content": "$1"
+         }
+      }
+   },
+   "6802974388288119584": {
+      "message": "Google Feedback umożliwia wysyłanie do Google sugestii na temat naszych usług. Mile widziane są raporty dotyczące problemów, propozycje funkcji i ogólne komentarze."
+   },
+   "6921620009241719815": {
+      "message": "Przejdź do poprzedniej strony"
+   },
+   "7002955679222677443": {
+      "message": "Więcej informacji"
+   },
+   "7014972904425258116": {
+      "message": "Nauczyciele mogą komentować plik"
+   },
+   "7187802960307973851": {
+      "message": "Nic nie zostało przez Ciebie ostatnio otrzymane."
+   },
+   "7419648588978430202": {
+      "message": "Ładuję historię..."
+   },
+   "7467129818830892099": {
+      "message": "Uczniowie na pełnym ekranie"
+   },
+   "7520798696482451948": {
+      "message": "DOŁĄCZ DO ZAJĘĆ"
+   },
+   "7582805180132294390": {
+      "message": "$PRODUCT$ nie może nawiązać połączenia ze swoimi serwerami. Jeśli ten problem nie ustąpi, sprawdź połączenie internetowe i ustawienia zapory, a następnie wyślij zgłoszenie, korzystając z poniższej ikony opinii.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "7604563725603697690": {
+      "message": "Zrzut ekranu przedstawiający Twoją bieżącą stronę."
+   },
+   "7613121200569555025": {
+      "message": "$NAME$ wysłał(a) stronę",
+      "placeholders": {
+         "NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "7646520484997880732": {
+      "message": "Otwiera stronę Ustawień"
+   },
+   "7733702880641460982": {
+      "message": "Opinia dla Google"
+   },
+   "77478328938908900": {
+      "message": "Zamknij komunikat z ostrzeżeniem"
+   },
+   "7798244153502527716": {
+      "message": "Aby korzystać z $PRODUCT$, musisz zalogować się w Chrome.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "7819314041543176992": {
+      "message": "Zamknij"
+   },
+   "7826444313570725162": {
+      "message": "WYSŁANE"
+   },
+   "784919827997620253": {
+      "message": "Prześlij opinię"
+   },
+   "7869782771655761788": {
+      "message": "Wysłane"
+   },
+   "787828271820052473": {
+      "message": "Utwórz zajęcia lub dołącz do nich, aby razem otwierać strony"
+   },
+   "7914587618073030772": {
+      "message": "Udostępnij w Classroom (wersja testowa)"
+   },
+   "7924019946919704377": {
+      "message": "$START_LINK$Kliknij tutaj$END_LINK$, aby zalogować się w Chrome, a następnie ponownie wypróbuj $PRODUCT_NAME$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "PRODUCT_NAME": {
+            "content": "$2"
+         },
+         "START_LINK": {
+            "content": "$3"
+         }
+      }
+   },
+   "8071009096908772636": {
+      "message": "Pokazuj powiadomienia w przeglądarce, gdy uczniowie przesyłają mi strony internetowe w trybie push"
+   },
+   "8083611296479050044": {
+      "message": "Otwórz stronę z opinią"
+   },
+   "8107264734060843365": {
+      "message": "If this problem doesn't go away, try restarting your computer. If this problem persists, click the feedback icon below to submit feedback."
+   },
+   "813263746069473514": {
+      "message": "Połącz"
+   },
+   "819996403327805209": {
+      "message": "Więcej informacji"
+   },
+   "8250116767525441148": {
+      "message": "$PRODUCT$ nie może połączyć się z $SITE$. Sprawdź połączenie internetowe i spróbuj jeszcze raz.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         },
+         "SITE": {
+            "content": "$2"
+         }
+      }
+   },
+   "826991190228103925": {
+      "message": "Ustawienia"
+   },
+   "8410291800785136487": {
+      "message": "Wyślij do uczniów"
+   },
+   "8427578009205621398": {
+      "message": "$PARTICIPATING$/$TOTAL$ uczniów",
+      "placeholders": {
+         "PARTICIPATING": {
+            "content": "$1"
+         },
+         "TOTAL": {
+            "content": "$2"
+         }
+      }
+   },
+   "8510084535053903986": {
+      "message": "Nauczyciele mogą edytować plik"
+   },
+   "8584185541337081736": {
+      "message": "Udostępnij to rozszerzenie uczniom, aby mogli otrzymywać od Ciebie linki.&nbsp;"
+   },
+   "8636360788868898667": {
+      "message": "Błyskawicznie skieruj uczniów na tę samą stronę internetową."
+   },
+   "8657495129257769609": {
+      "message": "Wygląda na to, że Twój komputer nie jest połączony z internetem. Sprawdź połączenie i spróbuj jeszcze raz."
+   },
+   "8757637959955680925": {
+      "message": "$PRODUCT_NAME$ wymaga zalogowania się w Chrome. Zaloguj się, aby przejść dalej.",
+      "placeholders": {
+         "PRODUCT_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "8812061458772284085": {
+      "message": "Opis, informacje o usłudze, dodatkowe informacje o systemie i Twój adres e-mail zostaną wysłane do Google. Przeczytaj $START_LINK_1$Politykę prywatności$END_LINK$ i $START_LINK_2$Warunki korzystania z usługi$END_LINK$ Google.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK_1": {
+            "content": "$2"
+         },
+         "START_LINK_2": {
+            "content": "$3"
+         }
+      }
+   },
+   "8876711157282412092": {
+      "message": "{numLinks,plural, =1{# link}few{# linki}many{# linków}other{# linku}}"
+   },
+   "8934950226874423147": {
+      "message": "Uczniowie mogą edytować plik"
+   },
+   "9057609174906387434": {
+      "message": "Ikona strony $PAGE_TITLE$.",
+      "placeholders": {
+         "PAGE_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "9200475522066047621": {
+      "message": "Uczęszczam"
+   },
+   "9217362152767454370": {
+      "message": "$PRODUCT$ musi mieć odpowiednie uprawnienie, aby uzyskać dostęp do Twojego profilu.",
+      "placeholders": {
+         "PRODUCT": {
+            "content": "$1"
+         }
+      }
+   },
+   "99413348305232894": {
+      "message": "Udostępnij w Classroom"
+   }
+}
